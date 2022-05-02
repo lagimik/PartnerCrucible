@@ -1,5 +1,5 @@
 
-	# Sentinel
+# Azure Defender for IoT
 
 ## Purpose
 
