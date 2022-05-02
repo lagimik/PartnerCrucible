@@ -2,6 +2,8 @@
 
 ## Purpose
 
+FY22 Solution Area Taxonomy
+
 ![FY22 Solution Area Taxonomy](./Library/TaxonomyFY22.png)
 
 ## References
