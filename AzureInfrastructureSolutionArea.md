@@ -1,6 +1,6 @@
 
 
-# Template
+# Azure Infrastructure Solution Area
 
 ## Purpose
 
