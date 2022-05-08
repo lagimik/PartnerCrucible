@@ -1,8 +1,8 @@
-# Template
+# Sandbox Environments
 
 ## Purpose
 
-..
+A collections of resrouces to access sandbox environments at no (or low) cost
 
 ## References
 
