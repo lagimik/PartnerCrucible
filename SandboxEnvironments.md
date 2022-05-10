@@ -2,7 +2,7 @@
 
 ## Purpose
 
-A collections of resrouces to access sandbox environments at no (or low) cost
+A collections of resources to create Microsoft Cloud sandbox environments at no (or low) cost
 
 ## References
 
