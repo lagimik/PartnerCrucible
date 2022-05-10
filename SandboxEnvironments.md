@@ -1,8 +1,8 @@
-# Template
+# Sandbox Environments
 
 ## Purpose
 
-..
+A collection of cost-effective ways to build offers on Microsoft Cloud Services
 
 ## References
 
