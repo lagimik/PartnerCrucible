@@ -3,15 +3,10 @@
 
 ## Purpose
 
-..
+A collection of resources for Defender for IoT.
 
 ## References
 
-
-
-
-
-# References 
 
 The Ninja training resources are now available and will continue to be updated:
 Microsoft Azure Defender for IoT Training - Microsoft Tech Community

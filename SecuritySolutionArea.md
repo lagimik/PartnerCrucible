@@ -2,14 +2,15 @@
 
 ## Purpose
 
-..
+A collection of resources to build Microsoft security practice.
 
 ## References
 
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[SCI partner enablement guide](https://assetsprod.microsoft.com/mpn/en-us/security-compliance-identity-partner-enablement-guide.pdf)| Refreshed ~monthly | Requires MPN
+[Security Blog](https://www.microsoft.com/security/blog/)|...|...
+[SCI partner enablement guide](https://assetsprod.microsoft.com/mpn/en-us/security-compliance-identity-partner-enablement-guide.pdf)| Partner enablement guide refreshed ~monthly | Requires MPN
 [Microsoft 365 & Security for Partners](https://cloudpartners.transform.microsoft.com)|Transform for M365 and Security| Accessible based on partner competency / PCS 
 [Security Sales Enablement Journey](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnote.microsoft.com%2FCatalogueDisplayPage-SRDEM63796_CatalogDisplayPage.html&data=05%7C01%7CMarcAndre.Morisset%40microsoft.com%7C838c45a00bde435eabe608da295328a1%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637867734382724609%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=K%2FhJH7u1em6%2FjeMOl0pwPHsckRk1TFXHhZzs1T5FXZk%3D&reserved=0)|Security Enablement journey is a 14 module On-demand videos of between 30 mins - 150 mins each intended to equip you with knowledge to support your customers security needs. You will learn more about industry concepts and Microsoft differentiators and how you can help your customers scale these processes to achieve a higher level of visibility and manageability while greatly reducing their risk.|April 2022
 [Microsoft Cloud Security Private Community](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR-kibZAPJAVBiU46J6wWF_5URDFSWUhYUldTWjdJNkFMVU1LTEU4VUZHMy4u&wdLOR=cA460936E-DCD5-4F25-9C03-7A8EF5C40D44)|By signing up for the ongoing program, you will receive access to our NDA roadmap calls, design exercises, surveys, and private previews.|...
