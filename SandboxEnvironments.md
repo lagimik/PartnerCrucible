@@ -2,11 +2,7 @@
 
 ## Purpose
 
-<<<<<<< HEAD
-A collection of cost-effective ways to build offers on Microsoft Cloud Services
-=======
-A collections of resrouces to access sandbox environments at no (or low) cost
->>>>>>> a7eb6d469cde07d5e25ce771b960ad012d7fba89
+A collections of resources to create Microsoft Cloud sandbox environments at no (or low) cost
 
 ## References
 
