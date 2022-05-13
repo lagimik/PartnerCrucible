@@ -2,6 +2,8 @@
 
 ![OpenHack](./Library/partnercrusible.jpg)
 
+## Purpose 
+
 This project aims to serve as an *entry point* into the wealth of information and services available to Canadian Microsoft partners. The Partner Crucible will curate links, models, and insights to ensure our partners have an overview and a quick path forward. 
 
 ## Contributing

@@ -4,15 +4,17 @@
 
 ## Purpose
 
-..
+![OpenHack](./Library/Azure-Logo.png)
 
 ## References
 
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[Azure Partner Enablement Guide](https://assetsprod.microsoft.com/mpn/en-us/azure-partner-enablement-guide.pdf)| Top news, upcoming training, certifications and exams, and additional resources updated ~monthly |...
-[Gearup](https://gearup.microsoft.com)|Azure| Accessible based on partner competency / PCS
+[Azure Partner Enablement Guide](https://assetsprod.microsoft.com/mpn/en-us/azure-partner-enablement-guide.pdf)| Enablement guide for Azure partners...
+[Azure for Partner](https://www.microsoft.com/azure/partners/)|Main page for Azure resources for Partners|
+[Azure for Services Partners](https://www.microsoft.com/azure/partners/practices/the-opportunity)|Grow your cloud services business with Azure|..
+[Azure for Technology Partners](https://azure.microsoft.com/en-us/partners/azure-technology-partners/)|Azure for resources  independent software vendors (ISVs)|..
 [Azure blog](https://azure.microsoft.com/en-us/blog/)|...|...
 [Azure updates](https://azure.microsoft.com/en-us/updates/)|...|//
 [Arc Jumpstart](https://azurearcjumpstart.io/)| The Jumpstart provides step-by-step guides for independent Azure Arc scenarios that incorporate as much automation as possible, detailed screenshots and code samples, and a rich and comprehensive experience while getting started with the Azure Arc platform.| ...

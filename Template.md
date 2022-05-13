@@ -1,4 +1,4 @@
-# Template
+# Title
 
 ## Purpose
 
