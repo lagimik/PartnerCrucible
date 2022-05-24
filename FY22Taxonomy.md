@@ -12,5 +12,3 @@ FY22 Solution Area Taxonomy
 Source | Description | Notes
 :----- | :-----  | :-----
 [FY22 Solution Area Partner Taxonomy](https://aka.ms/FY22TaxonomyPartner)|Structure and Definitions for Solution Area and Industry|
-
-

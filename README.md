@@ -8,7 +8,7 @@ This project aims to serve as an *entry point* into the wealth of information an
 
 ## Contributing
 
-This project welcomes contributions and suggestions. 
+This project welcomes contributions and suggestions. For additional information see the [Contributor's Guide](Contributing.md).
 
 This project has adopted the Microsoft Open Source Code of Conduct. For more information see the Code of Conduct FAQ or contact opencode@microsoft.com with any additional questions or comments.
 
