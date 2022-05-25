@@ -1,4 +1,4 @@
-# Contrbutors Guide
+# Contrbutor's Guide
 
 ## How to contriute
 The Partner Crucible is *heavily* inspired by the azure docs approch and leverages the guidance in the [Microsoft docs contributor guidance] (https://docs.microsoft.com/en-us/contribute/)
