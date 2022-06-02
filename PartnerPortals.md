@@ -10,6 +10,7 @@ The collection of links to Microsoft partner portals
 Source | Description | Notes
 :----- | :-----  | :-----
 [Partner](https://partner.microsoft.com)| gain instant access to exclusive resources, programs, tools, and connections. Join a community designed to foster business growth |...
+[Microsoft Partner Blog](https://blogs.partner.microsoft.com/mpn/)|...|[Rss Feed](https://blogs.partner.microsoft.com/mpn/mpnfeed)<br>[Twitter](https://twitter.com/msPartner)<br>[LinkedIn](https://www.linkedin.com/showcase/microsoft-partner-network/)
 [Partner Center](https://partner.microsoft.com/en-us/dashboard)| Partner Center streamlines several business processes to make it easier for Microsoft partners to manage their relationship with Microsoft and their customers. Partner Center gives you access to the tools you need to get work done.| ...
 [Canadian Partner Zone](http://aka.ms/CanadaPartnerCommunity)| Forums for Canadian Partners |
 [Partner Community Webinar Series](https://aka.ms/partnercall)|Join us monthly for important product and program updates, including tutorials that will help both you and our customers down the road|
