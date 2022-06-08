@@ -2,10 +2,9 @@
 
 ## Purpose
 
-A collection of resources to build Microsoft security practice.
+A Collection of resources for Microsoft practice building in the Security solution area. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md). To contribute to this section, see [Contributer's Guide](Contributing.md)
 
-## References
-
+## Security References
 
 Source | Description | Notes
 :----- | :-----  | :-----
@@ -27,3 +26,13 @@ Source | Description | Notes
 [Sentinel Ninja](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310)| Sentinel Ninja Training
 [Defender for Endpoint Ninja](https://adoption.microsoft.com/ninja-show/#upcoming)|This training series is based on the Ninja blog and brings you up to speed quickly on Microsoft Defender for Endpoint. In every episode, our experts guide you through the powerful features and functions of Microsoft Defender for Endpoint that help you keep your environment secure. We start with the fundamentals and dive deeper as the show continues.| Starts May 2022
 [Microsoft Cybersecurity Reference Architectures](https://docs.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra)|The Microsoft Cybersecurity Reference Architectures (MCRA) describe Microsoft’s cybersecurity capabilities. The diagrams describe how Microsoft security capabilities integrate with Microsoft platforms and 3rd party platforms like Microsoft 365, Microsoft Azure, 3rd party apps like ServiceNow and salesforce, and 3rd party platforms like Amazon Web Services (AWS) and Google Cloud Platform (GCP|...
+
+## Sentinel Demo References
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Microsoft 365 Defender - Demo Hero Environment]()| Read-Only environment | - M365 Defender (Protection, Detection, Alerts vs Incidents)<br>-Defender for Cloud (Alerts, Security Posture, Cloud Protection)<br>-Microsoft Sentinel for multiple data sources Analytic Rules (Scheduled, ML, Anomaly,  Fusion) <br>-Threat Vulnerability Management<br>-Integration with Microsoft Endpoint Management for patch and configuration  anagement<br>-Automatic remediations from M365 Defender<br>-Playbooks from Microsoft Sentinel
+[Azure Sentinel To-Go (Part1)](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-to-go-part1-a-lab-w-prerecorded-data-amp-a-custom/ba-p/1260191)|A Lab w/ Prerecorded Data and a Custom Logs Pipe via ARM Templates|...
+[Cost Worthy Azure Sentinel Demo](https://azurecloudai.blog/2020/09/01/steps-to-create-a-cost-worthy-azure-sentinel-demo-testing-environment/)| Steps to Create a Cost Worthy Azure Sentinel Demo/Testing Environment|...
+
+
