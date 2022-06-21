@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Partner Crucible
 
-You can use the [editor on GitHub](https://github.com/lagimik/PartnerCrucible/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![PartnerCrucible](./Library/partnercrusible.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Purpose 
 
-### Markdown
+This project aims to serve as an *entry point* into the wealth of information and services available to Canadian Microsoft partners. The Partner Crucible will curate links, models, and insights to ensure our partners have an overview and a quick path forward. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contributing
 
-```markdown
-Syntax highlighted code block
+This project welcomes contributions and suggestions. For additional information see the [Contributor's Guide](Contributing.md).
 
-# Header 1
-## Header 2
-### Header 3
+This project has adopted the Microsoft Open Source Code of Conduct. For more information see the Code of Conduct FAQ or contact opencode@microsoft.com with any additional questions or comments.
 
-- Bulleted
-- List
+## Legal Notices
+Microsoft and any contributors grant you a license to the Microsoft documentation and other content in this repository under the Creative Commons Attribution 4.0 International Public License, see the [License](./License/License.md) file, and grant you a license to any code in the repository under the MIT License, see the [License-code](./License/License-code.md) file.
 
-1. Numbered
-2. List
+Microsoft, Windows, Microsoft Azure and/or other Microsoft products and services referenced in the documentation may be either trademarks or registered trademarks of Microsoft in the United States and/or other countries. The licenses for this project do not grant you rights to use any Microsoft names, logos, or trademarks. Microsoft's general trademark guidelines can be found at http://go.microsoft.com/fwlink/?LinkID=254653.
 
-**Bold** and _Italic_ and `Code` text
+Privacy information can be found at https://privacy.microsoft.com/en-us/
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lagimik/PartnerCrucible/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents, or trademarks, whether by implication, estoppel or otherwise.
