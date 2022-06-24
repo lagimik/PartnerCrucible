@@ -1,12 +1,1 @@
 theme: jekyll-theme-slate
-# Site information
-title: Microsoft Canada Partner Crucible
-email: mamoris@microsoft.com
-description: A curated set of information for Microsoft partners
-baseurl: ""
-# Site settings
-permalink: /:title/
-markdown: kramdown
-paginate: 5
-paginate_path: "/:num/"
-date_format: "%b %-d, %Y"
