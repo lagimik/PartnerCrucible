@@ -9,7 +9,7 @@ This project aims to serve as an *entry point* into the wealth of information an
 ### Practice Building
 - [Partner Portals](./PartnerPortals)
 - [Partner Support](./PartnerSupport)
-- [PRactice Building](./PracticeBuilding)
+- [Practice Building](./PracticeBuilding)
 - [Learning Resources](./LearningResources)
 - [OpenHacks](./OpenHack)
 - [Sales Enablement](./SalesEnablement)
