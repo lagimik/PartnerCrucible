@@ -3,18 +3,20 @@
 ## Purpose
 
 ### Global PArtner Services (GPS) Technical Team
+
 The GPS Technical team will provide technical enablement as part of the build-with motion for your team. This would include the following:
 - Envisioning Briefing, Assessment – Technical Briefing, Roadmap Planning, Architecture Design Session (ADS), Build and Assist, Hackathon, Proof of Concept (POC), Technical Skills Enablement, Sales Skills Enablement, Sales Deal, Enablement (first 3 deals), Solution Technical Review, Deployment / Practice Review (Grow)
 - Note: This team does not technical support or troublehossting to delivery or operations team.
 
 ### Support for Partners
+
 - Partners may have a number of customer and partner support contracts in place.
 - Partner support options range from those included with the Microsoft Partner Network (MPN) membership to Advanced and Premier support intended for CSP and hosters.
 - The cloud support options are described here: Compare Microsoft Partner Support Offerings
 
 ![Partner Support Options](./Library/Partner%20Support.png)
 
-Option | Description | lINK
+Option | Description | Link
 :----- | :-----  | :-----
 Support | Create an online request for all programs supported in Partner Center. In Partner Center, we'll provide you with a personalized experience. | [Partner Support](http://partner.microsoft.com/support)
 Cloud Enablement Desk | Your dedicated expert can help you connect to customers through marketplaces, co-sell with Microsoft, take advantage of Microsoft partner resources, build your business through competencies, activate your benefits, use technical training, and more.|[Cloud Enablement Desk Nomination](http://aka.ms/cednominate) |
@@ -40,42 +42,10 @@ Source | Description | Notes
 [Microsoft Security Response Centre](https://www.microsoft.com/en-us/msrc?rtc=1)|Report a vulnerability in a Microsoft product or service to the MSRC - Microsoft Security Response Center. You can track the status of your report as we work with you to investigate and resolve the issue.|...
 [MSRC - Submit and Issue](https://msrc.microsoft.com/#:~:text=Microsoft%20follows%20Coordinated%20Vulnerability%20Disclosure%20%28CVD%29.%20We%20request,MSRC%27s%20Bug%20Bounty%20Programs%20and%20Terms%20and%20Conditions)| There is a single  process to report issues, supported by Coordinated Vulnerability Disclosure (CVD)|...
 
-
-
 ## Partner Architecture Desk
 - Centralized team of experienced & qualified architects working through and an engagement model offering specific technical services: RFP/RFI Advice, Technical Briefing, Technical Skills Enablement, Architecture Design Session, Proof of Concept, and Deployment Review​
 - Engage the partner Archiecture Desk through your Partner Development Manager or Partner Technology Strategist
 
-
-<table>
-<tr>
-<th>What is it?</th><th>What it is Not?</th>
-</tr>
-<tr>
-	<td>
-		<ul>
-			<li>Support is for only sell With opportunities (there should be a customer)</li>
-			<li>Collaborate with local CSA With Partner Architecture Desks Architects on different solution areas</li>
-			<li>Support for Sell-with related Technical Services</li>
-			<li>Better response time on key areas that need support</li>
-			<li>Support available remotely</li>
-			<li>PST Solution Area CSAs are engaged when needed</li>
-		</ul>
-	</td>
-	<td>
-		<ul>
-			<li> Practice or Solution Build-With Support</li>
-			<li> Attesting Partner' s Architecture </li>
-			<li> Break-Fix, Troubleshooting </li>
-			<li>Implementation Support </li>
-			<li>Not for strategic or engagement that needs sustained efforts </li>
-			<li> Not for generic Q&A With no customer context </li>
-			<li>Dedicated CSA Support </li>
-			<li>It's not a paid service or limited to defined hours </li>
-			<li>Staff Augmentation </li>
-			<li>Scale training</li>
-		</ul>
-	</td>
-</tr>
-</table>
-
+What is it? | What is it not?
+:---------- | :--------------
+-Support is for only sell With opportunities (there should be a customer) <br> - Collaborate with local CSA With Partner Architecture Desks Architects on different solution areas<br> - Support for Sell-with related Technical Services<br> - Better response time on key areas that need support<br> - Support available remotely<br> -PST Solution Area CSAs are engaged when needed | - Practice or Solution Build-With Support<br> -Attesting Partner' s Architecture <br> -Break-Fix, Troubleshooting <br> -Implementation Support <br> -Not for strategic or engagement that needs sustained efforts <br> -Not for generic Q&A With no customer context <br> -Dedicated CSA Support <br> -It's not a paid service or limited to defined hours <br> -Staff Augmentation <br> -Scale training
