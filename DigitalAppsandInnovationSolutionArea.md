@@ -1,4 +1,4 @@
-# Digital APps and Innovation
+# Digital Apps and Innovation
 
 ## Purpose
 
