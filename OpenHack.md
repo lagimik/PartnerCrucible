@@ -13,7 +13,7 @@ OpenHack provides a unique and fun upskilling experience for Microsoft employees
 
 
 Source | Description | Notes
-:----- | :-----  | :-----
+:----- | :---------- | :-----
 [Microsoft OpenHack](https://openhack.microsoft.com/)| Microsoft OpenHack
 [OpenHack on Github](https://github.com/microsoft/OpenHack) | OpenHack GitHut Repo
 [Fastlane OpenHack](https://www.fastlanetraining.ca/openhack-ca) | OpenHack offered by FastLane (Canada)
