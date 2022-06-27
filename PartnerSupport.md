@@ -20,10 +20,11 @@ Option | Description | Link
 :----- | :---------- | :---
 Support | Create an online request for all programs supported in Partner Center. In Partner Center, we'll provide you with a personalized experience. | [Partner Support](http://partner.microsoft.com/support)
 Cloud Enablement Desk | Your dedicated expert can help you connect to customers through marketplaces, co-sell with Microsoft, take advantage of Microsoft partner resources, build your business through competencies, activate your benefits, use technical training, and more.|[Cloud Enablement Desk Nomination](http://aka.ms/cednominate)
-Technical Pre-sales & Deployment | ...| [TPSD](http://aka.ms/TPDTechnicalServices)
-Advanced Support for Partners| ...|Support plan offer: aka.ms/ASfP
-Premier Support for Partners|... |Support plan offer: aka.ms/PSfP
-Partner Architecture Desk |... |Email: PADesk@microsoft.com
+Technical Pre-sales & Deployment |...|[TPSD](http://aka.ms/TPDTechnicalServices)
+Advanced Support for Partners|...|Support plan offer: aka.ms/ASfP
+Premier Support for Partners|...|Support plan offer: aka.ms/PSfP
+Partner Architecture Desk |...|Email: PADesk@microsoft.com
+
 ## Partner Support FAQ
 
 Question | Answer
