@@ -25,12 +25,14 @@ Advanced Support for Partners| |Support plan offer: aka.ms/ASfP
 Premier Support for Partners| |Support plan offer: aka.ms/PSfP
 Partner Architecture Desk | |Email: PADesk@microsoft.com
 ## Partner Support FAQ
+
 Question | Answer
 :------- | :-----
 Q. If the customer in on an EA, can a partner request support on behalf of the customer through ASfP? |  - Yes.  <br> - The partner would have to “request a relationship” and have the proper affiliation with the customer because they likely did not purchase under CSP if they have an EA. <br> - Nearly 100% of the time, because the ASfP tickets are “unlimited” and the EA may come with a limit or have a customer cost associated with them, the partner will encourage the EA customer to put the ticket through them (the partner).
 When should a partner use is support contract versus customer contract? | It depends on the scenario:  <br> -A partner should always want to use “their support plan” versus the customers when it is ASfP or PSfP. □ If/When the customer has an EA or their own “Unified/Premier” support, except that the customer would have hours or incidents decremented from their plan and the customer may not want their time/incidents deducted from their support plan.  <br> - ASfP has “unlimited incidents, however, PSfP may also have incidents/time deducted (again, depends on the type of plan the partner has - - i.e. ASfP has unlimited tickets). <br> -Can the end-customer engage with Microsoft support using the partner’s entitlement? | No. The contract is between Microsoft and the partner, not Microsoft and the partner and their hundreds of customers!
 
 ## References
+
 Source | Description | Notes
 :----- | :---------- | :----
 [Compare Partner Support Offerings](https://partner.microsoft.com/en-us/support/partnersupport)| Includes video and table with a comparison of:<br>- MPN technical benefits <br>- Advanced Support for Partners <br>- Premier Support for Partners|
@@ -43,6 +45,7 @@ Source | Description | Notes
 [MSRC - Submit and Issue](https://msrc.microsoft.com/#:~:text=Microsoft%20follows%20Coordinated%20Vulnerability%20Disclosure%20%28CVD%29.%20We%20request,MSRC%27s%20Bug%20Bounty%20Programs%20and%20Terms%20and%20Conditions)| There is a single  process to report issues, supported by Coordinated Vulnerability Disclosure (CVD)|...
 
 ## Partner Architecture Desk
+
 - Centralized team of experienced & qualified architects working through and an engagement model offering specific technical services: RFP/RFI Advice, Technical Briefing, Technical Skills Enablement, Architecture Design Session, Proof of Concept, and Deployment Review​
 - Engage the partner Archiecture Desk through your Partner Development Manager or Partner Technology Strategist
 
