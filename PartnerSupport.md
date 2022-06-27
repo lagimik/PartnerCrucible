@@ -3,7 +3,7 @@
 ## Purpose
 
 ### Global PArtner Services (GPS) Technical Team
-The GPS Technical team will provide technical enablement as part of the build-with motion for your team. This would include the following: 
+The GPS Technical team will provide technical enablement as part of the build-with motion for your team. This would include the following:
 - Envisioning Briefing, Assessment – Technical Briefing, Roadmap Planning, Architecture Design Session (ADS), Build and Assist, Hackathon, Proof of Concept (POC), Technical Skills Enablement, Sales Skills Enablement, Sales Deal, Enablement (first 3 deals), Solution Technical Review, Deployment / Practice Review (Grow)
 - Note: This team does not technical support or troublehossting to delivery or operations team.
 
@@ -14,15 +14,21 @@ The GPS Technical team will provide technical enablement as part of the build-wi
 
 ![Partner Support Options](./Library/Partner%20Support.png)
 
+Option | Description | lINK
+:----- | :-----  | :-----
+Support | Create an online request for all programs supported in Partner Center. In Partner Center, we'll provide you with a personalized experience. | [Partner Support](http://partner.microsoft.com/support)
+Cloud Enablement Desk | Your dedicated expert can help you connect to customers through marketplaces, co-sell with Microsoft, take advantage of Microsoft partner resources, build your business through competencies, activate your benefits, use technical training, and more.|[Cloud Enablement Desk Nomination](http://aka.ms/cednominate) |
+Technical Pre-sales & Deployment | | [TPSD](http://aka.ms/TPDTechnicalServices) |
+Advanced Support for Partners| |Support plan offer: aka.ms/ASfP
+Premier Support for Partners| |Support plan offer: aka.ms/PSfP
+Partner Architecture Desk | |Email: PADesk@microsoft.com
 ## Partner Support FAQ
 Question| Answer
-:----- | :----- 
-Q. If the customer in on an EA, can a partner request support on behalf of the customer through ASfP? |  - Yes.  <br> - The partner would have to “request a relationship” and have the proper affiliation with the customer because they likely did not purchase under CSP if they have an EA. <br> - Nearly 100% of the time, because the ASfP tickets are “unlimited” and the EA may come with a limit or have a customer cost associated with them, the partner will encourage the EA customer to put the ticket through them (the partner). 
-When should a partner use is support contract versus customer contract? | It depends on the scenario:  <br> -A partner should always want to use “their support plan” versus the customers when it is ASfP or PSfP. □ If/When the customer has an EA or their own “Unified/Premier” support, except that the customer would have hours or incidents decremented from their plan and the customer may not want their time/incidents deducted from their support plan.  <br> - ASfP has “unlimited incidents, however, PSfP may also have incidents/time deducted (again, depends on the type of plan the partner has - - i.e. ASfP has unlimited tickets). <br> -Can the end-customer engage with Microsoft support using the partner’s entitlement? | No. The contract is between Microsoft and the partner, not Microsoft and the partner and their hundreds of customers!   
+:----- | :-----
+Q. If the customer in on an EA, can a partner request support on behalf of the customer through ASfP? |  - Yes.  <br> - The partner would have to “request a relationship” and have the proper affiliation with the customer because they likely did not purchase under CSP if they have an EA. <br> - Nearly 100% of the time, because the ASfP tickets are “unlimited” and the EA may come with a limit or have a customer cost associated with them, the partner will encourage the EA customer to put the ticket through them (the partner).
+When should a partner use is support contract versus customer contract? | It depends on the scenario:  <br> -A partner should always want to use “their support plan” versus the customers when it is ASfP or PSfP. □ If/When the customer has an EA or their own “Unified/Premier” support, except that the customer would have hours or incidents decremented from their plan and the customer may not want their time/incidents deducted from their support plan.  <br> - ASfP has “unlimited incidents, however, PSfP may also have incidents/time deducted (again, depends on the type of plan the partner has - - i.e. ASfP has unlimited tickets). <br> -Can the end-customer engage with Microsoft support using the partner’s entitlement? | No. The contract is between Microsoft and the partner, not Microsoft and the partner and their hundreds of customers!
 
 ## References
-
-
 Source | Description | Notes
 :----- | :-----  | :-----
 [Compare Partner Support Offerings](https://partner.microsoft.com/en-us/support/partnersupport)| Includes video and table with a comparison of:<br>- MPN technical benefits <br>- Advanced Support for Partners <br>- Premier Support for Partners|
@@ -54,7 +60,7 @@ Source | Description | Notes
 			<li>Better response time on key areas that need support</li>
 			<li>Support available remotely</li>
 			<li>PST Solution Area CSAs are engaged when needed</li>
-		</ul> 
+		</ul>
 	</td>
 	<td>
 		<ul>
