@@ -8,9 +8,7 @@
 
 A Collection of resources for Microsoft Commercial Marketplace Offer development and publication. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md). To contribute to this section, see [Contributer's Guide](Contributing.md)
 
-
 ## References
-
 
 Source | Description | Notes
 :----- | :-----  | :-----
