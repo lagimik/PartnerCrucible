@@ -22,6 +22,7 @@ This project aims to serve as an *entry point* into the wealth of information an
   
 ### Solution Areas
 - [Microsoft Taxonomy](./Taxonomy)
+- [Solution Partner](./SolutionPartners.md)
 
 ### Azure Infrastructure Solution Area
 - [Azure Infrastructure](./AzureInfrastructureSolutionArea)
