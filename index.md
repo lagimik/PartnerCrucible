@@ -18,7 +18,8 @@ This project aims to serve as an *entry point* into the wealth of information an
 ### Partner Economics
 - [Cloud Solution Provider](./CSP)
 - [Software as a Service](./SaaS)
-
+- [Commercial Marketplace Offers](./CommercialMarketplaceOffers.md)
+  
 ### Solution Areas
 - [Microsoft Taxonomy](./Taxonomy)
 
