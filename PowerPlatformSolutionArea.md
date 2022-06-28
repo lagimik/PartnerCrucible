@@ -1,9 +1,12 @@
 # Power Platform Solution Area
 
+
 ![PowerApps](./Library/PowerApps_256x256.png)
 ![PowerVirtualAgent](./Library/PowerVirtualAgents_256x256.png)
 ![PowerAutomate](./Library/PowerAutomate_256x256.png)
 ![PowerBI](./Library/PowerBI_256x256.png)
+
+[< Back to Crucible](./)
 
 ## Purpose
 A Collection of resources for Microsoft practice building in the Power platform solution area. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md). To contribute to this section, see [Contributer's Guide](Contributing.md)
@@ -19,3 +22,4 @@ Source | Description | Notes
 [Power BI Enterprise Deployment Whitepaper](https://aka.ms/PBIEnterpriseDeploymentWP)| The purpose of this whitepaper is to help you make your Power BI deployment a success: it covers key considerations, the decisions which will be necessary throughout the process, and potential issues you may encounter. Best practices and suggestions are offered when possible.|...
 [Power Platform Technical Airlift](https://note.microsoft.com/CatalogueDisplayPage-SRDEM32625_CatalogDisplayPage.html)| This Airlift event offers an in-depth overview of Power Apps that will prepare you to effectively envision specific business solutions. |
 [Power Platform Basic Training](https://docs.microsoft.com/en-us/learn/browse/?products=powerapps%2Cflow%2Cpower-automate&levels=beginner)| Basic Training|
+[< Back to Crucible](./)

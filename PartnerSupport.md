@@ -1,5 +1,7 @@
 # Partner Support Plans
 
+[< Back to Crucible](./)
+
 ## Purpose
 
 ### Global PArtner Services (GPS) Technical Team
@@ -46,11 +48,4 @@ Source | Description | Notes
 [Microsoft Security Response Centre](https://www.microsoft.com/en-us/msrc?rtc=1)|Report a vulnerability in a Microsoft product or service to the MSRC - Microsoft Security Response Center. You can track the status of your report as we work with you to investigate and resolve the issue.|...
 [MSRC - Submit and Issue](https://msrc.microsoft.com/#:~:text=Microsoft%20follows%20Coordinated%20Vulnerability%20Disclosure%20%28CVD%29.%20We%20request,MSRC%27s%20Bug%20Bounty%20Programs%20and%20Terms%20and%20Conditions)| There is a single  process to report issues, supported by Coordinated Vulnerability Disclosure (CVD)|...
 
-## Partner Architecture Desk
-
-- Centralized team of experienced & qualified architects working through and an engagement model offering specific technical services: RFP/RFI Advice, Technical Briefing, Technical Skills Enablement, Architecture Design Session, Proof of Concept, and Deployment Review​
-- Engage the partner Archiecture Desk through your Partner Development Manager or Partner Technology Strategist
-
-What is it? | What is it not?
-:---------- | :--------------
--Support is for only sell With opportunities (there should be a customer) <br> - Collaborate with local CSA With Partner Architecture Desks Architects on different solution areas<br> - Support for Sell-with related Technical Services<br> - Better response time on key areas that need support<br> - Support available remotely<br> -PST Solution Area CSAs are engaged when needed | - Practice or Solution Build-With Support<br> -Attesting Partner' s Architecture <br> -Break-Fix, Troubleshooting <br> -Implementation Support <br> -Not for strategic or engagement that needs sustained efforts <br> -Not for generic Q&A With no customer context <br> -Dedicated CSA Support <br> -It's not a paid service or limited to defined hours <br> -Staff Augmentation <br> -Scale training
+[< Back to Crucible](./)

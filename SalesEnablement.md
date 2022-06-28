@@ -1,5 +1,7 @@
 # Sales Enablement
 
+[< Back to Crucible](./)
+
 ## Purpose
 
 ..
@@ -18,4 +20,6 @@ Source | Description | Notes
 [Partner Community Webinar Series](aka.ms/partnercall)|Join us monthly for important product and program updates, including tutorials that will help both you and our customers down the road. In addition, learn about Microsoft Canada's Global Partner Solutions FY22 business updates, upcoming events, and go-to-market information that will enable both business resilience and transformation.|...
 [Microsoft Tech Community](https://techcommunity.microsoft.com/)| Community Hubs, Blogs, Events|...
 [Customer Stories](https://customers.microsoft.com/en-us/search?sq=&ff=&p=0&so=story_publish_date%20desc)| Browse Microsoft customer stories and filter by language, industry, product, etc..| ...
+
+[< Back to Crucible](./)
 

@@ -1,5 +1,7 @@
 # Solution Partners
 
+[< Back to Crucible](./)
+
 ## Purpose
 
 Collection of resources describing the evolution of the Microsoft Partner Network (MPN) to the Microsoft Cloud Partner Program and the streamlining the existing 18 competencies into six solutions partner designations that are aligned with the Microsoft Cloud.
@@ -16,3 +18,5 @@ Source | Description | Notes
 [Support Resources](https://partner.microsoft.com/en-US/support/?stage=2&topicid=15ae6033-aabe-59cd-af85-5895401a87c0)| response to some of the most popular questions from our partner community for your quick reference|- Explains PCS<br>- Explains how to check current PCS by solution area
 [Canadian Partner Post](https://www.microsoftpartnercommunity.com/t5/What-s-new-for-Canadian-partners/Evolution-of-the-Microsoft-partner-network/m-p/67215#M103)|...|...
 [MPI Vodcast: Unwrapping the Microsoft Cloud Partner Program](https://www.youtube.com/watch?v=rmj0mMd5QU8&feature=youtu.be)|Tune in to our latest Microsoft Partner Innovation Vodcast episode, hosted by Jennifer Zarate, senior communications manager, Global Partner Solutions at Microsoft, as she sits down with Margaret Totten, managing director and CEO at Akari, and Deb McLeod, chief of staff at Solliance, to discuss the new Microsoft Cloud Partner Program and how the company is investing more in partners.|[Microsoft Partner Innovation Channel](https://www.youtube.com/channel/UCYUkW7seEYoQLNoYEEO32iQ)
+
+[< Back to Crucible](./)
