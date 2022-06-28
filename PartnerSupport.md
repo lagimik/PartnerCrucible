@@ -6,9 +6,9 @@
 
 ### Global PArtner Services (GPS) Technical Team
 
-The GPS Technical team will provide technical enablement as part of the build-with motion for your team. This would include the following:
+The Microsoft Canada Global Partner Solutions Technical Team will provide technical enablement as part of the build-with motion for your team. This would include the following:
 - Envisioning Briefing, Assessment – Technical Briefing, Roadmap Planning, Architecture Design Session (ADS), Build and Assist, Hackathon, Proof of Concept (POC), Technical Skills Enablement, Sales Skills Enablement, Sales Deal, Enablement (first 3 deals), Solution Technical Review, Deployment / Practice Review (Grow)
-- Note: This team does not technical support or troublehossting to delivery or operations team.
+- Note: This team does not technical support or troubleshooting to delivery or operations team.
 
 ### Support for Partners
 
