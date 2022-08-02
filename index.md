@@ -21,11 +21,11 @@ This project aims to serve as an *entry point* into the wealth of information an
 - [Commercial Marketplace Offers](./CommercialMarketplaceOffers.md)
   
 ### Solution Areas
-- [Microsoft Taxonomy](./Taxonomy)
+- [Solution Area Taxonomy](./Taxonomy)
 - [Solution Partner](./SolutionPartners.md)
 
-### Azure Infrastructure Solution Area
-- [Azure Infrastructure](./AzureInfrastructureSolutionArea)
+### Infrastructure Solution Area
+- [Infrastructure](./AzureInfrastructureSolutionArea)
 
 ### Security Solution Area
 - [Security](./SecuritySolutionArea)
@@ -38,8 +38,8 @@ This project aims to serve as an *entry point* into the wealth of information an
 ### Power Platform Solution Area
 - [Power Platform Solution Area](./PowerPlatformSolutionArea)
 
-### Digital Applications and Innovation
-- [Digital Applications and Innovation Solution Area](./DigitalAppsandInnovationSolutionArea)
+### Digital and Applications  Innovation
+- [Digital and Applications Innovation Solution Area](./DigitalAppsandInnovationSolutionArea)
 - [AI and IoT Insider Lab](./AIIOTInsiderLab)
 - [Mixed Reality](./MixedReality)
   
