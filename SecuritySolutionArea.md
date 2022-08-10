@@ -28,6 +28,7 @@ Source | Description | Notes
 [Defender for Endpoint Ninja](https://adoption.microsoft.com/ninja-show/#upcoming)|This training series is based on the Ninja blog and brings you up to speed quickly on Microsoft Defender for Endpoint. In every episode, our experts guide you through the powerful features and functions of Microsoft Defender for Endpoint that help you keep your environment secure. We start with the fundamentals and dive deeper as the show continues.| Starts May 2022
 [XDR  Cloud Guide](https://mslearn.cloudguides.com/en-us/guides/Investigate%20security%20incidents%20in%20a%20hybrid%20environment%20with%20Azure%20Sentinel)| ... |...
 [Microsoft XDR Partners](https://cloudpartners.transform.microsoft.com/mxdrpartners)|...|Update May 2022
+[DevSecOps](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/devsecops-in-azure?ocid=AID3045641)| From the Azure Arhictecture Centre > Solution Ideas | 
 
 [< Back to Crucible](./)
 
