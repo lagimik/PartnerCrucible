@@ -9,7 +9,7 @@ A collection of learning resources that span the Microsoft solution areas.
 ## References
 
 Source | Description | Notes
-:----- | :-----  | :-----
+:----- | :---------- | :----
 [Partner Virtual Training](https://partner.microsoft.com/en-US/training/virtual-training-series#/)| These training opportunities provide chat-based instructors with targeted information delivered in a consolidated time frame to enhance your expertise.|Required MPN membership
 [Enterprise Skilling Initiative](esi.microsoft.com)|Enterprise Skilling Initiative| By invitation
 [Virtual Training Days](https://www.microsoft.com/en-ie/training-days)| explore our webinars below for Developers and IT professionals and register for the subjects best suited to you and your organization |...
