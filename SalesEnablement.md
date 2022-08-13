@@ -8,9 +8,8 @@
 
 ## References
 
-
 Source | Description | Notes
-:----- | :-----  | :-----
+:----- | :---------- | :-----
 [Sales Enablement](https://assetsprod.microsoft.com/mpn/en-us/sales-partner-enablement-guide.pdf)| Refreshed ~monthly | ...
 [Partner Sales Acceleration Program (PSAP)](https://partner.microsoft.com/en-US/training/assets#/?search=Partner%20Sales%20Acceleration%20Program)| ...
 [Partner Sales Bootcamp Series](https://partner.microsoft.com/en-us/training/assets/collection/microsoft-partner-sales-bootcamp-series#/)| Each three-hour, virtual session will deliver foundational knowledge for selling each of the four Microsoft Cloud solution areas.|...
