@@ -38,6 +38,9 @@ This project aims to serve as an *entry point* into the wealth of information an
 ### Business Applications Solution Area
 - [Busines Applications Solution Area](./BusinessApplicationsSolutionArea)
 
+### Data and AI Solution Area
+- [Data and AI solution Area](./DataAISolutionArea.md)
+  
 ### Power Platform Solution Area
 - [Power Platform Solution Area](./PowerPlatformSolutionArea)
 
