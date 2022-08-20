@@ -13,9 +13,9 @@ This project aims to serve as an *entry point* into the wealth of information an
 - [Partner Portals](./PartnerPortals)
 - [Partner Support](./PartnerSupport)
 - [Practice Building](./PracticeBuilding)
+- [Sales Enablement](./SalesEnablement)
 - [Learning Resources](./LearningResources)
 - [OpenHacks](./OpenHack)
-- [Sales Enablement](./SalesEnablement)
 - [Sandbox Environments](./SandboxEnvironments)
 
 ### Partner Economics
@@ -27,6 +27,7 @@ This project aims to serve as an *entry point* into the wealth of information an
 ### Solution Areas
 - [Solution Area Taxonomy](./Taxonomy)
 - [Solution Partner](./SolutionPartners.md)
+- [Industry Clouds](./IndustryCloud.md)
 
 ### Infrastructure Solution Area
 - [Infrastructure](./AzureInfrastructureSolutionArea)
