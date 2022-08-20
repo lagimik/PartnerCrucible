@@ -19,6 +19,7 @@ This project aims to serve as an *entry point* into the wealth of information an
 - [Sandbox Environments](./SandboxEnvironments)
 
 ### Partner Economics
+- [ISV](./ISV)
 - [Cloud Solution Provider](./CSP)
 - [Software as a Service](./SaaS)
 - [Commercial Marketplace Offers](./CommercialMarketplaceOffers.md)
