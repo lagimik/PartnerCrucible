@@ -8,8 +8,6 @@ A collection of resources for Defender for IoT.
 ## References
 
 
-The Ninja training resources are now available and will continue to be updated:
-Microsoft Azure Defender for IoT Training - Microsoft Tech Community
 
 Source | Description | Notes
 :----- | :-----  | :-----
@@ -18,6 +16,7 @@ Source | Description | Notes
 [How to apply a Zero Trust approach to your IoT solutions](https://aka.ms/iot-zt-blog) | Blog Post | 2021
 [Go inside the new Azure Defender for IoT including CyberX](https://www.microsoft.com/security/blog/2020/11/25/go-inside-the-new-azure-defender-for-iot-including-cyberx/) | Blog Post | 2020
 [Partner Opportunities for Securing OT IOT Networks with Azure Defender for IoT](https://www.youtube.com/watch?v=18TV2XqT1vA&list=PL-8L4E6a4nOYq9syIPKnwLhZzDvTPlCtos)| SPD Airlift (Day 1) |
+[Defender for IoT Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/microsoft-defender-for-iot-ninja-training/ba-p/2428899) | The Ninja training resources are now available and will continue to be updated:Microsoft Azure Defender for IoT Training - Microsoft Tech Community | ...
 [Ep1: Azure Defender for IoT Architecture](https://www.youtube.com/embed/vU283nfVQFs)|Episode 1: Matt and Richard discuss the architecture|
 [Ep2: Setting up Azure](https://www.youtube.com/watch?v=xaG1Ph0C5Ig)| Episode 2: Matt and Richard walk through the configuration steps | 
 [Ep3: Building a Sensor](https://www.youtube.com/watch?v=T1uvD2-W9t4) | Episode 3: Matt and Richard are joined by James Cabe to build the first sensor |
