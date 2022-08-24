@@ -15,6 +15,7 @@ This project aims to serve as an *entry point* into the wealth of information an
 - [Practice Building](./PracticeBuilding)
 - [Sales Enablement](./SalesEnablement)
 - [Learning Resources](./LearningResources)
+- [Ressources pour le perfectionnement (français)](./LearningResourcesFrench)
 - [OpenHacks](./OpenHack)
 - [Sandbox Environments](./SandboxEnvironments)
 
@@ -46,7 +47,7 @@ This project aims to serve as an *entry point* into the wealth of information an
 ### Power Platform Solution Area
 - [Power Platform Solution Area](./PowerPlatformSolutionArea)
 
-### Digital and Applications  Innovation
+### Digital and Applications Innovation
 - [Digital and Applications Innovation Solution Area](./DigitalAppsandInnovationSolutionArea)
 - [AI and IoT Insider Lab](./AIIOTInsiderLab)
 - [Mixed Reality](./MixedReality)
