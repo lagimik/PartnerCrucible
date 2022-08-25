@@ -24,6 +24,7 @@ This project aims to serve as an *entry point* into the wealth of information an
 - [Cloud Solution Provider](./CSP)
 - [Software as a Service](./SaaS)
 - [Commercial Marketplace Offers](./CommercialMarketplaceOffers.md)
+- [FinOps](./FinOps)
   
 ### Solution Areas
 - [Solution Area Taxonomy](./Taxonomy)
