@@ -6,8 +6,7 @@
 
 A Collection of resources for Microsoft practice building in the Security solution area. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md). To contribute to this section, see [Contributer's Guide](Contributing.md)
 
-## Security References
-
+## Practice
 Source | Description | Notes
 :----- | :-----  | :-----
 [MISA](https://www.microsoft.com/en-ca/security/business/intelligent-security-association)| The Microsoft Intelligent Security Association (MISA) is an ecosystem of independent software vendors and managed security service providers that have integrated their solutions to better defend against a world of increasing threats|...
@@ -20,17 +19,42 @@ Source | Description | Notes
 [Security Sales Enablement Journey](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnote.microsoft.com%2FCatalogueDisplayPage-SRDEM63796_CatalogDisplayPage.html&data=05%7C01%7CMarcAndre.Morisset%40microsoft.com%7C838c45a00bde435eabe608da295328a1%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637867734382724609%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=K%2FhJH7u1em6%2FjeMOl0pwPHsckRk1TFXHhZzs1T5FXZk%3D&reserved=0)|Security Enablement journey is a 14 module On-demand videos of between 30 mins - 150 mins each intended to equip you with knowledge to support your customers security needs. You will learn more about industry concepts and Microsoft differentiators and how you can help your customers scale these processes to achieve a higher level of visibility and manageability while greatly reducing their risk.|April 2022
 [Azure Security Rockstar Training](https://msuspartners.eventbuilder.com/AzureSecurityRockstarTraining) | weeklong session for a deep dive and learn from Microsoft experts on how to protect your workloads quickly with built-in controls and services in Azure across identity, data, networking, and apps.| September 2022
 |[Microsoft Cloud Security Private Community](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR-kibZAPJAVBiU46J6wWF_5URDFSWUhYUldTWjdJNkFMVU1LTEU4VUZHMy4u&wdLOR=cA460936E-DCD5-4F25-9C03-7A8EF5C40D44)|By signing up for the ongoing program, you will receive access to our NDA roadmap calls, design exercises, surveys, and private previews.|...
-[Azure Sentinel Technical Playbook for MSSPs](http://aka.ms/azsentinelmssp)| ...|
-[Sentinel Migration Guides](https://docs.microsoft.com/en-us/azure/sentinel/migration)| These are detailed guides to migrate from ArcSight, QRadar and Splunk; migrate historical data, convert dashboards to workbooks and update SOC processes.|
-[Microsoft Sentinel Black Belt](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-earn-your-microsoft-sentinel-black-belt-digital-badge/ba-p/3071558)| New for 2022, our Cloud Security Private Community Digital Badge program has introduced a new L5 Microsoft Sentinel Black Belt Digital Badge for you to earn and display proudly to show your prowess as a Microsoft recognized expert and contributor to the product.|...
-[Sentinel Ninja](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310)| Sentinel Ninja Training
-[Microsoft 365 Defender Demo](https://cdx.transform.microsoft.com/experience-detail/d12fa95b-908d-4d74-bd3b-9549d9d562f4)| Using the integrated threat protection demo environment, this Microsoft 365 Defender Demo Guide walks field sellers through a content rich demo for customers showing the investigation of a simulated spear phishing attack and advanced hunting exercise.|..
-[Microsoft Defender for Business](https://learning.eventbuilder.com/M365MDBSeries)| WEbinar series|...
-[Defender for Endpoint Ninja](https://adoption.microsoft.com/ninja-show/#upcoming)|This training series is based on the Ninja blog and brings you up to speed quickly on Microsoft Defender for Endpoint. In every episode, our experts guide you through the powerful features and functions of Microsoft Defender for Endpoint that help you keep your environment secure. We start with the fundamentals and dive deeper as the show continues.| Starts May 2022
-[XDR  Cloud Guide](https://mslearn.cloudguides.com/en-us/guides/Investigate%20security%20incidents%20in%20a%20hybrid%20environment%20with%20Azure%20Sentinel)| ... |...
+[XDR Cloud Guide](https://mslearn.cloudguides.com/en-us/guides/Investigate%20security%20incidents%20in%20a%20hybrid%20environment%20with%20Azure%20Sentinel)| ... |...
 [Microsoft XDR Partners](https://cloudpartners.transform.microsoft.com/mxdrpartners)|...|Update May 2022
 [DevSecOps](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/devsecops-in-azure?ocid=AID3045641)| From the Azure Arhictecture Centre > Solution Ideas | 
 
+### Sentinel
+Source | Description | Notes
+:----- | :-----  | :-----
+[Azure Sentinel Technical Playbook for MSSPs](http://aka.ms/azsentinelmssp)| How to deploy Azure Sentinel as a managed security services provider | March 2021
+[Sentinel Migration Guides](https://docs.microsoft.com/en-us/azure/sentinel/migration)| These are detailed guides to migrate from ArcSight, QRadar and Splunk; migrate historical data, convert dashboards to workbooks and update SOC processes.|
+[Microsoft Sentinel Black Belt](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-earn-your-microsoft-sentinel-black-belt-digital-badge/ba-p/3071558)| New for 2022, our Cloud Security Private Community Digital Badge program has introduced a new L5 Microsoft Sentinel Black Belt Digital Badge for you to earn and display proudly to show your prowess as a Microsoft recognized expert and contributor to the product.|...
+[Sentinel Ninja](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310)| Sentinel Ninja Training
+
+
+### Defender for Microsoft 365
+Source | Description | Notes
+:----- | :-----  | :-----
+[Microsoft 365 Defender Demo](https://cdx.transform.microsoft.com/experience-detail/d12fa95b-908d-4d74-bd3b-9549d9d562f4)| Using the integrated threat protection demo environment, this Microsoft 365 Defender Demo Guide walks field sellers through a content rich demo for customers showing the investigation of a simulated spear phishing attack and advanced hunting exercise.|..
+[Microsoft Defender for Business](https://learning.eventbuilder.com/M365MDBSeries)| WEbinar series|...
+[Microsoft 365 Defender Ninja](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/become-a-microsoft-365-defender-ninja/ba-p/1789376) | his Ninja blog covers the features and functions of Microsoft 365 Defender – everything that goes across the workloads, but not the individual workloads themselves. The content is structured into three different knowledge levels, with multiple modules: Fundamentals, Intermediate, and Expert. | August 2022
+
+### Defender for Endpoint
+Source | Description | Notes
+:----- | :-----  | :-----
+[Defender for Endpoint Ninja Show](https://adoption.microsoft.com/ninja-show/#upcoming)|This training series is based on the Ninja blog and brings you up to speed quickly on Microsoft Defender for Endpoint. In every episode, our experts guide you through the powerful features and functions of Microsoft Defender for Endpoint that help you keep your environment secure. We start with the fundamentals and dive deeper as the show continues.| Starts May 2022
+[Become a Microsoft Defender for Endpoint Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647)
+
+### Compliance Ninja
+Source | Description | Notes
+:----- | :-----  | :-----
+[M365 Compliance One-Stop-Shop (OSS)](https://microsoft.github.io/ComplianceCxE/) | We built this page to help you easily find all relevant content and resources relating to the Microsoft Purview solutions. Please bookmark this page for future reference as we will update it on an ongoing basis. Also, do submit your feedback and contributions to the site via the appropriate links. | From Customer Acceleration Team (CAT)
+[Become a Microsoft 365 Advanced eDiscovery Ninja](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-a-microsoft-purview-ediscovery-ninja/ba-p/2793108) | In this blog post, we share the top resources for eDiscovery users to become masters of the Microsoft Purview eDiscovery Premium solution! After each level, we offer you a knowledge check based on the training material you have just completed. The goal of the knowledge checks is to help ensure understanding of the key concepts that were covered| TechCommunity
+[Microsoft Purview Information Protection Ninja](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/page-is-being-updated-the-microsoft-information-protection-mip/ba-p/2887478) | Have you been wanting to figure out the best way to protect data? How about figuring out what is in your environment? Struggling to let others know you’ve completed your training? Well, wait no longer! Our MIP Ninja Training is here!  | Tech Community
+[Microsoft Defender for Cloud Apps](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-defender-for-cloud-apps-ninja-training-june-2022/ba-p/2751518) | Microsoft Defender for Cloud Apps has hundreds of amazing videos available and it can sometimes be overwhelming with determining where to start and how to progress through different levels. We've gone through all these and created this repository of training materials - all in one central location! | June 2022
+[Compliance Manager Ninja](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-compliance-manager-mscm-ninja-training-q1-2022/ba-p/3181322?WT.mc_id=modinfra-0000-rotrent) | We’ve sifted through the vast resources Microsoft has to offer for MSCM and developed this training to guide you – all in one location, in a simple easy to follow format!  If there is anything we can do to improve this training, please do not hesitate to leave a comment below and we will be sure to review it. | Feb 2022
+[Insider risk Insider Risk Management Ninja](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-an-insider-risk-management-ninja/ba-p/3282306) | In this Ninja page, we share the top resources for Insider Risk Management users to become more proficient with the Microsoft Purview Insider Risk Management solution.  | April 2022
+[Communication Compliance Ninja](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-a-communication-compliance-ninja/ba-p/3283283) | In this Ninja page, we share the top resources for Communication Compliance users to become more proficient with the Microsoft Purview Communication Compliance solutio| April 2022
 [< Back to Crucible](./)
 
 
