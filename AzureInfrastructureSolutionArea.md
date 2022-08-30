@@ -39,20 +39,19 @@ Source | Description | Notes
 [Skill up](https://aka.ms/SAPonAzureResources) | |
 [SAP on Azure Advanced Specialization](httrps://aka.ms/SAPonAzureAdvancedSpec) | |
 
-
 ### Virtualization
 
 Source | Description | Notes
 :----- | :---------- | :-----
-[AVS Documentation (official)](https://aka.ms/AVSDocs) | |
-[AVS Partner Learning Path (official)](https://aka.ms/AVSLearningPath) | |
+[AVS Documentation (official)](https://aka.ms/AVSDocs)| |
+[AVS Partner Learning Path (official)](https://aka.ms/AVSLearningPath)| |
 [AVS Enterprise-Scale](https://aka.ms/AVSEnterpriseScale) | |
-[AVS Enterprise-Scale(GitHub repository)](https://aka.ms/AVSEnterpriseScaleRepo) | |
-[AVS TechZone](https://aka.ms/AVSTechZone) | | VMWare Site
+[AVS Enterprise-Scale(GitHub repository)](https://aka.ms/AVSEnterpriseScaleRepo)| |
+[AVS TechZone](https://aka.ms/AVSTechZone)| | VMWare Site
 [AVS Overview Video Serie](https://aka.ms/AVSTechOverview) | The Azure VMware Solution (AVS) Technical Overview Series provides viewers with a basic understanding of the solution. VMware's Jeremiah Megie and Steve Pantol will lead you through nine modules |
 [AVS Deep Dive Video Series](https://aka.ms/AVSDeepDive) | The Azure VMware Solution (AVS) Deployment Deep Dive Series will walk you through the things you should consider before, during, and after deploying your AVS private cloud - complete with demos! |
-[AVS Hands-on Labs](https://aka.ms/AVSHOL)
-[AVS Micro-hack](https://aka.ms/AVSMicroHack)
+[AVS Hands-on Labs](https://aka.ms/AVSHOL) | Learn more about Azure VMware Solution by taking a Hands-on Lab (HOL). See the service in action as you go through tasks such as deployment and configuration of an Azure-based SDDC, as well as advanced topics for specific use cases like cloud migration | VMWare TechZone
+[AVS Micro-hack](https://aka.ms/AVSMicroHack) | Handling Azure vMware Solution (AVS) network connectivity and migration scenario from on-premises to Azure | Github
 [Azure VMWare Services Trial](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR1xHkcwkIqVOp6E37mZjgcpURU9GSjJYTExLSzMzNzdGTzJERDBGWk1QQiQlQCN0PWcu&web=1&wdLOR=c5F35665D-7650-45A8-87BE-07E2AF646064)|Provide top AVS partners an opportunity to try AVS free of cost for when they are building/improving AVS services practice. The FY22 AVS Pilot Program provides top AVS partners the opportunity to experience AVS free of charge with white glove support from Microsoft. | AVS Pilot (Trial SKU) provides 3 nodes free for 30-day/720-hours. 
 [Landing zone considerations for Azure VMware Solution](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-vmware-solution-foundation-landing-zone) | Azure VMware Solution can be deployed as part of either a new landing zone or an existing landing zone environment. Well-designed landing zones help you avoid operational overhead and reduce costs by promoting segregated Azure environments and the use of shared services. |
 [Azure Virtual Desktop]() |Try it now during our promotional period We are pleased to offer a special promotion with no charge to access Azure Virtual Desktop for streaming applications to external users. This promotion is effective from July 14, 2021, to March 31, 2022. For additional pricing details, please read the product documentation page and FAQ below.|
