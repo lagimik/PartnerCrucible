@@ -12,14 +12,13 @@ A Collection of resources for Microsoft practice building in the Azure solution 
 ### Practice
 Source | Description | Notes
 :----- | :---------- | :-----
-[Azure Partner Enablement Guide](https://assetsprod.microsoft.com/mpn/en-us/azure-partner-enablement-guide.pdf)| Enablement guide for Azure partners...
-[Azure for Partner](https://www.microsoft.com/azure/partners/)|Main page for Azure resources for Partners
-[Azure for Services Partners](https://www.microsoft.com/azure/partners/practices/the-opportunity)|Grow your cloud services business with Azure|..
-[Azure for Technology Partners](https://azure.microsoft.com/en-us/partners/azure-technology-partners/)|Azure for resources  independent software vendors (ISVs)|..
+[Azure Partner Enablement Guide](https://assetsprod.microsoft.com/mpn/en-us/azure-partner-enablement-guide.pdf)| Enablement guide for Azure partners... | updated ~monthly
+[Azure for Partner](https://www.microsoft.com/azure/partners/)|Main page for Azure resources for Partners | ...
+[Azure for Services Partners](https://www.microsoft.com/azure/partners/practices/the-opportunity)|Grow your cloud services business with Azure| ...
 [Azure blog](https://azure.microsoft.com/en-us/blog/)|...|...
 [Azure updates](https://azure.microsoft.com/en-us/updates/)|...|
 [Partner Admin Link](https://partner.microsoft.com/en-us/asset/collection/partner-admin-link#/)|Partner Admin Link (PAL) enables Microsoft to identify and recognize partners who drive Azure customer success. Optimized for managed services where your organization is acting on behalf of the customer, PAL allows you to associate your MPN ID with the credentials that you use to deliver services within the customer's Azure tenant.| Required MPN Login
-[PAL Howto: Video](https://partner.microsoft.com/en-us/resources/detail/setting-up-partner-admin-link-video-mp4)|...| Required MPN Login
+[PAL Howto: Video](https://partner.microsoft.com/en-us/resources/detail/setting-up-partner-admin-link-video-mp4)|...| Requires MPN Login
 [PAL FAQ](https://partner.microsoft.com/en-us/resources/detail/pal-partner-faq-docx)| Frequently Asked Questions| Requires MPN Login
 
 ### Azure Arc
@@ -52,8 +51,5 @@ Source | Description | Notes
 [Azure VMWare Services Trial](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR1xHkcwkIqVOp6E37mZjgcpURU9GSjJYTExLSzMzNzdGTzJERDBGWk1QQiQlQCN0PWcu&web=1&wdLOR=c5F35665D-7650-45A8-87BE-07E2AF646064)|Provide top AVS partners an opportunity to try AVS free of cost for when they are building/improving AVS services practice. The FY22 AVS Pilot Program provides top AVS partners the opportunity to experience AVS free of charge with white glove support from Microsoft. | AVS Pilot (Trial SKU) provides 3 nodes free for 30-day/720-hours. 
 [Landing zone considerations for Azure VMware Solution](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-vmware-solution-foundation-landing-zone) | Azure VMware Solution can be deployed as part of either a new landing zone or an existing landing zone environment. Well-designed landing zones help you avoid operational overhead and reduce costs by promoting segregated Azure environments and the use of shared services. |
 [Azure Virtual Desktop]() |Try it now during our promotional period We are pleased to offer a special promotion with no charge to access Azure Virtual Desktop for streaming applications to external users. This promotion is effective from July 14, 2021, to March 31, 2022. For additional pricing details, please read the product documentation page and FAQ below.|
-
-
-
 
 [< Back to Crucible](./)
