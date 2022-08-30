@@ -11,9 +11,9 @@ A Collection of resources for Microsoft practice building in the Azure solution 
 
 ### Practice
 Source | Description | Notes
-:----- | :-----  | :-----
+:----- | :---------- | :-----
 [Azure Partner Enablement Guide](https://assetsprod.microsoft.com/mpn/en-us/azure-partner-enablement-guide.pdf)| Enablement guide for Azure partners...
-[Azure for Partner](https://www.microsoft.com/azure/partners/)|Main page for Azure resources for Partners|
+[Azure for Partner](https://www.microsoft.com/azure/partners/)|Main page for Azure resources for Partners
 [Azure for Services Partners](https://www.microsoft.com/azure/partners/practices/the-opportunity)|Grow your cloud services business with Azure|..
 [Azure for Technology Partners](https://azure.microsoft.com/en-us/partners/azure-technology-partners/)|Azure for resources  independent software vendors (ISVs)|..
 [Azure blog](https://azure.microsoft.com/en-us/blog/)|...|...
@@ -24,13 +24,13 @@ Source | Description | Notes
 
 ### Azure Arc
 Source | Description | Notes
-:----- | :-----  | :-----
+:----- | :---------- | :-----
 [Arc Jumpstart](https://azurearcjumpstart.io/)| The Jumpstart provides step-by-step guides for independent Azure Arc scenarios that incorporate as much automation as possible, detailed screenshots and code samples, and a rich and comprehensive experience while getting started with the Azure Arc platform.| ...
 [Landing zone accelerator](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/hybrid/enterprise-scale-landing-zone) | Introduction to Azure Arc-enabled servers landing zone accelerator for hybrid and multicloud – Cloud Adoption Framework | Microsoft Docs
 
 ### SAP
 Source | Description | Notes
-:----- | :-----  | :-----
+:----- | :---------- | :-----
 [Establish an SAP on Azure Center of Excellence](https://aka.ms/AzureCenterforSAPsolutions)
 [SAP on Azure Immersion Workshops](https://aka.ms/aiwpartners)
 [Skill up](https://aka.ms/SAPonAzureResources)
@@ -39,7 +39,7 @@ Source | Description | Notes
 
 ### Virtualization
 Source | Description | Notes
-:----- | :-----  | :-----
+:----- | :---------- | :-----
 [AVS Documentation (official)](https://aka.ms/AVSDocs)
 [AVS Partner Learning Path (official)](https://aka.ms/AVSLearningPath)
 [AVS Enterprise-Scale](https://aka.ms/AVSEnterpriseScale)
