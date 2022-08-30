@@ -7,9 +7,11 @@
 
 ![Azure Infrastructyure](./Library/Azure-Logo.png)
 A Collection of resources for Microsoft practice building in the Azure solution area. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md). To contribute to this section, see [Contributer's Guide](Contributing.md)
+
 ## References
 
 ### Practice
+
 Source | Description | Notes
 :----- | :---------- | :-----
 [Azure Partner Enablement Guide](https://assetsprod.microsoft.com/mpn/en-us/azure-partner-enablement-guide.pdf)| Enablement guide for Azure partners... | updated ~monthly
@@ -22,27 +24,30 @@ Source | Description | Notes
 [PAL FAQ](https://partner.microsoft.com/en-us/resources/detail/pal-partner-faq-docx)| Frequently Asked Questions| Requires MPN Login
 
 ### Azure Arc
+
 Source | Description | Notes
 :----- | :---------- | :-----
 [Arc Jumpstart](https://azurearcjumpstart.io/)| The Jumpstart provides step-by-step guides for independent Azure Arc scenarios that incorporate as much automation as possible, detailed screenshots and code samples, and a rich and comprehensive experience while getting started with the Azure Arc platform.| ...
 [Landing zone accelerator](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/hybrid/enterprise-scale-landing-zone) | Introduction to Azure Arc-enabled servers landing zone accelerator for hybrid and multicloud – Cloud Adoption Framework | Microsoft Docs
 
 ### SAP
+
 Source | Description | Notes
 :----- | :---------- | :-----
-[Establish an SAP on Azure Center of Excellence](https://aka.ms/AzureCenterforSAPsolutions)
-[SAP on Azure Immersion Workshops](https://aka.ms/aiwpartners)
-[Skill up](https://aka.ms/SAPonAzureResources)
-[SAP on Azure Advanced Specialization](httrps://aka.ms/SAPonAzureAdvancedSpec)
+[Establish an SAP on Azure Center of Excellence](https://aka.ms/AzureCenterforSAPsolutions) | |
+[SAP on Azure Immersion Workshops](https://aka.ms/aiwpartners) | |
+[Skill up](https://aka.ms/SAPonAzureResources) | |
+[SAP on Azure Advanced Specialization](httrps://aka.ms/SAPonAzureAdvancedSpec) | |
 
 
 ### Virtualization
+
 Source | Description | Notes
 :----- | :---------- | :-----
-[AVS Documentation (official)](https://aka.ms/AVSDocs)
-[AVS Partner Learning Path (official)](https://aka.ms/AVSLearningPath)
-[AVS Enterprise-Scale](https://aka.ms/AVSEnterpriseScale)
-[AVS Enterprise-Scale(GitHub repository)](https://aka.ms/AVSEnterpriseScaleRepo)
+[AVS Documentation (official)](https://aka.ms/AVSDocs) | |
+[AVS Partner Learning Path (official)](https://aka.ms/AVSLearningPath) | |
+[AVS Enterprise-Scale](https://aka.ms/AVSEnterpriseScale) | |
+[AVS Enterprise-Scale(GitHub repository)](https://aka.ms/AVSEnterpriseScaleRepo) | |
 [AVS TechZone](https://aka.ms/AVSTechZone) | | VMWare Site
 [AVS Overview Video Serie](https://aka.ms/AVSTechOverview) | The Azure VMware Solution (AVS) Technical Overview Series provides viewers with a basic understanding of the solution. VMware's Jeremiah Megie and Steve Pantol will lead you through nine modules |
 [AVS Deep Dive Video Series](https://aka.ms/AVSDeepDive) | The Azure VMware Solution (AVS) Deployment Deep Dive Series will walk you through the things you should consider before, during, and after deploying your AVS private cloud - complete with demos! |
