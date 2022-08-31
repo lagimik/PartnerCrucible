@@ -16,4 +16,5 @@ Source | Description | Notes
 [Java on Azure](https://aka.ms/partner/java)| prerecorded, online course, you'll learn how Microsoft Azure supports Java workload and processes with several options. Watch this video series to understand how Azure App Service, Azure Spring Cloud, Azure Kubernetes Service, and Azure managed database services help you to focus on writing code instead of on deployment complexities|...
 [Code, deploy, and scale Java your way](https://developer.microsoft.com/en-us/java) | Microsoft supports your workload with abundant choices, whether you're working on a Java app, app server, or framework.| 
 [Microsoft is committed to the success of Java developers](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/microsoft-is-committed-to-the-success-of-java-developers/ba-p/3612306) | Blog post by Julia Liuson | August 2022
+
 [< Back to Crucible](./)
