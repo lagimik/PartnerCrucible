@@ -38,7 +38,7 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :---------- | :----
 [Microsoft 365 Lighthouse for SMB Managed Services Providers (MSPs)](https://www.youtube.com/watch?v=p0kd4bsd_wI) | Introducing a new portal that will enable multi-tenant management of Microsoft 365 services by IT Partners – especially Managed Service Providers (MSPs) who serve small & medium-sized businesses (SMBs).| Nov 2020
-[Microsoft 365 Lighthouse Demo](https://www.youtube.com/watch?v=oSlh2-MeFL0) | Microsoft 365 Lighthouse is an admin portal that helps Managed Service Providers (MSPs) secure and manage devices, data, and users at scale for small- and medium-sized business (SMB) customers who are using Microsoft 365 Business Premium | ...
+[Microsoft 365 Lighthouse Demo](https://www.youtube.com/watch?v=oSlh2-MeFL0) | Microsoft 365 Lighthouse is an admin portal that helps Managed Service Providers (MSPs) secure and manage devices, data, and users at scale for small- and medium-sized business (SMB) customers who are using Microsoft 365 Business Premium | 2021
 
 ### Defender for Microsoft 365
 
