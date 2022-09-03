@@ -1,4 +1,7 @@
-
+---
+title: "signal:noise - finding purpose amidst the digital frenzy"
+date: 2022-09-06
+---
 
 # signal:noise - finding purpose amidst the digital frenzy
 ![Signal to Noise](./../Library/signaltonoise-title.png)
