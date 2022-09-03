@@ -1,5 +1,5 @@
 ---
-title: "signal:noise - finding purpose amidst the digital frenzy"
+title: "signal-noise-finding-purpose-amidst-the-digital-frenzy"
 date: 2022-09-06
 ---
 
