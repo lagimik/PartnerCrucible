@@ -1,6 +1,6 @@
 # Partner Crucible
 
-![PartnerCrucible](./Library/partnercrusible.jpg)
+![PartnerCrucible](./Library/crucible-title.png)
 
 ## Purpose 
 
