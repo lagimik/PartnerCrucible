@@ -4,7 +4,7 @@ date: 2022-09-03
 ---
 
 # signal:noise - finding purpose amidst the digital frenzy
-![Signal to Noise](/Library/signaltonoise-title.png)
+![Signal to Noise](../..//Library/signaltonoise-title.png)
 
 ## Why
 
@@ -19,8 +19,9 @@ Confront the unknown, uncertainty,  and the fear to ultimately be comfortable at
 From science:
 
 ```
-sig-nal-to-noise ra-tio 
-['signal too, ta noiz räSHö, 'räSHé O] 
+signal:noise
+sig-nal-to-noise-ra-tio 
+['signal too/ta noiz räSHö/räSHé O'] 
 NOUN 
 - the ratio of the strength of an electrical or other signal carrying information to that of interference, generally expressed in decibels. 
 - a measure of how much useful information there is in a system, such as the internet, 
