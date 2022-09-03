@@ -4,7 +4,7 @@ date: 2022-09-03
 ---
 
 # signal:noise - finding purpose amidst the digital frenzy
-![Signal to Noise](../Library/signaltonoise-title.png)
+![Signal to Noise](/PartnerCrucible/Library/signaltonoise-title.png)
 
 ## Why
 
