@@ -3,22 +3,22 @@ title: "signal-noise-finding-purpose-amidst-the-digital-frenzy"
 date: 2022-09-03
 ---
 
-# signal:noise
-## finding purpose amidst the digital frenzy
+
 ![Signal to Noise](/PartnerCrucible/Library/signaltonoise-title.png)
 
+# signal:noise
+
 September in North America has a special energy: a particular blend of cool air, excitement, and maybe even a little fear. This seems like a perfect time to launch a blog.
+
 ## Why
 
 The pace of change is relentless and there is an abundance of resources to help navigate these waters. 
 
-**signal:noise** aims to provide expert and practionner points of view to help you distinguish between digital (or cloud) theatre and real impact. 
+**signal:noise** aims to provide points of view expert and practionner to help you distinguish between digital (or cloud) theatre and driving real impact. 
 
-The aim is to challenge popular opinions and openly highlight uncertainty to ultimately be comfortable at the edge, which is where much of the meaning endeavours are.
+The aim is to challenge popular narrative and openly highlight uncertainty to ultimately be comfortable at the edge, which is where much of the meaning endeavours are.
 
 ## What
-
-From science:
 
 ```
 signal:noise
@@ -41,5 +41,5 @@ As it happens.
 
 ## Who
 
-I am a Partner Technology Strategist for Microsoft Canada. Although my reflections are triggered by my experiences in the Canadian technology ecosystem, my thoughts are my own. 
+I am a Partner Technology Strategist for Microsoft Canada. Although my reflections, and those of my collborators, are triggered by my experiences in the Canadian technology ecosystem, our thoughts are my own. 
 
