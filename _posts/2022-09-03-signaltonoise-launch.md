@@ -11,11 +11,9 @@ September in North America has a special energy: a particular blend of cool air,
 
 ## Why
 
-The pace of change is relentless. The social feeds are overflowing with annoucements, and opinions. While there is a wealth of disparate source that basicallt chronicle, and comment on, how all this is unfolding, most grazes the surface and overlook the need to set the context, or discuss the real-world challenges being addressed. Finding the or the real signal across these disparate points is challenging.
+The pace of change is relentless. Your social feeds are probably are overflowing with announcements, and opinions. There are a number sources, many excellent, that chronicle or comment on how all this is unfolding. However, understanding how all this nets out, or finding  real signal across these disparate points is challenging.
 
-**signal:noise** aims to provide points of view from experts and practionners to help you distinguish between digital (or cloud) theatre and the actions that drive meaningful and durable impact. 
-
-The aim is to challenge popular narrative and openly highlight uncertainty to ultimately be comfortable engaging at the edge, which is where much of the meaning endeavours are.
+**signal:noise** aims to provide points of view from experts and practitioners to help you identify the changes that carry the most signal and can accelerate your digital (or cloud) ambitions. In doing so, it hopes to challenge popular narratives and openly highlight uncertainty to ultimately be comfortable engaging at the edge, which is where much of the meaning endeavors are.
 
 ## What
 
@@ -30,15 +28,19 @@ NOUN
 
 ## How
 
-**signal:noise** articles will be inspired by the wide range of interactions between the authors and the the Candian technoligy ecosystem. Apologies in advance if you recognize the circumstances described. 
+**signal:noise** articles will be inspired by the wide range of interactions between the authors and the the Canadian technology ecosystem. Apologies in advance if you recognize the circumstances described. 
 
-This blog isn't about pointing out errors; it is just as likely to showcase what good looks like. It is more akin to **op-ed** that unpacks the assumptions and mindsets behind the stories and really digging into what it takes to deliver on digital. 
+This blog isn't about pointing out errors; but will ensure we learn as much from them as we can. At the same time, **signal:noise** will also showcase what good looks like. The blog is akin to an **op-ed** that unpacks the assumptions and mindsets behind the stories and really digging into what it takes to deliver through the changes. 
 
 ## When
 
-As it happens. 
+Articles will be published as inspiration hits.  
 
 ## Who
 
-I am a Partner Technology Strategist for Microsoft Canada. Although my reflections, and those of my collborators, are triggered by my experiences in the Canadian technology ecosystem, our thoughts are my own. 
+I am a Partner Technology Strategist for Microsoft Canada. Although my reflections, and those of my collaborators, are triggered by my experiences in the Canadian technology ecosystem, our thoughts are my own. 
+
+## What Now?
+
+As a first step in finding some signal, I'd invite you to explore [PartnerCrucible](https://lagimik.github.io/PartnerCrucible/). This project aims to serve as an entry point into the wealth of information and services available to Canadian Microsoft partners. The Partner Crucible will curate links, models, and insights to ensure our partners have an overview and a quick path forward.
 
