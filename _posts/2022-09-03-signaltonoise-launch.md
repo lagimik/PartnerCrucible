@@ -3,20 +3,19 @@ title: "signal-noise-finding-purpose-amidst-the-digital-frenzy"
 date: 2022-09-03
 ---
 
-
 ![Signal to Noise](/PartnerCrucible/Library/signaltonoise-title.png)
 
-# signal:noise
+# Welcome
 
 September in North America has a special energy: a particular blend of cool air, excitement, and maybe even a little fear. This seems like a perfect time to launch a blog.
 
 ## Why
 
-The pace of change is relentless and there is an abundance of resources to help navigate these waters. 
+The pace of change is relentless. The social feeds are overflowing with annoucements, and opinions. While there is a wealth of disparate source that basicallt chronicle, and comment on, how all this is unfolding, most grazes the surface and overlook the need to set the context, or discuss the real-world challenges being addressed. Finding the or the real signal across these disparate points is challenging.
 
-**signal:noise** aims to provide points of view expert and practionner to help you distinguish between digital (or cloud) theatre and driving real impact. 
+**signal:noise** aims to provide points of view from experts and practionners to help you distinguish between digital (or cloud) theatre and the actions that drive meaningful and durable impact. 
 
-The aim is to challenge popular narrative and openly highlight uncertainty to ultimately be comfortable at the edge, which is where much of the meaning endeavours are.
+The aim is to challenge popular narrative and openly highlight uncertainty to ultimately be comfortable engaging at the edge, which is where much of the meaning endeavours are.
 
 ## What
 
