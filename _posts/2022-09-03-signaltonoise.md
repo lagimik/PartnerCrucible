@@ -3,10 +3,10 @@ title: "signal-noise-finding-purpose-amidst-the-digital-frenzy"
 date: 2022-09-03
 ---
 
-# signal:noise - finding purpose amidst the digital frenzy
+# signal:noise
 ![Signal to Noise](/PartnerCrucible/Library/signaltonoise-title.png)
 
-## Why
+### Why
 
 **signal:noise** is distinguish between digital and cloud theatre and real work.
 form over funtiom
@@ -14,7 +14,7 @@ for purpose
 
 Confront the unknown, uncertainty,  and the fear to ultimately be comfortable at the edge, which is where much of the meaning endeavours are.
 
-## What
+### What
 
 From science:
 
@@ -28,13 +28,13 @@ NOUN
 as a proportion of the entire contents. 
 ```
 
-## How
+### How
 
 The articles will be inspired by the wide range of interactions between the co-authors and the. Apologies if you recognize the circumstances described. 
 
 This blog isn't about pointing out errors; It is more akin to **op-ed** that unpacks the assumptions and mindsets behind the behaviours and really digging into what it takes to deliver on digital. It is just as likely to showcase what good looks like.
 
-## When
+### When
 
 September in North America has a special energy: a particular blend of cool air, excitement, and maybe even a little fear. This seems like a perfect time to launch a blog.
 
