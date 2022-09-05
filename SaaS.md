@@ -3,7 +3,8 @@
 
 ## Purpose
 
-A collection of partner resources for build a Software as a Service offering
+A collection of partner resources for build a Software as a Service offering. To contribute to this section, see [Contributer's Guide](Contributing.md)
+
 
 ## References
 

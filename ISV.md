@@ -4,7 +4,7 @@
 
 ## Purpose
 
-Collection of resources for ISVs.
+Collection of resources for ISVs. To contribute to this section, see [Contributer's Guide](Contributing.md)
 
 ## References
 
