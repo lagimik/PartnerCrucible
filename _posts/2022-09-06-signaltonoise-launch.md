@@ -5,7 +5,7 @@ date: 2022-09-06
 
 ![Signal to Noise](/PartnerCrucible/Library/signaltonoise-title.png)
 
-# Welcome to an Microsoft partner insider view
+# Welcome to a Microsoft partner *insider view*
 
 In North America, September has a special energy: a particular blend of cool air, excitement, and maybe even a little fear. This seems like a perfect time to launch a blog.
 
