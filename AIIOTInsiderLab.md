@@ -8,8 +8,6 @@ Microsoft’s IoT & AI Insider Labs are facilities to help you develop, prototyp
 
 ## Purpose
 
-GBB/Industry/GPS/ATU can all nominate to the Insider Labs. 
-
 Quick summary:
 - Required Non-Disclosure Agreement
 - It's personalized 1 to 1 experience with our dedicated engineers, data scientists, and program managers
