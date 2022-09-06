@@ -37,8 +37,8 @@ The ability for DevOps teams to deliver from end-to-end and address cross-cuttin
 One of the key benefits of introducing DevOps processes and culture is that it removes the communication barriers between teams and the reliance on any single individual for progress to be made
 
 The moment organizational leadership realizes the impact  DevOps teams can have on the current practices is a key inflection point. There are (at least) two possibilities:
--they be made to navigate existing processes or 
--they will be given the latitude to define new methods.
+- they be made to navigate existing processes or 
+- they will be given the latitude to define new methods.
 For this reason, selecting the right initiative, and the right team, as an initial pilot becomes crucial.
 
 
@@ -46,18 +46,40 @@ For this reason, selecting the right initiative, and the right team, as an initi
 
 Teams don’t “do DevOps”, much like they don’t “do Agile”. They adopt an Agile mindset and live DevOps. Organizational commitment to learning is crucial to success. It’s important to remember that:
 
-```
-A team cannot do this alone – they need a coach.
-This will not be flawless – there will be learning moments.
-You must unlearn - skill sets and responsibilities will change.
-It is not for every product at first – and not intended for maintenance work.
-It is not for everyone - the change can be overwhelming.
-```
+- A team cannot do this alone – they need a coach.
+- This will not be flawless – there will be learning moments.
+- You must unlearn - skill sets and responsibilities will change.
+- It is not for every product at first – and not intended for maintenance work.
+- It is not for everyone - the change can be overwhelming.
 
-# Skilling call to action
 
-[DevOps Dojo](https://devblogs.microsoft.com/devops/intro-of-devops-dojo/)| Introductions to DevOps Dojo and links to additional topics | May 2021
+## Way forward
 
-https://github.com/microsoft/WhatTheHack/tree/master/014-OSSDevOps
-DevOps is a journey not a destination. Our goal when writing this challenged based hack is to introduce you to some common DevOps practices, some popular OSS DevOps tooling, and to show you how Azure can be integrated into an OSS DevOps process.
+### Mainstream
+
+The typical way forward [DevOps with GitHub on Microsoft Azure Advanced Specialization](https://partner.microsoft.com/en-us/membership/advanced-specialization/devops-with-github#tab-3) and completing the required certificaiton exam: [Azure DevOps Engineer](https://docs.microsoft.com/en-ca/certifications/devops-engineer/)
+
+### Insiders
+
+A great example of an insiders view on DevOps is offered by
+[DevOps Dojo](https://devblogs.microsoft.com/devops/intro-of-devops-dojo/)
+
+Beyond the tooling and the usual topics, Dojo also covers the following topics:
+- [Dojo – People & Teams](https://devblogs.microsoft.com/devops/devops-dojo-people-teams/)
+- [Dojo – Experiential Learning](https://devblogs.microsoft.com/devops/devops-dojo-experiential-learning/)
+- [Dojo – Customers & Trust](https://devblogs.microsoft.com/devops/devops-dojo-customers-trust/)
+- [Dojo – Culture & Mindset](https://devblogs.microsoft.com/devops/devops-dojo-culture-and-mindset/)
+- [Dojo – Product Centric Model – Part 1](https://devblogs.microsoft.com/devops/devops-dojo-lean-product-part-1/)
+- [Dojo – Product Centric Model – Part 2](https://devblogs.microsoft.com/devops/devops-dojo-lean-product-part-2/)
+- [Dojo – Product Centric Model – Part 3](https://devblogs.microsoft.com/devops/devops-dojo-lean-product-part-3/)
+[Dojo – OKRs (Objectives and Key Results)](https://devblogs.microsoft.com/devops/devops-dojo-okrs-objectives-and-key-results/)
+- [Dojo – InnerSourcing](https://innersourcecommons.org/stories/microsoft/)
+- [Dojo – UX/Accessibility](https://devblogs.microsoft.com/devops/devops-dojo-ux-accessibility/)
+- [Dojo – Architecture]()Coming soon
+- [Dojo – Technology]() Coming soon
+- [Dojo – Secure DevOps]() Coming soon
+- [Dojo – SRE]() Coming soon
+
+
+If you are so inclined, also explore [What the Hack - 014 - OSSDevOps](https://github.com/microsoft/WhatTheHack/tree/master/014-OSSDevOps) : DevOps is a journey not a destination. 
 
