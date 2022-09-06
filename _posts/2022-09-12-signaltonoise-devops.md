@@ -7,12 +7,12 @@ date: 2022-09-03
 
 This article refreshes a perspective originally published in 2018: [Why your business should care about DevOps](https://cloudblogs.microsoft.com/industry-blog/en-ca/uncategorized/2018/05/24/why-your-business-should-care-about-devops/)
 
-## More DevOps saavy, less tools
+## More DevOps savvy, less tools
 
 DevOps, or BizDevSecOps, helps reinforce the organization's capability to to deal with business changes in the wake of disruptions. 
 It is a compliment to the strategic planning work, providing the approach for organizations to hypothesize, validate assumptions and adjust to changing conditions. 
 
-However, accelerated digital transformation and a global pandemic do not seem to have deterred many organisations from attempting to conduct business-as-usual. On the business end of things: confirmation by fax still occurs. Business teams expect perfect portals without rolling up their sleaves to make them work. And somehow data is still just a byproduct of using an application. From a technology standpoint, many cybersecurity and infrastructure squads still do not have software development skills on their team. 
+However, accelerated digital transformation and a global pandemic do not seem to have deterred many organisations from attempting to conduct business-as-usual. On the business end of things: confirmation by fax still occurs. Business teams expect perfect portals without rolling up their sleave to make them work. And somehow data is still just a byproduct of using an application. From a technology standpoint, many cybersecurity and infrastructure squads still do not have software development skills on their team. 
 
 How can we reconcile these observations in the context of digital economies and platforms as services? This blog will continue to argue that the organizational willingness to experiment and prevailing views of failure warrant a closer look.
 
@@ -57,7 +57,7 @@ Teams don’t “do DevOps”, much like they don’t “do Agile”. They adopt
 
 ### Mainstream
 
-The typical way forward [DevOps with GitHub on Microsoft Azure Advanced Specialization](https://partner.microsoft.com/en-us/membership/advanced-specialization/devops-with-github#tab-3) and completing the required certificaiton exam: [Azure DevOps Engineer](https://docs.microsoft.com/en-ca/certifications/devops-engineer/)
+The typical way forward [DevOps with GitHub on Microsoft Azure Advanced Specialization](https://partner.microsoft.com/en-us/membership/advanced-specialization/devops-with-github#tab-3) and completing the required certification exam: [Azure DevOps Engineer](https://docs.microsoft.com/en-ca/certifications/devops-engineer/)
 
 ### Insiders
 
