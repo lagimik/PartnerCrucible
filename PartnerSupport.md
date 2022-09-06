@@ -20,12 +20,10 @@ The Microsoft Canada Global Partner Solutions Technical Team will provide techni
 
 Option | Description | Link
 :----- | :---------- | :---
-Support | Create an online request for all programs supported in Partner Center. In Partner Center, we'll provide you with a personalized experience. | [Partner Support](http://partner.microsoft.com/support)
-Cloud Enablement Desk | Your dedicated expert can help you connect to customers through marketplaces, co-sell with Microsoft, take advantage of Microsoft partner resources, build your business through competencies, activate your benefits, use technical training, and more.|[Cloud Enablement Desk Nomination](http://aka.ms/cednominate)
-Technical Pre-sales & Deployment |...|[TPSD](http://aka.ms/TPDTechnicalServices)
-Advanced Support for Partners|...|Support plan offer: aka.ms/ASfP
-Premier Support for Partners|...|Support plan offer: aka.ms/PSfP
-Partner Architecture Desk |...|Email: PADesk@microsoft.com
+ [Partner Support](http://partner.microsoft.com/support) | Create an online request for all programs supported in Partner Center. In Partner Center, we'll provide you with a personalized experience. |
+[Technical Presales and Deployment Services](https://docs.microsoft.com/en-us/partner-center/technical-benefits) |Use Technical Presales and Deployment services (TPD) for remote, personalized, one-to-one consultations to build your technical capabilities faster, so you can increase sales, deploy more effectively, and accelerate app development.| [Create a Technical Presales and Deployment Services (TPD) request](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest).
+[Advanced Support for Partners](https://aka.ms/ASfP)|Keep your customers satisfied and your business running smoothly with quick and elevated technical support benefits for Microsoft Azure, Microsoft365 and Dynamics365, a closer relationship with Microsoft and access to proactive cloud enablement services.|
+[Premier Support for Partners](https://aka.ms/PSfP)|icrosoft Premier Support for Partners offers complete, end-to-end managed support across the full Microsoft platform to meet your complex needs, expand your capabilities in the cloud, and collaborate more strategically with Microsoft.| ...|
 
 ## Partner Support FAQ
 
