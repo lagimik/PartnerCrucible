@@ -56,7 +56,7 @@ In the coming releases I will be sharing the signal from:
 
 ### Mainstream
 
-The general, all inclusive approach includes [Partner.microsoft.com | Partners make more possible](https://partner.microsoft.com/en-US/), although it can be challenging to sift through.
+The general, all inclusive approach includes [Partner.microsoft.com - Partners make more possible](https://partner.microsoft.com/en-US/), although it can be challenging to sift through.
 
 ### Insiders
 
