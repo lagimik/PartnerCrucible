@@ -28,13 +28,14 @@ NOUN
 
 ## How
 
-**signal:noise** articles will be inspired by the wide range of interactions between the authors and the the Canadian technology ecosystem. Apologies in advance if you recognize the circumstances described. 
+**signal:noise** articles will be inspired by the wide range of interactions between the authors and the the Canadian technology ecosystem. Some inpiring, and some highlithing real challenges. (Apologies in advance if you recognize the circumstances described.)
 
-This blog isn't about pointing out errors; but will ensure we learn as much from them as we can. At the same time, **signal:noise** will also showcase what good looks like. The blog is akin to an **op-ed** that unpacks the assumptions and mindsets behind the stories and really digging into what it takes to deliver through the changes. 
+This blog isn't about pointing out errors; but will ensure we learn as much from them as we can. At the same time, **signal:noise** will also showcase what good looks like. The blog is akin to an **insider release** that points to key resources, unpacks the assumptions and mindsets, leans into what it takes to deliver through the changes. 
+
 
 ## When
 
-Articles will be published as inspiration hits.  
+Articles will be published as inspiration strikes.  
 
 ## Who
 
