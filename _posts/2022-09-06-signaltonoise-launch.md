@@ -13,7 +13,7 @@ In North America, September has a special energy: a particular blend of cool air
 
 The pace of change is relentless. Your social feeds are probably are overflowing with announcements, and opinions. There are a number sources, many of them excellent, that chronicle (or comment on) how all this is unfolding. However, identifying meaning paths forward , or finding real signal across these disparate points, is challenging.
 
-**signal:noise** aims to provide points of view from experts and practitioners to help you identify the paths that carry the most signal and can accelerate your digital (or cloud) ambitions. In doing so, the blob may challenge popular narratives, openly highlight uncertainty, and test your comfort levels for engaging at the edge.
+**signal:noise** aims to provide points of view from experts and practitioners to help you identify the paths that carry the most signal and can accelerate your digital (or cloud) ambitions. In doing so, the blog may challenge popular narratives, openly highlight uncertainty, and test your comfort levels for engaging at the edge.
 
 ## What
 ### signal:noise
@@ -39,7 +39,7 @@ Articles will be published as inspiration strikes, or subject to pull requests. 
 
 ## Who
 
-I am a Partner Technology Strategist for Microsoft Canada. I am privileged to work with exceptional peers and partners. Although my reflections, and those of my collaborators, are triggered by my experiences in the Canadian technology ecosystem, our thoughts are our own. 
+I am a Partner Technology Strategist for Microsoft Canada. I am privileged to work with exceptional peers and partners. Although my reflections, and those of my collaborators, are triggered by our experiences in the Canadian technology ecosystem, our thoughts are our own. 
 
 ## Way forward
 
@@ -47,7 +47,7 @@ At the end of each post, **signal:noise** will  present (at least) 2 paths forwa
 - Mainstream - more noise
 - Insider - more signal
 
-In the coming releases I will be sharing the signal on topics inspired by the ecosystem. These will include:
+In the coming releases we will be sharing the signal on topics inspired by the ecosystem. These will include:
 
 - Innovation
 - Inclusive Design and Design Thinking
@@ -62,5 +62,7 @@ The general, all inclusive, way forward includes [Partner.microsoft.com - Partne
 
 ### Insider
 
-As a first insider's view, I'd invite you to explore the [Partner Crucible](https://lagimik.github.io/PartnerCrucible/): this project aims to serve as an entry point into the wealth of information and services available to Canadian Microsoft partners. The Partner Crucible will curate links, models, and insights to ensure our partners have an overview and a quick path forward.
+For the first **insider view**, we would invite you to explore the [Partner Crucible](https://lagimik.github.io/PartnerCrucible/): we are convinced there are resources you have yet to leverage.
+
+More posts coming soon!
 
