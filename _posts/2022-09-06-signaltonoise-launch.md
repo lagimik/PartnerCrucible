@@ -9,13 +9,13 @@ date: 2022-09-06
 
 In North America, September has a special energy: a particular blend of cool air, excitement, and maybe even a little fear. This seems like a perfect time to launch a blog for technology partners.
 
-## Why
+## Why?
 
 The pace of change is relentless. Your social feeds are probably are overflowing with announcements, and opinions. There are a number sources, many of them excellent, that chronicle (or comment on) how all this is unfolding. However, identifying meaning paths forward , or finding real signal across these disparate points, is challenging.
 
 **signal:noise** aims to provide points of view from experts and practitioners to help you identify the paths that carry the most signal and can accelerate your digital (or cloud) ambitions. In doing so, the blog may challenge popular narratives, openly highlight uncertainty, and test your comfort levels for engaging at the edge.
 
-## What
+## What?
 ### signal:noise
 ```
 sig-nal-to-noise-ra-tio 
@@ -26,18 +26,18 @@ NOUN
 ```
 Simply put, **signal:noise** aims to increase the ratio of useful information.
 
-## How
+## How?
 
 **signal:noise** articles will be inspired by the wide range of interactions between the authors and the the Canadian technology ecosystem. Some inspiring, and some highlighting real challenges. (Apologies in advance if you recognize the circumstances described.)
 
 This blog isn't about pointing out errors; but will ensure we learn as much from them as we can. At the same time, **signal:noise** will also showcase what good looks like. The blog is akin to an **insider release** that points to key resources, unpacks the assumptions and mindsets, leans into what it takes to deliver through the changes. 
 
 
-## When
+## When?
 
 Articles will be published as inspiration strikes, or subject to pull requests. Which ever comes first.  
 
-## Who
+## Who?
 
 I am a Partner Technology Strategist for Microsoft Canada. I am privileged to work with exceptional peers and partners. Although my reflections, and those of my collaborators, are triggered by our experiences in the Canadian technology ecosystem, our thoughts are our own. 
 
