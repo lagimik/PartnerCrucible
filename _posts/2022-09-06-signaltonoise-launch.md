@@ -24,7 +24,7 @@ NOUN
 - the ratio of the strength of an electrical or other signal carrying information to that of interference, generally expressed in decibels. 
 - a measure of how much useful information there is in a system, such as the internet, as a proportion of the entire contents. 
 ```
-Simply put, singal:noise aims to increase the ratio of useful information.
+Simply put, **signal:noise** aims to increase the ratio of useful information.
 
 ## How
 
@@ -50,9 +50,11 @@ At the end of each post, **signal:noise** will  present (at least) 2 paths forwa
 In the coming releases I will be sharing the signal on topics inspired by the ecosystem. These will include:
 
 - Innovation
-- Digital native principles
+- Inclusive Design and Design Thinking
+- Digital principles
 - Ninja-level craftsmanship 
 - Events, such as [Microsoft Ignite (Oct 12-14)](https://ignite.microsoft.com/)
+- ...
 
 ### Mainstream
 
@@ -60,5 +62,5 @@ The general, all inclusive, way forward includes [Partner.microsoft.com - Partne
 
 ### Insider
 
-As a first insider's view, I'd invite you to explore the [Partner Crucible](https://lagimik.github.io/PartnerCrucible/). This project aims to serve as an entry point into the wealth of information and services available to Canadian Microsoft partners. The Partner Crucible will curate links, models, and insights to ensure our partners have an overview and a quick path forward.
+As a first insider's view, I'd invite you to explore the [Partner Crucible](https://lagimik.github.io/PartnerCrucible/): this project aims to serve as an entry point into the wealth of information and services available to Canadian Microsoft partners. The Partner Crucible will curate links, models, and insights to ensure our partners have an overview and a quick path forward.
 
