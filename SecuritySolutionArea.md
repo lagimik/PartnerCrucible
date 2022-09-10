@@ -32,6 +32,7 @@ Source | Description | Notes
 [Sentinel Migration Guides](https://docs.microsoft.com/en-us/azure/sentinel/migration)| These are detailed guides to migrate from ArcSight, QRadar and Splunk; migrate historical data, convert dashboards to workbooks and update SOC processes.|
 [Microsoft Sentinel Black Belt](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-earn-your-microsoft-sentinel-black-belt-digital-badge/ba-p/3071558)| New for 2022, our Cloud Security Private Community Digital Badge program has introduced a new L5 Microsoft Sentinel Black Belt Digital Badge for you to earn and display proudly to show your prowess as a Microsoft recognized expert and contributor to the product.|...
 [Sentinel Ninja](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310)| Sentinel Ninja Training
+[The Art and Science of Threat Hunting](https://www.microsoft.com/security/blog/2022/09/08/part-1-the-art-and-science-of-threat-hunting/) | From Microsoft Security Experts and Microsoft Detection and Response Team (DART) | September 2022
 
 ### Microsoft Lighthouse
 
