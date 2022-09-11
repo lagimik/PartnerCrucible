@@ -8,7 +8,7 @@
 [< Back to Crucible](./)
 
 ## Purpose
-A Collection of resources for Microsoft practice building in the Power platform solution area. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md). To contribute to this section, see [Contributer's Guide](Contributing.md)
+A Collection of resources for Microsoft practice building in the Power platform solution area. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md). To contribute to this section, see [Contributors Guide](Contributing.md)
 
 ## Practice References
 

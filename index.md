@@ -7,6 +7,7 @@
 This project aims to serve as an *entry point* into the wealth of information and services available to Canadian Microsoft partners. The Partner Crucible will curate links, models, and insights to ensure our partners have an overview and a quick path forward. 
 
 This site viewed <span id="PartnerCrucible"></span> times.
+(Counter by [CountAPI](https://countapi.xyz/))
 
 ### Innovation
 - [Innovation at Microsoft](./InnovationatMicrosoft)
@@ -42,7 +43,7 @@ This site viewed <span id="PartnerCrucible"></span> times.
 - [Azure Defender for IoT](./AzureDefenderIoT)
 
 ### Business Applications Solution Area
-- [Busines Applications Solution Area](./BusinessApplicationsSolutionArea)
+- [Business Applications Solution Area](./BusinessApplicationsSolutionArea)
 
 ### Data and AI Solution Area
 - [Data and AI solution Area](./DataAISolutionArea.md)
