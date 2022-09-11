@@ -3,7 +3,7 @@ title: "signal-noise-devops"
 date: 2022-09-03
 ---
 
-![Signal to Noise](/PartnerCrucible/Library/signaltonoise-title.png)
+![Signal to Noise](/PartnerCrucible/Library/signaltonoise-devops.png)
 
 This article refreshes a perspective originally published in 2018: [Why your business should care about DevOps](https://cloudblogs.microsoft.com/industry-blog/en-ca/uncategorized/2018/05/24/why-your-business-should-care-about-devops/)
 
@@ -12,19 +12,19 @@ This article refreshes a perspective originally published in 2018: [Why your bus
 DevOps, or BizDevSecOps, helps reinforce the organization's capability to to deal with business changes in the wake of disruptions. 
 It is a compliment to the strategic planning work, providing the approach for organizations to hypothesize, validate assumptions and adjust to changing conditions. 
 
-However, accelerated digital transformation and a global pandemic do not seem to have deterred many organisations from attempting to conduct business-as-usual. On the business end of things: confirmation by fax still occurs. Business teams expect perfect portals without rolling up their sleave to make them work. And somehow data is still just a byproduct of using an application. From a technology standpoint, many cybersecurity and infrastructure squads still do not have software development skills on their team. 
+However, accelerated digital transformation and a global pandemic do not seem to have deterred many organisations from attempting to conduct business-as-usual. Examples on the business end of things: confirmation by fax still occurs. Transformation project RFP are awarded to staff augmentation firms. Technology teams are not exemplary either: many cybersecurity and infrastructure squads still do not have software development skills on their team. 
 
-How can we reconcile these observations in the context of digital economies and platforms as services? This blog will continue to argue that the organizational willingness to experiment and prevailing views of failure warrant a closer look.
+How can we reconcile these observations in the context of digital economies and platforms as services? This blog will continue to argue that the organizational willingness to experiment and prevailing views of failure are the key enablers, or deterrents, to change.
 
 ## Experimenting towards purpose and value
 
-When this post was first published the World Economic Forum published new digital business models are the principal reason why just over half of the names of companies on the Fortune 500 have disappeared since the year 2000. See [Digital disruption has only just begun](https://www.weforum.org/agenda/2016/01/digital-disruption-has-only-just-begun/).
+When this post was first posted the World Economic Forum published new digital business models are the principal reason why just over half of the names of companies on the Fortune 500 have disappeared since the year 2000. See [Digital disruption has only just begun](https://www.weforum.org/agenda/2016/01/digital-disruption-has-only-just-begun/).
 
 Today, The World Economic Forum is committed to helping companies leverage technology to become more agile in the face of disruption, and to fostering digitally-enabled business models. [Digital Economy](https://www.weforum.org/topics/future-of-the-internet/). There is little doubt that the digital enablement of business, and entire industries in well underway.
 
 
 ## Fail fast, fail forward
-Somewhere along the way, under the pretext of risk management, *failure* was cast out of the club of viable leadership moments.In fact, factors such as organizational structure, processes, and workplace culture have traditionally reinforced patterns of risk avoidance.
+Somewhere along the way, under the pretext of risk management, *failure* was cast out of the club of viable leadership moments. In fact, organizational structure, processes, and workplace culture have traditionally reinforced patterns of risk avoidance.
 
 Quite the opposite, DevOps assumes that things will fail and makes it safe to do so early in the cycle. Designing for failure and shifting left are DevOps practices that handle failure gracefully. Indeed, learning to fail forward is a key step in beginning to frame mindsets around failure. DevOps reduces operational risk without sacrificing the vital learning opportunities. This commitment to learning is a key enabler to the success of emerging DevOps teams.
 
