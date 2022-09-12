@@ -12,7 +12,7 @@ This article refreshes a perspective originally published in 2018: [Why your bus
 DevOps, or BizDevSecOps, helps reinforce the organization's capability to to deal with business changes in the wake of disruptions. 
 It is a compliment to the strategic planning work, providing the approach for organizations to hypothesize, validate assumptions and adjust to changing conditions. 
 
-However, accelerated digital transformation and a global pandemic do not seem to have deterred many organisations from attempting to conduct business-as-usual. Examples on the business end of things: confirmation by fax still occurs. Transformation project RFP are awarded to staff augmentation firms. Technology teams are not exemplary either: many cybersecurity and infrastructure squads still do not have software development skills on their team. 
+However, accelerated digital transformation and a global pandemic do have not deterred many organisations from attempting to conduct business-as-usual. Examples on the business end of things: confirmation by fax still occurs. Transformation project RFP are awarded to staff augmentation firms. Technology teams are not exemplary either: many cybersecurity and infrastructure squads still do not have software development skills on their team. 
 
 How can we reconcile these observations in the context of digital economies and platforms as services? This blog will continue to argue that the organizational willingness to experiment and prevailing views of failure are the key enablers, or deterrents, to change.
 
