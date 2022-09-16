@@ -11,7 +11,8 @@ This site viewed <span id="PartnerCrucible"></span> times.
 
 ### Innovation
 - [Innovation at Microsoft](./InnovationatMicrosoft)
-  
+- [Accessibility](./MicrosoftAccessibility
+  )  
 ### Partner Practice Building
 - [Partner Portals](./PartnerPortals)
 - [Partner Support](./PartnerSupport)
