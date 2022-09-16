@@ -23,6 +23,14 @@ Source | Description | Notes
 [PAL Howto: Video](https://partner.microsoft.com/en-us/resources/detail/setting-up-partner-admin-link-video-mp4)|...| Requires MPN Login
 [PAL FAQ](https://partner.microsoft.com/en-us/resources/detail/pal-partner-faq-docx)| Frequently Asked Questions| Requires MPN Login
 
+### Kusto Query Language (KQL)
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[Detective Kusto](https://detective.kusto.io/) | Interactive Kusto Cases | ...
+
+
+
 ### Azure Arc
 
 Source | Description | Notes
