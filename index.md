@@ -15,7 +15,7 @@ This site viewed <span id="PartnerCrucible"></span> times.
 ### Partner Practice Building
 - [Partner Portals](./PartnerPortals)
 - [Partner Support](./PartnerSupport)
-- [Practice Building](./PracticeBuilding)
+- [Practice Building and Profitability](./PracticeBuilding)
 - [Sales Enablement](./SalesEnablement)
 - [Learning Resources](./LearningResources)
 - [Ressources pour le perfectionnement (français)](./LearningResourcesFrench)
