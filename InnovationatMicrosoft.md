@@ -19,5 +19,6 @@ Source | Description | Notes
 [Microsoft Research Blog](https://www.microsoft.com/en-us/research/blog/) | ... |...
 [Microsoft Research Podcast](https://www.microsoft.com/en-us/research/podcast/) | ... |
 [Behind the Tech with Kevin Scott](https://www.microsoft.com/en-us/behind-the-tech) | Join Chief Technology Officer Kevin Scott for Behind the Tech, a podcast that goes behind-the-scenes with today’s most innovative tech leaders. | 
+[Work Lab](https://www.microsoft.com/en-us/worklab) | Exploring the Science of Work and Ingenuity | ...
 
 [< Back to Crucible](./)

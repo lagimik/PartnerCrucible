@@ -24,6 +24,7 @@ Source | Description | Notes
 ## Hybrid
 Source | Description | Notes
 :----- | :-----  | :-----
+[Work Lab](https://www.microsoft.com/en-us/worklab) | Exploring the Science of Work and Ingenuity | ...
 [How to Hybrid: The WorkLab Guides](https://www.microsoft.com/en-us/worklab/hybrid-work-guides)| Here are your practical guides to in-person and asynchronous collaboration, resetting work-life balance, and getting hybrid meetings right.|...
 
 ## Viva
