@@ -9,6 +9,8 @@ This project aims to serve as an *entry point* into the wealth of information an
 This site viewed <span id="PartnerCrucible"></span> times.
 (Counter by [CountAPI](https://countapi.xyz/))
 
+See the most recent changes in the [Changelog](./PartnerCrucibleChangelog.md)
+
 ### Innovation
 - [Innovation at Microsoft](./InnovationatMicrosoft)
 - [Accessibility](./MicrosoftAccessibility

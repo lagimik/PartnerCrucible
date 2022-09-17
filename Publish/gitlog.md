@@ -1,0 +1,1 @@
+git log --graph --abbrev-commit --name-status --decorate --format=format:' %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset))' --all > changelog.md                          
