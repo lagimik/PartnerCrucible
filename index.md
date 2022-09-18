@@ -9,7 +9,7 @@ This project aims to serve as an *entry point* into the wealth of information an
 This site viewed <span id="PartnerCrucible"></span> times.
 (Counter by [CountAPI](https://countapi.xyz/))
 
-See the most recent changes in the [Changelog](./PartnerCrucibleChangelog.md)
+See the most recent changes in the [Changelog](./PartnerCrucibleChangelog)
 
 ### Innovation
 - [Innovation at Microsoft](./InnovationatMicrosoft)
@@ -29,13 +29,13 @@ See the most recent changes in the [Changelog](./PartnerCrucibleChangelog.md)
 - [ISV](./ISV)
 - [Cloud Solution Provider](./CSP)
 - [Software as a Service](./SaaS)
-- [Commercial Marketplace Offers](./CommercialMarketplaceOffers.md)
+- [Commercial Marketplace Offers](./CommercialMarketplaceOffers)
 - [FinOps](./FinOps)
   
 ### Solution Areas
 - [Solution Area Taxonomy](./Taxonomy)
-- [Solution Partner](./SolutionPartners.md)
-- [Industry Clouds](./IndustryCloud.md)
+- [Solution Partner](./SolutionPartners)
+- [Industry Clouds](./IndustryCloud)
 
 ### Infrastructure Solution Area
 - [Infrastructure](./AzureInfrastructureSolutionArea)
@@ -49,7 +49,7 @@ See the most recent changes in the [Changelog](./PartnerCrucibleChangelog.md)
 - [Business Applications Solution Area](./BusinessApplicationsSolutionArea)
 
 ### Data and AI Solution Area
-- [Data and AI solution Area](./DataAISolutionArea.md)
+- [Data and AI solution Area](./DataAISolutionArea)
   
 ### Power Platform Solution Area
 - [Power Platform Solution Area](./PowerPlatformSolutionArea)
