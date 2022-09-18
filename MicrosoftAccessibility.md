@@ -1,6 +1,6 @@
 # Microsoft Accessibility
 
-![PowerApps](./Library/PowerApps_256x256.png)
+![PowerApps](./Library/Acc%2BBadge%2Bv4.png)
 
 
 [< Back to Crucible](./)
