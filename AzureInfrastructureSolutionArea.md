@@ -1,12 +1,10 @@
-
-
 # Azure Infrastructure Solution Area
 [< Back to Crucible](./)
 
 ## Purpose
 
-![Azure Infrastructyure](./Library/Azure-Logo.png)
-A Collection of resources for Microsoft practice building in the Azure solution area. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md). To contribute to this section, see [Contributer's Guide](Contributing.md)
+![Azure Infrastructure](./Library/Azure-Logo.png)
+A Collection of resources for Microsoft practice building in the Azure solution area. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md). To contribute to this section, see [Contributor's Guide](Contributing.md)
 
 ## References
 

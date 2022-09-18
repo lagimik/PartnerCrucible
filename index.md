@@ -39,6 +39,7 @@ See the most recent changes in the [Changelog](./TheChangelog)
 
 ### Infrastructure Solution Area
 - [Infrastructure](./AzureInfrastructureSolutionArea)
+- [5G](./AzureInfrastructureSolutionArea-5G.md)
 
 ### Security Solution Area
 - [Security](./SecuritySolutionArea)
