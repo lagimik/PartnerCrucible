@@ -1,5 +1,7 @@
 # Security Solution Area
 
+![Sentinel](./Library/sentinel-logo.png)
+
 [< Back to Crucible](./)
 
 ## Purpose
