@@ -20,11 +20,13 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
+[Get Started with Java on Azure](https://learn.microsoft.com/en-us/training/paths/get-started-java-azure/) | Start here and learn how you can build, migrate and scale Java applications on Azure using Azure services. Use tools and frameworks that you know and love – Spring, Tomcat, WildFly, JBoss, WebLogic, WebSphere, Maven, Gradle, IntelliJ, Eclipse, Jenkins, Terraform and more.| MS Learn
 [Java on Azure](https://aka.ms/partner/java)| prerecorded, online course, you'll learn how Microsoft Azure supports Java workload and processes with several options. Watch this video series to understand how Azure App Service, Azure Spring Cloud, Azure Kubernetes Service, and Azure managed database services help you to focus on writing code instead of on deployment complexities|...
 [Code, deploy, and scale Java your way](https://developer.microsoft.com/en-us/java) | Microsoft supports your workload with abundant choices, whether you're working on a Java app, app server, or framework.| 
 [Microsoft is committed to the success of Java developers](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/microsoft-is-committed-to-the-success-of-java-developers/ba-p/3612306) | Blog post by Julia Liuson | August 2022
 
 ### IoT
+
 Source | Description | Notes
 :----- | :---------- | :----
 [Partner Innovation series: smarter buildings with Azure Digital Twins](https://blogs.partner.microsoft.com/mpn/partner-innovation-series-smarter-buildings-with-azure-digital-twins/?wt.mc_id=OCPM_AZU_OR_LI_CSO_GL_digital) | Willow is modernizing and transforming the real estate, infrastructure, and mining industries with WillowTwinTM — a SaaS platform built on Azure Digital Twins that makes buildings and spaces smart and more efficient.|...
