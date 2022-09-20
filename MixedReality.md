@@ -22,7 +22,7 @@ Source | Description | Notes
 [Mesh Innovation blog: Innovation Stories blog](https://aka.ms/aaaxf16) | |
 [Mesh home](https://Microsoft.com/mesh) | |
 [Video: Microsoft Mesh – Ignite Session](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2Fmeshignite&data=04%7C01%7CSimon.Skaria%40microsoft.com%7C342db9e0912f4952c79308d8e2773803%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637508348959907679%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=kh56Ju0qfx7%2BRwifARH7ZEaHz3SXETovq7cOWSFKmUY%3D&reserved=0)| Mesh Ignite Featured session |
-[Mesh Tech Overview blog](https://aka.ms/mesh-tech-blog)
+[Mesh Tech Overview blog](https://aka.ms/mesh-tech-blog) | |
 [See the Microsoft Mesh announcement](https://aka.ms/MicrosoftMesh) | |
 [Watch the Microsoft Mesh Hero video](https://aka.ms/meshvisionvideo ) | |
 [Microsoft Mesh Updates](https://Microsoft.com/mesh) | | 
