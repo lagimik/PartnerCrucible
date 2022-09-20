@@ -18,6 +18,12 @@ Source | Description | Notes
 [Azure blog](https://azure.microsoft.com/en-us/blog/)|...|...
 [Azure updates](https://azure.microsoft.com/en-us/updates/)|...|
 [Partner Admin Link](https://partner.microsoft.com/en-us/asset/collection/partner-admin-link#/)|Partner Admin Link (PAL) enables Microsoft to identify and recognize partners who drive Azure customer success. Optimized for managed services where your organization is acting on behalf of the customer, PAL allows you to associate your MPN ID with the credentials that you use to deliver services within the customer's Azure tenant.| Required MPN Login
+
+### Partner Admin Link (PAL)
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[Get Recognized for Driving Azure Consumption](https://aka.ms/PALWebcast) | |  MS US
 [PAL Howto: Video](https://partner.microsoft.com/en-us/resources/detail/setting-up-partner-admin-link-video-mp4)|...| Requires MPN Login
 [PAL FAQ](https://partner.microsoft.com/en-us/resources/detail/pal-partner-faq-docx)| Frequently Asked Questions| Requires MPN Login
 
