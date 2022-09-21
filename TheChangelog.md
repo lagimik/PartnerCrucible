@@ -15,7 +15,6 @@ Time | Change | File
 :--- | :----- | ---:
 2022-09-20 | added CISO workshop training | [See changes here](./SecuritySolutionArea.md)
 2022-09-20 | added Afternoon Cyber Tea Podcast | [See changes here](./SecuritySolutionArea.md)
-2022-09-19 | fixed markdown | [See changes here](./)
 2022-09-19 | added Java on Azure MS Learn module | [See changes here](./igitalAppsandInnovationSolutionArea.md)
 2022-09-19 | Building out PAL section | [See changes here](./AzureInfrastructureSolutionArea.md)
 2022-09-19 | John Saville Youtube channel | [See changes here](./earningResources.md)
@@ -33,6 +32,6 @@ Time | Change | File
 2022-09-14 | added Detective Kusto | [See changes here](./AzureInfrastructureSolutionArea)
 2022-09-13 | Tech Talks: Power Platform Partner Call Series | [See changes here](./PowerPlatformSolutionArea)
 2022-09-12 | added project Orland | [See changes here](./ModernWorkSolutionArea)
-2022-09-09 | added threat hunting blog)| [See changes here](./SecuritySolutionArea)
+2022-09-09 | added threat hunting blog| [See changes here](./SecuritySolutionArea)
 
 [< Back to Crucible](./)
