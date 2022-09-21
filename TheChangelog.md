@@ -10,6 +10,7 @@ This changelog reflects recent the Partner Crucible updates.
 ## Changelog
 
 ###  Week of September 16, 2022
+
 Time | Change | File
 :--- | :----- | ---:
 2022-09-20 | added CISO workshop training | [See changes here](./SecuritySolutionArea.md)
