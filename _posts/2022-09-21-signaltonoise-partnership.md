@@ -3,9 +3,9 @@ title: "Signal:Noise - What's in a partnership?"
 date: 2022-09-21
 ---
 
-## TL;DR
+![Signal to Noise](/PartnerCrucible/Library/signaltonoise-partnership.png)
 
-I get many request from partners on starting the partnership journey will Microsoft. In most cases, there isn't a common view of what the partnership entails or affords. 
+## TL;DR
 
 The partnership connects Microsoft and partner  business and technical activities. To do this, partners engage with Microsoft in the following manner: 
 
@@ -18,7 +18,9 @@ IA collection of links to key resources for partners in the [PartnerCrucible](ht
 
 ## The path to partnership
 
- The technology landscape is dynamic, and each market, industry, and segment has their own opportunites and challenges. For this reason there is no single recipe for success.
+I get many request from partners on starting the partnership journey will Microsoft. In most cases, there isn't a common view of what the partnership entails or affords. 
+
+ The technology landscape is dynamic, and each market, industry, and segment has their own opportunities and challenges. For this reason there is no single recipe for success.
 
  However, there are some key pillars that frame partnerships one which everything is then built. 
 
