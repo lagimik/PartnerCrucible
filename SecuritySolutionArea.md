@@ -17,6 +17,7 @@ Source | Description | Notes
 [SCI partner enablement guide](https://assetsprod.microsoft.com/mpn/en-us/security-compliance-identity-partner-enablement-guide.pdf)| Top news, upcoming training, certifications and exams, and additional resources updated ~monthly | PDF Download <br>Requires MPN
 [Security, Compliance, and Identity training and certifications](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4J4Mm)| This guide has been created to provide training and certification options to achieve personal success.
 [Security Build Intent Workshop](https://cloudpartners.transform.microsoft.com/workshops/cloud-accelerators?tab=security)| Azure credits for customer workshop delivery Microsoft 365 & Security for Partners | ...
+[The Chief Information Security Officer (CISO) Workshop Training](https://learn.microsoft.com/en-us/security/ciso-workshop/the-ciso-workshop) | The Chief Information Security Office (CISO) workshop helps accelerate security program modernization with reference strategies built using Zero Trust principles. | Microsoft Learn
 
 ### Architecture
 
