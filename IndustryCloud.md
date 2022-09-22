@@ -15,6 +15,12 @@ Source | Description | Notes
 [Industry Resources](https://microsoft.github.io/PartnerResources/industry/)| Industry resources| Microsoft US
 [Industry Cloud Partner Sandboxes](https://experience.dynamics.com/requestlicense/)|This portal is used for SI/ISV Connect partners to obtain free or discounted non-production environment licenses with Biz Apps and Power Platform products to learn, test, and deliver end-to-end customer demos with their own solutions. These offers are to be used only on partner tenants, never on customer tenants.| Inclides Cloud for Sustainability, FSI, Healthcare, Retail, Nonprofit
 
+### Canada Federal Government
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[Azure Landing Zones for Canadian Public Sector](https://github.com/Azure/CanadaPubSecALZ/) | The purpose of the reference implementation is to guide Canadian Public Sector customers on building Landing Zones in their Azure environment. | GitHub repo
+
 ### Sustainability
 
 Source | Description | Notes
