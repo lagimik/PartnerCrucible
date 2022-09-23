@@ -19,6 +19,12 @@ Source | Description | Notes
 [Azure updates](https://azure.microsoft.com/en-us/updates/)|...|
 [Partner Admin Link](https://partner.microsoft.com/en-us/asset/collection/partner-admin-link#/)|Partner Admin Link (PAL) enables Microsoft to identify and recognize partners who drive Azure customer success. Optimized for managed services where your organization is acting on behalf of the customer, PAL allows you to associate your MPN ID with the credentials that you use to deliver services within the customer's Azure tenant.| Required MPN Login
 
+### Azure Tools
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[Azure Latency Test](https://www.azurespeed.com/Azure/Latency) | This tool runs latency test from your IP location to Azure datacenters around the world. | 
+
 ### Partner Admin Link (PAL)
 
 Source | Description | Notes
