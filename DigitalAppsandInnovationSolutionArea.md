@@ -18,6 +18,7 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :---------- | :----
 [DevOps Dojo](https://devblogs.microsoft.com/devops/intro-of-devops-dojo/)| Introductions to DevOps Dojo and links to additional topics | May 2021
+[The Total Economic Impact Of GitHub Enterprise](https://resources.github.com/downloads/TEI-of-GitHub-Enterprise.pdf?wt.mc_id=riul8kgm) | GitHub commissioned Forrester Consulting to conduct a Total Economic Impact (TEI) study and examine the potential return on investment (ROI) enterprises may realize by deploying GitHub Enterprise, subsequently referred to as GitHub | 2022 Forrester.
 [Developer Velocity Assessment](https://developervelocityassessment.com/)| By answering a few simple questions, you can benchmark your maturity score relative to peers in your industry. Then, get actionable guidance to boost Developer Velocity and drive better business results.| June 2022
 [DevOps Self Assessment from DORA, ITRev and MS](https://devblogs.microsoft.com/devops/devops-self-assessment-from-dora-itrev-and-ms/)| Nicole Forsgren, Gene Kim, participants of the DevOps Enterprise Forum and I collaborated on a free starter self-assessment for your team’s DevOps performance | 2017
 
