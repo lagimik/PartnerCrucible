@@ -39,9 +39,18 @@ Source | Description | Notes
 
 
 ### Zero Trust
+
 Source | Description | Notes
 :----- | :---------- | :----
 [Learn How to Implement Zero Trust in Your Public Sector Organization](https://docs.microsoft.com/en-us/users/mlg62022/collections/xkmgiy1oe25qmd) | In this collection, learn more about the importance of a Zero Trust strategy and how to implement it. | Microsoft Learn Collection
+
+### Azure Active Directory
+
+Source | Description | Notes
+:----- | :---------- | :----
+[Woodgrove Groceries](https://woodgrovedemo.com/) | WoodGrove Groceries is a live web application created by Microsoft to demonstrate several Azure AD B2C features. | |
+[Woodgrove Employee](https://woodgroveemployee.azurewebsites.net/landing) | Azure AD demo|
+
 
 ### Sentinel
 
