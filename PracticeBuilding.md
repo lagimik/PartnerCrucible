@@ -1,4 +1,4 @@
-# Practice Building
+# Practice Building and Profitability
 [< Back to Crucible](./)
 
 ## Purpose
