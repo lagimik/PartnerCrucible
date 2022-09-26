@@ -21,6 +21,7 @@ Source | Description | Notes
 [The Total Economic Impact Of GitHub Enterprise](https://resources.github.com/downloads/TEI-of-GitHub-Enterprise.pdf?wt.mc_id=riul8kgm) | GitHub commissioned Forrester Consulting to conduct a Total Economic Impact (TEI) study and examine the potential return on investment (ROI) enterprises may realize by deploying GitHub Enterprise, subsequently referred to as GitHub | 2022 Forrester.
 [Developer Velocity Assessment](https://developervelocityassessment.com/)| By answering a few simple questions, you can benchmark your maturity score relative to peers in your industry. Then, get actionable guidance to boost Developer Velocity and drive better business results.| June 2022
 [DevOps Self Assessment from DORA, ITRev and MS](https://devblogs.microsoft.com/devops/devops-self-assessment-from-dora-itrev-and-ms/)| Nicole Forsgren, Gene Kim, participants of the DevOps Enterprise Forum and I collaborated on a free starter self-assessment for your team’s DevOps performance | 2017
+[State of DevOps Report](https://media.webteam.puppet.com/uploads/2021/07/Puppet-State-of-DevOps-Report-2021.pdf) | [...]for every team “doing DevOps” well, there are far too many organizations that have been stuck in the middle of their DevOps evolutionary journey for far too long—even if there are pockets of success in which individual teams are highly evolved| Puppet 2021
 
 ### Java
 
