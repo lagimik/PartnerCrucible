@@ -3,6 +3,7 @@
 
 ## Purpose
 
+A collection of partner resources related to practice building from profitability and growth, to skilling journeys, to ensuring recognition for your successes.
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
