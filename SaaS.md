@@ -18,3 +18,4 @@ Source | Description | Notes
 [Community Sample Code and SDK for SaaS Applications](https://github.com/Azure/Commercial-Marketplace-SaaS-Accelerator)| his project is a community-supported reference implementation for integrating Software-as-a-Service (SaaS) solutions with Microsoft commercial marketplace SaaS offers. | Version 6.0.0
 
 [< Back to Crucible](./)
+
