@@ -4,6 +4,8 @@
 
 ## Purpose
 
+To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
+
 ### Global PArtner Services (GPS) Technical Team
 
 The Microsoft Canada Global Partner Solutions Technical Team will provide technical enablement as part of the build-with motion for your team. This would include the following:

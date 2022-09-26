@@ -6,6 +6,9 @@
 
 A collection of learning resources that span the Microsoft solution areas.
 
+To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
+
+
 ## References
 
 Source | Description | Notes

@@ -4,7 +4,9 @@
 
 ## Purpose
 
-A collection of resources for ideas stemming from rasearch and innovation at Microsoft. To contribute to this section, see [Contributer's Guide](Contributing.md)
+A collection of resources for ideas stemming from rasearch and innovation at Microsoft. 
+
+To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
 ## References
 

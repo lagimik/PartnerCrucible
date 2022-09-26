@@ -6,7 +6,9 @@
 [< Back to Crucible](./)
 
 ## Purpose
-A Collection of resources for Microsoft practice building in with a focus on accessibility.  To contribute to this section, see [Contributors Guide](Contributing.md)
+A Collection of resources for Microsoft practice building in with a focus on accessibility.  
+
+To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
 ## Practice References
 

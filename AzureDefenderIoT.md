@@ -5,6 +5,9 @@
 
 A collection of resources for Defender for IoT.
 
+To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
+
+
 ## References
 
 

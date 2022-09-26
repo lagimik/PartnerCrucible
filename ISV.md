@@ -4,7 +4,9 @@
 
 ## Purpose
 
-Collection of resources for ISVs. To contribute to this section, see [Contributer's Guide](Contributing.md)
+Collection of resources for ISVs. 
+
+To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
 ## References
 

@@ -4,7 +4,10 @@
 
 ## Purpose
 
-The collection of links to Microsoft partner portals
+The collection of links to Microsoft partner portals.
+
+To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
+
 
 ## References
 

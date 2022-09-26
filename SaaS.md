@@ -3,7 +3,9 @@
 
 ## Purpose
 
-A collection of partner resources for build a Software as a Service offering. To contribute to this section, see [Contributer's Guide](Contributing.md)
+A collection of partner resources for build a Software as a Service offering. 
+
+To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
 
 ## References

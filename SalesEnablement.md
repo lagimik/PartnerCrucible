@@ -4,7 +4,8 @@
 
 ## Purpose
 
-..
+To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
+
 
 ## References
 

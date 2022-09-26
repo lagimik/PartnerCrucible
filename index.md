@@ -11,6 +11,10 @@ This site viewed <span id="PartnerCrucible"></span> times.
 
 See the most recent changes in the [Changelog](./TheChangelog)
 
+## Contributing
+To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
+
+
 ### Innovation
 - [Innovation at Microsoft](./InnovationatMicrosoft)
 - [Accessibility](./MicrosoftAccessibility

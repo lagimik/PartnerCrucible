@@ -6,6 +6,10 @@
 
 ![Buying Through CSP](./Library/csp.jpg)
 
+
+To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
+
+
 ## References
 
 

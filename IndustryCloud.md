@@ -5,7 +5,9 @@
 
 ## Purpose
 
-A Collection of resources for Microsoft practice building around the Indsutry Cloudsd. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md). To contribute to this section, see [Contributer's Guide](Contributing.md)
+A Collection of resources for Microsoft practice building around the Indsutry Cloudsd. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md). 
+
+To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
 
 ## References

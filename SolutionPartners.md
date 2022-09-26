@@ -4,7 +4,10 @@
 
 ## Purpose
 
-Collection of resources describing the evolution of the Microsoft Partner Network (MPN) to the Microsoft Cloud Partner Program and the streamlining the existing 18 competencies into six solutions partner designations that are aligned with the Microsoft Cloud.
+A collection of resources describing the evolution of the Microsoft Partner Network (MPN) to the Microsoft Cloud Partner Program and the streamlining the existing 18 competencies into six solutions partner designations that are aligned with the Microsoft Cloud.
+
+To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
+
 
 ## References
 

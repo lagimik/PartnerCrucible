@@ -4,7 +4,10 @@
 
 ## Purpose
 
-A collections of resources to create Microsoft Cloud sandbox environments at no (or low) cost
+A collections of resources to create Microsoft Cloud sandbox environments at no (or low) cost.
+
+To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
+
 
 ## References
 
