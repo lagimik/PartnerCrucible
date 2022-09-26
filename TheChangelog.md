@@ -9,6 +9,18 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+###  Week of September 23, 2022
+
+Time | Change | File
+:--- | :----- | ---:
+2022-09-26 | added GC PBMM blueprint | [See changes here](./IndustryCloud)
+2022-09-26 | added Top Threat Protection use cases in Microsoft Defender for Cloud Apps | [See changes here](./SecuritySolutionArea)
+2022-09-25 | added state of devops (puppet 2021) | [See changes here](./DigitalAppsandInnovationSolutionArea)
+2022-09-25 | added Woodgrove Azure AD demos | [See changes here](./SecuritySolutionArea)
+2022-09-25 | added the Total Economic Impact of Github | [See changes here](./DigitalAppsandInnovationSolutionArea)
+2022-09-23 | Azure Latency Test | [See changes here](./AzureInfrastructureSolutionArea.md)
+2022-09-22 | added Government Protected B Github reference repo | [See changes here](./IndustryCloud)
+
 ###  Week of September 16, 2022
 
 Time | Change | File
