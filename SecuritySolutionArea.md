@@ -79,6 +79,12 @@ Source | Description | Notes
 [Microsoft Defender for Business](https://learning.eventbuilder.com/M365MDBSeries)| WEbinar series|...
 [Microsoft 365 Defender Ninja](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/become-a-microsoft-365-defender-ninja/ba-p/1789376) | his Ninja blog covers the features and functions of Microsoft 365 Defender – everything that goes across the workloads, but not the individual workloads themselves. The content is structured into three different knowledge levels, with multiple modules: Fundamentals, Intermediate, and Expert. | August 2022
 
+### Defender for Cloud Apps
+
+Source | Description | Notes
+:----- | :---------- | :----
+[Top Threat Protection use cases in Microsoft Defender for Cloud Apps](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/top-threat-protection-use-cases-in-microsoft-defender-for-cloud/ba-p/3632483) | In this blog, we will showcase the top examples from each part of the threat protection landscape, to protect your organization from cloud apps threats, according to the following classifications: Prevent – SaaS Security Posture Management (SSPM), Detect – Business Email Compromise (BEC)scenario, Respond – Suspend user, Investigate – Investigate a compromised user| Sept 2022
+
 ### Defender for Endpoint Ninja
 
 Source | Description | Notes
