@@ -12,6 +12,7 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Microsoft Partner Innovation Vodcast](https://www.youtube.com/playlist?list=PLcgFidNgo6oNIL-hxoRHfzsGJ6iOFko7L) | Microsoft leaders and channel executives to discuss the Microsoft commercial partner business and highlight compelling partner stories that deliver impactful solutions and outcomes for customers and their communities from around the world. | vlog
 [Tech Hub](https://innovation.microsoft.com/en-us/developer) | From interactive videos to demos and code samples, find new ways of learning about the science and engineering behind our innovation stories and beyond | Tech Minutes<br> AI Labs<br>Deep Dives
 [Innovation Stories](https://news.microsoft.com/innovation-stories/) | Microsoft Innovation Blog | ...
 [Societal Resilience](https://www.microsoft.com/en-us/research/group/societal-resilience/) | Building a more resilient society through mission-driven research and applied technology
