@@ -8,8 +8,7 @@ A collection of resources for ideas stemming from rasearch and innovation at Mic
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
-## References
-
+## Microsft References
 
 Source | Description | Notes
 :----- | :---------- | :-----
@@ -22,5 +21,11 @@ Source | Description | Notes
 [Microsoft Research Podcast](https://www.microsoft.com/en-us/research/podcast/) | ... |
 [Behind the Tech with Kevin Scott](https://www.microsoft.com/en-us/behind-the-tech) | Join Chief Technology Officer Kevin Scott for Behind the Tech, a podcast that goes behind-the-scenes with today’s most innovative tech leaders. | 
 [Work Lab](https://www.microsoft.com/en-us/worklab) | Exploring the Science of Work and Ingenuity | ...
+
+## Innovation and Design References
+Source | Description | Notes
+:----- | :---------- | :-----
+[Microsoft Inclusive Design](https://www.microsoft.com/design/inclusive/) | Inclusive Design is a methodology, born out of digital environments, that enables and draws on the full range of human diversity. Most importantly, this means including and learning from people with a range of perspectives. | Toolkits:<br> - - Inclusive 101 <br> - Inclusive Activities
+[#id24](https://inclusivedesign24.org/) | Inclusive Design 24 (#id24) is a free 24-hour online event for the global community. It celebrates inclusive design and shares knowledge and ideas from analogue to digital, from design to development, from planners to practitioners, and everything and everyone in between. | 
 
 [< Back to Crucible](./)
