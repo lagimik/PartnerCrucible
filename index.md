@@ -26,6 +26,7 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 - [Sales Enablement](./SalesEnablement)
 - [Learning Resources](./LearningResources)
 - [Ressources pour le perfectionnement (français)](./LearningResourcesFrench)
+- [Microsoft France - Les jeudis data & ai (France)](./LearningResourcesFrenchDataAI)
 - [OpenHacks](./OpenHack)
 - [Sandbox Environments](./SandboxEnvironments)
 
