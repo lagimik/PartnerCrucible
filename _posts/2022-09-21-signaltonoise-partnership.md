@@ -4,6 +4,7 @@ date: 2022-09-21
 ---
 
 ![Signal to Noise](/PartnerCrucible/Library/signaltonoise-partnership.png)
+[< Back to Signal:Noise index](/SignaltoNoise)
 
 ## TL;DR
 
@@ -41,3 +42,5 @@ Pillar | Description | Why? | Next Step
 [Partner Community - Canadian Partner Zone](https://www.microsoftpartnercommunity.com/t5/Canadian-Partner-Zone/ct-p/canadian-partner) is a  Forums for Canadian Partners tha includes a calendar of upcoming events. You are encouraged to **subscribe to updates**.
 
 In addition, the [PartnerCrucible](https://lagimik.github.io/PartnerCrucible/) hosts a collection of links to key resources for partners. This project aims to serve as an *entry point* into the wealth of information and services available to Canadian Microsoft partners. 
+
+[< Back to Signal:Noise index](/SignaltoNoise)

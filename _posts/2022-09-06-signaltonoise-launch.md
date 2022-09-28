@@ -4,6 +4,7 @@ date: 2022-09-06
 ---
 
 ![Signal to Noise](/PartnerCrucible/Library/signaltonoise-title.png)
+[< Back to Signal:Noise index](/SignaltoNoise)
 
 # Welcome to a technology partner *insider view*
 
@@ -65,4 +66,6 @@ The general, all inclusive, way forward includes [Partner.microsoft.com - Partne
 For the first **insider view**, we would invite you to explore the [Partner Crucible](https://lagimik.github.io/PartnerCrucible/): we are convinced there are resources you have yet to leverage.
 
 More posts coming soon!
+
+[< Back to Signal:Noise index](/SignaltoNoise)
 

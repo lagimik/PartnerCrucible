@@ -6,19 +6,19 @@
 
 This project aims to serve as an *entry point* into the wealth of information and services available to Canadian Microsoft partners. The Partner Crucible will curate links, models, and insights to ensure our partners have an overview and a quick path forward. 
 
-This site viewed <span id="PartnerCrucible"></span> times.
-(Counter by [CountAPI](https://countapi.xyz/))
+This site viewed <span id="PartnerCrucible"></span> times. ( Counter by [CountAPI](https://countapi.xyz/) )
 
 See the most recent changes in the [Changelog](./TheChangelog)
 
-## Contributing
-To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
+## Blog - Signal:Noise
+- [Signal:Noise](./SignaltoNoise)
 
+## Partner Topics
 
 ### Innovation
 - [Innovation at Microsoft](./InnovationatMicrosoft)
-- [Accessibility](./MicrosoftAccessibility
-  )  
+- [Accessibility](./MicrosoftAccessibility)  
+  
 ### Partner Practice Building
 - [Partner Portals](./PartnerPortals)
 - [Partner Support](./PartnerSupport)
@@ -64,4 +64,6 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 - [Digital and Applications Innovation Solution Area](./DigitalAppsandInnovationSolutionArea)
 - [AI and IoT Insider Lab](./AIIOTInsiderLab)
 - [Mixed Reality](./MixedReality)
-  
+
+## Contributing
+To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
