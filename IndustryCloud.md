@@ -35,7 +35,8 @@ Source | Description | Notes
 [Microsoft Cloud for Sustainability Overview](https://docs.microsoft.com/en-us/learn/modules/cloud-sustainability-overview/) | Get trained and co-sell ready: Access training modules at MS Learn |
 [aka.ms/SustainabilityCloudAppSource](https://appsource.microsoft.com/en-us/marketplace/cloudsIndustry?page=1&industry=sustainability)| Cloud fo sustainability services and solutions on AppSource | ...
 [aka.ms/SustainabilityInsider](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR1nWe0_9tKxEuN9c6D44qtNUOVZZVlpWMDVKVEs5M1dVVkc3TjdSMFpZVSQlQCN0PWcu) | Join the Microsoft Cloud for Sustainability Insider Program | ...
-[https://dynamics.microsoft.com/en-us/sustainability/sustainability/free-trial/](https://dynamics.microsoft.com/en-us/sustainability/sustainability/free-trial/) | Experience Microsoft Sustainability Manager—a Microsoft Cloud for Sustainability solution that unifies data to help you monitor and manage your environmental impact. | Free Trial
+[Microsoft Sustainability Manager - Free Trial](https://dynamics.microsoft.com/en-us/sustainability/sustainability/free-trial/) | Experience Microsoft Sustainability Manager—a Microsoft Cloud for Sustainability solution that unifies data to help you monitor and manage your environmental impact. | Free Trial
+[What's new and planned for Microsoft Cloud for Sustainability](https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave2/industry-clouds/sustainability/planned-features) | new and planned for Microsoft Cloud for Sustainability |
 
 ### Public Sector
 Source | Description | Notes
