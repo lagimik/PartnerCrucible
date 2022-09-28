@@ -20,7 +20,7 @@ Data processing dans Azure ave Azure Synapse, Azure Batch, Spark, Notebook, etc.
 Déploiement et sécurisation des workspace Azure Synapse	| 26/01/2023 |	120 | [inscription](https://msevents.microsoft.com/event?id=1806467748)
 Azure Machine Learning pour les Citizen Data Scientists	| 09/02/2023| 120 |	En cours
 PowerBI - Self Service Analytics |	16/02/2023	| 120	| [inscription](https://msevents.microsoft.com/event?id=1401519679)
-L'IA responsable avec Azure machine learning	| 09/03/2023	| 120 | | [inscription](https://msevents.microsoft.com/event?id=2072953112)
+L'IA responsable avec Azure machine learning	| 09/03/2023	| 120 | [inscription](https://msevents.microsoft.com/event?id=2072953112)
 Machine Learning dans Azure Synapse Analytics	| 16/03/2023 | 120	| [inscription](https://msevents.microsoft.com/event?id=3413014857)
 Les bases de données Open Source dans le cloud Azure |	23/03/2023 |	120 | [inscription](https://msevents.microsoft.com/event?id=2727487131)
 Hybridation des services de Machine Learning Azure	| 06/04/2023 |	120	| [inscription](https://msevents.microsoft.com/event?id=1624914222)
