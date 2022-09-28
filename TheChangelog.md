@@ -9,10 +9,12 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
-###  Week of September 23, 2022
+###  Week of September 30, 2022
 
 Time | Change | File
 :--- | :----- | ---:
+2022-09-28 | added Microsoft Inclusive Design and #id24 references | [See changes here](./MicrosoftAccessibility)
+2022-09-26 | added Microsoft Partner Innovation Vodcast | [See changes here](./InnovationatMicrosoft)
 2022-09-26 | added GC PBMM blueprint | [See changes here](./IndustryCloud)
 2022-09-26 | added Top Threat Protection use cases in Microsoft Defender for Cloud Apps | [See changes here](./SecuritySolutionArea)
 2022-09-25 | added state of devops (puppet 2021) | [See changes here](./DigitalAppsandInnovationSolutionArea)
