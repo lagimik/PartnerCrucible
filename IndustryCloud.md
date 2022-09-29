@@ -5,7 +5,7 @@
 
 ## Purpose
 
-A Collection of resources for Microsoft practice building around the Indsutry Cloudsd. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md). 
+A Collection of resources for Microsoft practice building around the Industry Clouds. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md). 
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
@@ -16,7 +16,7 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [Industry Resources](https://microsoft.github.io/PartnerResources/industry/)| Industry resources| Microsoft US
 [Microsoft Solution Center](https://solutions.microsoft.com/) | Ready to set up a new deployment? Choose the cloud solution designed for your industry to get started.
-[Industry Cloud Partner Sandboxes](https://experience.dynamics.com/requestlicense/)|This portal is used for SI/ISV Connect partners to obtain free or discounted non-production environment licenses with Biz Apps and Power Platform products to learn, test, and deliver end-to-end customer demos with their own solutions. These offers are to be used only on partner tenants, never on customer tenants.| Inclides Cloud for Sustainability, FSI, Healthcare, Retail, Nonprofit
+[Industry Cloud Partner Sandboxes](https://experience.dynamics.com/requestlicense/)|This portal is used for SI/ISV Connect partners to obtain free or discounted non-production environment licenses with Biz Apps and Power Platform products to learn, test, and deliver end-to-end customer demos with their own solutions. These offers are to be used only on partner tenants, never on customer tenants.| Includes Cloud for Sustainability, FSI, Healthcare, Retail, Nonprofit
 
 ## Public Sector
 Source | Description | Notes
@@ -53,7 +53,7 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :-----  | :-----
 [Microsoft Cloud for Financial Services Partner Assets](https://partner.microsoft.com/en-us/asset/collection/microsoft-cloud-for-financial-services-partner-assets#/) | Partner assets for the Microsoft Cloud for Financial Services. 
-[MCFSI Training Environment](https://docs.microsoft.com/en-us/learn/modules/training-environment-preparation/) | Microsoft Cloud for Financial Services is a conflux of Microsoft Dynamics 365 and Microsoft 365. To take advantage of the Cloud for Financial Services solution and the rest of this learning path, we recommend that you have access to both clouds. | Microsoft Learn
+[Microsoft Cloud for Financial Services Training Environment](https://docs.microsoft.com/en-us/learn/modules/training-environment-preparation/) | Microsoft Cloud for Financial Services is a conflux of Microsoft Dynamics 365 and Microsoft 365. To take advantage of the Cloud for Financial Services solution and the rest of this learning path, we recommend that you have access to both clouds. | Microsoft Learn
 [Microsoft Cloud for Financial Services Trial](https://aka.ms/solutioncenter) | Microsoft Cloud for Financial Services offers a free limited trial for 30 days  | Solutions Center
 
 

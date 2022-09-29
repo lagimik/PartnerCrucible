@@ -4,11 +4,11 @@
 
 ## Purpose
 
-A collection of resources for ideas stemming from rasearch and innovation at Microsoft. 
+A collection of resources for ideas stemming from research and innovation at Microsoft. 
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
-## Microsft References
+## Microsoft References
 
 Source | Description | Notes
 :----- | :---------- | :-----
