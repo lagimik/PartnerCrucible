@@ -48,7 +48,7 @@ See the most recent changes in the [Changelog](./TheChangelog)
 
 ### Security Solution Area
 - [Security](./SecuritySolutionArea)
-- [Sentinel Demos](./SecuritySolutionArea-SentinelDemos)
+- [Sentinel Demos](./SecuritySolutionArea-Sentinel)
 - [Azure Defender for IoT](./AzureDefenderIoT)
 
 ### Business Applications Solution Area
