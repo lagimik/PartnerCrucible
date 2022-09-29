@@ -48,7 +48,7 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 
 ### Security Solution Area
 - [Security](./SecuritySolutionArea)
-- [Sentinel Demos](./SecuritySolutionArea-SentinelDemos)
+- [Sentinel Demos](./SecuritySolutionArea-Sentinel)
 - [Azure Defender for IoT](./AzureDefenderIoT)
 
 ### Business Applications Solution Area
