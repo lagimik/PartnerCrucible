@@ -14,8 +14,27 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 Source | Description | Notes
 :----- | :-----  | :-----
 [Microsoft Ecosystem Value: Partner Paths to Profitability and Growth](https://assetsprod.microsoft.com/en-us/idc-report-microsoft-ecosystem-value.pdf) | IDC conducted a study of the Microsoft partner ecosystem globally to understand the various pathways to success and the economic value that can be achieved from engaging with Microsoft and its technology | IDC
-[Enablement Guides](http://aka.ms/enablementguides)| These technical and sales guides cover Microsoft solution areas across Modern Work; Microsoft Dynamics 365; Microsoft Power Platform; Microsoft Azure; and Security, Compliance, and Identity. | ...
-[Partner Association Playbook](https://aka.ms/Solutionspartner.Associationsplaybook) | Associations are the sole mechanism by which customer success, performance, and skilling category points are acknowledged and calculated towards achieving solutions partner designations).
+[Enablement Guides](http://aka.ms/enablementguides)| These technical and sales guides cover Microsoft solution areas across Modern Work; Microsoft Dynamics 365; Microsoft Power Platform; Microsoft Azure; and Security, Compliance, and Identity. | Microsoft
+
+## Partner Association
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Grow your partner capability score with partner associations](https://blogs.partner.microsoft.com/mpn/grow-your-partner-capability-score-with-partner-associations/) | Partner associations are how you give Microsoft visibility into the work partners are doing. | Blog
+[Partner Association Playbook](https://aka.ms/Solutionspartner.Associationsplaybook) | Associations are the sole mechanism by which customer success, performance, and skilling category points are acknowledged and calculated towards achieving solutions partner designations). | Presentation
+
+### Association Options
+
+![Partner Associations](./Library/partnerassociations.png)
+
+### Association Description
+
+Association Type | Description | Guidance
+----------------:| :---------- | :-------
+**Claiming Partner of Record (CPOR)** | This association connects a partner to a customer tenant and workload based on a claim that the partner submits. Partners submit claims at the workload level via Partner Center, and claims are validated by Microsoft and the customer. **CPOR applies to Microsoft 365 and Dynamics 365**. |  
+**Partner Admin Link (PAL)** | Using PAL, partners can associate their MPN ID with the credentials used for service delivery whenever they act on behalf of the customer to manage, configure and support **Azure and Business Application services (Power Platform and Customer Insights)**. Unique to PAL is that it allows for *different partners to get recognized for the same customer engagement*. Partners can be associated to the same workloads, and both get ‘credit’. | 
+**Digital Partner of Record (DPOR)**| Digital Partner of Record (DPOR) is an online capability for customers to attach a servicing partner to their Microsoft cloud subscription. To recognize the partner for that work, the customer adds the partner’s MPN ID to the subscription via the customer’s service portal. **DPOR applies to Microsoft 365, Dynamics 365, and Azure.** | 
+**Cloud Solution Provider (CSP)** | When a partner sells through the Cloud Solution Provider program, the CSP association type is automatically applied. |
 
 ## Partner incentive reinvestment
 
