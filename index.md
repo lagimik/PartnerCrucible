@@ -42,6 +42,9 @@ See the most recent changes in the [Changelog](./TheChangelog)
 - [Solution Partner](./SolutionPartners)
 - [Industry Clouds](./IndustryCloud)
 
+### Modern Work Solution Area
+- [Modern Work](./ModernWorkSolutionArea.md)
+  
 ### Infrastructure Solution Area
 - [Infrastructure](./AzureInfrastructureSolutionArea)
 - [5G](./AzureInfrastructureSolutionArea-5G.md)
