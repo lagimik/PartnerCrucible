@@ -13,6 +13,12 @@ This changelog reflects recent the Partner Crucible updates.
 
 Time | Change | File
 :--- | :----- | ---:
+2022-09-29 | added practice reinvestment guidance | [See changes here](./PracticeBuilding)
+2022-09-29 | added Microsoft Sentinel for MSSPs MS Learn reference | [See changes here](./SecuritySolutionArea)
+2022-09-28 | added sentinel BYO-ML and UEBA | [See changes here](./SecuritySolutionArea-Sentinel)
+2022-09-28 | updates to industry cloud free trials via solution center and added cloud for manufacturing | [See changes here](./IndustryCloud)
+2022-09-28 | added What's new and planned for Microsoft Cloud for Sustainability | [See changes here](./IndustryCloud)
+2022-09-28 | added les jeudis Data & AI de Microsoft France | [See changes here](./LearningResourcesFrenchDataAI)
 2022-09-28 | added Microsoft Inclusive Design and #id24 references | [See changes here](./MicrosoftAccessibility)
 2022-09-26 | added Microsoft Partner Innovation Vodcast | [See changes here](./InnovationatMicrosoft)
 2022-09-26 | added GC PBMM blueprint | [See changes here](./IndustryCloud)
