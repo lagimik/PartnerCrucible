@@ -30,6 +30,16 @@ Source | Description | Notes
 [Power Platform Partner webinar series](https://learning.eventbuilder.com/PowerPlatform)| a whole new set of webinars to help you understand the path to profitability|...
 [Power Platform in a Day](https://powerplatform.microsoft.com/en-us/training-workshops/) |Experience how Microsoft Power Platform can meet your business challenges quickly and effectively by attending a virtual, one-day training workshop. |...
 
+## Asset Lifecyle Management
+
+ALM techniques to be applied to move Power Platform solution to different environments.
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[ALM Accelerator for Power Platform](https://powerapps.microsoft.com/en-us/blog/introducing-the-alm-accelerator-for-power-platform/) | The ALM Accelerator for Power Platform includes a canvas app that sits on top of Azure DevOps Pipelines and Git source control. The app provides a simplified interface for makers to regularly export the components in their Power Platform Solutions to source control and create deployment requests to have their work reviewed before deploying to target environments. | Azure Docs
+[ALM Accelerator for Power Platform](https://www.youtube.com/watch?v=daK6LuR9Uuk) | Phil talks with Mike Ochs about the many changes to the ALM Accelerator for Power Platform. Mike demos how the ALM Accelerator gives different views for beginner and advanced makers, how it uses Azure DevOps and what’s planned for GitHub. Also see how the ALM Accelerator automates common deployment tasks like assigning connections and sharing components, and how it helps collaboration by giving you visibility into all deployment related activities for your solutions. | YouTube
+[ALM Accelerator - Getting Stared](https://learn.microsoft.com/en-us/power-platform/guidance/coe/setup-almacceleratorpowerplatform-cli) | The following articles guide you through setting up the Center of Excellence (CoE) CLI and using the CoE CLI to install the ALM accelerator in your tenant. |
+
 ## PowerBI
 
 Source | Description | Notes
