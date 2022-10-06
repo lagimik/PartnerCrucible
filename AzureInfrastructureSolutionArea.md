@@ -51,6 +51,12 @@ Source | Description | Notes
 [Arc Jumpstart](https://azurearcjumpstart.io/)| The Jumpstart provides step-by-step guides for independent Azure Arc scenarios that incorporate as much automation as possible, detailed screenshots and code samples, and a rich and comprehensive experience while getting started with the Azure Arc platform.| ...
 [Landing zone accelerator](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/hybrid/enterprise-scale-landing-zone) | Introduction to Azure Arc-enabled servers landing zone accelerator for hybrid and multicloud – Cloud Adoption Framework | Microsoft Docs
 
+### AKS
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[AKS for Amazon EKS professionals](https://learn.microsoft.com/en-ca/azure/architecture/aws-professional/eks-to-aks/) | This series of articles helps professionals who are familiar with Amazon Elastic Kubernetes Service (Amazon EKS) to understand Azure Kubernetes Service (AKS). The series highlights key similarities and differences between these two managed Kubernetes solutions. | MS Lean
+
 ### SAP
 
 Source | Description | Notes
@@ -58,7 +64,8 @@ Source | Description | Notes
 [Establish an SAP on Azure Center of Excellence](https://aka.ms/AzureCenterforSAPsolutions) | |
 [SAP on Azure Immersion Workshops](https://aka.ms/aiwpartners) | |
 [Skill up](https://aka.ms/SAPonAzureResources) | |
-[SAP on Azure Advanced Specialization](httrps://aka.ms/SAPonAzureAdvancedSpec) | |
+[SAP on Azure Advanced Specialization](httrps://aka.ms/SAPonAzureAdvancedSpec) | |\
+[SAP on Azure Video Podcast](https://www.youtube.com/playlist?list=PLvqyDwoCkBXYCm7_CNLavXHmdZD6rEvNn) | Videos covering a wide range of SAP on Azure scenarios | YouTube
 
 ### Virtualization
 
