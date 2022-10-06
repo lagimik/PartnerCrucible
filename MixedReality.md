@@ -10,6 +10,11 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 
 ## References
 
+### Metaverse
+Source | Description | Notes
+:----- | :---------- | :----
+[Metaverse - Satya Nadella 2022 Build Keynote](https://youtu.be/rnJHHamrflw)
+
 ### Mixed Reality
 
 Source | Description | Notes
