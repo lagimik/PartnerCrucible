@@ -9,9 +9,23 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
-###  Week of September 30, 2022
+###  Week ending October 7, 2022
 
-Time | Change | File
+Date | Change | File
+:--- | :----- | ---:
+2022-10-07 | added CMMC compliance references | [See changes here](./IndustryCloud)
+2022-10-06 | added Total Economic Impact of Mixed Reality and guide to deployment | [See changes here](./MixedReality)
+2022-10-06 | added the Business Applications professional learning path | [See changes here](./BusinessApplicationsSolutionArea)
+2022-10-06 | added SAP on Azure Video Podcast | [See changes here](./AzureInfrastructureSolutionArea)
+2022-10-05 | added Metaverse - Satya Nadella 2022 Build Keynote | [See changes here](./MixedReality)
+2022-10-05 | added PowerPlatform ALM accelerators | [See changes here](./PowerPlatformSolutionArea)
+2022-10-05 | added SOX Compliance references for FSI | [See changes here](./IndustryCloud)
+2022-10-03 | added Demysitifying ADX Blog post | [See changes here](./DataAISolutionArea)
+2022-10-03 | added ISV Program Guide | [See changes here](./ISV)
+
+###  Week ending September 30, 2022
+
+Date | Change | File
 :--- | :----- | ---:
 2022-09-29 | added practice reinvestment guidance | [See changes here](./PracticeBuilding)
 2022-09-29 | added Microsoft Sentinel for MSSPs MS Learn reference | [See changes here](./SecuritySolutionArea)
@@ -29,9 +43,9 @@ Time | Change | File
 2022-09-23 | Azure Latency Test | [See changes here](./AzureInfrastructureSolutionArea.md)
 2022-09-22 | added Government Protected B Github reference repo | [See changes here](./IndustryCloud)
 
-###  Week of September 16, 2022
+###  Week ending September 16, 2022
 
-Time | Change | File
+Date | Change | File
 :--- | :----- | ---:
 2022-09-20 | added CISO workshop training | [See changes here](./SecuritySolutionArea.md)
 2022-09-20 | added Afternoon Cyber Tea Podcast | [See changes here](./SecuritySolutionArea.md)
@@ -41,9 +55,9 @@ Time | Change | File
 2022-09-18 | added Azure 5G references | [See changes here](./AzureInfrastructureSolutionArea-5G.md)
 
 
-### Week of September 9th, 2022
+### Week ending September 9th, 2022
 
-Time | Change | File
+Date | Change | File
 :--- | :----- | ---:
 2022-09-16 | added Work Labs | [See changes here](./ModernWorkSolutionArea)
 2022-09-16 | added accessibility theme | [See changes here](./MicrosoftAccessibility)

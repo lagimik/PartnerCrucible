@@ -13,7 +13,7 @@ A sample output is here: [Partner Crucible](./PartnerCrucible.docx)
 pandoc --toc -s -o ./Publish/PartnerCrucible.docx README.md Contributing.md PartnerPortals.md PartnerSupport.md SolutionPartners.md Taxonomy.md SolutionPartners.md LearningResources.md PracticeBuilding.md SalesEnablement.md CSP.md SaaS.md ModernWorkSolutionArea.md PowerPlatformSolutionArea.md SecuritySolutionArea.md SecuritySolutionArea-SentinelDemos.md DigitalAppsandInnovation.md OpenHack.md SandboxEnvironments.md*
 ```
 ```
-git log  --abbrev-commit --name-status --decorate --format=format:' %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset))' --all > changelog.md
+ggit log  --abbrev-commit --name-status --decorate --format=format:'%as | %s | [See changes here](./)' --all 
 ```
 ## References
 
