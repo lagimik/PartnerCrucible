@@ -78,5 +78,14 @@ Source | Description | Notes
 [Microsoft Cloud for Manufacturing: Partnering to manufacture a more resilient and sustainable future](https://cloudblogs.microsoft.com/industry-blog/manufacturing/2022/01/03/microsoft-cloud-for-manufacturing-partnering-to-manufacture-a-more-resilient-and-sustainable-future/) | Blog post | January 2022
 [Stay informed about Microsoft Cloud for Manufacturing](https://info.microsoft.com/ww-landing-Manufacturing-StayInformed.html) | Updates |
 
+### Public Safety
+Source | Description | Notes
+:----- | :-----  | :-----
+[Microsoft CMMC Acceleration Program](https://techcommunity.microsoft.com/t5/public-sector-blog/microsoft-cmmc-acceleration-update-march-2022/ba-p/3258999) | We are actively building out Microsoft CMMC Acceleration by developing resources for both partners and Defense Industrial Base (DIB) companies to leverage in their Cybersecurity Maturity Model Certification (CMMC) journey. These tools cannot guarantee a positive CMMC adjudication, but they may assist candidate organizations by improving their CMMC posture by going into a formal CMMC review in accordance with CMMC Accreditation Body standards. | Microsoft Tech Community
+[Cybersecurity Maturity Model Certification (CMMC)](https://www.microsoft.com/en-us/federal/cmmc.aspx) | Home for CMMC support resources | Microsoft
+[CMMC 2.0 Implementation Guide](https://www.microsoft.com/cms/api/am/binary/RE54xON) | This guide is intended to provide small and medium-sized organizations with guidance for using Microsoft 365 (M365) to satisfy the Cybersecurity Maturity Model Certification (CMMC) Level 1 requirements. |
+[Microsoft Product Placemat for CMMC 2.0 (Preview)](https://www.microsoft.com/en-us/download/details.aspx?id=102536)| Interactive view representing how we believe Microsoft cloud products and services satisfy requirements for CMMC practices. | Microsoft
+[CMMC Level 3 Regulatory Compliance built-in initiative](https://learn.microsoft.com/en-us/azure/governance/policy/samples/cmmc-l3) | The following article details how the Azure Policy Regulatory Compliance built-in initiative definition maps to compliance domains and controls in CMMC Level 3. | Microsoft Learn
+[Understanding Compliance Between Commercial, Government and DoD Offerings - March 2022 Update](https://techcommunity.microsoft.com/t5/public-sector-blog/understanding-compliance-between-commercial-government-and-dod/ba-p/3258326) | In this article, we will focus on each of the US-based cloud offerings from Microsoft and compare the differences in compliance, including the compendium of common factors customers may use to decide which of our offerings align with current and future requirements in demonstrating compliance with US Government regulations and underlying cybersecurity frameworks.| Tech Community
 
 [< Back to Crucible](./)
