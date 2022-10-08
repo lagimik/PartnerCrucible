@@ -15,15 +15,9 @@ date: 2022-09-12
 ## Innovation equilibrium
 
 There is a persistent **innovation inertia** that was recently summarized by Institute for Research on Public Policy:
-```
-Discussions about Canada’s innovation performance have followed a familiar narrative for decades. 
 
-We are among the world’s leading countries for educational attainment and we produce science and ideas on pace with advanced economic peers.
+*"Discussions about Canada’s innovation performance have followed a familiar narrative for decades. We are among the world’s leading countries for educational attainment and we produce science and ideas on pace with advanced economic peers. But our productivity and economic growth have stalled due to weak innovation among Canadian firms. Business investment in research and development (R&D) and technology adoption are well below the OECD average. Our “low innovation equilibrium” is deep and persistent."* 
 
-But our productivity and economic growth have stalled due to weak innovation among Canadian firms. Business investment in research and development (R&D) and technology adoption are well below the OECD average. 
-
-Our “low innovation equilibrium” is deep and persistent. 
-```
 Reference: [Breaking Canada's Innovation Inertia](https://policyoptions.irpp.org/magazines/may-2022/breaking-canadas-innovation-inertia/)
 
 ## Some uncomfortable views from the field
