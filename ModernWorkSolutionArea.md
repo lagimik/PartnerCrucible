@@ -29,6 +29,13 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [How to Hybrid: The WorkLab Guides](https://www.microsoft.com/en-us/worklab/hybrid-work-guides)| Here are your practical guides to in-person and asynchronous collaboration, resetting work-life balance, and getting hybrid meetings right.|...
 
+## Developers
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[M365 Development](https://developer.microsoft.com/en-us/microsoft-365/?utm_source=developermscom)| Build collaborative apps for Microsoft 365 and Microsoft Teams that connect people, data, and processes to help users thrive in the hybrid workplace | 
+[Microsoft Teams Development](https://developer.microsoft.com/en-us/microsoft-teams?utm_source=developermscom) | Extend and customize the Microsoft Teams developer platform | 
+
 ## Viva
 
 Source | Description | Notes
