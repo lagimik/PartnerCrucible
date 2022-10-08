@@ -10,7 +10,14 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 
 ## References
 
+### Developers
+
+Source | Description | Notes
+:----- | :---------- | :----
+[Build applications with Azure](https://azure.microsoft.com/en-ca/resources/developers/?utm_source=developermscom#featured-resources) | Build apps with best-in-class tools, your favorite open-source frameworks and languages, and a platform that supports a range of services and continuous collaboration and delivery | 
+
 ### Hackathons
+
 Source | Description | Notes
 :----- | :---------- | :----
 [WhatTheHack on GitHub](https://github.com/microsoft/WhatTheHack) | Community driven openhack resources  | ,,,
