@@ -22,6 +22,12 @@ Source | Description | Notes
 [Dynamics 365 Free Trial](https://dynamics.microsoft.com/en-us/dynamics-365-free-trial/)| Try it free and learn how these intelligent business applications go beyond traditional CRM and ERP to help you adapt, innovate, and delight every customer.| ...
 [Microsoft Dynamics 365 Partner portal](https://dynamicspartners.transform.microsoft.com)|Transform for Business Apps|Accessible based on partner competency / PCS
 
+## Developers
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Dynamics 365 Developers: Start here](https://learn.microsoft.com/en-ca/dynamics365/get-started/developers?wt.mc_id=sitertzn_dynamics365_content_developermscom)| Developers and ISVs can use the underlying platform to build or extend apps, depending on the app's type | Microsoft Lean
+
 ## Skilling
 
 Source | Description | Notes
