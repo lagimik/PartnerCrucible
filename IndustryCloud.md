@@ -32,6 +32,16 @@ Source | Description | Notes
 [Key Decisions](https://github.com/Azure/CanadaPubSecALZ/blob/main/docs/architecture.md#1-key-decisions) | Outlines the key decisions each department must consider as part of adopting Azure | ...
 [Canada Federal PBMM blueprint sample](https://learn.microsoft.com/en-us/azure/governance/blueprints/samples/canada-federal-pbmm) | This blueprint helps customers deploy a core set of policies for any Azure-deployed architecture that must implement controls for Canada Federal PBMM. | 2021
 
+
+## Farming
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[FarmVibes.Edge](https://www.microsoft.com/en-us/research/project/project-farmvibes/articles/farmvibes-edge/) | FarmVibes.Edge involves developing technologies to process large amounts of data in the farm itself – either in the farmer’s house or office, or next to the base stations. | Microsoft Research
+[FarmVibes.Connect](https://www.microsoft.com/en-us/research/project/project-farmvibes/articles/farmvibes-connect/) | FarmVibes.Connect involves inventing new ways to bring Internet to the middle of a farm, such as leveraging unused TV channels, Narrowband IoT, and space communications. | Microsoft Research
+[FarmVibes.Bot](https://www.microsoft.com/en-us/research/project/project-farmvibes/articles/farmvibes-bot/) | The FarmVibes.Bot platform allows organizations to communicate simply and effectively with any user who has a feature phone (by USSD or SMS) or any user who has a smart phone (WhatsApp, Facebook, Telegram, etc.). | Microsoft Research
+[FarmVibes.AI](https://www.microsoft.com/en-us/research/project/project-farmvibes/articles/farmvibes-ai/) | FarmVibes.AI merges data sources, like heat maps, super-res satellite imagery, and other technologies to create a big picture view about a farm. | Microsoft Research
+
 ## Sustainability
 
 Source | Description | Notes
