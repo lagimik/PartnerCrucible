@@ -36,7 +36,14 @@ See the most recent changes in the [Changelog](./TheChangelog)
 - [Software as a Service](./SaaS)
 - [Commercial Marketplace Offers](./CommercialMarketplaceOffers)
 - [FinOps](./FinOps)
-  
+
+### Industry perspective
+- [Sustainability](./IndustrySustainability)
+- [Canadian public sector](./IndustryCanadianPublicSector)
+- [Financial services](./IndustryFinancialServices)
+- [Telecommunications](./IndustryTelecom)
+- [Healthcare, Manufacturing, Farming, PublicSafety](./IndustryGeneral)
+
 ### Solution Areas
 - [Solution Area Taxonomy](./Taxonomy)
 - [Solution Partner](./SolutionPartners)

@@ -5,7 +5,7 @@
 
 ## Purpose
 
-A Collection of resources for Microsoft practice building around the Industry Clouds. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md). 
+A Collection of resources for Microsoft practice building around the Microsoft key industries. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md). 
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
@@ -18,21 +18,6 @@ Source | Description | Notes
 [Microsoft Solution Center](https://solutions.microsoft.com/) | Ready to set up a new deployment? Choose the cloud solution designed for your industry to get started.
 [Industry Cloud Partner Sandboxes](https://experience.dynamics.com/requestlicense/)|This portal is used for SI/ISV Connect partners to obtain free or discounted non-production environment licenses with Biz Apps and Power Platform products to learn, test, and deliver end-to-end customer demos with their own solutions. These offers are to be used only on partner tenants, never on customer tenants.| Includes Cloud for Sustainability, FSI, Healthcare, Retail, Nonprofit
 
-## Public Sector
-Source | Description | Notes
-:----- | :-----  | :-----
-[Public Sector Center of Expertise](https://wwps.microsoft.com/)| The Microsoft Public Sector Center of Expertise supports the evolution of public sector organizations by sharing insights and best practices, research, and resources on digital innovation.  | ...
-[Public Sector Future Podcast](https://wwps.microsoft.com/episodes) | Our Public Sector Future podcast delves into these topics with global expert interviews. | 
-
-## Canada Federal Government
-
-Source | Description | Notes
-:----- | :---------- | :-----
-[Azure Landing Zones for Canadian Public Sector](https://github.com/Azure/CanadaPubSecALZ/) | The purpose of the reference implementation is to guide Canadian Public Sector customers on building Landing Zones in their Azure environment. | GitHub repo
-[Key Decisions](https://github.com/Azure/CanadaPubSecALZ/blob/main/docs/architecture.md#1-key-decisions) | Outlines the key decisions each department must consider as part of adopting Azure | ...
-[Canada Federal PBMM blueprint sample](https://learn.microsoft.com/en-us/azure/governance/blueprints/samples/canada-federal-pbmm) | This blueprint helps customers deploy a core set of policies for any Azure-deployed architecture that must implement controls for Canada Federal PBMM. | 2021
-
-
 ## Farming
 
 Source | Description | Notes
@@ -41,35 +26,6 @@ Source | Description | Notes
 [FarmVibes.Connect](https://www.microsoft.com/en-us/research/project/project-farmvibes/articles/farmvibes-connect/) | FarmVibes.Connect involves inventing new ways to bring Internet to the middle of a farm, such as leveraging unused TV channels, Narrowband IoT, and space communications. | Microsoft Research
 [FarmVibes.Bot](https://www.microsoft.com/en-us/research/project/project-farmvibes/articles/farmvibes-bot/) | The FarmVibes.Bot platform allows organizations to communicate simply and effectively with any user who has a feature phone (by USSD or SMS) or any user who has a smart phone (WhatsApp, Facebook, Telegram, etc.). | Microsoft Research
 [FarmVibes.AI](https://www.microsoft.com/en-us/research/project/project-farmvibes/articles/farmvibes-ai/) | FarmVibes.AI merges data sources, like heat maps, super-res satellite imagery, and other technologies to create a big picture view about a farm. | Microsoft Research
-
-## Sustainability
-
-Source | Description | Notes
-:----- | :-----  | :-----
-[aks.ms/mpnsustainability](https://partner.microsoft.com/en-us/asset/collection/microsoft-cloud-for-sustainability#/) | Find partner assets for the Microsoft Cloud for Sustainability. | Requires MPN access
-[Accelerate your journey to net-zero with Microsoft Cloud for Sustainability](https://cloudblogs.microsoft.com/industry-blog/sustainability/2022/06/01/accelerate-your-journey-to-net-zero-with-microsoft-cloud-for-sustainability/) | GA Announcement for Cloud for Sustainability | June 2022
-[Scale your business and impact with Microsoft Cloud for Sustainability](https://inspire.microsoft.com/en-US/sessions/1a0cbd11-c641-4ad6-9e8d-04bcf5119ca7?source=sessions) | Environmental sustainability is increasingly becoming a top priority for organizations globally. They are challenged to deliver on their ESG commitments while continuing to balance investments that effect operational excellence, business revenue, market share, and shareholder value. By integrating with Microsoft Cloud for Sustainability, partners have a unique opportunity to help meet the sustainability needs of their customers and grow business. | Inspire 2022 <br> [Ask the experts session](https://inspire.microsoft.com/en-US/sessions/11d98e4a-b519-476b-a1e1-cadc893b08f7?source=sessions)
-[Microsoft Cloud for Sustainability Overview](https://docs.microsoft.com/en-us/learn/modules/cloud-sustainability-overview/) | Get trained and co-sell ready: Access training modules at MS Learn |
-[aka.ms/SustainabilityCloudAppSource](https://appsource.microsoft.com/en-us/marketplace/cloudsIndustry?page=1&industry=sustainability)| Cloud fo sustainability services and solutions on AppSource | ...
-[aka.ms/SustainabilityInsider](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR1nWe0_9tKxEuN9c6D44qtNUOVZZVlpWMDVKVEs5M1dVVkc3TjdSMFpZVSQlQCN0PWcu) | Join the Microsoft Cloud for Sustainability Insider Program | ...
-[Microsoft Cloud for Sustainability Trial](https://aka.ms/solutioncenter) | Microsoft Cloud for Sustainability  offers a free limited trial for 30 days  | Solutions Center
-[What's new and planned for Microsoft Cloud for Sustainability](https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave2/industry-clouds/sustainability/planned-features) | new and planned for Microsoft Cloud for Sustainability |
-
-
-
-
-## Financial Services
-
-Source | Description | Notes
-:----- | :-----  | :-----
-[Microsoft Cloud for Financial Services Partner Assets](https://partner.microsoft.com/en-us/asset/collection/microsoft-cloud-for-financial-services-partner-assets#/) | Partner assets for the Microsoft Cloud for Financial Services. 
-[Microsoft Cloud for Financial Services Training Environment](https://docs.microsoft.com/en-us/learn/modules/training-environment-preparation/) | Microsoft Cloud for Financial Services is a conflux of Microsoft Dynamics 365 and Microsoft 365. To take advantage of the Cloud for Financial Services solution and the rest of this learning path, we recommend that you have access to both clouds. | Microsoft Learn
-[Microsoft Cloud for Financial Services Trial](https://aka.ms/solutioncenter) | Microsoft Cloud for Financial Services offers a free limited trial for 30 days  | Solutions Center
-[Microsoft Compliance - SOX](https://learn.microsoft.com/en-us/compliance/regulatory/offering-sox)| OVerview of SOX compliance of Microsoft Cloud SErvices | Azure docs
-[Microsoft Azure Guidance for Sarbanes Oxley (SOX)](https://azure.microsoft.com/mediahandler/files/resourcefiles/microsoft-azure-guidance-for-sarbanes-oxley-sox/Azure%20SOX%20guidance.pdf.pdf) | This paper provides guidance to customers on how to leverage Azure’s existing compliance reports when addressing their own SOX compliance obligations | 2017
-[Compliance Map of Cloud Computing and Regulatory Principles in the US](https://servicetrust.microsoft.com/DocumentPage/5b483567-00b0-4d86-96ae-ee887dadb61c) | This document describes the key United States (U.S.) federal regulatory principles and recommended implementation practices that guide the use of cloud computing services by U.S. financial institutions. | Microsoft 
-
-
 
 ### Healthcare
 
