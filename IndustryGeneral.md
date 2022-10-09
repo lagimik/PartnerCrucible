@@ -1,5 +1,5 @@
 
-# Microsoft Industry Cloud
+# Industry - Healthcare, Farming, Manufacturing, Public safety
 
 [< Back to Crucible](./)
 
@@ -45,6 +45,7 @@ Source | Description | Notes
 [Stay informed about Microsoft Cloud for Manufacturing](https://info.microsoft.com/ww-landing-Manufacturing-StayInformed.html) | Updates |
 
 ### Public Safety
+
 Source | Description | Notes
 :----- | :-----  | :-----
 [Microsoft CMMC Acceleration Program](https://techcommunity.microsoft.com/t5/public-sector-blog/microsoft-cmmc-acceleration-update-march-2022/ba-p/3258999) | We are actively building out Microsoft CMMC Acceleration by developing resources for both partners and Defense Industrial Base (DIB) companies to leverage in their Cybersecurity Maturity Model Certification (CMMC) journey. These tools cannot guarantee a positive CMMC adjudication, but they may assist candidate organizations by improving their CMMC posture by going into a formal CMMC review in accordance with CMMC Accreditation Body standards. | Microsoft Tech Community
