@@ -4,6 +4,8 @@
 
 ## Purpose
 
+A Collection of resources for Microsoft to support partners part of the (Microsoft Cloud Partner Program)
+
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
 ### Global PArtner Services (GPS) Technical Team
@@ -16,7 +18,7 @@ The Microsoft Canada Global Partner Solutions Technical Team will provide techni
 
 - Partners may have a number of customer and partner support contracts in place.
 - Partner support options range from those included with the Microsoft Partner Network (MPN) membership to Advanced and Premier support intended for CSP and hosters.
-- The cloud support options are described here: Compare Microsoft Partner Support Offerings
+- The cloud support options are described here: [Compare Microsoft Partner Support Offerings](https://partner.microsoft.com/en-us/support/partnersupport#:~:text=Compare%20partner%20support%20plans%20%20%20%20,or%20custome%20...%20%209%20more%20rows%20)
 
 ![Partner Support Options](./Library/Partner%20Support.png)
 
@@ -25,7 +27,7 @@ Option | Description | Link
  [Partner Support](http://partner.microsoft.com/support) | Create an online request for all programs supported in Partner Center. In Partner Center, we'll provide you with a personalized experience. |
 [Technical Presales and Deployment Services](https://docs.microsoft.com/en-us/partner-center/technical-benefits) |Use Technical Presales and Deployment services (TPD) for remote, personalized, one-to-one consultations to build your technical capabilities faster, so you can increase sales, deploy more effectively, and accelerate app development.| [Create a Technical Presales and Deployment Services (TPD) request](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest).
 [Advanced Support for Partners](https://aka.ms/ASfP)|Keep your customers satisfied and your business running smoothly with quick and elevated technical support benefits for Microsoft Azure, Microsoft365 and Dynamics365, a closer relationship with Microsoft and access to proactive cloud enablement services.|
-[Premier Support for Partners](https://aka.ms/PSfP)|icrosoft Premier Support for Partners offers complete, end-to-end managed support across the full Microsoft platform to meet your complex needs, expand your capabilities in the cloud, and collaborate more strategically with Microsoft.| ...|
+[Premier Support for Partners](https://aka.ms/PSfP)| Microsoft Premier Support for Partners offers complete, end-to-end managed support across the full Microsoft platform to meet your complex needs, expand your capabilities in the cloud, and collaborate more strategically with Microsoft.| ...|
 
 ## Partner Support FAQ
 
