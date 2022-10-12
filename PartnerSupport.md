@@ -8,7 +8,7 @@ A Collection of resources for Microsoft to support partners part of the (Microso
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
-### Global PArtner Services (GPS) Technical Team
+### Global Partner Services (GPS) Technical Team
 
 The Microsoft Canada Global Partner Solutions Technical Team will provide technical enablement as part of the build-with motion for your team. This would include the following:
 - Envisioning Briefing, Assessment – Technical Briefing, Roadmap Planning, Architecture Design Session (ADS), Build and Assist, Hackathon, Proof of Concept (POC), Technical Skills Enablement, Sales Skills Enablement, Sales Deal, Enablement (first 3 deals), Solution Technical Review, Deployment / Practice Review (Grow)
