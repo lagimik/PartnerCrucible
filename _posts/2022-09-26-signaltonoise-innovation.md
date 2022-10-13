@@ -4,7 +4,7 @@ date: 2022-09-12
 ---
 
 ![Signal to Noise](/PartnerCrucible/Library/signaltonoise-innovation.png)
-
+[< Back to Signal:Noise index](/SignaltoNoise)
 
 ## TL;DR
 
@@ -48,3 +48,5 @@ Join [Microsoft Ignite](https://ignite.microsoft.com/en-US/home) **October 12–
 * [Drive application innovation and modernization at scale with cloud-native architectures](https://ignite.microsoft.com/en-US/sessions/8950b2b1-62eb-48f9-90ef-5ad779ce8e22?source=sessions)
 * [Fireside Chat with Scott Guthrie and Alysa Taylor: How Customers Build Agility and Drive Innovation with the Microsoft Cloud](https://ignite.microsoft.com/en-US/sessions/8811cb06-900f-4f2d-a3ba-d14788d4e26a?source=sessions)
 * [Redefining Innovation](https://ignite.microsoft.com/en-US/sessions/b08ff649-fe4a-423e-8cfa-4a81235dc532?source=sessions)
+
+[< Back to Signal:Noise index](/SignaltoNoise)
