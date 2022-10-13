@@ -6,7 +6,7 @@ date: 2022-09-12
 ![Signal to Noise](/PartnerCrucible/Library/signaltonoise-msignite2022.png)
 [< Back to Signal:Noise index](/PartnerCrucible/SignaltoNoise)
 
-# Power Platform
+# Developer (and low-code)
 
 A partner perspective on Microsoft Ignite 2022 developer (and low-code) announcements.
 
