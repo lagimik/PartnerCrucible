@@ -44,6 +44,7 @@ Source | Description | Notes
 [Microsoft Cloud for Manufacturing: Partnering to manufacture a more resilient and sustainable future](https://cloudblogs.microsoft.com/industry-blog/manufacturing/2022/01/03/microsoft-cloud-for-manufacturing-partnering-to-manufacture-a-more-resilient-and-sustainable-future/) | Blog post | January 2022
 [Stay informed about Microsoft Cloud for Manufacturing](https://info.microsoft.com/ww-landing-Manufacturing-StayInformed.html) | Updates |
 
+
 ### Public Safety
 
 Source | Description | Notes
