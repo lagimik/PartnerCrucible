@@ -13,6 +13,7 @@ A partner perspective on Microsoft Ignite 2022 Azure announcements.
 
 Azure announcements appear in [How Microsoft Azure helps drive agility and optimization for your business](https://azure.microsoft.com/en-ca/blog/how-microsoft-azure-helps-drive-agility-and-optimization-for-your-business/) *by Kathleen Mitford Corporate Vice President, Azure Marketing*
 
+* Microsoft is releasing a new way to buy Azure services, called Azure savings plan for compute: [Azure savings plan for compute](https://partner.microsoft.com/en-US/resources/collection/azure-savings-plan-for-compute#/)
 * **AMMP supports Arc** for workloads that need to *remain on-premise.*
 * **Cosmos DB** is expanding to support *distributed PostgreSQL*
 * SAP investments include **change-data-capture for ADF**, collaborative SAP ERP
