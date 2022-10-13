@@ -4,7 +4,8 @@ date: 2022-09-06
 ---
 
 ![Signal to Noise](/PartnerCrucible/Library/signaltonoise-title.png)
-[< Back to Signal:Noise index](/SignaltoNoise)
+
+[< Back to Signal:Noise index](/PartnerCrucible/SignaltoNoise)
 
 # Welcome to a technology partner *insider view*
 
@@ -67,5 +68,5 @@ For the first **insider view**, we would invite you to explore the [Partner Cruc
 
 More posts coming soon!
 
-[< Back to Signal:Noise index](/SignaltoNoise)
+[< Back to Signal:Noise index](/PartnerCrucible/SignaltoNoise)
 

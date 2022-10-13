@@ -4,8 +4,7 @@ date: 2022-09-12
 ---
 
 ![Signal to Noise](/PartnerCrucible/Library/signaltonoise-msignite2022.png)
-[< Back to Signal:Noise index](/SignaltoNoise)
-
+[< Back to Signal:Noise index](/PartnerCrucible/SignaltoNoise)
 # Azure
 
 A partner perspective on Microsoft Ignite 2022 Azure announcements.
@@ -46,6 +45,5 @@ All announcements can be viewed in the [Microsoft Ignite Book of News](https://n
   * Azure Hybrid Benefit now includes AKS so you can deploy Azure Kubernetes Service on Azure Stack HCI or Windows Server at no additional cost in your own datacenters or edge environments. 
   * We’re bringing new hybrid deployment options to AKS, on Windows devices and Windows IoT, enabled by Azure Arc. 
   * Additionally, you can now create new AKS clusters and deploy them to Windows Server or Azure Stack HCI in your datacenter all from the Azure portal or CLI. 
- 
- [< Back to Signal:Noise index](/SignaltoNoise)
+ [< Back to Signal:Noise index](/PartnerCrucible/SignaltoNoise)
 

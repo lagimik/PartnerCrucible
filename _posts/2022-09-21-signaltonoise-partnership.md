@@ -3,8 +3,8 @@ title: "Signal:Noise - What's in a partnership?"
 date: 2022-09-21
 ---
 
-![Signal to Noise](/PartnerCrucible/Library/signaltonoise-partnership.png)
-[< Back to Signal:Noise index](/SignaltoNoise)
+![Signal to Noise](/PartnerCrucible/Library/SignaltoNoise-partnership.png)
+[< Back to Signal:Noise index](/PartnerCrucible/SignaltoNoise)
 
 ## TL;DR
 
@@ -43,4 +43,4 @@ Pillar | Description | Why? | Next Step
 
 In addition, the [PartnerCrucible](https://lagimik.github.io/PartnerCrucible/) hosts a collection of links to key resources for partners. This project aims to serve as an *entry point* into the wealth of information and services available to Canadian Microsoft partners. 
 
-[< Back to Signal:Noise index](/SignaltoNoise)
+[< Back to Signal:Noise index](/PartnerCrucible/SignaltoNoise)

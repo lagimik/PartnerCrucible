@@ -4,7 +4,7 @@ date: 2022-09-12
 ---
 
 ![Signal to Noise](/PartnerCrucible/Library/signaltonoise-msignite2022.png)
-[< Back to Signal:Noise index](/SignaltoNoise)
+[< Back to Signal:Noise index](/PartnerCrucible/SignaltoNoise)
 
 # Azure
 
@@ -61,6 +61,5 @@ All announcements can be viewed in the [Microsoft Ignite Book of News](https://n
 **Empower people and automate processes with Microsoft Syntex:**
 * We’re excited to introduce Microsoft Syntex: Content AI integrated in the flow of work. It integrates innovations across the Microsoft Cloud, from Microsoft 365 to Azure, to Power Platform, and Microsoft Purview. Syntex automatically reads, tags, and indexes high volumes of content and connects it where it’s needed in context—in search, in applications, and as reusable knowledge. It also manages your content throughout its lifecycle with AI powered security and compliance, backup and restore, and tiered archive storage. Critically, Syntex puts people at the center, with content integrated into collaboration and workflows like eSignature.   
 
- 
- [< Back to Signal:Noise index](/SignaltoNoise)
+[< Back to Signal:Noise index](/PartnerCrucible/SignaltoNoise)
 

@@ -4,7 +4,7 @@ date: 2022-09-12
 ---
 
 ![Signal to Noise](/PartnerCrucible/Library/signaltonoise-msignite2022.png)
-[< Back to Signal:Noise index](/SignaltoNoise)
+[< Back to Signal:Noise index](/PartnerCrucible/SignaltoNoise)
 
 # Azure
 
@@ -47,5 +47,5 @@ All announcements can be viewed in the [Microsoft Ignite Book of News](https://n
 * A new Partner Ecosystem enables ISVs to build on top of the open and governed Microsoft Intelligent Data Platform—delivering an enriched, cost-optimized experience for customers across all industries.
 
   
- [< Back to Signal:Noise index](/SignaltoNoise)
+[< Back to Signal:Noise index](/PartnerCrucible/SignaltoNoise)
 

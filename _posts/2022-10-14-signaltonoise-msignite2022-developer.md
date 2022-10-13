@@ -4,7 +4,7 @@ date: 2022-09-12
 ---
 
 ![Signal to Noise](/PartnerCrucible/Library/signaltonoise-msignite2022.png)
-[< Back to Signal:Noise index](/SignaltoNoise)
+[< Back to Signal:Noise index](/PartnerCrucible/SignaltoNoise)
 
 # Power Platform
 
@@ -51,6 +51,5 @@ All announcements can be viewed in the [Microsoft Ignite Book of News](https://n
 * Today, we are also proud to share the public preview of Azure Kubernetes Fleet Manager which allows customers to easily manage fleets of Kubernetes clusters, run multi-cluster workloads and services, and ensure consistent configuration, access, and governance across your Kubernetes environment. 
 
   
- 
- [< Back to Signal:Noise index](/SignaltoNoise)
+ [< Back to Signal:Noise index](/PartnerCrucible/SignaltoNoise)
 

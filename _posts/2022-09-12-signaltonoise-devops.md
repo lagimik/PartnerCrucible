@@ -4,7 +4,7 @@ date: 2022-09-12
 ---
 
 ![Signal to Noise](/PartnerCrucible/Library/signaltonoise-devops.png)
-[< Back to Signal:Noise index](/SignaltoNoise)
+[< Back to Signal:Noise index](/PartnerCrucible/SignaltoNoise)
 
 This article refreshes a perspective originally published in 2018: [Why your business should care about DevOps](https://cloudblogs.microsoft.com/industry-blog/en-ca/uncategorized/2018/05/24/why-your-business-should-care-about-devops/)
 
@@ -99,4 +99,4 @@ Beyond the tooling and the usual topics, Dojo also covers the following topics:
 
 If you are so inclined, also explore [What the Hack - 014 - OSSDevOps](https://github.com/microsoft/WhatTheHack/tree/master/014-OSSDevOps) : DevOps is a journey not a destination. 
 
-[< Back to Signal:Noise index](/SignaltoNoise)
+[< Back to Signal:Noise index](/PartnerCrucible/SignaltoNoise)
