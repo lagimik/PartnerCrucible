@@ -24,7 +24,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[M365 Roadmap](http://aka.ms/M365Roadmap) À Get the latest updates on our best-in-class productivity apps and intelligent cloud services. Rethink productivity, streamline business processes, and protect your business with Microsoft 365.
+[M365 Roadmap](http://aka.ms/M365Roadmap) À Get the latest updates on our best-in-class productivity apps and intelligent cloud services. Rethink productivity, streamline business processes, and protect your business with Microsoft 365. | |
 [Project Orland](https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/project-orland-for-microsoft-365-heads-for-public-preview/ba-p/3571517) | Proactive Customer Lifecycle Management (CLM) increases the lifetime value of your customers by expanding your customer engagements beyond transaction and renewal. By anticipating and responding to your customers' needs, you can improve customer satisfaction, retain subscribers, and grow your business through additional managed services. | July 2022 
 [Office 365 / E3 Office 365 E3](https://go.microsoft.com/fwlink/p/?LinkID=403802&clcid=0x1009&culture=en-ca&country=CA)| Microsoft (Free Trial) | .
 
