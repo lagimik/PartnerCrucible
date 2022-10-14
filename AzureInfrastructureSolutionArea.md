@@ -4,7 +4,7 @@
 ## Purpose
 
 ![Azure Infrastructure](./Library/Azure-Logo.png)
-A Collection of resources for Microsoft practice building in the Azure solution area. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md). 
+A Collection of resources for Microsoft practice building in the Azure solution area. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md).
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
@@ -26,7 +26,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
-[Azure Latency Test](https://www.azurespeed.com/Azure/Latency) | This tool runs latency test from your IP location to Azure datacenters around the world. | 
+[Azure Latency Test](https://www.azurespeed.com/Azure/Latency) | This tool runs latency test from your IP location to Azure datacenters around the world. |
 
 ### Partner Admin Link (PAL)
 
@@ -49,7 +49,16 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :---------- | :-----
 [Arc Jumpstart](https://azurearcjumpstart.io/)| The Jumpstart provides step-by-step guides for independent Azure Arc scenarios that incorporate as much automation as possible, detailed screenshots and code samples, and a rich and comprehensive experience while getting started with the Azure Arc platform.| ...
+[Jumpstart ArcBox for DevOps](https://azurearcjumpstart.io/azure_jumpstart_arcbox/devops/)| ArcBox for DevOps is a special “flavor” of ArcBox that is intended for users who want to experience Azure Arc-enabled Kubernetes capabilities in a sandbox environment.| Arc Jumpstart
+[Jumpstart ArcBox for DataOps](https://azurearcjumpstart.io/azure_jumpstart_arcbox/dataops/#jumpstart-arcbox-for-dataops)| ArcBox for DataOps is a special “flavor” of ArcBox that is intended for users who want to experience Azure Arc-enabled SQL Managed Instance capabilities in a sandbox environment. | Arc Jumpstart
+[Jumpstart HCIBox](https://azurearcjumpstart.io/azure_jumpstart_hcibox/) | HCIBox is a turnkey solution that provides a complete sandbox for exploring Azure Stack HCI capabilities and hybrid cloud integration in a virtualized environment| Arc Jumpstart
 [Landing zone accelerator](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/hybrid/enterprise-scale-landing-zone) | Introduction to Azure Arc-enabled servers landing zone accelerator for hybrid and multicloud – Cloud Adoption Framework | Microsoft Docs
+
+### HCI
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[Jumpstart HCIBox](https://azurearcjumpstart.io/azure_jumpstart_hcibox/) | HCIBox is a turnkey solution that provides a complete sandbox for exploring Azure Stack HCI capabilities and hybrid cloud integration in a virtualized environment| Arc Jumpstart
 
 ### AKS
 
@@ -80,7 +89,7 @@ Source | Description | Notes
 [AVS Deep Dive Video Series](https://aka.ms/AVSDeepDive) | The Azure VMware Solution (AVS) Deployment Deep Dive Series will walk you through the things you should consider before, during, and after deploying your AVS private cloud - complete with demos! |
 [AVS Hands-on Labs](https://aka.ms/AVSHOL) | Learn more about Azure VMware Solution by taking a Hands-on Lab (HOL). See the service in action as you go through tasks such as deployment and configuration of an Azure-based SDDC, as well as advanced topics for specific use cases like cloud migration | VMWare TechZone
 [AVS Micro-hack](https://aka.ms/AVSMicroHack) | Handling Azure vMware Solution (AVS) network connectivity and migration scenario from on-premises to Azure | Github
-[Azure VMWare Services Trial](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR1xHkcwkIqVOp6E37mZjgcpURU9GSjJYTExLSzMzNzdGTzJERDBGWk1QQiQlQCN0PWcu&web=1&wdLOR=c5F35665D-7650-45A8-87BE-07E2AF646064)|Provide top AVS partners an opportunity to try AVS free of cost for when they are building/improving AVS services practice. The FY22 AVS Pilot Program provides top AVS partners the opportunity to experience AVS free of charge with white glove support from Microsoft. | AVS Pilot (Trial SKU) provides 3 nodes free for 30-day/720-hours. 
+[Azure VMWare Services Trial](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR1xHkcwkIqVOp6E37mZjgcpURU9GSjJYTExLSzMzNzdGTzJERDBGWk1QQiQlQCN0PWcu&web=1&wdLOR=c5F35665D-7650-45A8-87BE-07E2AF646064)|Provide top AVS partners an opportunity to try AVS free of cost for when they are building/improving AVS services practice. The FY22 AVS Pilot Program provides top AVS partners the opportunity to experience AVS free of charge with white glove support from Microsoft. | AVS Pilot (Trial SKU) provides 3 nodes free for 30-day/720-hours.
 [Landing zone considerations for Azure VMware Solution](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-vmware-solution-foundation-landing-zone) | Azure VMware Solution can be deployed as part of either a new landing zone or an existing landing zone environment. Well-designed landing zones help you avoid operational overhead and reduce costs by promoting segregated Azure environments and the use of shared services. |
 [Azure Virtual Desktop]() |Try it now during our promotional period We are pleased to offer a special promotion with no charge to access Azure Virtual Desktop for streaming applications to external users. This promotion is effective from July 14, 2021, to March 31, 2022. For additional pricing details, please read the product documentation page and FAQ below.|
 
