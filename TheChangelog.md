@@ -9,6 +9,20 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+###  Week ending October 14, 2022
+
+Date | Change | File
+:--- | :----- | ---:
+2022-10-14 | added teams references | [See changes here](./ModernWorkSolutionArea)
+2022-10-13 | added Arc Jumpboxes announced at Ignite 2022 | [See changes here](./AzureInfrastructureSolutionArea)
+2022-10-12 | updated partner support with MCPP references | [See changes here](./PartnerSupport)
+2022-10-09 | regrouped the industry references | [See changes here](./IndustryCanadianPublicSector)
+2022-10-09 | added FarmVibes references for farming | [See changes here](./IndustryCloud)
+2022-10-09 | added Scalable management of virtualized RAN with Kubernetes | [See changes here](./AzureInfrastructureSolutionArea-5G)
+2022-10-07 | added developer resources for Azure | [See changes here](./DigitalAppsandInnovationSolutionArea)
+2022-10-07 | added developer resources for M365 development | [See changes here](./ModernWorkSolutionArea)
+2022-10-07 | added developer resources for business apps | [See changes here](./BusinessApplicationsSolutionArea)
+
 ###  Week ending October 7, 2022
 
 Date | Change | File
