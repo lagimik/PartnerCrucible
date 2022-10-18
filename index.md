@@ -13,6 +13,9 @@ See the most recent changes in the [Changelog](./TheChangelog)
 ## Blog - Signal:Noise
 - [Signal:Noise](./SignaltoNoise)
 
+## Partner Crucible Discussions
+- [Partner Crucible Github Discussions](https://github.com/lagimik/PartnerCrucible/discussions)
+
 ## Partner Topics
 
 ### Innovation
