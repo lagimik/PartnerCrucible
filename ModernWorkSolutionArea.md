@@ -5,7 +5,7 @@
 
 ![Microsoft 365](./Library/Microsoft365_logo_horiz_c-gray_rgb.png)
 <br>
-A Collection of resources for Microsoft practice building in the Modern Work solution area. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md). 
+A Collection of resources for Microsoft practice building in the Modern Work solution area. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md).
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
@@ -25,7 +25,7 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :-----  | :-----
 [M365 Roadmap](http://aka.ms/M365Roadmap) | Get the latest updates on our best-in-class productivity apps and intelligent cloud services. Rethink productivity, streamline business processes, and protect your business with Microsoft 365. | |
-[Project Orland](https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/project-orland-for-microsoft-365-heads-for-public-preview/ba-p/3571517) | Proactive Customer Lifecycle Management (CLM) increases the lifetime value of your customers by expanding your customer engagements beyond transaction and renewal. By anticipating and responding to your customers' needs, you can improve customer satisfaction, retain subscribers, and grow your business through additional managed services. | July 2022 
+[Project Orland](https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/project-orland-for-microsoft-365-heads-for-public-preview/ba-p/3571517) | Proactive Customer Lifecycle Management (CLM) increases the lifetime value of your customers by expanding your customer engagements beyond transaction and renewal. By anticipating and responding to your customers' needs, you can improve customer satisfaction, retain subscribers, and grow your business through additional managed services. | July 2022
 [Office 365 / E3 Office 365 E3](https://go.microsoft.com/fwlink/p/?LinkID=403802&clcid=0x1009&culture=en-ca&country=CA)| Microsoft (Free Trial) | .
 
 ## Hybrid
@@ -46,8 +46,11 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[M365 Development](https://developer.microsoft.com/en-us/microsoft-365/?utm_source=developermscom)| Build collaborative apps for Microsoft 365 and Microsoft Teams that connect people, data, and processes to help users thrive in the hybrid workplace | 
-[Microsoft Teams Development](https://developer.microsoft.com/en-us/microsoft-teams?utm_source=developermscom) | Extend and customize the Microsoft Teams developer platform | 
+[M365 Development](https://developer.microsoft.com/en-us/microsoft-365/?utm_source=developermscom)| Build collaborative apps for Microsoft 365 and Microsoft Teams that connect people, data, and processes to help users thrive in the hybrid workplace |
+[M365 Developer Program](http://aka.ms/M365DevProgram) | Get an instant sandbox preconfigured with sample data, including Teams Developer Portal, and start developing on the Microsoft 365 platform. |
+[M365 Developer Program - Video](https://aka.ms/Setup-M365-Dev-Account) | Introducing New Instant Sandbox for Microsoft 365 Developer Program | YouTube
+[Microsoft Teams Development](https://developer.microsoft.com/en-us/microsoft-teams?utm_source=developermscom) | Extend and customize the Microsoft Teams developer platform |
+[Microsoft 365 Developer](https://www.youtube.com/channel/UCV_6HOhwxYLXAGd-JOqKPoQ?view_as=subscriber) | Microsoft 365 Developer Youtube Channel | YouTube
 
 ## Viva
 
