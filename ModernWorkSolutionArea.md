@@ -33,6 +33,7 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :-----  | :-----
 [How to Hybrid: The WorkLab Guides](https://www.microsoft.com/en-us/worklab/hybrid-work-guides)| Here are your practical guides to in-person and asynchronous collaboration, resetting work-life balance, and getting hybrid meetings right.|...
+[Worklab - Podcast](https://www.microsoft.com/en-us/worklab/podcast/) | Everything we thought we knew about work—where we do it, when we do it, how we do it—has been turned on its head. Where is it all going, and is there a map to get us there? WorkLab is a new podcast from Microsoft that taps into data and research to guide you on the road ahead. Leaders and scientists share the company’s findings, and we’ll hear stories about how people and organizations are being transformed at this radical moment. Join us as we explore the science of work and ingenuity. |
 
 ## Teams
 
