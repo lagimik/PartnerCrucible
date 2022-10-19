@@ -8,7 +8,6 @@ A collection of learning resources that span the Microsoft solution areas.
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
-
 ## References
 
 Source | Description | Notes
@@ -27,7 +26,16 @@ Source | Description | Notes
 [Microsoft Events](https://events.microsoft.com/)|Explore special events and learning opportunities created to help you expand your expertise, learn new skills, and build community.}| Can filter on solution area and language of delivery
 [Microsoft Azure CLX](https://clx.cloudevents.ai/events/39366311-ad15-4b90-9364-0252213842fa)|Microsoft Azure Connected Learning Experience (CLX) is an experiential training program that aims at maximizing learners’ return on time investment through a personalized and prescriptive learning experience| AZ-900, AI-900, DP-900
 [CLX Support](https://support.spektrasystems.com/portal/en/newticket?_gl=1*1am1gln*_ga*ODUwNjk4MDgzLjE2NTE2MjczMDQ.*_ga_WJ29EGCL9Y*MTY1MTYyNzMwMy4xLjEuMTY1MTYyNzMyOC4w&_ga=2.13350832.667915366.1651627304-850698083.1651627304)| CloudLabs support by Spektra|
-[Microsoft Reactor](https://www.youtube.com/c/MicrosoftReactor1)| Our Microsoft Reactor community is here with workshops and events aimed at expanding your skills across a range of technologies and topics. | YouTube Channel 
+[Microsoft Reactor](https://www.youtube.com/c/MicrosoftReactor1)| Our Microsoft Reactor community is here with workshops and events aimed at expanding your skills across a range of technologies and topics. | YouTube Channel
 [John Savill's Technical Training](https://www.youtube.com/c/NTFAQGuy/featured) | This channel is focused on bring distraction free content to help you learn. Lots of content around Azure, PowerShell, DevOps, Hyper-V, Windows and more! |
+
+## Students
+
+Source | Description | Notes
+:----- | :---------- | :----
+[Learn Student](http://aka.ms/learnstudent) | Preparation for your career in tech begins here with free resources!| MS Learn
+[Activate GitHub Student Developer Account](https://education.github.com/discount_requests/pack_application) | Learn and teach using real-world developer tools | Github
+[Activate Azure for Student Credit](https://azure.microsoft.com/en-us/free/students/) |  Use your university or school email to sign up and renew each year you're a student | Azure
+
 
 [< Back to Crucible](./)
