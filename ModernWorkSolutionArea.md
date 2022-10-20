@@ -47,6 +47,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Microsoft365DSC](https://www.youtube.com/channel/UCveScabVT6pxzqYgGRu17iw) | Configuration as Code for the Cloud | Youtube
 [M365 Development](https://developer.microsoft.com/en-us/microsoft-365/?utm_source=developermscom)| Build collaborative apps for Microsoft 365 and Microsoft Teams that connect people, data, and processes to help users thrive in the hybrid workplace |
 [M365 Developer Program](http://aka.ms/M365DevProgram) | Get an instant sandbox preconfigured with sample data, including Teams Developer Portal, and start developing on the Microsoft 365 platform. |
 [M365 Developer Program - Video](https://aka.ms/Setup-M365-Dev-Account) | Introducing New Instant Sandbox for Microsoft 365 Developer Program | YouTube
