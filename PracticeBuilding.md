@@ -31,9 +31,9 @@ Source | Description | Notes
 
 Association Type | Description | Guidance
 ----------------:| :---------- | :-------
-**Claiming Partner of Record (CPOR)** | This association connects a partner to a customer tenant and workload based on a claim that the partner submits. Partners submit claims at the workload level via Partner Center, and claims are validated by Microsoft and the customer. **CPOR applies to Microsoft 365 and Dynamics 365**. |  
-**Partner Admin Link (PAL)** | Using PAL, partners can associate their MPN ID with the credentials used for service delivery whenever they act on behalf of the customer to manage, configure and support **Azure and Business Application services (Power Platform and Customer Insights)**. Unique to PAL is that it allows for *different partners to get recognized for the same customer engagement*. Partners can be associated to the same workloads, and both get ‘credit’. | 
-**Digital Partner of Record (DPOR)**| Digital Partner of Record (DPOR) is an online capability for customers to attach a servicing partner to their Microsoft cloud subscription. To recognize the partner for that work, the customer adds the partner’s MPN ID to the subscription via the customer’s service portal. **DPOR applies to Microsoft 365, Dynamics 365, and Azure.** | 
+**Claiming Partner of Record (CPOR)** | This association connects a partner to a customer tenant and workload based on a claim that the partner submits. Partners submit claims at the workload level via Partner Center, and claims are validated by Microsoft and the customer. **CPOR applies to Microsoft 365 and Dynamics 365**. |  [Customer Association Process Claiming Partner of Record (CPOR)](https://dmspiprod.blob.core.windows.net/templates/CPOR_Claims_Guide.pdf)
+**Partner Admin Link (PAL)** | Using PAL, partners can associate their MPN ID with the credentials used for service delivery whenever they act on behalf of the customer to manage, configure and support **Azure and Business Application services (Power Platform and Customer Insights)**. Unique to PAL is that it allows for *different partners to get recognized for the same customer engagement*. Partners can be associated to the same workloads, and both get ‘credit’. | [Linking a Partner ID with PAL](https://docs.microsoft.com/en-us/partner-center/link-partner-id-for-azure-performance-pal-dpor)<br> [Linking a Partner ID to Power Platform or Dynamics Customer Insights](https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/link-partner-id-power-apps-accounts)
+**Digital Partner of Record (DPOR)**| Digital Partner of Record (DPOR) is an online capability for customers to attach a servicing partner to their Microsoft cloud subscription. To recognize the partner for that work, the customer adds the partner’s MPN ID to the subscription via the customer’s service portal. **DPOR applies to Microsoft 365, Dynamics 365, and Azure.** | [Linking and Partner ID with DPOR](https://docs.microsoft.com/en-us/partner-center/link-partner-id-for-azure-performance-pal-dpor)
 **Cloud Solution Provider (CSP)** | When a partner sells through the Cloud Solution Provider program, the CSP association type is automatically applied. |
 
 ## Partner incentive reinvestment
@@ -42,7 +42,7 @@ Microsoft partner benefits, investments, and incentive programs are designed to 
 * For a full view of partner **benefits** see [Specialization Benefits Guide](https://aka.ms/Solutionspartner.Benefits)
 * For a full view of partner **incentives and investments** sign-in to [Investment and incentives](http://aka.ms/partnerincentives)
 
-With the rate technology evolution the only way to stay ahead is to 
+With the rate technology evolution the only way to stay ahead is to
 **reinvest** into your teams. The following are a set of Microsoft partnership incentive reinvestment ideas, and examples where available.
 
 Idea | Description | Samples Sources
