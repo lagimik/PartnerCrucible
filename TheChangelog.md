@@ -9,6 +9,22 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+
+###  Week ending October 21, 2022
+
+Date | Change | File
+:--- | :----- | ---:
+2022-10-20 | added defender for identity lab | [See changes here](./SecuritySolutionArea)
+2022-10-19 | added M365DSC | [See changes here](./ModernWorkSolutionArea)
+2022-10-19 | updated with CPOR and PAL claiming guidance | [See changes here](./PracticeBuilding)
+2022-10-18 | added worklab podcast | [See changes here](./ModernWorkSolutionArea)
+2022-10-18 | added developer resources | [See changes here](./ModernWorkSolutionArea)
+2022-10-18 | added resources for students | [See changes here](./LearningResources)
+2022-10-17 | updated from mixed reality for developer Oct updates | [See changes here](./MixedReality)
+2022-10-15 | added Teams calling references | [See changes here](./ModernWorkSolutionArea)
+2022-10-15 | added **PartnerCrucible Discussions** | [See changes here](./index)
+2022-10-14 | added **Gartner magic quadrant for SIEM 2022** | [See changes here](./SecuritySolutionArea-Sentinel)
+
 ###  Week ending October 14, 2022
 
 Date | Change | File
