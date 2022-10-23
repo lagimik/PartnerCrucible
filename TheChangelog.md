@@ -1,6 +1,6 @@
 # Partner Crucible Changelog
 
-![GitHub Changelog](./Library/github_PNG20.png)
+![GitHub Changelog](./Library/crucible-changelog.png)
 
 [< Back to Crucible](./)
 
