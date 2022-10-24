@@ -13,7 +13,9 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 Source | Description | Notes
 :----- | :---------- | :----
 [Azure for Technology Partners](https://azure.microsoft.com/en-us/partners/azure-technology-partners/)|Azure for resources  independent software vendors (ISVs)|...
+[Microsoft for Startups](https://startups.microsoft.com/)|icrosoft for Startups Founders Hub brings together the technology, guidance, and support you need to hit your next milestone.|
 [ISV Success Program](https://www.microsoft.com/en-us/isv) | Build, sell, and thrive on the Microsoft Cloud.| In Private Preview
 [ISV Success Program Guide](https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-brand/documents/WhyMicrosoftCloudForISVs.pdf) | ISV Success program (private preview) is a nine-month partnership designed to help independent software vendors (ISV) build well-architected apps on Microsoft Cloud platforms and publish into our commercial marketplace. | October 2022
 [ISV Success Program - Private Preview Registration](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_Ag213JJ2NMve6PXPYZ8NBUNUxZNkJGTDYzTVhUVlNJMEZGN0NFQlg1Wi4u&wdLOR=c5F8F55B1-AC68-4DEB-A6AC-7653BD5934A9)  | Answer the following questions about your organization and the application you are developing so that we can consider you into the program.
 [ISV and CSP Margin Sharing](https://azure.microsoft.com/en-us/blog/scaling-cloud-solutions-to-new-heights-with-microsoft-s-partner-ecosystem/?culture=en-us&country=us) | Blog post and video describing ISV and CSP margin sharing in Marketplace | March 2022
+[Margin Sharing](https://learn.microsoft.com/en-ca/partner-center/csp-commercial-marketplace-margins) | A private offer enables the ISV publisher to provide a margin on their published solution to incentivize you to sell that solution to their customers. | Microsoft Learn
