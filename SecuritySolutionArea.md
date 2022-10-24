@@ -99,6 +99,13 @@ Source | Description | Notes
 :----- | :---------- | :----
 [Setup a Microsoft Defender for Identity security alert lab](https://learn.microsoft.com/en-us/defender-for-identity/playbook-setup-lab) | The purpose of the Microsoft Defender for Identity Security Alert lab is to illustrate Defender for Identity's capabilities in identifying and detecting suspicious activities and potential attacks against your network. | Microsoft Learn
 
+### Microsoft Purview Information Protection Ninja 
+
+
+Source | Description | Notes
+:----- | :---------- | :----
+[Microsoft Purview Information Protection Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-microsoft-purview-information-protection-ninja-training-is/ba-p/2887478) |  Microsoft Purview Information Protection (formerly Microsoft Information Protection-MIP)  | Tech Community
+[Microsoft Purview Data Loss Prevention Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-microsoft-purview-data-loss-prevention-ninja-training-is/ba-p/3659015) |  Microsoft Purview Data Loss Prevention Ninja training  | Tech Community
 
 ### Compliance Ninja
 
