@@ -24,7 +24,8 @@ Source | Description | Notes
 [Cloud-scale analytics data management landing zone overview](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/cloud-scale-analytics/architectures/data-management-landing-zone) | The data management landing zone is a management function and is central to cloud-scale analytics. It's responsible for the governance of your analytics platform. | Microsoft Learn
 [Independent software vendor (ISV) considerations for Azure landing zones](https://learn.microsoft.com/en-ca/azure/cloud-adoption-framework/ready/landing-zone/isv-landing-zone?tabs=mg-env-no%2Cminimal) |The landing zones describe how to build an Azure environment with multiple subscriptions. Each landing zone accounts for scale, security, governance, networking, and identity, and is based on feedback and lessons learned from many customers. | Microsoft Learn
 [Azure Landing Zones for Canadian Public Sector](https://github.com/Azure/CanadaPubSecALZ/blob/main/docs/architecture.md)| The purpose of the reference implementation is to guide Canadian Public Sector customers on building Landing Zones in their Azure environment.| Github 
-
+[Cloud-scale analytics data management landing zone](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/cloud-scale-analytics/architectures/data-management-landing-zone) | The data management landing zone is a management function and is central to cloud-scale analytics. It's responsible for the governance of your analytics platform.| Microsoft Learn
+[Data landing zones](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/cloud-scale-analytics/architectures/data-landing-zone) | Data landing zones are connected to your data management landing zone by virtual network (VNet) peering. Each data landing zone is considered a landing zone related to Azure landing zone architecture. | Microsoft Learn
 
 
 
