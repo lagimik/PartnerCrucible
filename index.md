@@ -56,6 +56,7 @@ See the most recent changes in the [Changelog](./TheChangelog)
 - [Modern Work](./ModernWorkSolutionArea.md)
   
 ### Infrastructure Solution Area
+- [Landing Zones](./AzureInfrastructureSolutionArea-LandingZones)
 - [Infrastructure](./AzureInfrastructureSolutionArea)
 - [5G](./AzureInfrastructureSolutionArea-5G.md)
 
