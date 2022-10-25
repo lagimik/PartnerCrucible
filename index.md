@@ -16,13 +16,11 @@ See the most recent changes in the [Changelog](./TheChangelog)
 ## Partner Crucible Discussions
 - [Partner Crucible Github Discussions](https://github.com/lagimik/PartnerCrucible/discussions)
 
-## Partner Topics
-
-### Innovation
+## Innovation
 - [Innovation at Microsoft](./InnovationatMicrosoft)
 - [Accessibility](./MicrosoftAccessibility)  
   
-### Partner Practice Building
+## Partner Practice Building
 - [Partner Portals](./PartnerPortals)
 - [Partner Support](./PartnerSupport)
 - [Practice Building and Profitability](./PracticeBuilding)
@@ -33,21 +31,21 @@ See the most recent changes in the [Changelog](./TheChangelog)
 - [OpenHacks](./OpenHack)
 - [Sandbox Environments](./SandboxEnvironments)
 
-### Partner Economics
+## Partner Economics
 - [ISV](./ISV)
 - [Cloud Solution Provider](./CSP)
 - [Software as a Service](./SaaS)
 - [Commercial Marketplace Offers](./CommercialMarketplaceOffers)
 - [FinOps](./FinOps)
 
-### Industry perspective
+## Industry perspective
 - [Sustainability](./IndustrySustainability)
 - [Canadian public sector](./IndustryCanadianPublicSector)
 - [Financial services](./IndustryFinancialServices)
 - [Telecommunications](./IndustryTelecom)
 - [Healthcare, Manufacturing, Farming, PublicSafety](./IndustryGeneral)
 
-### Solution Areas
+## Solution Areas
 - [Solution Area Taxonomy](./Taxonomy)
 - [Solution Partner](./SolutionPartners)
 - [Industry Clouds](./IndustryCloud)
