@@ -9,6 +9,16 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+###  Week ending October 28, 2022
+
+2022-10-25 | added landing zone references and links | [See changes here](./AzureInfrastrucutreSolutionArea-LandingZones)
+2022-10-25 | added Value calculator and TEI for Viva | [See changes here](./ModernWorkSolutionArea)
+2022-10-25 | added ISV Landing Zone reference | [See changes here](./ISV)
+2022-10-24 | added Business Apps ISV Connect | [See changes here](./BusinessApplicationsSolutionArea)
+2022-10-24 | added Purview information protection and DLP Ninja training resources | [See changes here](./SecuritySolutionArea)
+2022-10-24 | added intelligent manufacturing whitepaper | [See changes here](./IndustryGeneral)
+2022-10-23 | added concentration risk reference | [See changes here](./IndustryFinancialServices)
+2022-10-23 | added digital government ROI resources | [See changes here](./IndustryCanadianPublicSector)
 
 ###  Week ending October 21, 2022
 
