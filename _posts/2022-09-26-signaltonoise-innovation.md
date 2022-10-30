@@ -4,6 +4,7 @@ date: 2022-09-12
 ---
 
 ![Signal to Noise](/PartnerCrucible/Library/signaltonoise-innovation.png)
+
 [< Back to Signal:Noise index](/PartnerCrucible/SignaltoNoise)
 
 ## TL;DR
