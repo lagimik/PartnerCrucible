@@ -9,7 +9,6 @@ A Collection of resources for Microsoft practice building around the Microsoft k
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
-
 ## Industry References
 
 Source | Description | Notes
@@ -46,7 +45,6 @@ Source | Description | Notes
 [Microsoft Cloud for Manufacturing: Partnering to manufacture a more resilient and sustainable future](https://cloudblogs.microsoft.com/industry-blog/manufacturing/2022/01/03/microsoft-cloud-for-manufacturing-partnering-to-manufacture-a-more-resilient-and-sustainable-future/) | Blog post | January 2022
 [The Road to Intelligent Manufacturing: Leveraging a Platform Approach](https://azure.microsoft.com/en-us/resources/the-road-to-intelligent-manufacturing-leveraging-a-platform-approach/) | Whitepaper - Learn how Capgemini and Microsoft work together to help organizations successfully pass through each phase of their journey to connectivity, automation, and cloud-scale analytics, data, and decision making. | 2020
 [Stay informed about Microsoft Cloud for Manufacturing](https://info.microsoft.com/ww-landing-Manufacturing-StayInformed.html) | Updates |
-
 
 ### Public Safety
 
