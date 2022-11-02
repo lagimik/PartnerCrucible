@@ -10,7 +10,7 @@
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
 
-## References
+## Business References
 
 
 Source | Description | Notes
@@ -20,6 +20,13 @@ Source | Description | Notes
 [Introduction to the CSP Program](https://getlicensingready.com/HandoutStore/Introduction%20to%20CSP%20v21.40.pdf)| CSP 1-pager
 [Partner Incentives Overview](https://assetsprod.microsoft.com/en-us/investments-and-incentives-portfolio-overview.pdf)| Partner investments and incentives | FY22
 [ISV and CSP Margin Sharing](https://azure.microsoft.com/en-us/blog/scaling-cloud-solutions-to-new-heights-with-microsoft-s-partner-ecosystem/?culture=en-us&country=us) | Blog post and video describing ISV and CSP margin sharing in Marketplace | March 2022
-[Providing Support to yourt customers un CSP ](https://docs.microsoft.com/en-us/partner-center/customer-support)|Description of support requirements under CSP|..|
+
+## Technical References
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Admin on behalf of (AOBO)](https://learn.microsoft.com/en-us/shows/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) | AOBO for O365 and Azure | MS Learn
+[Providing Support to your customers un CSP ](https://docs.microsoft.com/en-us/partner-center/customer-support)|Description of support requirements under CSP|..|
+
 
 [< Back to Crucible](./)
