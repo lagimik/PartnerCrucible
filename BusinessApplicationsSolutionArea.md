@@ -28,6 +28,7 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :-----  | :-----
 [Dynamics 365 Developers: Start here](https://learn.microsoft.com/en-ca/dynamics365/get-started/developers?wt.mc_id=sitertzn_dynamics365_content_developermscom)| Developers and ISVs can use the underlying platform to build or extend apps, depending on the app's type | Microsoft Lean
+[Dynamics 365 General](https://community.dynamics.com/365) | | Community
 
 
 ## Skilling
