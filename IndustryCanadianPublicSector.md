@@ -15,7 +15,13 @@ Source | Description | Notes
 [Public Sector Center of Expertise](https://wwps.microsoft.com/)| The Microsoft Public Sector Center of Expertise supports the evolution of public sector organizations by sharing insights and best practices, research, and resources on digital innovation.  | ...
 [Public Sector Future Podcast](https://wwps.microsoft.com/episodes) | Our Public Sector Future podcast delves into these topics with global expert interviews. | 
 
-## Canada Federal Government
+## Digital Government
+Source | Description | Notes
+:----- | :---------- | :-----
+[Can we quantify the economic benefits of digital government?](https://www.linkedin.com/pulse/can-we-quantify-economic-benefits-digital-government-olivia-neal/?trackingId=bCBEEZN6RcGyHGdb7GyaJw%3D%3D) | Consolidated the list of the resources that this community have provided | 2021
+
+
+## Canada Federal Government - Technology
 
 Source | Description | Notes
 :----- | :---------- | :-----

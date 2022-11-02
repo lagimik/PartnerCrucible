@@ -1,6 +1,6 @@
 # Partner Crucible Changelog
 
-![GitHub Changelog](./Library/github_PNG20.png)
+![GitHub Changelog](./Library/crucible-changelog.png)
 
 [< Back to Crucible](./)
 
@@ -8,6 +8,32 @@
 This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
+
+###  Week ending October 28, 2022
+
+2022-10-25 | added landing zone references and links | [See changes here](./AzureInfrastrucutreSolutionArea-LandingZones)
+2022-10-25 | added Value calculator and TEI for Viva | [See changes here](./ModernWorkSolutionArea)
+2022-10-25 | added ISV Landing Zone reference | [See changes here](./ISV)
+2022-10-24 | added Business Apps ISV Connect | [See changes here](./BusinessApplicationsSolutionArea)
+2022-10-24 | added Purview information protection and DLP Ninja training resources | [See changes here](./SecuritySolutionArea)
+2022-10-24 | added intelligent manufacturing whitepaper | [See changes here](./IndustryGeneral)
+2022-10-23 | added concentration risk reference | [See changes here](./IndustryFinancialServices)
+2022-10-23 | added digital government ROI resources | [See changes here](./IndustryCanadianPublicSector)
+
+###  Week ending October 21, 2022
+
+Date | Change | File
+:--- | :----- | ---:
+2022-10-20 | added defender for identity lab | [See changes here](./SecuritySolutionArea)
+2022-10-19 | added M365DSC | [See changes here](./ModernWorkSolutionArea)
+2022-10-19 | updated with CPOR and PAL claiming guidance | [See changes here](./PracticeBuilding)
+2022-10-18 | added worklab podcast | [See changes here](./ModernWorkSolutionArea)
+2022-10-18 | added developer resources | [See changes here](./ModernWorkSolutionArea)
+2022-10-18 | added resources for students | [See changes here](./LearningResources)
+2022-10-17 | updated from mixed reality for developer Oct updates | [See changes here](./MixedReality)
+2022-10-15 | added Teams calling references | [See changes here](./ModernWorkSolutionArea)
+2022-10-15 | added **PartnerCrucible Discussions** | [See changes here](./index)
+2022-10-14 | added **Gartner magic quadrant for SIEM 2022** | [See changes here](./SecuritySolutionArea-Sentinel)
 
 ###  Week ending October 14, 2022
 

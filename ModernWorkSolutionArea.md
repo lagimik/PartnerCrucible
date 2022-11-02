@@ -13,6 +13,8 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Value Calculator](https://vc.transform.microsoft.com/) | The Value Calculator uses real customer data to show the ROI that organizations can achieve by adopting our solutions across Modern Work, Security, Surface and more! Costs and benefits are calculated based on values from third-party Forrester TEI studies. The tool provides standardized and custom calculations to help you create a business case specific to your customer’s environment and needs.| Requires MPN 
+[Analyst Studies](https://vc.transform.microsoft.com/analyststudies) | Comprehensive listing of Total Economic Impact (TEI) studies of Microsoft Modern Work solutions| Forrester
 [Modern Work partner enablement guide](https://assetsprod.microsoft.com/mpn/en-us/modern-work-partner-enablement.pdf)| Top news, upcoming training, certifications and exams, and additional resources updated ~monthly | Requires MPN login
 [Partner Learning](https://readiness.transform.microsoft.com/)| Partner training starting point| Requires MPN login
 [M365 Readiness Calendar](https://cloudpartners.transform.microsoft.com/readiness/calendar) | Partner training calendar | Requires MPN login
@@ -58,6 +60,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Total Economic Impact of Microsoft Viva](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE56D0e) | | Forrester
 [Viva Business Learning Path and Assessment](https://partner.microsoft.com/en-US/training/assets/collection/microsoft-viva-employee-experience-business-learning-path#/)| Designed for executives, sales staff and account leads, the Business Rapid Assessment will test your knowledge of employee experience trends, specific Microsoft Viva module offerings, Employee Experience benefits, and more. | -Qualify for Modern Work go-to-market programs like Microsoft Viva workshops and investments to grow your Employee Experience practice
 [Viva Technical Learning Path and Assessment](https://partner.microsoft.com/en-US/training/assets/collection/microsoft-viva-employee-experience-technical-learning-path#/)| Created with IT admins and implementation specialists in mind, the Technical Rapid Assessment will test your knowledge of Microsoft Viva module implementation, feature experiences, tech requirements and similar technical necessities.
 
