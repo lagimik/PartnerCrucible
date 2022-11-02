@@ -5,10 +5,9 @@
 
 ## Purpose
 
-A Collection of resources for Microsoft practice building around the Microsoft key industries. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md). 
+A Collection of resources for Microsoft practice building around the Microsoft key industries. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md).
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
-
 
 ## Industry References
 
@@ -17,6 +16,7 @@ Source | Description | Notes
 [Industry Resources](https://microsoft.github.io/PartnerResources/industry/)| Industry resources| Microsoft US
 [Microsoft Solution Center](https://solutions.microsoft.com/) | Ready to set up a new deployment? Choose the cloud solution designed for your industry to get started.
 [Industry Cloud Partner Sandboxes](https://experience.dynamics.com/requestlicense/)|This portal is used for SI/ISV Connect partners to obtain free or discounted non-production environment licenses with Biz Apps and Power Platform products to learn, test, and deliver end-to-end customer demos with their own solutions. These offers are to be used only on partner tenants, never on customer tenants.| Includes Cloud for Sustainability, FSI, Healthcare, Retail, Nonprofit
+[GPS Industry Cloud](https://github.com/microsoft/GPS-IndustryCloud) | Labs and presentations| Github
 
 ## Farming
 
@@ -36,6 +36,7 @@ Source | Description | Notes
 [Explore Microsoft Cloud for Healthcare](https://aka.ms/cloudforhealthcare) | |
 [Microsoft Cloud for Healthcare in a Day training](https://learn.microsoft.com/en-us/training/paths/healthcare-in-a-day/) | |
 [Microsoft Cloud for Healthcare Trial](https://aka.ms/Cloudforhealthcaretrial) | Microsoft Cloud for Healthcare offers a free limited trial for 30 days | Solutions Center
+[GPS Industry Cloud - MC4H](https://github.com/microsoft/GPSIndustryCloud-MC4H) | Presentations and labs | Github
 
 ### Manufacturing
 
@@ -44,7 +45,6 @@ Source | Description | Notes
 [Microsoft Cloud for Manufacturing: Partnering to manufacture a more resilient and sustainable future](https://cloudblogs.microsoft.com/industry-blog/manufacturing/2022/01/03/microsoft-cloud-for-manufacturing-partnering-to-manufacture-a-more-resilient-and-sustainable-future/) | Blog post | January 2022
 [The Road to Intelligent Manufacturing: Leveraging a Platform Approach](https://azure.microsoft.com/en-us/resources/the-road-to-intelligent-manufacturing-leveraging-a-platform-approach/) | Whitepaper - Learn how Capgemini and Microsoft work together to help organizations successfully pass through each phase of their journey to connectivity, automation, and cloud-scale analytics, data, and decision making. | 2020
 [Stay informed about Microsoft Cloud for Manufacturing](https://info.microsoft.com/ww-landing-Manufacturing-StayInformed.html) | Updates |
-
 
 ### Public Safety
 
