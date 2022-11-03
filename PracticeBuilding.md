@@ -16,6 +16,16 @@ Source | Description | Notes
 [Microsoft Ecosystem Value: Partner Paths to Profitability and Growth](https://assetsprod.microsoft.com/en-us/idc-report-microsoft-ecosystem-value.pdf) | IDC conducted a study of the Microsoft partner ecosystem globally to understand the various pathways to success and the economic value that can be achieved from engaging with Microsoft and its technology | IDC
 [Enablement Guides](http://aka.ms/enablementguides)| These technical and sales guides cover Microsoft solution areas across Modern Work; Microsoft Dynamics 365; Microsoft Power Platform; Microsoft Azure; and Security, Compliance, and Identity. | Microsoft
 
+## Partner to Partner (P2P)
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Leverage the Ecosystem (Partner to Partner - P2P)](https://msuspartners.eventbuilder.com/P2Pchannelreadiness) | Partners who adopt an ecosystem business model will grow 50% faster over the next two years than partners who do not. | On-demand
+[Partner-to-Partner (P2P) - Channel Transformation](https://partner.microsoft.com/en-us/asset/detail/partner-to-partner-p2p-channel-transformation-mp4)| artner-to-partner (P2P) is the way our partners create scale and accelerate cloud-first adoptions of their solutions, together. We’ve taken the process and broken it down into a series of videos with step-by-step guides. This session is part 1 of an 8-part series on recommendations, tips, and best practices for creating and launching a P2P strategy.| On-Demand
+[Scaling cloud solutions to new heights with Microsoft’s partner ecosystem](https://azure.microsoft.com/en-us/blog/scaling-cloud-solutions-to-new-heights-with-microsoft-s-partner-ecosystem/?culture=en-us&country=us) | Blog post and video describing ISV and CSP margin sharing in Marketplace | March 2022
+[Independent Software Vendor (ISV) to Partner private offers FAQ](https://learn.microsoft.com/en-us/azure/marketplace/isv-csp-faq)| This article addresses frequently asked questions about Independent Software Vendor (ISV) to Partner private offers in Partner Center.| MS Learn
+
+
 ## Partner Association
 
 Source | Description | Notes
