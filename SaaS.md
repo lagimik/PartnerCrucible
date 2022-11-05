@@ -23,6 +23,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Independent software vendor (ISV) considerations for Azure landing zones](https://learn.microsoft.com/en-ca/azure/cloud-adoption-framework/ready/landing-zone/isv-landing-zone?tabs=mg-env-no%2Cminimal) |The landing zones describe how to build an Azure environment with multiple subscriptions. Each landing zone accounts for scale, security, governance, networking, and identity, and is based on feedback and lessons learned from many customers. | Microsoft Lean
 [Tenancy models to consider for a multitenant solution](https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/tenancy-models) | Guidance for technical decision-makers about the tenancy models you can consider and their tradeoffs | MS Learn
 [Azure SaaS Development Kit (ASDK)](https://github.com/Azure/azure-saas) | he Azure SaaS Development Kit is a deployable reference implementation of pre-built modules designed to help you launch your SaaS offering faster | Github
 [Community Sample Code and SDK for SaaS Applications](https://github.com/Azure/Commercial-Marketplace-SaaS-Accelerator)| This project is a community-supported reference implementation for integrating Software-as-a-Service (SaaS) solutions with Microsoft commercial marketplace SaaS offers. | Github Version 6.0.0
