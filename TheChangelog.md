@@ -9,8 +9,22 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+###  Week ending Nov 4, 2022
+Date | Change | File
+:--- | :----- | ---:
+2022-11-05 | updated with SaaS technical and practice references including Chaos Studio | [See changes here](./SaaS)
+2022-11-03 | move the P2P references to the practice building | [See changes here](./PracticeBuilding)
+2022-11-03 | added subscription transfer references for CSP | [See changes here](./CSP)
+2022-11-02 | added Dynamics community | [See changes here](./BusinessApplicationsSolutionArea)
+2022-11-02 | added ADmin on Behalf Of (AOBO) reference | [See changes here](./CSP)
+2022-11-01 | added GPS industry cloud github repo | [See changes here](./IndustryGeneral)
+2022-10-31 | added Gartner 2022 Magic Quadrant for Cloud Infrastructure Platform | [See changes here](./AzureInfrastructureSolutionArea)
+2022-10-28 | added Forrester TEI studies for Modern Work | [See changes here](./ModernWorkSolutionArea)
+
 ###  Week ending October 28, 2022
 
+Date | Change | File
+:--- | :----- | ---:
 2022-10-25 | added landing zone references and links | [See changes here](./AzureInfrastrucutreSolutionArea-LandingZones)
 2022-10-25 | added Value calculator and TEI for Viva | [See changes here](./ModernWorkSolutionArea)
 2022-10-25 | added ISV Landing Zone reference | [See changes here](./ISV)
