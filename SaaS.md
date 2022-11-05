@@ -1,21 +1,32 @@
-# SaaS
+# Sofrware-as-a-Service (SaaS)
+
+![SaaS](./Library/SaaS.png)
+
 [< Back to Crucible](./)
 
 ## Purpose
 
-A collection of partner resources for build a Software as a Service offering. 
+A collection of partner resources for build a Software as a Service (SaaS) offerings. 
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
 
-## References
-
+## Practice References
 
 Source | Description | Notes
 :----- | :-----  | :-----
 [SaaS Academy](https://www.microsoft.com/en-us/saas-academy/main) | Microsoft SaaS Academy brings together best practices and guidance from Microsoft employees, partners and customers to help businesses accelerate their "Software as a Service" journey, addressing both business and technical aspects. |
 [SaaS Partner Guide](https://www.microsoft.com/en-ca/sites/saas-partner-guide/?wt.mc_id=AID3039077_EML_7970401)| The SaaS Partner Guide provides key resources designed to help accelerate application developer and ISV growth. Work with Microsoft specialists for technical or program guidance and discover the many options to build and sell your solutions. |...
-[Community Sample Code and SDK for SaaS Applications](https://github.com/Azure/Commercial-Marketplace-SaaS-Accelerator)| his project is a community-supported reference implementation for integrating Software-as-a-Service (SaaS) solutions with Microsoft commercial marketplace SaaS offers. | Version 6.0.0
+[Commercial marketplace transact capabilities](https://learn.microsoft.com/en-us/azure/marketplace/marketplace-commercial-transaction-capabilities-and-considerations) | This article describes pricing, billing, invoicing and payout considerations for transactable offers sold through the commercial marketplace | MS Learn
+
+## Technical References
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Tenancy models to consider for a multitenant solution](https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/tenancy-models) | Guidance for technical decision-makers about the tenancy models you can consider and their tradeoffs | MS Learn
+[Azure SaaS Development Kit (ASDK)](https://github.com/Azure/azure-saas) | he Azure SaaS Development Kit is a deployable reference implementation of pre-built modules designed to help you launch your SaaS offering faster | Github
+[Community Sample Code and SDK for SaaS Applications](https://github.com/Azure/Commercial-Marketplace-SaaS-Accelerator)| This project is a community-supported reference implementation for integrating Software-as-a-Service (SaaS) solutions with Microsoft commercial marketplace SaaS offers. | Github Version 6.0.0
+[What is Azure Chaos Studio](https://learn.microsoft.com/en-us/azure/chaos-studio/chaos-studio-overview) | Azure Chaos Studio is a managed service that uses chaos engineering to help you measure, understand, and improve your cloud application and service resilience. | MS Learn
 
 [< Back to Crucible](./)
 
