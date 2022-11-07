@@ -12,6 +12,7 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Microsoft for Startups](https://startups.microsoft.com/)|icrosoft for Startups Founders Hub brings together the technology, guidance, and support you need to hit your next milestone.| 
 [The Garage](https://www.microsoft.com/en-us/garage/) | The Garage is a program that drives a culture of innovation |
 [Microsoft Partner Innovation Vodcast](https://www.youtube.com/playlist?list=PLcgFidNgo6oNIL-hxoRHfzsGJ6iOFko7L) | Microsoft leaders and channel executives to discuss the Microsoft commercial partner business and highlight compelling partner stories that deliver impactful solutions and outcomes for customers and their communities from around the world. | vlog
 [Tech Hub](https://innovation.microsoft.com/en-us/developer) | From interactive videos to demos and code samples, find new ways of learning about the science and engineering behind our innovation stories and beyond | Tech Minutes<br> AI Labs<br>Deep Dives
