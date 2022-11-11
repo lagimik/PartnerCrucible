@@ -9,7 +9,19 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+###  Week ending Nov 11, 2022
+
+Date | Change | File
+:--- | :----- | ---:
+2022-11-11 | added finops and adoption strategy references | [See changes here](./FinOps)
+2022-11-11 | added Fastrack for Azure community resources | [See changes here](./AzureInfrastructureSolutionArea)
+2022-11-09 | added velocity of the dollar references | [See changes here](./FinOps)
+2022-11-06 | added Microsoft for startups | [See changes here](./InnovationatMicrosoft)
+2022-11-06 | added 2022 digital defense report | [See changes here](./SecuritySolutionArea)
+2022-11-05 | added landing zone considerations for ISVs | [See changes here](./SaaS)
+
 ###  Week ending Nov 4, 2022
+
 Date | Change | File
 :--- | :----- | ---:
 2022-11-05 | updated with SaaS technical and practice references including Chaos Studio | [See changes here](./SaaS)
