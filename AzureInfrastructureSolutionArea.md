@@ -4,6 +4,7 @@
 ## Purpose
 
 ![Azure Infrastructure](./Library/Azure-Logo.png)
+
 A Collection of resources for Microsoft practice building in the Azure solution area. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md).
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
@@ -19,8 +20,9 @@ Source | Description | Notes
 [2022 Gartner® Magic Quadrant™ for Cloud Infrastructure and Platform Services](https://azure.microsoft.com/en-ca/blog/microsoft-named-a-leader-in-2022-gartner-magic-quadrant-for-cloud-infrastructure-and-platform-services/) | Gartner® recently published its 2022 Magic Quadrant™ for Cloud Infrastructure and Platform Services (CIPS) report. For the ninth consecutive year, Microsoft was named a Leader, and for the first time placed furthest on the Completeness of Vision axis.| October 2022
 [Azure for Partner](https://www.microsoft.com/azure/partners/)|Main page for Azure resources for Partners | ...
 [Azure for Services Partners](https://www.microsoft.com/azure/partners/practices/the-opportunity)|Grow your cloud services business with Azure| ...
-[Azure blog](https://azure.microsoft.com/en-us/blog/)|...|...
-[Azure updates](https://azure.microsoft.com/en-us/updates/)|...|
+[Azure Blog](https://azure.microsoft.com/en-us/blog/)|Office Azure Blog|...
+[Azure Updates](https://azure.microsoft.com/en-us/updates/)|Get the latest updates on Azure products and features to meet your cloud investment needs. Subscribe to notifications to stay informed.|
+[FastTrack for Azure](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/bg-p/FastTrackforAzureBlog) | [Microsoft FastTrack](https://techcommunity.microsoft.com/t5/microsoft-fasttrack/ct-p/FastTrack) engages with customers and partners and maintain a collection of resources here | Tech Community
 [Partner Admin Link](https://partner.microsoft.com/en-us/asset/collection/partner-admin-link#/)|Partner Admin Link (PAL) enables Microsoft to identify and recognize partners who drive Azure customer success. Optimized for managed services where your organization is acting on behalf of the customer, PAL allows you to associate your MPN ID with the credentials that you use to deliver services within the customer's Azure tenant.| Required MPN Login
 
 ### Azure Tools
