@@ -29,7 +29,7 @@ However, there are some **key pillars** that frame partnerships on which more co
 
 These pillars are described in the [Microsoft Cloud Partner Program Blog Post](https://blogs.microsoft.com/blog/2022/03/16/evolving-microsoft-partner-network-programs-for-partner-growth-and-customer-success/) and summarized with specific actions to take in the **MCPP Playbook Below**.
 
-## Insider MCPP Playbook
+## Way forward - Insiders MCPP Playbook
 
 Pillar | Description | Why? | Next Step
 -----: | :---------- | :----- | :-----

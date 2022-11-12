@@ -32,15 +32,15 @@ A single blog post won't likely change the Canadian innovation tide. But hopeful
 
 But to be clear, it starts with action. Yes, I mean you.
 
-## Mainstream innovation
+## Way forward - Mainstream innovation
 
 The [Partner Crucible](https://aka.ms/PartnerCrucible) curates a collection of [innovation resources](/InnovationatMicrosoft) including:
 * Microsoft Research
 * Partner Innovation Vodcast
 * Kevin's Scott Behind the Tech podcast
-*Inclusive Design
+* Inclusive Design
 
-## Innovation Insiders at Microsoft Ignite
+## Way forward - Insiders guide to innovation at Microsoft Ignite 2022
 
 Join [Microsoft Ignite](https://ignite.microsoft.com/en-US/home) **October 12–14 at 9:00 AM PDT** to help shape the future of tech.
 

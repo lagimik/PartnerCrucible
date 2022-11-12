@@ -70,13 +70,11 @@ Teams don’t “do DevOps”, much like they don’t “do Agile”. They adopt
 - It is not for everyone - the change can be overwhelming.
 
 
-## Way forward
-
-### Mainstream
+## Way forward - Mainstream
 
 The typical way forward [DevOps with GitHub on Microsoft Azure Advanced Specialization](https://partner.microsoft.com/en-us/membership/advanced-specialization/devops-with-github#tab-3) and completing the required certification exam: [Azure DevOps Engineer](https://docs.microsoft.com/en-ca/certifications/devops-engineer/)
 
-### Insiders
+## Way forward - Insiders
 
 A great example of an insiders view on DevOps is offered by
 [DevOps Dojo](https://devblogs.microsoft.com/devops/intro-of-devops-dojo/)
