@@ -7,12 +7,12 @@ date: 2022-10-30
 
 [< Back to Signal:Noise index](/PartnerCrucible/SignaltoNoise)
 
-Previous **Signal:Noise** posts touched on [innovation](https://lagimik.github.io/PartnerCrucible/2022/09/12/signaltonoise-innovation.html) and [partnership](https://lagimik.github.io/PartnerCrucible/2022/09/21/signaltonoise-partnership.html) separately. This post brings both topics together. 
+Previous **Signal:Noise** posts touched on [innovation](https://lagimik.github.io/PartnerCrucible/2022/09/12/signaltonoise-innovation.html) and [partnership](https://lagimik.github.io/PartnerCrucible/2022/09/21/signaltonoise-partnership.html) separately. This post brings both topics together.
 
 ## TL;DR
 
 * There are opportunities for joint partnership and innovation across a gradient of approaches ranging from **programmatic partnerships, to innovation  partnerships, to business  partnerships, to strategic partnerships**.
-* *Mainstream* partners will engage through programmatic partnership through the Microsoft Cloud Partner Program (MCPP) and  keep abreast of the latest platform developments through public previews. 
+* *Mainstream* partners will engage through programmatic partnership through the Microsoft Cloud Partner Program (MCPP) and  keep abreast of the latest platform developments through public previews.
 * *Insiders* will uncover ways to define *innovation, business, or strategic partnerships* by identifying **customer-zero, gives-and-gets, co-innovate, and drive for outcomes**
 
 ## Partnership Gradient
@@ -37,7 +37,7 @@ Type | Description | Examples
 
 ## Way forward - *Mainstream* partnership and innovation
 
- *Mainstream* partners will engage through programmatic partnership through the MCPP and  keep abreast of the latest platform developments through public previews. 
+ *Mainstream* partners will engage through programmatic partnership through the MCPP and  keep abreast of the latest platform developments through public previews.
 
 Platform |  References
 :----- | :----------
@@ -55,7 +55,7 @@ In addition to mainstream approaches, *Insiders* will uncover ways to define inn
 
 Stage | Description | References
 -----: | :---------- | :-----
-**Identify Customer-Zero** | Innovation needs to be aligned to, and grounded by, tangible value to a customer. Identifying the first driven customer is the first step.  | - [Moneyball](https://www.moneyball.ms/): Teams across Microsoft use Moneyball to adopt customer centric practices to build services and products. Moneyball encourages teams to bring customers and partners into the development process early on. <br> - [How Microsoft cloud technology and co-innovation approach are driving business value for customers across industry](https://blogs.microsoft.com/blog/2021/04/26/how-microsoft-cloud-technology-and-co-innovation-approach-are-driving-business-value-for-customers-across-industry/) 
+**Identify Customer-Zero** | Innovation needs to be aligned to, and grounded by, tangible value to a customer. Identifying the first driven customer is the first step.  | [How Microsoft cloud technology and co-innovation approach are driving business value for customers across industry](https://blogs.microsoft.com/blog/2021/04/26/how-microsoft-cloud-technology-and-co-innovation-approach-are-driving-business-value-for-customers-across-industry/)
 **Define Gives-and-Gets** | At this stage, the gives-and-gets aren't financial in nature. Consider *joint press releases, co-marketing investments, Azure credits, trial licenses, access to Microsoft experts, and partner and customer feedback and telemetry*. These elements often constitute these agreements Memorandum of Understanding (MOU) | Confidential
 **Co-innovate** |  A few existing structured engagement paths are described in the references and be helpful in opening doors ---> <br> <br>Leverage the gives-and-gets to **get after it**.| - *Private previews* are normally extended to customers and to their trusted partner. <br> - [Microsoft for Startups](https://startups.microsoft.com/): Open to anyone with an idea - Microsoft for Startups Founders Hub brings together the technology, guidance, and support you need to hit your next milestone. <br> - [The Garage](https://www.microsoft.com/en-us/garage/): The Garage is a program that drives a culture of innovation <br> - [Microsoft AI & IoT Insider Labs](https://aiotlabs.microsoft.com/p/apply): The Microsoft AI & IoT Insider Labs works with companies' technical teams to remove technical roadblocks they face on AI or IoT projects. <br> - [Mixed Reality Partner Program](https://www.microsoft.com/en-ca/hololens/mrpp): The Mixed Reality Partner Program (MRPP) is a Microsoft-sponsored, community-driven program for partners that design, build, deploy, and operate mixed reality solutions. <br> - [MISA](https://www.microsoft.com/en-us/security/business/intelligent-security-association#MorefromMISA): The Microsoft Intelligent Security Association (MISA) is an ecosystem of independent software vendors (ISV) and managed security service providers (MSSP) that have integrated their solutions with Microsoft’s security technology to better defend against a world of increasing threats.
 **Drive Outcomes** | Build on the success of customer-zero by scaling through co-sell in addition to marketplace economics | - [Co-sell](https://learn.microsoft.com/en-us/partner-center/co-sell-overview): Co-selling is any collaborative engagement between Microsoft and its partner ecosystem. <br> - [Leverage the Ecosystem (Partner to Partner - P2P)](https://msuspartners.eventbuilder.com/P2Pchannelreadiness):  Partners who adopt an ecosystem business model will grow 50% faster over the next two years than partners who do not.
