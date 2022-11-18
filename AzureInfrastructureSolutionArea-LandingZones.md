@@ -18,6 +18,7 @@ Source | Description | Notes
 [Azure Design Review](https://github.com/Azure/review-checklists) | Checklists for LZ, AKS, AVS, Multitenancy, Security, AVS, and SAP | Github
 [Tailor the Azure landing zone architecture to meet requirements](https://learn.microsoft.com/en-gb/azure/cloud-adoption-framework/ready/landing-zone/tailoring-alz) | Because not all use cases are the same, not all organizations can use an implementation approach in the exact way it was intended. You need to understand the considerations when a requirement for tailoring is identified | Microsoft Learn
 [Testing approach for Azure landing zones](https://learn.microsoft.com/en-ca/azure/cloud-adoption-framework/ready/enterprise-scale/testing-approach) | The canary management group hierarchy can be independently used to author and test deployments before you deploy them into the production environment. | Microsoft Learn
+[Cloudockit](https://www.cloudockit.com/) |Automatically Generate Architecture Diagrams and Technical Documentation of Your Cloud Environments | by Lansweeper
 
 ## Landing Zone Accelerators
 
