@@ -29,6 +29,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Azure Design Review](https://github.com/Azure/review-checklists) | Checklists for LZ, AKS, AVS, Multitenancy, SEcurity, AVS, and SAP | Github
 [Azure Latency Test](https://www.azurespeed.com/Azure/Latency) | This tool runs latency test from your IP location to Azure datacenters around the world. |
 [Azure Governance Visualizer](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting) | from the collected data AzGovViz provides visibility on your HierarchyMap, creates a TenantSummary, creates DefinitionInsights and builds granular ScopeInsights on Management Groups and Subscriptions. The technical requirements as well as the required permissions are minimal. | @JulianHayward Github 
 
