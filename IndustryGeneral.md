@@ -37,6 +37,7 @@ Source | Description | Notes
 [Microsoft Cloud for Healthcare in a Day training](https://learn.microsoft.com/en-us/training/paths/healthcare-in-a-day/) | |
 [Microsoft Cloud for Healthcare Trial](https://aka.ms/Cloudforhealthcaretrial) | Microsoft Cloud for Healthcare offers a free limited trial for 30 days | Solutions Center
 [GPS Industry Cloud - MC4H](https://github.com/microsoft/GPSIndustryCloud-MC4H) | Presentations and labs | Github
+[Healthcare landing zone guidance](https://github.com/Azure/CanadaPubSecALZ/blob/main/docs/archetypes/healthcare.md)| Landing zone for healthcare data platform| Github
 
 ### Manufacturing
 
