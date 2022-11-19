@@ -9,6 +9,18 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+###  Week ending Nov 18, 2022
+
+Date | Change | File
+:--- | :----- | ---:
+2022-11-18 | added references to marketplace summit and mastering the maketplace summit | [See changes here](./CommercialMarketplaceOffers)
+2022-11-18 | added references to clouddockit | [See changes here](./AzureInfrastructureSolutionArea-LandingZones.md)
+2022-11-18 | added healtcare lz, and azure design review references | [See changes here](./AzureInfrastructureSolutionArea-LandingZones)
+2022-11-18 | added healthcare landing zone references | [See changes here](./IndustryGeneral.md)
+2022-11-18 | added Azure Design Review references | [See changes here](./AzureInfrastructureSolutionArea)
+2022-11-17 | added Azure Governance Visualizer references | [See changes here](./AzureInfrastructureSolutionArea)
+2022-11-15 | added co-sell opportunities reference | [See changes here](./CommercialMarketplaceOffers)
+
 ###  Week ending Nov 11, 2022
 
 Date | Change | File
