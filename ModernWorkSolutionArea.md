@@ -49,6 +49,8 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Managing Microsoft 365 in true DevOps style with Microsoft365DSC and Azure DevOps](https://office365dsc.azurewebsites.net/Pages/Resources/Whitepapers/Managing%20Microsoft%20365%20with%20Microsoft365Dsc%20and%20Azure%20DevOps.pdf) | Microsoft365DSC is a PowerShell Desired State Configuration (DSC) module which can
+configure and manage Microsoft 365 in a true DevOps style: “Configuration-as-Code” | M365 DSC
 [Microsoft365DSC](https://www.youtube.com/channel/UCveScabVT6pxzqYgGRu17iw) | Configuration as Code for the Cloud | Youtube
 [M365 Development](https://developer.microsoft.com/en-us/microsoft-365/?utm_source=developermscom)| Build collaborative apps for Microsoft 365 and Microsoft Teams that connect people, data, and processes to help users thrive in the hybrid workplace |
 [M365 Developer Program](http://aka.ms/M365DevProgram) | Get an instant sandbox preconfigured with sample data, including Teams Developer Portal, and start developing on the Microsoft 365 platform. |
