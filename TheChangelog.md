@@ -9,6 +9,17 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+###  Week ending Nov 25, 2022
+
+Date | Change | File
+:--- | :----- | ---:
+2022-11-26 | added references to AzAdvertizer | [See changes here](./AzureInfrastructureSolutionArea)
+2022-11-24 | added M365DSC whitepaper reference | [See changes here](./ModernWorkSolutionArea)
+2022-11-24 | added Microsoft Purview DPL Ninja training | [See changes here](./DataAISolutionArea)
+2022-11-21 | added references to the fusion development ebook | [See changes here](./PowerPlatformSolutionArea)
+2022-11-21 | added sustainability calculator references | [See changes here](./IndustrySustainability)
+
+
 ###  Week ending Nov 18, 2022
 
 Date | Change | File
