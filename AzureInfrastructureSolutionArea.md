@@ -24,6 +24,7 @@ Source | Description | Notes
 [Azure Updates](https://azure.microsoft.com/en-us/updates/)|Get the latest updates on Azure products and features to meet your cloud investment needs. Subscribe to notifications to stay informed.|
 [FastTrack for Azure](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/bg-p/FastTrackforAzureBlog) | [Microsoft FastTrack](https://techcommunity.microsoft.com/t5/microsoft-fasttrack/ct-p/FastTrack) engages with customers and partners and maintain a collection of resources here | Tech Community
 [Partner Admin Link](https://partner.microsoft.com/en-us/asset/collection/partner-admin-link#/)|Partner Admin Link (PAL) enables Microsoft to identify and recognize partners who drive Azure customer success. Optimized for managed services where your organization is acting on behalf of the customer, PAL allows you to associate your MPN ID with the credentials that you use to deliver services within the customer's Azure tenant.| Required MPN Login
+[Azure Citadel](https://www.azurecitadel.com/) | Azure Citadel is a community driven site devoted to getting hands on & learning Azure. Explore technical labs & videos across a range of Azure topics. Many labs are pitched towards the needs of the Azure partner community, but are freely available for all.| Azure Citadel
 
 ### Azure Tools
 
