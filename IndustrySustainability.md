@@ -1,6 +1,8 @@
 
 # Industry - Sustainability
 
+![Buying Through CSP](./Library/crucible-sustainability-title.png)
+
 [< Back to Crucible](./)
 
 ## Purpose
