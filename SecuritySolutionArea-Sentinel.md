@@ -27,6 +27,7 @@ Source | Description | Notes
 [Overview of Advanced Hunting](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/advanced-hunting-overview?view=o365-worldwide) | Advanced hunting is a query-based threat-hunting tool that lets you explore up to 30 days of raw data. |
 [How to use Azure Sentinel for Incident Response Orchestration](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-use-azure-sentinel-for-incident-response-orchestration/ba-p/2242397) | Microsoft Tech Community Article
 [Microsoft Sentinel Training Lab](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/learning-with-the-microsoft-sentinel-training-lab/ba-p/2953403)| This solution ingests sample data into your Microsoft Sentinel workspace which will trigger incidents that allow you to explore Microsoft Sentinel features without Additional effort |...
+[Integrate Azure Data Explorer for long-term log retention](https://learn.microsoft.com/en-us/azure/sentinel/store-logs-in-azure-data-explorer?tabs=adx-event-hub) | Storing logs in Azure Data Explorer reduces costs while retains your ability to query your data, and is especially useful as your data grows. | Microsoft Learn
 
 ## Bring your own
 
