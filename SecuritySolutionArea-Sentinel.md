@@ -14,7 +14,8 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[Magic Quadrant for Security Information and Event Management](https://www.gartner.com/doc/reprints?id=1-2AHCXAHG&ct=220701&st=sb) | Gatner MAgic Quadrant for SIEM | October 2022
+[Magic Quadrant for Security Information and Event Management](https://www.gartner.com/doc/reprints?id=1-2AHCXAHG&ct=220701&st=sb) | Gatner Magic Quadrant for SIEM | October 2022
+[Microsoft named a Leader in the 2022 Gartner® Magic Quadrant™ for Security Information and Event Management](https://www.microsoft.com/en-us/security/blog/2022/10/13/microsoft-named-a-leader-in-the-2022-gartner-magic-quadrant-for-security-information-and-event-management/) | We’re delighted to announce that Microsoft is named a Leader in the 2022 Gartner® Magic QuadrantTM for Security Information and Event Management and is positioned highest on the measure of Ability to Execute axis.| Microsoft
 
 ## Sentinel Demo References
 
