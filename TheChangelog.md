@@ -5,6 +5,7 @@
 [< Back to Crucible](./)
 
 ## Purpose
+
 This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
