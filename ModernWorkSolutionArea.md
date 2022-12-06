@@ -19,7 +19,7 @@ Source | Description | Notes
 [Partner Learning](https://readiness.transform.microsoft.com/)| Partner training starting point| Requires MPN login
 [M365 Readiness Calendar](https://cloudpartners.transform.microsoft.com/readiness/calendar) | Partner training calendar | Requires MPN login
 [Microsoft 365 & Security for Partners](https://cloudpartners.transform.microsoft.com)|Transform for M365 and Security with resources on products, practice development, pre-sales workshops, readiness, events, news, and community | Accessible based on partner competency / PCS
-[M365 Partner Community](https://www.yammer.com/office365partners/#/home)|...|
+[M365 Partner Community](https://www.yammer.com/office365partners/#/home)|The M365 Partner Yammer Group is dedicated to a community that focuses on partner engagement, both in connecting partners to partners, as well as connecting partners within the M365 team at Microsoft. Join this community to learn the latest M365 updates, industry trends, and how you can easily connect with your fellow partners.| Yammer
 [M365 Partner Community Groups](https://www.yammer.com/office365partners/#/groups/suggested) | Include M365 Lighthouse, Microsoft Desktop Partner, CSP PArtner Community, etc...
 
 ## M365 Roadmap and trials
@@ -37,7 +37,7 @@ Source | Description | Notes
 [How to Hybrid: The WorkLab Guides](https://www.microsoft.com/en-us/worklab/hybrid-work-guides)| Here are your practical guides to in-person and asynchronous collaboration, resetting work-life balance, and getting hybrid meetings right.|...
 [Worklab - Podcast](https://www.microsoft.com/en-us/worklab/podcast/) | Everything we thought we knew about work—where we do it, when we do it, how we do it—has been turned on its head. Where is it all going, and is there a map to get us there? WorkLab is a new podcast from Microsoft that taps into data and research to guide you on the road ahead. Leaders and scientists share the company’s findings, and we’ll hear stories about how people and organizations are being transformed at this radical moment. Join us as we explore the science of work and ingenuity. |
 
-## Teams
+## Teams Calling and Teams Rooms
 
 Source | Description | Notes
 :----- | :-----  | :-----
