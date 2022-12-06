@@ -5,11 +5,25 @@
 [< Back to Crucible](./)
 
 ## Purpose
+
 This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
-###  Week ending Nov 25, 2022
+### Week ending Dec 2, 2022
+
+Date | Change | File
+:--- | :----- | ---:
+2022-12-02 | added additional references for Gartner MQ for SIEM | [See changes here](./SecuritySolutionArea-Sentinel)
+2022-12-01 | added references for transactable offers | [See changes here](./CommercialMarketplaceOffers)
+2022-12-01 | added references to powerbi dev camps | [See changes here](./PowerPlatformSolutionArea)
+2022-12-01 | added ADX integration | [See changes here](./SecuritySolutionArea-Sentinel)
+2022-11-30 | added Total Economic Impact of Azure Arc | [See changes here](./AzureInfrastructureSolutionArea)
+2022-11-29 | added Azure Citadel | [See changes here](./AzureInfrastructureSolutionArea)
+2022-11-29 | added emissions estimator for Microsoft Cloud | [See changes here](./IndustrySustainability)
+2022-11-26 | added CAF tools and templates | [See changes here](./AzureInfrastructureSolutionArea)
+
+### Week ending Nov 25, 2022
 
 Date | Change | File
 :--- | :----- | ---:
@@ -19,8 +33,7 @@ Date | Change | File
 2022-11-21 | added references to the fusion development ebook | [See changes here](./PowerPlatformSolutionArea)
 2022-11-21 | added sustainability calculator references | [See changes here](./IndustrySustainability)
 
-
-###  Week ending Nov 18, 2022
+### Week ending Nov 18, 2022
 
 Date | Change | File
 :--- | :----- | ---:
@@ -32,7 +45,7 @@ Date | Change | File
 2022-11-17 | added Azure Governance Visualizer references | [See changes here](./AzureInfrastructureSolutionArea)
 2022-11-15 | added co-sell opportunities reference | [See changes here](./CommercialMarketplaceOffers)
 
-###  Week ending Nov 11, 2022
+### Week ending Nov 11, 2022
 
 Date | Change | File
 :--- | :----- | ---:
@@ -43,7 +56,7 @@ Date | Change | File
 2022-11-06 | added 2022 digital defense report | [See changes here](./SecuritySolutionArea)
 2022-11-05 | added landing zone considerations for ISVs | [See changes here](./SaaS)
 
-###  Week ending Nov 4, 2022
+### Week ending Nov 4, 2022
 
 Date | Change | File
 :--- | :----- | ---:
@@ -56,7 +69,7 @@ Date | Change | File
 2022-10-31 | added Gartner 2022 Magic Quadrant for Cloud Infrastructure Platform | [See changes here](./AzureInfrastructureSolutionArea)
 2022-10-28 | added Forrester TEI studies for Modern Work | [See changes here](./ModernWorkSolutionArea)
 
-###  Week ending October 28, 2022
+### Week ending October 28, 2022
 
 Date | Change | File
 :--- | :----- | ---:
@@ -69,7 +82,7 @@ Date | Change | File
 2022-10-23 | added concentration risk reference | [See changes here](./IndustryFinancialServices)
 2022-10-23 | added digital government ROI resources | [See changes here](./IndustryCanadianPublicSector)
 
-###  Week ending October 21, 2022
+### Week ending October 21, 2022
 
 Date | Change | File
 :--- | :----- | ---:
@@ -84,7 +97,7 @@ Date | Change | File
 2022-10-15 | added **PartnerCrucible Discussions** | [See changes here](./index)
 2022-10-14 | added **Gartner magic quadrant for SIEM 2022** | [See changes here](./SecuritySolutionArea-Sentinel)
 
-###  Week ending October 14, 2022
+### Week ending October 14, 2022
 
 Date | Change | File
 :--- | :----- | ---:
@@ -98,7 +111,7 @@ Date | Change | File
 2022-10-07 | added developer resources for M365 development | [See changes here](./ModernWorkSolutionArea)
 2022-10-07 | added developer resources for business apps | [See changes here](./BusinessApplicationsSolutionArea)
 
-###  Week ending October 7, 2022
+### Week ending October 7, 2022
 
 Date | Change | File
 :--- | :----- | ---:
@@ -112,7 +125,7 @@ Date | Change | File
 2022-10-03 | added Demysitifying ADX Blog post | [See changes here](./DataAISolutionArea)
 2022-10-03 | added ISV Program Guide | [See changes here](./ISV)
 
-###  Week ending September 30, 2022
+### Week ending September 30, 2022
 
 Date | Change | File
 :--- | :----- | ---:
@@ -132,7 +145,7 @@ Date | Change | File
 2022-09-23 | Azure Latency Test | [See changes here](./AzureInfrastructureSolutionArea.md)
 2022-09-22 | added Government Protected B Github reference repo | [See changes here](./IndustryCloud)
 
-###  Week ending September 16, 2022
+### Week ending September 16, 2022
 
 Date | Change | File
 :--- | :----- | ---:
@@ -142,7 +155,6 @@ Date | Change | File
 2022-09-19 | Building out PAL section | [See changes here](./AzureInfrastructureSolutionArea.md)
 2022-09-19 | John Saville Youtube channel | [See changes here](./earningResources.md)
 2022-09-18 | added Azure 5G references | [See changes here](./AzureInfrastructureSolutionArea-5G.md)
-
 
 ### Week ending September 9th, 2022
 
