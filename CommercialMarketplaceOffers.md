@@ -3,7 +3,7 @@
 [< Back to Crucible](./)
 ## Purpose
 
-![Commercial Marketplace]()
+![Commercial Marketplace](./Library/microsoft-commercial-marketplace.png)
 
 <br>
 
