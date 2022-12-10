@@ -52,4 +52,11 @@ Source | Description | Notes
 [Building Multi-language Reports in Power BI](https://github.com/PowerBiDevCamp/Multilanguage-Reports)|This repository contains demo files and documentation for the ProductSales.pbix developer sample which demonstrates how to build a multi-language report for Power BI which supports English, Spanish, French, German and Dutch.| Github
 
 
+## Power Virtual Agents (PVA)
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[Best Practices for Envisioning and Designing Power Virtual Agents](https://airlift.microsoft.com/sessions/details/4e3a111c-3e0d-4743-8970-53437dfe278a?p1=eyJzcGVha2VyIjpbXSwidGltZXNsb3QiOltdLCJkYXkiOltdLCJyb29tIjpbXSwibG9jYXRpb24iOltdLCJkaWdpdGFsIjpbXSwibWVkaWEiOiIiLCJkaXNwbGF5bW9kZSI6Imxpc3QiLCJncm91cGJ5IjoiIiwiaW5wZXJzb24iOmZhbHNlLCJzY2hlZHVsZWQiOmZhbHNlLCJvbmRlbWFuZCI6ZmFsc2UsInVwY29taW5nIjpmYWxzZSwiaGFzc2xpZGVzIjpmYWxzZSwic3RhcnQiOiIiLCJmaW5pc2giOiIiLCJwYWdlbnVtYmVyIjoxLCJjYXRlZ29yaWVzIjp7fSwia2V5d29yZCI6IlBvd2VyIFZpcnR1YWwgYWdlbnQifQ==&rq=/sessionscheduler) |Come join the Conversational AI Product Group to learn how to envision and build engaging conversational bots.  In this session, expect to learn about the top conversational design tips and how design can drive adoption within your organization and/or users. | Microsoft Airlift 2022 - Dewain Robinson , Kendra Springer (BPVADD01)
+[Power Virtual Agents – lessons from the real world](https://airlift.microsoft.com/sessions/details/302ae032-ba50-4257-853d-2ccc5dd3f67e?p1=eyJzcGVha2VyIjpbXSwidGltZXNsb3QiOltdLCJkYXkiOltdLCJyb29tIjpbXSwibG9jYXRpb24iOltdLCJkaWdpdGFsIjpbXSwibWVkaWEiOiIiLCJkaXNwbGF5bW9kZSI6Imxpc3QiLCJncm91cGJ5IjoiIiwiaW5wZXJzb24iOmZhbHNlLCJzY2hlZHVsZWQiOmZhbHNlLCJvbmRlbWFuZCI6ZmFsc2UsInVwY29taW5nIjpmYWxzZSwiaGFzc2xpZGVzIjpmYWxzZSwic3RhcnQiOiIiLCJmaW5pc2giOiIiLCJwYWdlbnVtYmVyIjoxLCJjYXRlZ29yaWVzIjp7fSwia2V5d29yZCI6IlBvd2VyIFZpcnR1YWwgYWdlbnQifQ==&rq=/sessionscheduler) | Hear from the Power CAT team, who work every day with our customers to help them envision, deliver & deploy PVA successfully. We will talk about how to solve common problems and scenarios when building a PVA bot, including how to best tune and modify conversation design to produce the best intent recognition and how to integrate Custom Question Answering (CQA) into your bot | Microsoft Airlift 2022 - Henry Jammes (BPVADD04)
+
 [< Back to Crucible](./)
