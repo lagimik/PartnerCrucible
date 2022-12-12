@@ -27,9 +27,9 @@ Source | Description | Notes
 [Azure for Partner](https://www.microsoft.com/azure/partners/)|Main page for Azure resources for Partners|
 [Azure for Services Partners](https://www.microsoft.com/azure/partners/practices/the-opportunity)|Grow your cloud services business with Azure|..
 [Azure for Technology Partners](https://azure.microsoft.com/en-us/partners/azure-technology-partners/)|Azure for resources  independent software vendors (ISVs)|..
-[Microsoft 365 & Security for Partners](https://cloudpartners.transform.microsoft.com)|Partner *Transform Portal* for M365 and Security|Accessible based on MPN membership and competencies or solution partner standing)
-[Microsoft Dynamics 365 Partner portal](https://dynamicspartners.transform.microsoft.com)|Partner *Transform Portal* for Business Apps|Accessible based on MPN membership and competencies or solution partner standing
-[Microsoft Power Platform Partner Portal](https://powerplatformpartners.transform.microsoft.com)|Partner *Transform Portal* for Power Platform|Accessible based on MPN membership and competencies or solution partner standing
+[Microsoft 365 & Security for Partners](https://cloudpartners.transform.microsoft.com)|Partner *Transform Portal* for M365 and Security|Accessible based on MCPP membership and competencies or solution partner standing)
+[Microsoft Dynamics 365 Partner portal](https://dynamicspartners.transform.microsoft.com)|Partner *Transform Portal* for Business Apps|Accessible based on MCPP membership and competencies or solution partner standing
+[Microsoft Power Platform Partner Portal](https://powerplatformpartners.transform.microsoft.com)|Partner *Transform Portal* for Power Platform|Accessible based on MCPP membership and competencies or solution partner standing
 [Microsoft US Partner Resources](https://microsoft.github.io/PartnerResources/)| The Microsoft Partners Resources repository consists of documents, learning resources and other assets designed to aid partners in practice development, upskilling, certifications, and bringing their solutions to market. | Brought to you by the Microsoft U.S. Global Partner Solutions (GPS) team, empowering partners and driving digital transformation.
 [Airlift](https://myairlift.microsoft.com/home_public)| An engineering-led event for deep dive technical trainings and opportunities for product feedback where you will experience direct engagement with subject matter experts and engineering teams who are building our products. |
 

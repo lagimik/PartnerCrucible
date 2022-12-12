@@ -6,7 +6,7 @@
 
 ## Purpose
 
-A Collection of resources for Microsoft practice building in the Security solution area. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md). 
+A Collection of resources for Microsoft practice building in the Security solution area. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md).
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
@@ -17,7 +17,7 @@ Source | Description | Notes
 [Microsoft Digital Defense Report 2022](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5bUvv?culture=en-us&country=us) | The report is the culmination of Microsoft’s vast data and comprehensive research. It shares our unique insights on how the digital threat landscape is evolving and the crucial actions that can be taken today to improve the security of the ecosystem | Microsoft
 [MISA](https://www.microsoft.com/en-ca/security/business/intelligent-security-association)| The Microsoft Intelligent Security Association (MISA) is an ecosystem of independent software vendors and managed security service providers that have integrated their solutions to better defend against a world of increasing threats|...
 [Security Blog](https://www.microsoft.com/security/blog/)| Official Microsoft Security Blog |...
-[SCI partner enablement guide](https://assetsprod.microsoft.com/mpn/en-us/security-compliance-identity-partner-enablement-guide.pdf)| Top news, upcoming training, certifications and exams, and additional resources updated ~monthly | PDF Download <br>Requires MPN
+[SCI partner enablement guide](https://assetsprod.microsoft.com/mpn/en-us/security-compliance-identity-partner-enablement-guide.pdf)| Top news, upcoming training, certifications and exams, and additional resources updated ~monthly | PDF Download <br>Requires MCPP
 [Security, Compliance, and Identity training and certifications](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4J4Mm)| This guide has been created to provide training and certification options to achieve personal success.
 [Security Build Intent Workshop](https://cloudpartners.transform.microsoft.com/workshops/cloud-accelerators?tab=security)| Azure credits for customer workshop delivery Microsoft 365 & Security for Partners | ...
 [The Chief Information Security Officer (CISO) Workshop Training](https://learn.microsoft.com/en-us/security/ciso-workshop/the-ciso-workshop) | The Chief Information Security Office (CISO) workshop helps accelerate security program modernization with reference strategies built using Zero Trust principles. | Microsoft Learn
@@ -30,7 +30,7 @@ Source | Description | Notes
 [Security Sales Enablement Journey](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnote.microsoft.com%2FCatalogueDisplayPage-SRDEM63796_CatalogDisplayPage.html&data=05%7C01%7CMarcAndre.Morisset%40microsoft.com%7C838c45a00bde435eabe608da295328a1%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637867734382724609%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=K%2FhJH7u1em6%2FjeMOl0pwPHsckRk1TFXHhZzs1T5FXZk%3D&reserved=0)|Security Enablement journey is a 14 module On-demand videos of between 30 mins - 150 mins each intended to equip you with knowledge to support your customers security needs. You will learn more about industry concepts and Microsoft differentiators and how you can help your customers scale these processes to achieve a higher level of visibility and manageability while greatly reducing their risk.|April 2022
 [XDR Cloud Guide](https://mslearn.cloudguides.com/en-us/guides/Investigate%20security%20incidents%20in%20a%20hybrid%20environment%20with%20Azure%20Sentinel)| ... |...
 [Microsoft XDR Partners](https://cloudpartners.transform.microsoft.com/mxdrpartners)|...|Update May 2022
-[DevSecOps](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/devsecops-in-azure?ocid=AID3045641)| From the Azure Architecture Centre > Solution Ideas | 
+[DevSecOps](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/devsecops-in-azure?ocid=AID3045641)| From the Azure Architecture Centre > Solution Ideas |
 
 ### Community
 
@@ -100,7 +100,7 @@ Source | Description | Notes
 :----- | :---------- | :----
 [Setup a Microsoft Defender for Identity security alert lab](https://learn.microsoft.com/en-us/defender-for-identity/playbook-setup-lab) | The purpose of the Microsoft Defender for Identity Security Alert lab is to illustrate Defender for Identity's capabilities in identifying and detecting suspicious activities and potential attacks against your network. | Microsoft Learn
 
-### Microsoft Purview Information Protection Ninja 
+### Microsoft Purview Information Protection Ninja
 
 
 Source | Description | Notes
