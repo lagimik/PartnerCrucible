@@ -18,17 +18,21 @@ Source | Description | Notes
 [Industry Resources](https://microsoft.github.io/PartnerResources/industry/)| Industry resources| Microsoft US
 [Sustainability Insider Program](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR1nWe0_9tKxEuN9c6D44qtNUOVZZVlpWMDVKVEs5M1dVVkc3TjdSMFpZVSQlQCN0PWcu) | Join the Microsoft Cloud for Sustainability Insider Program | ...
 
-
 ## Tools and Practices
 
 Source | Description | Notes
 :----- | :-----  | :-----
 [Emissions savings estimator for Microsoft Cloud](https://gw.us-il301.gateway.prod.island.powerapps.com/customerenrollmentservice/estimator/index.html) | This information will be used to understand your current on-premises footprint and comparable Azure footprint. | Power app
 [Emissions Impact Dashboard for Azure](https://appsource.microsoft.com/en-us/product/power-bi/coi-sustainability.emissions_impact_dashboard) | The Emissions Impact Dashboard provides our cloud customers with transparency into their greenhouse gas emissions associated with cloud usage. Our Generally Available version and is available for anyone to download.| App Source
-[Well architecture framework for sustainability](https://learn.microsoft.com/en-ca/azure/architecture/framework/sustainability/sustainability-get-started) | This section of the Microsoft Azure Well-Architected Framework aims to address the challenges of building sustainable workloads on Azure. | Microsoft Learn
-[Sustainable software engineering practices in Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/concepts-sustainable-software-engineering) | The guidance found in this article is focused on Azure Kubernetes Services you're building or operating on Azure and includes design and configuration checklists, recommended design, and configuration options. | Microsoft Learn
 [Microsoft Solution Center](https://solutions.microsoft.com/) | Ready to set up a new deployment? Choose the cloud solution designed for your industry to get started.
 [Industry Cloud Partner Sandboxes](https://experience.dynamics.com/requestlicense/)|This portal is used for SI/ISV Connect partners to obtain free or discounted non-production environment licenses with Biz Apps and Power Platform products to learn, test, and deliver end-to-end customer demos with their own solutions. These offers are to be used only on partner tenants, never on customer tenants.| Includes Cloud for Sustainability, FSI, Healthcare, Retail, Nonprofit
+
+## Sustainability Through Solutions
+Source | Description | Notes
+:----- | :-----  | :-----
+[How IoT, AI, and Digital Twins are helping achieve sustainability goals](https://azure.microsoft.com/en-gb/blog/how-iot-ai-and-digital-twins-are-helping-achieve-sustainability-goals/) | Organizations striving to improve their sustainability can make progress toward those goals by using the Internet of Things (IoT) and AI technology that monitors and analyzes their use of resources and resulting emissions. | Azure Blog
+[Well architecture framework for sustainability](https://learn.microsoft.com/en-ca/azure/architecture/framework/sustainability/sustainability-get-started) | This section of the Microsoft Azure Well-Architected Framework aims to address the challenges of building sustainable workloads on Azure. | Microsoft Learn
+[Sustainable software engineering practices in Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/concepts-sustainable-software-engineering) | The guidance found in this article is focused on Azure Kubernetes Services you're building or operating on Azure and includes design and configuration checklists, recommended design, and configuration options. | Microsoft Learn
 
 ## Cloud for Sustainability
 
