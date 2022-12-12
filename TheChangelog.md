@@ -10,6 +10,16 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+### Week ending Dec 9, 2022
+
+Date | Change | File
+:--- | :----- | ---:
+2022-12-11 | added references to Airlift 2022 | [See changes here](./PartnerPortals)
+2022-12-11 | added references to adoption tools for Power Platform | [See changes here](./PowerPlatformSolutionArea)
+2022-12-11 | added references to M365 adoption tools | [See changes here](./ModernWorkSolutionArea)
+2022-12-10 | added PVA references from Microsoft Airlift 2022 | [See changes here](./PowerPlatformSolutionArea)
+
+
 ### Week ending Dec 2, 2022
 
 Date | Change | File
