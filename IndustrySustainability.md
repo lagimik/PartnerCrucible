@@ -7,7 +7,7 @@
 
 ## Purpose
 
-A Collection of resources for Microsoft practice building around sustainability. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md). 
+A Collection of resources for Microsoft practice building around sustainability. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md).
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
@@ -34,7 +34,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[Microsoft Cloud for Sustainability](https://partner.microsoft.com/en-us/asset/collection/microsoft-cloud-for-sustainability#/) | Find partner assets for the Microsoft Cloud for Sustainability. | Requires MPN access
+[Microsoft Cloud for Sustainability](https://partner.microsoft.com/en-us/asset/collection/microsoft-cloud-for-sustainability#/) | Find partner assets for the Microsoft Cloud for Sustainability. | Requires MCPP access
 [Accelerate your journey to net-zero with Microsoft Cloud for Sustainability](https://cloudblogs.microsoft.com/industry-blog/sustainability/2022/06/01/accelerate-your-journey-to-net-zero-with-microsoft-cloud-for-sustainability/) | GA Announcement for Cloud for Sustainability | June 2022
 [Scale your business and impact with Microsoft Cloud for Sustainability](https://inspire.microsoft.com/en-US/sessions/1a0cbd11-c641-4ad6-9e8d-04bcf5119ca7?source=sessions) | Environmental sustainability is increasingly becoming a top priority for organizations globally. They are challenged to deliver on their ESG commitments while continuing to balance investments that effect operational excellence, business revenue, market share, and shareholder value. By integrating with Microsoft Cloud for Sustainability, partners have a unique opportunity to help meet the sustainability needs of their customers and grow business. | Inspire 2022 <br> [Ask the experts session](https://inspire.microsoft.com/en-US/sessions/11d98e4a-b519-476b-a1e1-cadc893b08f7?source=sessions)
 [Microsoft Cloud for Sustainability Overview](https://docs.microsoft.com/en-us/learn/modules/cloud-sustainability-overview/) | Get trained and co-sell ready: Access training modules at MS Learn |
