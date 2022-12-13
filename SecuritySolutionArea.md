@@ -10,6 +10,13 @@ A Collection of resources for Microsoft practice building in the Security soluti
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
+## Community
+Source | Description | Notes
+:----- | :---------- | :----
+[Security, Compliance, and Identity](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ct-p/MicrosoftSecurityandCompliance) | Microsoft Tech Community for Security, Compliance, and Identity | Tech Community
+[Microsoft Cloud Security Private Community](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR-kibZAPJAVBiU46J6wWF_5URDFSWUhYUldTWjdJNkFMVU1LTEU4VUZHMy4u&wdLOR=cA460936E-DCD5-4F25-9C03-7A8EF5C40D44)|By signing up for the ongoing program, you will receive access to our NDA roadmap calls, design exercises, surveys, and private previews.|...
+[Afternoon Cyber Tea with Ann Johnson](https://open.spotify.com/show/3bLXLVq9nSoj3xtrNh0Br5) | Ann Johnson, Corporate Vice President, Business Development, Security, Compliance & Identity at Microsoft, talks with cybersecurity thought leaders and influential industry experts about the trends shaping the cyber landscape and what should be top-of-mind for the C-suite and other key decision makers. Ann and her guests explore the risk and promise of tools and systems powered by AI, IoT, machine learning, and other emerging technology, as well as the impact on how humans work, communicate, consume information, and live in this era of digital transformation. Please note, the opinions expressed by guests on this podcast are their own and are not endorsed by, nor do they necessarily reflect opinions of, Microsoft or Ann Johnson.| Spotify
+
 ## Practice
 
 Source | Description | Notes
@@ -31,14 +38,6 @@ Source | Description | Notes
 [XDR Cloud Guide](https://mslearn.cloudguides.com/en-us/guides/Investigate%20security%20incidents%20in%20a%20hybrid%20environment%20with%20Azure%20Sentinel)| ... |...
 [Microsoft XDR Partners](https://cloudpartners.transform.microsoft.com/mxdrpartners)|...|Update May 2022
 [DevSecOps](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/devsecops-in-azure?ocid=AID3045641)| From the Azure Architecture Centre > Solution Ideas | 
-
-### Community
-
-Source | Description | Notes
-:----- | :---------- | :----
-[Azure Security Rockstar Training](https://msuspartners.eventbuilder.com/AzureSecurityRockstarTraining) | weeklong session for a deep dive and learn from Microsoft experts on how to protect your workloads quickly with built-in controls and services in Azure across identity, data, networking, and apps.| September 2022
-[Microsoft Cloud Security Private Community](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR-kibZAPJAVBiU46J6wWF_5URDFSWUhYUldTWjdJNkFMVU1LTEU4VUZHMy4u&wdLOR=cA460936E-DCD5-4F25-9C03-7A8EF5C40D44)|By signing up for the ongoing program, you will receive access to our NDA roadmap calls, design exercises, surveys, and private previews.|...
-[Afternoon Cyber Tea with Ann Johnson](https://open.spotify.com/show/3bLXLVq9nSoj3xtrNh0Br5) | Ann Johnson, Corporate Vice President, Business Development, Security, Compliance & Identity at Microsoft, talks with cybersecurity thought leaders and influential industry experts about the trends shaping the cyber landscape and what should be top-of-mind for the C-suite and other key decision makers. Ann and her guests explore the risk and promise of tools and systems powered by AI, IoT, machine learning, and other emerging technology, as well as the impact on how humans work, communicate, consume information, and live in this era of digital transformation. Please note, the opinions expressed by guests on this podcast are their own and are not endorsed by, nor do they necessarily reflect opinions of, Microsoft or Ann Johnson.| Spotify
 
 
 ### Zero Trust
