@@ -52,6 +52,13 @@ Source | Description | Notes
 [PowerBI Dev Camp](https://github.com/PowerBiDevCamp/) | Power BI Dev Camp is a essential resource for any developer that wants to know about developing on the Power BI developer platform. | Github
 [Building Multi-language Reports in Power BI](https://github.com/PowerBiDevCamp/Multilanguage-Reports)|This repository contains demo files and documentation for the ProductSales.pbix developer sample which demonstrates how to build a multi-language report for Power BI which supports English, Spanish, French, German and Dutch.| Github
 
+## Power Automate
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[Flow-in-a-Day](https://aka.ms/flowinaday) | Hands-on labs. This is the Power Automate in a day v8 material | Github
+[RPA-in-day](https://aka.ms/RPAinaday) | Hands-on labs. | Zip archive download
+
 
 ## Power Virtual Agents (PVA)
 
