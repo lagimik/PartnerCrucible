@@ -56,6 +56,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Microsoft Learn for Power Automate](https://learn.microsoft.com/en-us/training/powerplatform/power-automate) | Learn how to free your organization from mundane tasks with automated flows and robotic process automation (RPA).| Microsoft Learn
 [Flow-in-a-Day](https://aka.ms/flowinaday) | Hands-on labs. This is the Power Automate in a day v8 material | Github
 [RPA-in-day](https://aka.ms/RPAinaday) | Hands-on labs. | Zip archive download
 
