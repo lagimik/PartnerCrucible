@@ -22,6 +22,7 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [Data Governance and Compliance with Microsoft Purview - Tech Intensity Series](https://msuspartners.eventbuilder.com/EnablePurview) | xtending the Purview name and bringing together data governance capabilities from Data & AI and compliance and risk solutions from Security into one product family, and rebranding to Microsoft Purview | August 2022
 [Microsoft Purview Data Loss Prevention Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-microsoft-purview-data-loss-prevention-ninja-training-is/ba-p/3659015) | There are several videos and resources out there and the overall purpose of the Microsoft Purview Data Loss Prevention Ninja training is to help you master this realm. We aim to get you up-to-date links to the community blogs, training videos, Interactive Guides, learning paths, and any other relevant documentation. | Tech Community
+[Microsoft Purview Resource Provider Rest API](https://learn.microsoft.com/en-us/rest/api/purview/) | Documentation on the Purview Rest API capability | Microsoft Learn
 [Microsoft Purview Workshop](https://github.com/tayganr/purviewlab) | 16 Purview learning modules by @tayganr | Github 
 
 ### Azure Data Explorer
