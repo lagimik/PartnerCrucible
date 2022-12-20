@@ -17,6 +17,15 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [Industry Resources](https://microsoft.github.io/PartnerResources/industry/)| Industry resources| Microsoft US
 [Sustainability Insider Program](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR1nWe0_9tKxEuN9c6D44qtNUOVZZVlpWMDVKVEs5M1dVVkc3TjdSMFpZVSQlQCN0PWcu) | Join the Microsoft Cloud for Sustainability Insider Program | ...
+[Improve your energy and carbon efficiency with Azure sustainability guidance](https://azure.microsoft.com/en-us/blog/improve-your-energy-and-carbon-efficiency-with-azure-sustainability-guidance/) | To support you in navigating this learning curve, we’re announcing technical guidance and skilling offerings that can help you plan your path forward, improve your sustainability posture, and create new business value while reducing your operational footprint.|Microsoft Azure
+
+## Skilling
+Source | Description | Notes
+:----- | :-----  | :-----
+[Azure sustainability guidance Cloud Skills Challenge](https://aka.ms/azure/sustainability/csc) | Azure sustainability guidance Cloud Skills Challenge: this fun, no-cost, interactive program helps skill individuals and teams on Microsoft cloud technologies via a gamified experience utilizing Microsoft Learn content. | MS Learn
+[Azure sustainability guidance Microsoft Learn Collection](https://aka.ms/azure/sustainability/collection) | developed as a starting point to help you find relevant learning content on Azure sustainability initiatives, share this with friends and colleagues today and check back for updates in the weeks and months ahead.  | MS Learn
+[Principles of Sustainable Software Engineering course](https://learn.microsoft.com/training/modules/sustainable-software-engineering-overview) | This Microsoft Learn module provides a primer on the eight principles of Sustainable Software Engineering, covering a wide range of topics such as electricity and carbon efficiency, carbon intensity, and how to think through the trade-offs required for optimization. Accessible to any level of learner familiar with basic computing concepts. | MS Learn
+
 
 
 ## Tools and Practices
