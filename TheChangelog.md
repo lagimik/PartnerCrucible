@@ -10,6 +10,19 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+
+### Week ending Dec 16, 2022
+
+Date | Change | File
+:--- | :----- | ---:
+2022-12-16 | added references to Microsoft Learn for Power Automate | [See changes here](./PowerPlatformSolutionArea)
+2022-12-16 | added references to Purview REST API | [See changes here](./DataAISolutionArea)
+2022-12-16 | added references to Microsoft Purview Workshop | [See changes here](./DataAISolutionArea)
+2022-12-16 | added references to flow and RPA hands-on-labs | [See changes here](./PowerPlatformSolutionArea)
+2022-12-15 | added Azure Rapid Assessment Estimator references | [See changes here](./AzureInfrastructureSolutionArea)
+2022-12-12 | added reference to SCI Tech community | [See changes here](./SecuritySolutionArea)
+2022-12-11 | added industry reference to IoT, Digital Twins, and AI | [See changes here](./IndustrySustainability)
+
 ### Week ending Dec 9, 2022
 
 Date | Change | File
