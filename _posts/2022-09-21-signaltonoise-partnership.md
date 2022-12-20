@@ -9,7 +9,7 @@ date: 2022-09-21
 
 ## TL;DR
 
-The **Microsoft Cloud Partner Program (MCPP)** links Microsoft and partner business and technical activities. To do this, partners engage with Microsoft in the following ways: 
+The **Microsoft Cloud Partner Program (MCPP)** links Microsoft and partner business and technical activities. To do this, partners engage with Microsoft in the following ways:
 
 * Through a Microsoft Cloud Partner Program (MCPP) membership
 * Publishing a go-to-market solution or offer for co-sell via the  **Microsoft Marketplace**
@@ -33,15 +33,15 @@ These pillars are described in the [Microsoft Cloud Partner Program Blog Post](h
 
 Pillar | Description | Why? | Next Step
 -----: | :---------- | :----- | :-----
-**Microsoft Cloud Partner Program (MCPP) membership** | [Partner Center](https://partner.microsoft.com/en-us/dashboard) is the main partner portal provides you access to the tools you need to get work done.| Membership includes [MPN Benefits](https://learn.microsoft.com/en-us/partner-center/mpn-find-benefits#mpn-benefits) | - [Become a partner](https://partner.microsoft.com/en-ca/membership) <br> - Obtain access to [Partner Center](https://partner.microsoft.com/en-us/dashboard), or [raise an issue](https://partner.microsoft.com/en-US/support/?stage=1) <br> - Ensure MPN hierarchy of different locations or entities is correct so that all activity is recognized. <br> - Open a [Partner Center support request](https://partner.microsoft.com/en-US/support/?stage=1) to resolve problems. 
+**Microsoft Cloud Partner Program (MCPP) membership** | [Partner Center](https://partner.microsoft.com/en-us/dashboard) is the main partner portal provides you access to the tools you need to get work done.| Membership includes [MCPP Benefits](https://learn.microsoft.com/en-us/partner-center/mpn-find-benefits#mpn-benefits) | - [Become a partner](https://partner.microsoft.com/en-ca/membership) <br> - Obtain access to [Partner Center](https://partner.microsoft.com/en-us/dashboard), or [raise an issue](https://partner.microsoft.com/en-US/support/?stage=1) <br> - Ensure MCPP hierarchy of different locations or entities is correct so that all activity is recognized. <br> - Open a [Partner Center support request](https://partner.microsoft.com/en-US/support/?stage=1) to resolve problems.
 **Solution Partner Designation** | Eligibility for Solutions Partner designations is based on your [partner capability score](https://learn.microsoft.com/en-us/partner-center/partner-capability-score). |  [Download the Solutions Partner Benefits Guide](https://aka.ms/Solutionspartner.Benefits) | - Review your **Partner Capability Score (PCS)** in Partner Center. <br> - Target **Solution Partner Designations** that are most relevant to your organisation to unlock incentives. <br> - [Link employee Microsoft Certification profile IDs with Partner Center](https://learn.microsoft.com/en-us/partner-center/ms-learn-associate) to be recognized for skilling achievements. <br> - [Associate your customer deployments with Partner Center](https://aka.ms/Solutionspartner.Associationsplaybook) to be recognized for your performance and customer growth achievements.
 **Specialisation** | Microsoft specializations build on the related **Solutions Partner designations** in one of the [specialization areas](https://learn.microsoft.com/en-us/partner-center/advanced-specializations#specialization-areas) |  See [Specialization Benefits Guide](https://aka.ms/Solutionspartner.Benefits) | Use *Partner Center* to [apply for and check the status of specializations](https://learn.microsoft.com/en-us/partner-center/advanced-specializations-apply)
 **Marketplace offer** | The Microsoft commercial marketplace is a catalog of solutions from our independent software vendor (ISV) partners and offers from Solution Integrators (SIs).| Accelerate your business in partnership with Microsoft, and to connect Microsoft customers with the best solutions that our partner ecosystem offers.| [Introduction to Listing Options](https://learn.microsoft.com/en-us/azure/marketplace/determine-your-listing-type)
 
-## Get after it 
+## Get after it
 
 [Partner Community - Canadian Partner Zone](https://www.microsoftpartnercommunity.com/t5/Canadian-Partner-Zone/ct-p/canadian-partner) is a  Forums for Canadian Partners tha includes a calendar of upcoming events. You are encouraged to **subscribe to updates**.
 
-In addition, the [PartnerCrucible](https://lagimik.github.io/PartnerCrucible/) hosts a collection of links to key resources for partners. This project aims to serve as an *entry point* into the wealth of information and services available to Canadian Microsoft partners. 
+In addition, the [PartnerCrucible](https://lagimik.github.io/PartnerCrucible/) hosts a collection of links to key resources for partners. This project aims to serve as an *entry point* into the wealth of information and services available to Canadian Microsoft partners.
 
 [< Back to Signal:Noise index](/PartnerCrucible/SignaltoNoise)
