@@ -1,6 +1,8 @@
 name: Check URLs
 
-on: [push]
+on: 
+  schedule:
+    - cron: '30 5 * * 1'
 
 jobs:
   build:
