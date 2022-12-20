@@ -45,6 +45,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
+[Microsoft named a Leader in the 2022 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2022-gartner-magic-quadrant-for-industrial-iot-platforms/) | As industrial Internet of Things (IoT) matures and transforms critical business functions, Microsoft continues to innovate and invest in this area and engage with a large ecosystem of solution partners.| Gartner
 [Partner Innovation series: smarter buildings with Azure Digital Twins](https://blogs.partner.microsoft.com/mpn/partner-innovation-series-smarter-buildings-with-azure-digital-twins/?wt.mc_id=OCPM_AZU_OR_LI_CSO_GL_digital) | Willow is modernizing and transforming the real estate, infrastructure, and mining industries with WillowTwinTM — a SaaS platform built on Azure Digital Twins that makes buildings and spaces smart and more efficient.|...
 [Microsoft AI & IoT Insider Labs](https://aiotlabs.microsoft.com/p/apply)| Microsoft AI & IoT Insider Labs | ...
 
