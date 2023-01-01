@@ -59,21 +59,41 @@ The following represent a marketplace model. It is a simplified view to encourag
 (Ref: *Marketplace private offer with margin sharing*.)
 ### Marketplace - More that a "listing"
 
-* economic engine that allows direct and bundled tractions to take place
-* P2P discovery
+A common misconception about the Microsoft Commercial Marketplace is that is simply a listing of software and service offers. Here are a few often overlooked aspects of the Commercial Marketplace:
+
+* The Commercial Marketplace allows partners to co-sell with Microsoft an work directly with Microsoft sales teams and Microsoft partners on joint selling opportunities. This can aid with:
+    * Expanding your solution portfolio to new markets and segments.
+    * Generating new marketing leads and sales opportunities.
+* The Commercial Marketplace is a key element in Partner-to-Partner (P2P) opportunities.
+* The Commercial Marketplace allows  service partners to bundle ISV software capabilities as part of their offer to solve business problems. In addition, service partners can wrap assessment, pilots, or support offerings around these solutions.
+* Microsoft and customer incentives exist to further reduces the hurdles to transacting through the marketplace.
 
 
-the marketplace allows the service partners to bundle software capabilities, rather than infrastructure, to solve business problems.
-Offset the hardware margins with additional customer segments, solving more problems for customers.
-Needless to say need to be leveraging platforms with deep partner ecosystems such as Power platform or Dynamics 365, Microsoft 365, or Azure.
+The Partner Crucible maintains [a set of resources about the Commercial Marketplace](\PartnerCrucible\CommercialMarketplaceOffers) to guide partners.
 
-### Cloud Service Provider (CSP)
+### Marketplace for the Cloud Service Provider (CSP)
 
-Reselling Microsoft, on its own, does not offer many avenues for differentiation. On the other hand, combining ISV offers to solve customer problems is a much higher value proposition that commands significantly higher margins.
+Cloud Solution Providers (CSPs) are Microsoft partners who are authorized to sell Microsoft Cloud Services under Cloud Solution Provider licensing.
 
-### The Independent Software Vendor (ISV)
+Reselling, on its own, does not offer many avenues for differentiation. On the other hand, combining ISV offers and service provider expertise to solve customer problems is a much more compelling value proposition that commands significantly higher margins. Further surrounding the software with assessments, proof-of-concepts, free-trials, support, and consulting services creates additional revenue acceleration opportunities.
+
+The Partner Crucible maintains [a set of resources about the Cloud Service Providers](\PartnerCrucible\CSP) to guide partners.
+
+### Marketplace for the Independent Software Vendor (ISV)
 
 * IP accelerators, industry focussed, product white space
+* reach Enterprise customers and simplify sales
+* 
+* Free trials
+* Offers sold through Microsoft are called transactable offers. An offer that is transactable is one in which Microsoft facilitates the exchange of money for a software license on the publisher’s behalf. 
+* A private offer enables the ISV publisher to provide a margin on their published solution to incentivize you to sell that solution to their customers. 
+* *Multi-party private offers* (coming to private preview) will empowering the partner ecosystem to sell together while unlocking customer cloud consumption benefits.
+
+## How SaaS? - A technical model
+
+**todo
+
+The Partner Crucible maintains [a set of resources about Independent Software Vendors](\PartnerCrucible\ISV) to guide partners.
 
 ## Way forward - *Mainstream* path to SaaS
 
@@ -94,7 +114,7 @@ In addition to mainstream approaches, *Insiders* will uncover ways to:
 Type | Description | Examples
 -----: | :------ | :-------
 [Microsoft SaaS Day](https://info.microsoft.com/WE-ISV-CATALOG-FY23-10Oct-13-Microsoft-SaaS-Day-SRDEM125074_Catalog-Display-Page.html) | As part of Microsoft SaaS Academy, we are launching Microsoft SaaS Day – a free full-day conference addressing both business and technical aspects of SaaS. | Microsoft SaaS Academy
-[Microsoft Airlift](https://airlift.microsoft.com/) | | Microsoft Airlift
+[Microsoft Airlift](https://airlift.microsoft.com/) | Technical deep dives | Microsoft Airlift
 
 # Get after it
 
