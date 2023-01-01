@@ -1,6 +1,6 @@
 # Partner Crucible
 
-![OpenHack](./Library/partnercrusible.jpg)
+![OpenHack](./Library/crucible-title.png)
 
 ## Purpose 
 
