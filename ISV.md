@@ -13,6 +13,7 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 Source | Description | Notes
 :----- | :---------- | :----
 [Azure for Technology Partners](https://azure.microsoft.com/en-us/partners/azure-technology-partners/)|Azure for resources  independent software vendors (ISVs)|...
+[M12](https://m12.vc/about​)| M12 is Microsoft’s corporate venture capital fund. We invest across key focus areas in the most promising early-stage companies that are disrupting markets in the business of today and tomorrow. | M12
 [Microsoft for Startups](https://startups.microsoft.com/)|icrosoft for Startups Founders Hub brings together the technology, guidance, and support you need to hit your next milestone.|
 [ISV Success Program](https://www.microsoft.com/en-us/isv) | Build, sell, and thrive on the Microsoft Cloud.| In Private Preview
 [ISV Success Program Guide](https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-brand/documents/WhyMicrosoftCloudForISVs.pdf) | ISV Success program (private preview) is a nine-month partnership designed to help independent software vendors (ISV) build well-architected apps on Microsoft Cloud platforms and publish into our commercial marketplace. | October 2022
