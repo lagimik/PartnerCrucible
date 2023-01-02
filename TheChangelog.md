@@ -10,6 +10,17 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+### Week ending Dec 30, 2022
+
+Date | Change | File
+:--- | :----- | ---:
+2023-01-02 | added references to Five-Part Guide to Digital Transformation for Manufacturers | [See changes here](./IndustryGeneral)
+2023-01-01 | updated description of the P2P readiness series | [See changes here](./PracticeBuilding)
+2023-01-01 | added references to M12 | [See changes here](./ISV)
+2022-12-20 | added sustainability skilling resources | [See changes here](./IndustrySustainability)
+2022-12-20 | added references to appsource validation error | [See changes here](./ModernWorkSolutionArea)
+2022-12-20 | added references to Gartner Magic Quadrant for Global Industrial IoT Platform | [See changes here](./DigitalAppsandInnovationSolutionArea)
+2022-12-19 | added references to 2022 forrester wave report | [See changes here](./SecuritySolutionArea-Sentinel)
 
 ### Week ending Dec 16, 2022
 
