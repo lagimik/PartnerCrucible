@@ -11,6 +11,7 @@
   {% for post in site.posts %}
     <li>
       <a href="/PartnerCrucible{{ post.url }}">{{ post.title }}</a>
+      <p>{{ post.excerpt }}</p>
     </li>
   {% endfor %}
 </ul>
