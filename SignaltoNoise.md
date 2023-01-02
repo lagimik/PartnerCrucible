@@ -11,7 +11,7 @@
   {% for post in site.posts %}
     <li>
       <a href="/PartnerCrucible{{ post.url }}">{{ post.title }}</a>
-      <p>{ post.content | markdownify | strip_html | truncatewords: 50 }}</p>
+      <p>{{ post.content | markdownify | strip_html | truncatewords: 50 }}</p>
     </li>
   {% endfor %}
 </ul>
