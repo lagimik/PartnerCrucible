@@ -10,7 +10,7 @@ date: 2023-01-02
 
 # Journey to SaaS - a hitchhiker's guide
 
-This post aims to frame the Independent Software Vendor or Service Provider journey to SaaS and provide some much needed signal to a noisy landscape. This post will cover the *Why, What, How* of SaaS. (We leave the *Who and When* up to the reader.)
+This post aims to frame the Independent Software Vendor or Service Provider journey to Software-as-a-Service (SaaS) and provide some much needed signal to a noisy landscape. This post will cover the *Why, What, How* of SaaS. (We leave the *Who and When* up to the reader.)
 
 ## TL;DR
 
@@ -26,6 +26,8 @@ This post aims to frame the Independent Software Vendor or Service Provider jour
 Why is the topic of SaaS so difficult to wrangle? Much if that comes down to the *s-curve of business growth*, and more importantly and the strategic points of inflection that create dilemmas.
 
 ![Sigmoid business curve](/PartnerCrucible/Library/sigmoid.jpg)
+
+(Ref: [Only Dead Fish - Two More Things About S-Curves](https://www.onlydeadfish.co.uk/only_dead_fish/2016/07/two-more-things-about-s-curves.html)
 
 The cycle of business growth seen in the curve can be broken down as:
 * A - Start
@@ -65,7 +67,7 @@ The following represent a marketplace model. It is a simplified view to encourag
 
 (Ref: [Activate an ecosystem of partners and unlock new markets](https://ospeventcdn.event.microsoft.com/events/MarketplaceSummit/Decks/Marketplace_Summit_06_Activate%20an%20ecosystem%20of%20partners%20and%20unlock%20new%20markets.pptx?sv=2021-08-06&se=2023-01-03T15%3A46%3A41Z&sr=b&sp=r&sig=c8S0pCQot72puaR8NPjpbE7hzgyFIRVOeUhbTLNBHSE%3D).)
 
-### Marketplace - More that a *"listing"*
+### Microsoft Commercial Marketplace - More that a *"listing"*
 
 A common misconception about the Microsoft Commercial Marketplace is that it is simply a listing of software and service offers. The Commercial Marketplace is much more than that. Here are a few often overlooked aspects of the Commercial Marketplace:
 
@@ -78,13 +80,13 @@ A common misconception about the Microsoft Commercial Marketplace is that it is 
 
 
 
-### Marketplace for the Cloud Service Provider (CSP)
+### Microsoft Commercial Marketplace for the Cloud Service Provider (CSP)
 
 Cloud Solution Providers (CSPs) are Microsoft partners who are authorized to sell Microsoft Cloud Services under Cloud Solution Provider licensing.
 
 Reselling, on its own, does not offer many avenues for differentiation. On the other hand, combining ISV offers and service provider expertise to solve customer problems is a much more compelling value proposition that commands significantly higher margins. Further surrounding the software with assessments, proof-of-concepts, free-trials, support, and consulting services creates additional revenue acceleration opportunities.
 
-### Marketplace for the Independent Software Vendor (ISV)
+### Microsoft Commercial Marketplace for the Independent Software Vendor (ISV)
 
 An independent software vendor (ISV), also known as a software publisher, is an organization specializing in making and selling software, as opposed to computer hardware.
 (source: [wikipedia](https://en.wikipedia.org/wiki/Independent_software_vendor)
