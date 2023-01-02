@@ -27,6 +27,7 @@ Source | Description | Notes
 [Tenancy models to consider for a multitenant solution](https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/tenancy-models) | Guidance for technical decision-makers about the tenancy models you can consider and their tradeoffs | MS Learn
 [Azure SaaS Development Kit (ASDK)](https://github.com/Azure/azure-saas) | he Azure SaaS Development Kit is a deployable reference implementation of pre-built modules designed to help you launch your SaaS offering faster | Github
 [Community Sample Code and SDK for SaaS Applications](https://github.com/Azure/Commercial-Marketplace-SaaS-Accelerator)| This project is a community-supported reference implementation for integrating Software-as-a-Service (SaaS) solutions with Microsoft commercial marketplace SaaS offers. | Github Version 6.0.0
+[Mastering SaaS offers](https://microsoft.github.io/Mastering-the-Marketplace/saas/) | This on-demand learning series includes videos, sample code, and hands-on labs meant to speed your time to publishing your custom SaaS offer on the Microsoft commercial marketplace. If you are building a SaaS offer for the marketplace this learning series is for you. | Mastering Marketplace
 [What is Azure Chaos Studio](https://learn.microsoft.com/en-us/azure/chaos-studio/chaos-studio-overview) | Azure Chaos Studio is a managed service that uses chaos engineering to help you measure, understand, and improve your cloud application and service resilience. | MS Learn
 
 [< Back to Crucible](./)
