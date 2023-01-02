@@ -43,6 +43,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[A Five-Part Guide to Digital Transformation for Manufacturers](https://info.microsoft.com/ww-landing-five-part-guide-to-digital-transformation.html?lcid=EN-GB&wt.mc_id=AID3052488_QSG_PD_SCL_611713) | In this eBook, A Five-Part Guide to Digital Transformation: Learn How Manufacturers Can Build a More Resilient and Sustainable Future, explore how to: Engage customers in new ways, Transform your workforce, Build more agile factories, Create more resilient supply chains, Unlock innovation and deliver new services. | Microsoft
 [Microsoft Cloud for Manufacturing: Partnering to manufacture a more resilient and sustainable future](https://cloudblogs.microsoft.com/industry-blog/manufacturing/2022/01/03/microsoft-cloud-for-manufacturing-partnering-to-manufacture-a-more-resilient-and-sustainable-future/) | Blog post | January 2022
 [The Road to Intelligent Manufacturing: Leveraging a Platform Approach](https://azure.microsoft.com/en-us/resources/the-road-to-intelligent-manufacturing-leveraging-a-platform-approach/) | Whitepaper - Learn how Capgemini and Microsoft work together to help organizations successfully pass through each phase of their journey to connectivity, automation, and cloud-scale analytics, data, and decision making. | 2020
 [Stay informed about Microsoft Cloud for Manufacturing](https://info.microsoft.com/ww-landing-Manufacturing-StayInformed.html) | Updates |
