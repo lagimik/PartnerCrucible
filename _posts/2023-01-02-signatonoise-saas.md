@@ -1,16 +1,18 @@
 ---
-title: "Signal:Noise - SaaS"
+title: "Signal:Noise - Journey to SaaS - a hitchhiker's guide"
 date: 2023-01-02
 ---
 
-![Signal to Noise](/PartnerCrucible/Library/signaltonoise-saasjounrey.png)
+![Signal to Noise](/PartnerCrucible/Library/signaltonoise-saasjourney.png)
 
 
 [< Back to Signal:Noise index](/PartnerCrucible/SignaltoNoise)
 
+# Journey to SaaS - a hitchhiker's guide
+
 This post aims to frame the Independent Software Vendor or Service Provider journey to SaaS and provide some much needed signal to a noisy landscape. This post will cover the *Why, What, How* of SaaS. (We leave the *Who and When* up to the reader.)
 
-# TL;DR
+## TL;DR
 
 * The specific decisions at the current inflection point on the  **s-curve of business growth** for a software or services provider are: *when and how to embark on the SaaS journey to transition to cloud capabilities.*
 * The journey to SaaS is often (mistakenly) described as  "*SaaSifying your software solution*". It is, in reality, about "**SaaSifying your business**"
@@ -19,7 +21,7 @@ This post aims to frame the Independent Software Vendor or Service Provider jour
 * **[SaaS Academy](https://www.microsoft.com/en-us/saas-academy/main) and [Marketplace Summit](https://marketplacesummit.microsoft.com/)** and key guides on this journey.
 
 
-# Why SaaS? - The S-curve of business growth
+## Why SaaS? - The S-curve of business growth
 
 Why is the topic of SaaS so difficult to wrangle? Much if that comes down to the *s-curve of business growth*, and more importantly and the strategic points of inflection that create dilemmas.
 
@@ -33,11 +35,11 @@ The cycle of business growth seen in the curve can be broken down as:
 
 Over the life of any business, decisions at the inflection points will determine if the growth persists, stalls, or declines. The specific decisions on the s-curve of business growth for a software or services provider are: *when and how to embark on the SaaS journey to transition to cloud capabilities*.
 
-# What SaaS? - More than a technology play
+## What SaaS? - More than a technology play
 
 The journey to SaaS is often (mistakenly) described as  "*SaaSifying your software solution*". Certainly there are some key technical milestones on the journey to offering SaaS, but there also some critical business milestones as well. Instead, a point of view that reflects the holistic impact of the journey would be "*SaaSifying your business*".
 
-## Business questions to consider
+### Business questions to consider
 - How will the per-user subscription model affect your current compensation structure for sales?
 - What will the ability to offer a free-trial do to you sales approach and sales cycle?
 - Does the inital lower cost of of SaaS solutions and streamlines sales cycle create new opportunities in different market segments?
@@ -45,7 +47,7 @@ The journey to SaaS is often (mistakenly) described as  "*SaaSifying your softwa
 - How will you transition the existing customer base to SaaS?
 - ...
 
-## Technology questions to consider
+### Technology questions to consider
 - What will your accessibility strategy be?
 - What will the solution lifecycle model look like for you solution(s)?
 - How will you transition from a monolith solution to a cloud-based solution? will you partner through P2P motions to get there?
@@ -55,7 +57,7 @@ The journey to SaaS is often (mistakenly) described as  "*SaaSifying your softwa
 
 We see that the journey to a SaaS business will affect many areas of the current business and technology practices, some of which have very deep roots. A target model can be useful when trying to chart a course in this case. To that end, we will leverage a marketplace model with cloud service providers (CSP), independent software vendors (ISV), and customers.
 
-# How SaaS? - A Marketplace Model
+## How SaaS? - A Marketplace Model
 
 The following represent a marketplace model. It is a simplified view to encourage discussion and to get the gears turning: *how might this model be leveraged to address some of the business and technology considerations we listed earlier?*
 
@@ -63,7 +65,7 @@ The following represent a marketplace model. It is a simplified view to encourag
 
 (Ref: [Activate an ecosystem of partners and unlock new markets](https://ospeventcdn.event.microsoft.com/events/MarketplaceSummit/Decks/Marketplace_Summit_06_Activate%20an%20ecosystem%20of%20partners%20and%20unlock%20new%20markets.pptx?sv=2021-08-06&se=2023-01-03T15%3A46%3A41Z&sr=b&sp=r&sig=c8S0pCQot72puaR8NPjpbE7hzgyFIRVOeUhbTLNBHSE%3D).)
 
-## Marketplace - More that a *"listing"*
+### Marketplace - More that a *"listing"*
 
 A common misconception about the Microsoft Commercial Marketplace is that it is simply a listing of software and service offers. The Commercial Marketplace is much more than that. Here are a few often overlooked aspects of the Commercial Marketplace:
 
@@ -76,13 +78,13 @@ A common misconception about the Microsoft Commercial Marketplace is that it is 
 
 
 
-## Marketplace for the Cloud Service Provider (CSP)
+### Marketplace for the Cloud Service Provider (CSP)
 
 Cloud Solution Providers (CSPs) are Microsoft partners who are authorized to sell Microsoft Cloud Services under Cloud Solution Provider licensing.
 
 Reselling, on its own, does not offer many avenues for differentiation. On the other hand, combining ISV offers and service provider expertise to solve customer problems is a much more compelling value proposition that commands significantly higher margins. Further surrounding the software with assessments, proof-of-concepts, free-trials, support, and consulting services creates additional revenue acceleration opportunities.
 
-## Marketplace for the Independent Software Vendor (ISV)
+### Marketplace for the Independent Software Vendor (ISV)
 
 An independent software vendor (ISV), also known as a software publisher, is an organization specializing in making and selling software, as opposed to computer hardware.
 (source: [wikipedia](https://en.wikipedia.org/wiki/Independent_software_vendor)
@@ -92,7 +94,7 @@ An independent software vendor (ISV), also known as a software publisher, is an 
 * A private offer enables the ISV publisher to provide a margin on their published solution to incentivize you to sell that solution to their customers.
 * *Multi-party private offers* (coming to private preview) will empowering the partner ecosystem to sell together while unlocking customer cloud consumption benefits.
 
-# How SaaS? - A technology model
+## How SaaS? - A technology model
 
 The SaaS journey would not be complete without identifying some key technical waypoints. Below are some of the technical references from the  [a set of resources to guide  partners on the SaaS journey](/PartnerCrucible/SaaS).
 
@@ -105,7 +107,7 @@ Source | Description | Notes
 [What is Azure Chaos Studio](https://learn.microsoft.com/en-us/azure/chaos-studio/chaos-studio-overview) | Azure Chaos Studio is a managed service that uses chaos engineering to help you measure, understand, and improve your cloud application and service resilience. | MS Learn
 
 
-# Way forward - *Mainstream* path to SaaS
+## Way forward - *Mainstream* path to SaaS
 
  *Mainstream* partners will leverage the following set of resources to enable their SaaS journey:
 
@@ -115,7 +117,7 @@ Type | Description | Notes
 [Marketplace Summit](https://marketplacesummit.microsoft.com/)| Session recordings are available for you to watch, learn and enjoy! | November 2022
 [Founder's Hub](https://foundershub.startups.microsoft.com/signup) | Microsoft for Startups Founders Hub is a platform for all founders at any stage to reach their next milestone through personalized technical tools and business resources. Founders can get started on the platform in minutes and gain free access to the technology and support that’s critical to turning dreams into life-changing products. | Microsoft for Startups
 
-# Way forward - *Insiders* path to SaaS
+## Way forward - *Insiders* path to SaaS
 
 In addition to mainstream approaches, *Insiders* will uncover ways to:
 * Align to Microsoft sales teams to extend their reach into Enterprise customers.
@@ -132,7 +134,7 @@ Type | Description | Notes
 [Mastering SaaS Offers](https://microsoft.github.io/Mastering-the-Marketplace/saas/) | This on-demand learning series includes videos, sample code, and hands-on labs meant to speed your time to publishing your custom SaaS offer on the Microsoft commercial marketplace. If you are building a SaaS offer for the marketplace this learning series is for you. | Mastering Marketplace
 [Microsoft Airlift](https://airlift.microsoft.com/) | Technical deep dives | Microsoft Airlift
 
-# Get after it with the *Partner Crucible*
+## Get after it with the *Partner Crucible*
 
 The [PartnerCrucible](https://lagimik.github.io/PartnerCrucible/) hosts a collection of links to key resources for partners. 
 
