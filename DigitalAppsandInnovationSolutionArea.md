@@ -15,6 +15,9 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 Source | Description | Notes
 :----- | :---------- | :----
 [Build applications with Azure](https://azure.microsoft.com/en-ca/resources/developers/?utm_source=developermscom#featured-resources) | Build apps with best-in-class tools, your favorite open-source frameworks and languages, and a platform that supports a range of services and continuous collaboration and delivery | 
+[Azure skills navigator - the new developer's "Guide to the Cloud"](https://github.com/MicrosoftDocs/devrampup) | This guide is looking to take you from "zero to hero". Jump into your learning journey where you are and learn to take your code to the cloud. | Github
+[Azure Skills Navigator - Developers](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-skills-navigator-for-developers/Azure%20Skills%20Navigator%20-%20Developer%20Edition%20-%20Microsoft%202022.pdf) | A guide to build your skills around knowing how to architect and deploy apps in the Cloud and how to maintain and instrument those apps once deployed. Our guide provides an overview of key concepts across Java, .NET, Node.js, and Python, crucial topics to establishing a strong foundation on Microsoft Azure. | Azure Skills Navigator
+
 
 ### Hackathons
 
