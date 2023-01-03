@@ -10,6 +10,14 @@ A Collection of resources for Microsoft practice building in the Security soluti
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
+## Industry Perspective
+
+Source | Description | Notes
+:----- | :---------- | :----
+[Microsoft Digital Defense Report 2022](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5bUvv?culture=en-us&country=us) | The report is the culmination of Microsoft’s vast data and comprehensive research. It shares our unique insights on how the digital threat landscape is evolving and the crucial actions that can be taken today to improve the security of the ecosystem | Microsoft
+[Security Blog](https://www.microsoft.com/security/blog/)| Official Microsoft Security Blog |...
+[MISA](https://www.microsoft.com/en-ca/security/business/intelligent-security-association)| The Microsoft Intelligent Security Association (MISA) is an ecosystem of independent software vendors and managed security service providers that have integrated their solutions to better defend against a world of increasing threats| The Microsoft Intelligent Security Association (MISA)
+
 ## Community
 Source | Description | Notes
 :----- | :---------- | :----
@@ -21,15 +29,13 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
-[Microsoft Digital Defense Report 2022](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5bUvv?culture=en-us&country=us) | The report is the culmination of Microsoft’s vast data and comprehensive research. It shares our unique insights on how the digital threat landscape is evolving and the crucial actions that can be taken today to improve the security of the ecosystem | Microsoft
-[MISA](https://www.microsoft.com/en-ca/security/business/intelligent-security-association)| The Microsoft Intelligent Security Association (MISA) is an ecosystem of independent software vendors and managed security service providers that have integrated their solutions to better defend against a world of increasing threats|...
-[Security Blog](https://www.microsoft.com/security/blog/)| Official Microsoft Security Blog |...
+[Security best practices for Microsoft partners](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fassetsprod.microsoft.com%2Fen-us%2Fsecurity-best-practices-for-microsoft-partners.pdf&data=05%7C01%7CMarcAndre.Morisset%40microsoft.com%7Cdd98de75b69d48edf56608dae1d6fbda%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638070610836966572%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=O5QWHcIB4xn3IXbUOV%2FJO%2BG7yl4qWnUw36pBr75XI8E%3D&reserved=0) | Improve your security posture with Microsoft tools, resources, trainings, and platforms | 2022
 [SCI partner enablement guide](https://assetsprod.microsoft.com/mpn/en-us/security-compliance-identity-partner-enablement-guide.pdf)| Top news, upcoming training, certifications and exams, and additional resources updated ~monthly | PDF Download <br>Requires MCPP
 [Security, Compliance, and Identity training and certifications](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4J4Mm)| This guide has been created to provide training and certification options to achieve personal success.
 [Security Build Intent Workshop](https://cloudpartners.transform.microsoft.com/workshops/cloud-accelerators?tab=security)| Azure credits for customer workshop delivery Microsoft 365 & Security for Partners | ...
 [The Chief Information Security Officer (CISO) Workshop Training](https://learn.microsoft.com/en-us/security/ciso-workshop/the-ciso-workshop) | The Chief Information Security Office (CISO) workshop helps accelerate security program modernization with reference strategies built using Zero Trust principles. | Microsoft Learn
 
-### Architecture
+## Architecture
 
 Source | Description | Notes
 :----- | :---------- | :----
@@ -40,13 +46,13 @@ Source | Description | Notes
 [DevSecOps](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/devsecops-in-azure?ocid=AID3045641)| From the Azure Architecture Centre > Solution Ideas |
 
 
-### Zero Trust
+## Zero Trust
 
 Source | Description | Notes
 :----- | :---------- | :----
 [Learn How to Implement Zero Trust in Your Public Sector Organization](https://docs.microsoft.com/en-us/users/mlg62022/collections/xkmgiy1oe25qmd) | In this collection, learn more about the importance of a Zero Trust strategy and how to implement it. | Microsoft Learn Collection
 
-### Azure Active Directory
+## Azure Active Directory
 
 Source | Description | Notes
 :----- | :---------- | :----
@@ -54,25 +60,18 @@ Source | Description | Notes
 [Woodgrove Employee](https://woodgroveemployee.azurewebsites.net/landing) | Azure AD demo|
 
 
-### Sentinel
+## Sentinel
 
-Source | Description | Notes
-:----- | :---------- | :----
-[Azure Sentinel Technical Playbook for MSSPs](http://aka.ms/azsentinelmssp)| How to deploy Azure Sentinel as a managed security services provider | March 2021
-[Microsoft Sentinel for MSSPs](https://learn.microsoft.com/en-us/azure/sentinel/multiple-tenants-service-providers) | If you're a managed security service provider (MSSP) and you're using Azure Lighthouse to offer security operations center (SOC) services to your customers, you can manage your customers' Microsoft Sentinel resources directly from your own Azure tenant, without having to connect to the customer's tenant | Microsoft Learn
-[Sentinel Migration Guides](https://docs.microsoft.com/en-us/azure/sentinel/migration)| These are detailed guides to migrate from ArcSight, QRadar and Splunk; migrate historical data, convert dashboards to workbooks and update SOC processes.|
-[Microsoft Sentinel Black Belt](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-earn-your-microsoft-sentinel-black-belt-digital-badge/ba-p/3071558)| New for 2022, our Cloud Security Private Community Digital Badge program has introduced a new L5 Microsoft Sentinel Black Belt Digital Badge for you to earn and display proudly to show your prowess as a Microsoft recognized expert and contributor to the product.|...
-[Sentinel Ninja](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310)| Sentinel Ninja Training
-[The Art and Science of Threat Hunting](https://www.microsoft.com/security/blog/2022/09/08/part-1-the-art-and-science-of-threat-hunting/) | From Microsoft Security Experts and Microsoft Detection and Response Team (DART) | September 2022
+* See the [Sentinel page](./SecuritySolutionArea.md)
 
-### Microsoft Lighthouse
+## Microsoft Lighthouse
 
 Source | Description | Notes
 :----- | :---------- | :----
 [Microsoft 365 Lighthouse for SMB Managed Services Providers (MSPs)](https://www.youtube.com/watch?v=p0kd4bsd_wI) | Introducing a new portal that will enable multi-tenant management of Microsoft 365 services by IT Partners – especially Managed Service Providers (MSPs) who serve small & medium-sized businesses (SMBs).| Nov 2020
 [Microsoft 365 Lighthouse Demo](https://www.youtube.com/watch?v=oSlh2-MeFL0) | Microsoft 365 Lighthouse is an admin portal that helps Managed Service Providers (MSPs) secure and manage devices, data, and users at scale for small- and medium-sized business (SMB) customers who are using Microsoft 365 Business Premium | 2021
 
-### Defender for Microsoft 365
+## Defender for Microsoft 365
 
 Source | Description | Notes
 :----- | :---------- | :----
@@ -80,26 +79,26 @@ Source | Description | Notes
 [Microsoft Defender for Business](https://learning.eventbuilder.com/M365MDBSeries)| WEbinar series|...
 [Microsoft 365 Defender Ninja](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/become-a-microsoft-365-defender-ninja/ba-p/1789376) | his Ninja blog covers the features and functions of Microsoft 365 Defender – everything that goes across the workloads, but not the individual workloads themselves. The content is structured into three different knowledge levels, with multiple modules: Fundamentals, Intermediate, and Expert. | August 2022
 
-### Defender for Cloud Apps
+## Defender for Cloud Apps
 
 Source | Description | Notes
 :----- | :---------- | :----
 [Top Threat Protection use cases in Microsoft Defender for Cloud Apps](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/top-threat-protection-use-cases-in-microsoft-defender-for-cloud/ba-p/3632483) | In this blog, we will showcase the top examples from each part of the threat protection landscape, to protect your organization from cloud apps threats, according to the following classifications: Prevent – SaaS Security Posture Management (SSPM), Detect – Business Email Compromise (BEC)scenario, Respond – Suspend user, Investigate – Investigate a compromised user| Sept 2022
 
-### Defender for Endpoint Ninja
+## Defender for Endpoint Ninja
 
 Source | Description | Notes
 :----- | :---------- | :----
 [Defender for Endpoint Ninja Show](https://adoption.microsoft.com/ninja-show/#upcoming)|This training series is based on the Ninja blog and brings you up to speed quickly on Microsoft Defender for Endpoint. In every episode, our experts guide you through the powerful features and functions of Microsoft Defender for Endpoint that help you keep your environment secure. We start with the fundamentals and dive deeper as the show continues.| Starts May 2022
 [Become a Microsoft Defender for Endpoint Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647) | |
 
-### Defender for Identity
+## Defender for Identity
 
 Source | Description | Notes
 :----- | :---------- | :----
 [Setup a Microsoft Defender for Identity security alert lab](https://learn.microsoft.com/en-us/defender-for-identity/playbook-setup-lab) | The purpose of the Microsoft Defender for Identity Security Alert lab is to illustrate Defender for Identity's capabilities in identifying and detecting suspicious activities and potential attacks against your network. | Microsoft Learn
 
-### Microsoft Purview Information Protection Ninja
+## Microsoft Purview Information Protection Ninja
 
 
 Source | Description | Notes
@@ -107,7 +106,7 @@ Source | Description | Notes
 [Microsoft Purview Information Protection Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-microsoft-purview-information-protection-ninja-training-is/ba-p/2887478) |  Microsoft Purview Information Protection (formerly Microsoft Information Protection-MIP)  | Tech Community
 [Microsoft Purview Data Loss Prevention Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-microsoft-purview-data-loss-prevention-ninja-training-is/ba-p/3659015) |  Microsoft Purview Data Loss Prevention Ninja training  | Tech Community
 
-### Compliance Ninja
+## Compliance Ninja
 
 Source | Description | Notes
 :----- | :---------- | :----
