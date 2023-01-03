@@ -8,15 +8,23 @@ A Collection of resources for Microsoft practice building in the Data and AI sol
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
-## References
+## Learning Journeys
 
-### Synapse
+Source | Description | Notes
+:----- | :-----  | :-----
+[Azure Data Engineer Learning Path](https://aka.ms/data-engineer-learning-path) | Learn more about Azure Synapse Analytics with videos, tutorials, and training modules. Use this 30-day learning path to grow your skills and prepare for the DP-203 Azure Data Engineer Associate Certification.  | Azure Skills Navigator
+[Zero to hero in 4 weeks with Machine Learning](https://aka.ms/mllearningjourney) | This learning journey will teach you how to create innovative solutions for complex problems with Machine Learning on Azure in 4 short weeks. With just an hour each day - think coffee-fueled morning ritual or mid-afternoon break - you’ll be able to collaborate and build models faster with the latest machine learning tools and frameworks. Regardless of where you are in your journey, we can propel you to the next level and prepare you for the Azure Data Scientist Associate certification | Azure Skills Navigator
+[Azure AI Learning Journey](https://aka.ms/ailearningjourney) | Learn more about Azure AI solutions with videos, tutorials, and training modules. Use this 30-day learning path to grow your skills and prepare for the Azure AI Fundamentals Certification. | Azire Skills Navigator
+[MySQL Developer Learning Journey](https://azure.microsoft.com/en-us/resources/mysql-developer-learning-journey/?OCID=mysql_dev_pdf_MySQL_page) | Learn more about Azure Database for MySQL and application development in Azure with videos, tutorials, and training modules curated for MySQL Developers. Use this 30-day learning path to grow your skills and develop and deploy applications faster in Azure.  | Azure Skills Navigator
+[Azure Database for MySQL Developer Guide](https://azure.microsoft.com/en-us/resources/azure-database-for-mysql-developer-guide/?OCID=mysql_dev_pdf_wk4_try_azd) | he Azure Database for MySQL Developer Guide is a comprehensive guide to developing MySQL-based applications in Azure. This guide contains actionable insights and proven best practices to successfully deploy cloud applications for MySQL in Azure. Towards the end of the guide, you can find links to tutorial jumpstarts, begin developing a sample PHP application, or select an evolved version utilizing a microservices architecture on AKS. | Azure Skills Navigator
+
+## Synapse
 
 Source | Description | Notes
 :----- | :-----  | :-----
 [Analytics end-to-end with Azure Synapse](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end?tabs=portal) | This example scenario demonstrates how to use Azure Synapse Analytics with the extensive family of Azure Data Services to build a modern data platform that's capable of handling the most common data challenges in an organization. | Azure Azrhictecture Centre
 
-### Purview
+## Purview
 
 Source | Description | Notes
 :----- | :-----  | :-----
@@ -25,7 +33,7 @@ Source | Description | Notes
 [Microsoft Purview Resource Provider Rest API](https://learn.microsoft.com/en-us/rest/api/purview/) | Documentation on the Purview Rest API capability | Microsoft Learn
 [Microsoft Purview Workshop](https://github.com/tayganr/purviewlab) | 16 Purview learning modules by @tayganr | Github 
 
-### Azure Data Explorer
+## Azure Data Explorer
 
 Source | Description | Notes
 :----- | :-----  | :-----
