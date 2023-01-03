@@ -10,14 +10,20 @@ A Collection of resources for Microsoft practice building in the Azure solution 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
 
-## References
+## Industry
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[2022 Gartner® Magic Quadrant™ for Cloud Infrastructure and Platform Services](https://azure.microsoft.com/en-ca/blog/microsoft-named-a-leader-in-2022-gartner-magic-quadrant-for-cloud-infrastructure-and-platform-services/) | Gartner® recently published its 2022 Magic Quadrant™ for Cloud Infrastructure and Platform Services (CIPS) report. For the ninth consecutive year, Microsoft was named a Leader, and for the first time placed furthest on the Completeness of Vision axis.| October 2022
 
 ### Practice
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Azure Skills Navigator for System Administrators](https://aka.ms/SysAdminGuide) | A guide for deepening your knowledge of fundamental concepts of cloud computing and Azure core infrastructure services, management, monitoring, security, and compliance. | Azure Skills Navigator
+[Azure Skills Navigator for Solution Architects](https://aka.ms/SolArchGuide) | A guide for deepening your knowledge of fundamental concepts of Microsoft Azure, core solutions, solution design principles, including security and compliance, and deployment tools and methods to help bring your solution architectures to life. | Azure Skills Navigator
+[Azure Skills Navigator for Network Engineers](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-skills-navigator-for-network-engineers-/Azure%20Skills%20Navigator-%20Network%20EngineerOct10(learn.microsoft).pdf) | This Azure learning journey is designed for network engineering professionals needing to recommend, plan, and implement Azure networking solutions, including hybrid networking, connectivity, routing, security, and private access to Azure services | Azure Skills Navigator
 [Azure Partner Enablement Guide](https://assetsprod.microsoft.com/mpn/en-us/azure-partner-enablement-guide.pdf)| Enablement guide for Azure partners... | updated ~monthly
-[2022 Gartner® Magic Quadrant™ for Cloud Infrastructure and Platform Services](https://azure.microsoft.com/en-ca/blog/microsoft-named-a-leader-in-2022-gartner-magic-quadrant-for-cloud-infrastructure-and-platform-services/) | Gartner® recently published its 2022 Magic Quadrant™ for Cloud Infrastructure and Platform Services (CIPS) report. For the ninth consecutive year, Microsoft was named a Leader, and for the first time placed furthest on the Completeness of Vision axis.| October 2022
 [Azure for Partner](https://www.microsoft.com/azure/partners/)|Main page for Azure resources for Partners | ...
 [Azure for Services Partners](https://www.microsoft.com/azure/partners/practices/the-opportunity)|Grow your cloud services business with Azure| ...
 [Azure Blog](https://azure.microsoft.com/en-us/blog/)|Office Azure Blog|...
@@ -50,7 +56,6 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :---------- | :-----
 [Detective Kusto](https://detective.kusto.io/) | Interactive Kusto Cases | ...
-
 
 
 ### Azure Arc
