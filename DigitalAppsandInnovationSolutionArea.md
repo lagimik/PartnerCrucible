@@ -10,6 +10,12 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 
 ## References
 
+### Industry
+
+Source | Description | Notes
+:----- | :---------- | :----
+[The Total Economic Impact™ of Microsoft Azure PaaS](https://azure.microsoft.com/en-ca/resources/the-total-economic-impact-of-microsoft-azure-paas/) | Get insights on how to realize cost savings and increase agility at your org from research and interviews with real Azure customers. Check out The Total Economic Impact of Microsoft Azure PaaS in this 2022 commissioned study conducted by Forrester Consulting | Forrester 2022
+
 ### Developers
 
 Source | Description | Notes
