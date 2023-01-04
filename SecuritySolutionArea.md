@@ -1,6 +1,6 @@
 # Security Solution Area
 
-![Sentinel](./Library/sentinel-logo.png)
+![Sentinel](./Library/crucible-security-title.png)
 
 [< Back to Crucible](./)
 
