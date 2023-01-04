@@ -60,9 +60,16 @@ Source | Description | Notes
 [Woodgrove Employee](https://woodgroveemployee.azurewebsites.net/landing) | Azure AD demo|
 
 
+## Azure
+
+Source | Description | Notes
+:----- | :---------- | :----
+[Azure Network Security Ninja Training](https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-network-security-ninja-training/ba-p/2356101) | In this blog post, we will walk you through basic to advanced scenarios for Azure network security. Ready to become an Azure NetSec ninja? Dive right in! | Tech Community 2022
+
 ## Sentinel
 
 * See the [Sentinel page](./SecuritySolutionArea.md)
+
 
 ## Microsoft Lighthouse
 
@@ -70,6 +77,12 @@ Source | Description | Notes
 :----- | :---------- | :----
 [Microsoft 365 Lighthouse for SMB Managed Services Providers (MSPs)](https://www.youtube.com/watch?v=p0kd4bsd_wI) | Introducing a new portal that will enable multi-tenant management of Microsoft 365 services by IT Partners – especially Managed Service Providers (MSPs) who serve small & medium-sized businesses (SMBs).| Nov 2020
 [Microsoft 365 Lighthouse Demo](https://www.youtube.com/watch?v=oSlh2-MeFL0) | Microsoft 365 Lighthouse is an admin portal that helps Managed Service Providers (MSPs) secure and manage devices, data, and users at scale for small- and medium-sized business (SMB) customers who are using Microsoft 365 Business Premium | 2021
+
+## Microsoft Defender Threat Intelligence
+
+Source | Description | Notes
+:----- | :---------- | :----
+[Microsoft Defender Threat Intelligence Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/become-a-microsoft-defender-threat-intelligence-ninja-the/ba-p/3656965) | This blog post will walk you through Microsoft Defender Threat Intelligence (Defender TI) level 400 training and help you become a Defender TI master.| Tech Community 2022
 
 ## Defender for Microsoft 365
 
@@ -79,16 +92,25 @@ Source | Description | Notes
 [Microsoft Defender for Business](https://learning.eventbuilder.com/M365MDBSeries)| WEbinar series|...
 [Microsoft 365 Defender Ninja](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/become-a-microsoft-365-defender-ninja/ba-p/1789376) | his Ninja blog covers the features and functions of Microsoft 365 Defender – everything that goes across the workloads, but not the individual workloads themselves. The content is structured into three different knowledge levels, with multiple modules: Fundamentals, Intermediate, and Expert. | August 2022
 
+
+## Defender for Cloud
+
+Source | Description | Notes
+:----- | :---------- | :----
+[Become a Microsoft Defender for Cloud Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/become-a-microsoft-defender-for-cloud-ninja/ba-p/1608761) | This blog post has a curation of many Microsoft Defender for Cloud (formerly known as Azure Security Center and Azure Defender) resources, organized in a format that can help you to go from absolutely no knowledge in Microsoft Defender for Cloud, to design and implement different scenarios |  Tech Community 2022
+
 ## Defender for Cloud Apps
 
 Source | Description | Notes
 :----- | :---------- | :----
+[Microsoft Defender for Cloud Apps Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-defender-for-cloud-apps-ninja-training-june-2022/ba-p/2751518) | Microsoft Defender for Cloud Apps has hundreds of amazing videos available and it can sometimes be overwhelming with determining where to start and how to progress through different levels. We've gone through all these and created this repository of training materials - all in one central location! | June 2022
 [Top Threat Protection use cases in Microsoft Defender for Cloud Apps](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/top-threat-protection-use-cases-in-microsoft-defender-for-cloud/ba-p/3632483) | In this blog, we will showcase the top examples from each part of the threat protection landscape, to protect your organization from cloud apps threats, according to the following classifications: Prevent – SaaS Security Posture Management (SSPM), Detect – Business Email Compromise (BEC)scenario, Respond – Suspend user, Investigate – Investigate a compromised user| Sept 2022
 
 ## Defender for Endpoint Ninja
 
 Source | Description | Notes
 :----- | :---------- | :----
+
 [Defender for Endpoint Ninja Show](https://adoption.microsoft.com/ninja-show/#upcoming)|This training series is based on the Ninja blog and brings you up to speed quickly on Microsoft Defender for Endpoint. In every episode, our experts guide you through the powerful features and functions of Microsoft Defender for Endpoint that help you keep your environment secure. We start with the fundamentals and dive deeper as the show continues.| Starts May 2022
 [Become a Microsoft Defender for Endpoint Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647) | |
 
