@@ -51,6 +51,13 @@ Source | Description | Notes
 [PAL Howto: Video](https://partner.microsoft.com/en-us/resources/detail/setting-up-partner-admin-link-video-mp4)|...| Requires MCPP Login
 [PAL FAQ](https://partner.microsoft.com/en-us/resources/detail/pal-partner-faq-docx)| Frequently Asked Questions| Requires MCPP Login
 
+
+### Security
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[Azure Network Security Ninja Training](https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-network-security-ninja-training/ba-p/2356101) | In this blog post, we will walk you through basic to advanced scenarios for Azure network security. Ready to become an Azure NetSec ninja? Dive right in! | Tech Community 2022
+
 ### Kusto Query Language (KQL)
 
 Source | Description | Notes
