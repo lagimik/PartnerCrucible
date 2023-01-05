@@ -20,9 +20,6 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
-[Azure Skills Navigator for System Administrators](https://aka.ms/SysAdminGuide) | A guide for deepening your knowledge of fundamental concepts of cloud computing and Azure core infrastructure services, management, monitoring, security, and compliance. | Azure Skills Navigator
-[Azure Skills Navigator for Solution Architects](https://aka.ms/SolArchGuide) | A guide for deepening your knowledge of fundamental concepts of Microsoft Azure, core solutions, solution design principles, including security and compliance, and deployment tools and methods to help bring your solution architectures to life. | Azure Skills Navigator
-[Azure Skills Navigator for Network Engineers](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-skills-navigator-for-network-engineers-/Azure%20Skills%20Navigator-%20Network%20EngineerOct10(learn.microsoft).pdf) | This Azure learning journey is designed for network engineering professionals needing to recommend, plan, and implement Azure networking solutions, including hybrid networking, connectivity, routing, security, and private access to Azure services | Azure Skills Navigator
 [Azure Partner Enablement Guide](https://assetsprod.microsoft.com/mpn/en-us/azure-partner-enablement-guide.pdf)| Enablement guide for Azure partners... | updated ~monthly
 [Azure for Partner](https://www.microsoft.com/azure/partners/)|Main page for Azure resources for Partners | ...
 [Azure for Services Partners](https://www.microsoft.com/azure/partners/practices/the-opportunity)|Grow your cloud services business with Azure| ...
@@ -30,7 +27,18 @@ Source | Description | Notes
 [Azure Updates](https://azure.microsoft.com/en-us/updates/)|Get the latest updates on Azure products and features to meet your cloud investment needs. Subscribe to notifications to stay informed.|
 [FastTrack for Azure](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/bg-p/FastTrackforAzureBlog) | [Microsoft FastTrack](https://techcommunity.microsoft.com/t5/microsoft-fasttrack/ct-p/FastTrack) engages with customers and partners and maintain a collection of resources here | Tech Community
 [Partner Admin Link](https://partner.microsoft.com/en-us/asset/collection/partner-admin-link#/)|Partner Admin Link (PAL) enables Microsoft to identify and recognize partners who drive Azure customer success. Optimized for managed services where your organization is acting on behalf of the customer, PAL allows you to associate your MCPP ID with the credentials that you use to deliver services within the customer's Azure tenant.| Required MCPP Login
+
+
+### Azure Roles and Skills
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[Learning Pathways](https://learning-pathways.co.uk/) | A collection of self-guided learning journeys to help you with your ongoing professional development. | @MrPaulGriffiths
+[Azure Skills Navigator for System Administrators](https://aka.ms/SysAdminGuide) | A guide for deepening your knowledge of fundamental concepts of cloud computing and Azure core infrastructure services, management, monitoring, security, and compliance. | Azure Skills Navigator
+[Azure Skills Navigator for Solution Architects](https://aka.ms/SolArchGuide) | A guide for deepening your knowledge of fundamental concepts of Microsoft Azure, core solutions, solution design principles, including security and compliance, and deployment tools and methods to help bring your solution architectures to life. | Azure Skills Navigator
+[Azure Skills Navigator for Network Engineers](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-skills-navigator-for-network-engineers-/Azure%20Skills%20Navigator-%20Network%20EngineerOct10(learn.microsoft).pdf) | This Azure learning journey is designed for network engineering professionals needing to recommend, plan, and implement Azure networking solutions, including hybrid networking, connectivity, routing, security, and private access to Azure services | Azure Skills Navigator
 [Azure Citadel](https://www.azurecitadel.com/) | Azure Citadel is a community driven site devoted to getting hands on & learning Azure. Explore technical labs & videos across a range of Azure topics. Many labs are pitched towards the needs of the Azure partner community, but are freely available for all.| Azure Citadel
+
 
 ### Azure Tools
 
