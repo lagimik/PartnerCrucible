@@ -12,6 +12,11 @@ A Collection of resources for Microsoft practice building in the Power platform 
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
+## Industry
+Source | Description | Notes
+:----- | :---------- | :-----
+[The Total Economic Impact™ of Microsoft Power Platform Premium Capabilities](https://info.microsoft.com/ww-landing-forrester-tei-of-power-platform-premium-capabilities.html) | a commissioned study conducted by Forrester Consulting, to explore how a composite organization realized substantial financial benefits using Power Platform premium capabilities | Forrester 2022
+
 ## Practice References
 
 Source | Description | Notes
