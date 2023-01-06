@@ -23,10 +23,11 @@ Source | Description | Notes
 [M365 Partner Community](https://www.yammer.com/office365partners/#/home)|The M365 Partner Yammer Group is dedicated to a community that focuses on partner engagement, both in connecting partners to partners, as well as connecting partners within the M365 team at Microsoft. Join this community to learn the latest M365 updates, industry trends, and how you can easily connect with your fellow partners.| Yammer
 [M365 Partner Community Groups](https://www.yammer.com/office365partners/#/groups/suggested) | Include M365 Lighthouse, Microsoft Desktop Partner, CSP PArtner Community, etc...
 
-## M365 Roadmap and trials
+## M365 Roadmap and Trials
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Microsoft Customer Digital Experiences](https://cdx.transform.microsoft.com)|Microsoft Customer Digital Experiences (CDX), is a portfolio of immersed digital experiences to demonstrate Microsoft technology and product with hands-on interaction, orchestrated by Microsoft sellers, partners or marketers. |There are three major types of experiences:<br>-Demos<br>-Interactive guide<br>-Customer Immersion Experience
 [M365 Roadmap](http://aka.ms/M365Roadmap) | Get the latest updates on our best-in-class productivity apps and intelligent cloud services. Rethink productivity, streamline business processes, and protect your business with Microsoft 365. | |
 [Project Orland](https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/project-orland-for-microsoft-365-heads-for-public-preview/ba-p/3571517) | Proactive Customer Lifecycle Management (CLM) increases the lifetime value of your customers by expanding your customer engagements beyond transaction and renewal. By anticipating and responding to your customers' needs, you can improve customer satisfaction, retain subscribers, and grow your business through additional managed services. | July 2022
 [Office 365 / E3 Office 365 E3](https://go.microsoft.com/fwlink/p/?LinkID=403802&clcid=0x1009&culture=en-ca&country=CA)| Microsoft (Free Trial) | .
@@ -66,6 +67,10 @@ Source | Description | Notes
 [Total Economic Impact of Microsoft Viva](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE56D0e) | | Forrester
 [Viva Business Learning Path and Assessment](https://partner.microsoft.com/en-US/training/assets/collection/microsoft-viva-employee-experience-business-learning-path#/)| Designed for executives, sales staff and account leads, the Business Rapid Assessment will test your knowledge of employee experience trends, specific Microsoft Viva module offerings, Employee Experience benefits, and more. | -Qualify for Modern Work go-to-market programs like Microsoft Viva workshops and investments to grow your Employee Experience practice
 [Viva Technical Learning Path and Assessment](https://partner.microsoft.com/en-US/training/assets/collection/microsoft-viva-employee-experience-technical-learning-path#/)| Created with IT admins and implementation specialists in mind, the Technical Rapid Assessment will test your knowledge of Microsoft Viva module implementation, feature experiences, tech requirements and similar technical necessities.
+[Viva adoption](https://adoption.microsoft.com/en-us/viva/) | Includes latest latest Work Trend Index, Josh Bersin employee experience assessment tool| Microsft Adoption
+[The People-Powered Workplace: Reimagine the Employee Experience](https://info.microsoft.com/ww-landing-the-people-powered-workplace.html?LCID=EN-US) | Viva ebook - Learn new ways to empower your people and teams by creating a new kind of workplace—one centered around your employees and their experience. | Microsoft 
+
+
 
 
 [< Back to Crucible](./)
