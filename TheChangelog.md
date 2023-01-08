@@ -10,6 +10,25 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+### Week ending Jan 6, 2023
+
+Changes this week include new skilling references with Skills Navigator and Learning Pathways, and Security Ninja training for Azure Network Security , Threat intelligence ninja, defender for cloud, and defender for cloud. Round it off with the TEI of Power platform.
+
+Date | Change | File
+:--- | :----- | ---:
+2023-01-06 | added Microsoft viva demo and adoption references | [See changes here](./ModernWorkSolutionArea)
+2023-01-05 | added references to Learning Pathways | [See changes here](./AzureInfrastructureSolutionArea)
+2023-01-05 | added The Total Economic Impact of Microsoft Power Platform Premium Capabilities | [See changes here](./PowerPlatformSolutionArea)
+2023-01-04 | added Azure Network Security , Threat intelligence ninja, defender for cloud, and defender for cloud apps ninja training | [See changes here](./SecuritySolutionArea)
+2023-01-04 | added references to Azure Network Security Ninja Training | [See changes here](./AzureInfrastructureSolutionArea)
+2023-01-03 | added references  to TEI of Microsoft Azure PaaS | [See changes here](./DigitalAppsandInnovationSolutionArea)
+2023-01-03 | added reference to Azure Skills Navigator learning journeys | [See changes here](./DigitalAppsandInnovationSolutionArea)
+2023-01-03 | added reference to Azure Skills Navigator learning journeys | [See changes here](./DataAISolutionArea)
+2023-01-03 | added reference to Azure Skills Navigator learning journeys | [See changes here](./AzureInfrastructureSolutionArea)
+2023-01-03 | added references to the security best practices for Microsoft partners | [See changes here](./SecuritySolutionArea)
+2023-01-03 | added reference to ISV guide to cloud migration | [See changes here](./ISV)
+2023-01-03 | added references to MRTK3 Aquarium | [See changes here](./MixedReality)
+
 ### Week ending Dec 30, 2022
 
 Date | Change | File
