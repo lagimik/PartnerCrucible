@@ -2,11 +2,11 @@
 
 ![PartnerCrucible](./Library/crucible-title.png)
 
-## Purpose 
+## Purpose
 
 This site viewed <span id="PartnerCrucible"></span> times. ( Counter by [CountAPI](https://countapi.xyz/) )
 
-This project aims to serve as an *entry point* into the wealth of information and services available to Canadian Microsoft partners. The Partner Crucible will curate links, models, and insights to ensure our partners have an overview and a quick path forward. 
+This project aims to serve as an *entry point* into the wealth of information and services available to Canadian Microsoft partners. The Partner Crucible will curate links, models, and insights to ensure our partners have an overview and a quick path forward.
 
 See the most recent changes in the [Changelog](./TheChangelog)
 
@@ -18,8 +18,8 @@ See the most recent changes in the [Changelog](./TheChangelog)
 
 ## Innovation
 - [Innovation at Microsoft](./InnovationatMicrosoft)
-- [Accessibility](./MicrosoftAccessibility)  
-  
+- [Accessibility](./MicrosoftAccessibility)
+
 ## Partner Practice Building
 - [Partner Portals](./PartnerPortals)
 - [Partner Support](./PartnerSupport)
@@ -42,7 +42,7 @@ See the most recent changes in the [Changelog](./TheChangelog)
 - [Sustainability](./IndustrySustainability)
 - [Canadian public sector](./IndustryCanadianPublicSector)
 - [Financial services](./IndustryFinancialServices)
-- [Telecommunications](./IndustryTelecom)
+- [Telecommunications and Space](./IndustryTelecom)
 - [Healthcare, Manufacturing, Farming, PublicSafety](./IndustryGeneral)
 
 ## Solution Areas
@@ -52,11 +52,10 @@ See the most recent changes in the [Changelog](./TheChangelog)
 
 ### Modern Work Solution Area
 - [Modern Work](./ModernWorkSolutionArea.md)
-  
+
 ### Infrastructure Solution Area
 - [Landing Zones](./AzureInfrastructureSolutionArea-LandingZones)
 - [Infrastructure](./AzureInfrastructureSolutionArea)
-- [5G](./AzureInfrastructureSolutionArea-5G.md)
 
 ### Security Solution Area
 - [Security](./SecuritySolutionArea)
@@ -68,7 +67,7 @@ See the most recent changes in the [Changelog](./TheChangelog)
 
 ### Data and AI Solution Area
 - [Data and AI solution Area](./DataAISolutionArea)
-  
+
 ### Power Platform Solution Area
 - [Power Platform Solution Area](./PowerPlatformSolutionArea)
 
