@@ -40,6 +40,7 @@ Source | Description | Notes
 [Developer Velocity Assessment](https://developervelocityassessment.com/)| By answering a few simple questions, you can benchmark your maturity score relative to peers in your industry. Then, get actionable guidance to boost Developer Velocity and drive better business results.| June 2022
 [DevOps Self Assessment from DORA, ITRev and MS](https://devblogs.microsoft.com/devops/devops-self-assessment-from-dora-itrev-and-ms/)| Nicole Forsgren, Gene Kim, participants of the DevOps Enterprise Forum and I collaborated on a free starter self-assessment for your team’s DevOps performance | 2017
 [State of DevOps Report](https://media.webteam.puppet.com/uploads/2021/07/Puppet-State-of-DevOps-Report-2021.pdf) | [...]for every team “doing DevOps” well, there are far too many organizations that have been stuck in the middle of their DevOps evolutionary journey for far too long—even if there are pockets of success in which individual teams are highly evolved| Puppet 2021
+[Azure DevOps Demo Generator](https://azuredevopsdemogenerator.azurewebsites.net/)| Azure DevOps Demo Generator helps you create projects on your Azure DevOps Organization with pre-populated sample content that includes source code, work items, iterations, service endpoints, build and release definitions based on a template you choose| Azure DEvOps
 
 ### Java
 
