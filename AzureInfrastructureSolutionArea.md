@@ -44,6 +44,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Microsoft Assessments](https://learn.microsoft.com/en-us/assessments/) | Microsoft Assessments help customers work through a scenario of questions and recommendations that result in a curated guidance report that is actionable and informative. Assessments take time, but is time well-spent. | Microsoft Learn
 [CAF - Tools and Templates](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/resources/tools-templates) | he Cloud Adoption Framework has tools, templates, and assessments that can help you quickly implement technical changes. Use this framework to accelerate your cloud adoption. The following resources can help you in each phase of adoption. These tools, templates, and assessments can be used in multiple phases. | Microsoft Learn
 [Azure Design Review](https://github.com/Azure/review-checklists) | Checklists for LZ, AKS, AVS, Multitenancy, SEcurity, AVS, and SAP | Github
 [Azure Rapid Assessment Estimator](https://usdco.azurewebsites.net/Resources.aspx) | Take advantage of the Azure Rapid Assessment Estimator, a Microsoft Excel workbook that rapidly generates estimates of your existing infrastructure and workloads that are directly mapped to Azure IaaS and/or Azure PaaS services that meet or exceed your current specifications in the Azure region(‘s) you specify. | 
