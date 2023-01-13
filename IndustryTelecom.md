@@ -1,13 +1,12 @@
-# Azure Infrastructure - 5G 
+# Industry - Telecom
 [< Back to Crucible](./)
 
 ## Purpose
 
 ![Azure Infrastructure](./Library/Azure-Logo.png)
-A Collection of resources for Microsoft practice building around 5G. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md). 
+A Collection of resources for Microsoft practice building around 5G. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md).
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
-
 
 ## Azure 5G References
 
@@ -17,3 +16,9 @@ Source | Description | Notes
 [5G paradigm](https://aka.ms/New5GParadigm)|How developers can benefit from the 5G paradigm|..
 [5G Modern Connected Apps news and updates](https://aka.ms/ModernConnectedApps)| Sign up for updates| ...
 [Scalable management of virtualized RAN with Kubernetes](https://azure.microsoft.com/en-us/blog/scalable-management-of-virtualized-ran-with-kubernetes/) | Kubernetes for Operator RAN (KfOR) extensions for virtualized RAN| Blog
+
+# Azure Space
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[Azure Space Blog](https://techcommunity.microsoft.com/t5/azure-space-blog/bg-p/AzureSpaceBlog) | Azure Space Blog | Tech Community
