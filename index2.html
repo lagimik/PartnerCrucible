@@ -121,7 +121,7 @@
 
 .parallax {
     /* The image used */
-    background-image: url("Library/partnercrusible.jpg");
+    background-image: url("Library/crucible-background.png");
   
     /* Set a specific height */
     min-height: 500px;
@@ -133,9 +133,16 @@
     background-size: cover;
   }
 
+  .row {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+
   /* The flip box container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
 .flip-box {
-  background-color: transparent;
+  background-color: black;
   width: 300px;
   height: 200px;
   border: 1px solid #f1f1f1;
@@ -168,13 +175,13 @@
 
 /* Style the front side */
 .flip-box-front {
-  background-color: #bbb;
-  color: black;
+  background-color: black;
+  color: white;
 }
 
 /* Style the back side */
 .flip-box-back {
-  background-color: dodgerblue;
+  background-color: grey;
   color: white;
   transform: rotateY(180deg);
 }
@@ -193,52 +200,46 @@ function myFunction() {
 </script>
 
 <body>
-<div class="topnav" id="myTopnav">
-    <a href="#home" class="active">Home</a>
-    <a href="#news">News</a>
-    <a href="#contact">Contact</a>
-    <div class="dropdown">
-      <button class="dropbtn">Dropdown
-        <i class="fa fa-caret-down"></i>
-      </button>
-      <div class="dropdown-content">
-        <a href="#">Link 1</a>
-        <a href="#">Link 2</a>
-        <a href="#">Link 3</a>
+  <!-- topnav element -->
+  <div class="topnav" id="myTopnav">
+      <a href="#home" class="active">Home</a>
+      <a href="#news">News</a>
+      <a href="#contact">Contact</a>
+      <div class="dropdown">
+        <button class="dropbtn">Dropdown
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href="#">Link 1</a>
+          <a href="#">Link 2</a>
+          <a href="#">Link 3</a>
+        </div>
       </div>
+      <a href="#about">About</a>
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
     </div>
-    <a href="#about">About</a>
-    <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
-  </div>
-  <!-- Container element -->
+  
 
-  <div class="parallax"></div>
+  <!-- Start parallax -->
 
-  <div style="height:300px;background-color:black;font-size:36px">
-    Scroll Up and Down this page to see the parallax scrolling effect.
-    This div is just here to enable scrolling.
-    Tip: Try to remove the background-attachment property to remove the scrolling effect.
+<div class="parallax">
+
+  <div style="position:relative; opacity: 0.8;height:300px;background-color: black;font-size:36px; color: white">
+    <h1>Partner Crucible: a forge for Microsoft Partners</h1>
+    <p>This project aims to serve as an <i>entry point</i> into the wealth of information and services available to Canadian Microsoft partners. 
+    The Partner Crucible will curate links, models, and insights to ensure our partners have an overview and a quick path forward.</p>
   </div>
- 
-  <div>
+
+  <div class="row" style="position:relative;  opacity: 0.9;"">
     <div class="flip-box">
       <div class="flip-box-inner">
         <div class="flip-box-front">
-          <h2>Front Side</h2>
+          <h2>Signal:Noise</h2>
+          <img src="./Library/signaltonoise-title.png" height="" width="250" />
         </div>
         <div class="flip-box-back">
-          <h2>Back Side</h2>
-        </div>
-      </div>
-    </div>
-
-    <div class="flip-box">
-      <div class="flip-box-inner">
-        <div class="flip-box-front">
-          <h2>Front Side</h2>
-        </div>
-        <div class="flip-box-back">
-          <h2>Back Side</h2>
+          <h2><a href="./SignaltoNoise">Signal:Noise</a></h2>
+          <p>Signal:Analytics aims to provide points of view from experts and practitioners to help you identify the paths that carry the most signal and can accelerate your digital (or cloud) ambitions.</p>
         </div>
       </div>
     </div>
@@ -246,14 +247,214 @@ function myFunction() {
     <div class="flip-box">
       <div class="flip-box-inner">
         <div class="flip-box-front">
-          <h2>Front Side</h2>
+          <h2>Innovation</h2>
+          <img src="./Library/innovation.png" height="90" width="250" />
         </div>
         <div class="flip-box-back">
-          <h2>Back Side</h2>
+          <h2><a href="./InnovationatMicrosoft">Innovation</a></h2>
+          A collection of resources for ideas stemming from research and innovation at Microsoft.
+        </div>
+      </div>
+    </div>
+
+    <div class="flip-box">
+      <div class="flip-box-inner">
+        <div class="flip-box-front">
+          <h2>Industry</h2>
+          <img src="./Library/multindustry.png" height="" width="250" /> 
+        </div>
+        <div class="flip-box-back">
+          <h2>Industry</h2>
+          A collection of resources for partner practice building around key industries. 
+          <ul>
+            <li><a href="./IndustrySustainability">Sustainability</a></li>
+            <li><a href="./IndustryCanadianPublicSector">Canadian Public Sector</a></li>
+            <li><a href="./IndustryFinancialServices">Financial SErvices</a></li>
+            <li><a href="./IndustryTelecom">Telecom</a></li>
+            <li><a href="./IndustryGeneral">Healthcare, Manufacturing, Public Safety, Farming </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="flip-box">
+      <div class="flip-box-inner">
+        <div class="flip-box-front">
+          <h2>The ChangeLog</h2>
+          <img src="./Library/crucible-changelog-white.png" height="" width="100" />
+        </div>
+        <div class="flip-box-back">
+          <h2><a href="./TheChangelog">The ChangeLog</a></h2>
+          The Partner Crucible ChangeLog reflects recent the Partner Crucible updates.
         </div>
       </div>
     </div>
   </div>
+  
+
+  <div style="position:relative; opacity: 0.7; height:300px;background-color: black;font-size:36px; color: white">
+    <h1>Partner Practice</h1>
+    <p>This project aims to serve as an <i>entry point</i> into the wealth of information and services available to Canadian Microsoft partners. The Partner Crucible will curate links, models, and insights to ensure our partners have an overview and a quick path forward.</p>
+  </div>
+
+
+  <div class="row" style="position:relative;">
+    <div class="flip-box">
+      <div class="flip-box-inner">
+        <div class="flip-box-front">
+          <h2>Partner Economics</h2>
+          <img src="./Library/crucible-commercialmarketplacepng.png" height="" width="250" />
+        </div>
+        <div class="flip-box-back">
+          <h2>Partner Economics</a></h2>
+          <ul>
+            <li><a href="./ISV">ISV</a></li>
+            <li><a href="./CSP">Cloud Solution Provider</a></li>
+            <li><a href="./SaaS">Software as a Service</a></li>
+            <li><a href="./">Commercial Marketplace Offers</a></li>
+            <li><a href="./">FinOps</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="flip-box">
+      <div class="flip-box-inner">
+        <div class="flip-box-front">
+          <h2>Partner Practice Building</h2>
+          <img src="./Library/innovation.png" height="90" width="250" />
+        </div>
+        <div class="flip-box-back">
+          <h2><a href="./InnovationatMicrosoft">Partner Practice Building</a></h2>
+          - [Partner Portals](./PartnerPortals)
+        - [Partner Support](./PartnerSupport)
+        - [Practice Building and Profitability](./PracticeBuilding)
+        - [Sales Enablement](./SalesEnablement)
+        - [Learning Resources](./LearningResources)
+        - [Ressources pour le perfectionnement (français)](./LearningResourcesFrench)
+        - [Microsoft France - Les jeudis data & ai (France)](./LearningResourcesFrenchDataAI)
+        - [OpenHacks](./OpenHack)
+        - [Sandbox Environments](./SandboxEnvironments)
+          
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div style="position:relative; opacity: 0.7; height:300px;background-color: black;font-size:36px; color: white">
+  <h1>Solution areas</h1>
+  <p></p>
+  </div>
+
+  <div class="row" style="position:relative;  opacity: 0.9;"">
+    <div class="flip-box">
+      <div class="flip-box-inner">
+        <div class="flip-box-front">
+          <h2>Modern Work</h2>
+          <img src="./Library/crucible-mw-icon.png" height="" width="80" /> 
+        </div>
+        <div class="flip-box-back">
+          <h2><a href="./SignaltoNoise">Signal:Noise</a></h2>
+          <p>Signal:Analytics aims to provide points of view from experts and practitioners to help you identify the paths that carry the most signal and can accelerate your digital (or cloud) ambitions.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="flip-box">
+      <div class="flip-box-inner">
+        <div class="flip-box-front">
+          <h2>Security</h2>
+          <img src="./Library/crucible-security-icon.png" height="" width="80" /> 
+        </div>
+        <div class="flip-box-back">
+          <h2><a href="./InnovationatMicrosoft">Security</a></h2>
+          A collection of resources for ideas stemming from research and innovation at Microsoft.
+        </div>
+      </div>
+    </div>
+
+    <div class="flip-box">
+      <div class="flip-box-inner">
+        <div class="flip-box-front">
+          <h2>Azure Infrastructure</h2>
+          <img src="./Library/crucible-infra-icon.png" height="" width="80" /> 
+        </div>
+        <div class="flip-box-back">
+          <h2><a href="./TheChangelog">Infrastructure</a></h2>
+          The Partner Crucible ChangeLog reflects recent the Partner Crucible updates.
+        </div>
+      </div>
+    </div>
+
+    <div class="flip-box">
+      <div class="flip-box-inner">
+        <div class="flip-box-front">
+          <h2>Data and AI</h2>
+          <img src="./Library/crucible-ai-icon.png" height="" width="80" /> 
+        </div>
+        <div class="flip-box-back">
+          <h2>Data and AI</h2>
+          A collection of resources for partner practice building around key industries. 
+          <ul>
+            <li><a href="./IndustrySustainability">Sustainability</a></li>
+            <li><a href="./IndustryCanadianPublicSector">Canadian Public Sector</a></li>
+            <li><a href="./IndustryFinancialServices">Financial SErvices</a></li>
+            <li><a href="./IndustryTelecom">Telecom</a></li>
+            <li><a href="./IndustryGeneral">Healthcare, Manufacturing, Public Safety, Farming </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="flip-box">
+      <div class="flip-box-inner">
+        <div class="flip-box-front">
+          <h2>Digital and App Innovation</h2>
+          <img src="./Library/crucible-app-icon.png" height="" width="80" /> 
+        </div>
+        <div class="flip-box-back">
+          <h2>Digital and App Innovation</h2>
+          A collection of resources for partner practice building around key industries. 
+          <ul>
+            <li><a href="./IndustrySustainability">Sustainability</a></li>
+            <li><a href="./IndustryCanadianPublicSector">Canadian Public Sector</a></li>
+            <li><a href="./IndustryFinancialServices">Financial SErvices</a></li>
+            <li><a href="./IndustryTelecom">Telecom</a></li>
+            <li><a href="./IndustryGeneral">Healthcare, Manufacturing, Public Safety, Farming </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="flip-box">
+      <div class="flip-box-inner">
+        <div class="flip-box-front">
+          <h2>Business Applications</h2>
+          <img src="./Library/crucible-ba-icon.png" height="" width="80" /> 
+        </div>
+        <div class="flip-box-back">
+          <h2>Business Applications</h2>
+          A collection of resources for partner practice building around key industries. 
+          <ul>
+            <li><a href="./IndustrySustainability">Sustainability</a></li>
+            <li><a href="./IndustryCanadianPublicSector">Canadian Public Sector</a></li>
+            <li><a href="./IndustryFinancialServices">Financial SErvices</a></li>
+            <li><a href="./IndustryTelecom">Telecom</a></li>
+            <li><a href="./IndustryGeneral">Healthcare, Manufacturing, Public Safety, Farming </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    
+  </div>
+  
+</div>
+<!-- End parallax -->
 
 </body>
 </head>
