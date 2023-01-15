@@ -1,6 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
+
+<!-- favicon -->
+<link rel="apple-touch-icon" sizes="180x180" href="/PartnerCrucible/Library/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/PartnerCrucible/Library/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/PartnerCrucible/Library/favicon-16x16.png">
+<link rel="manifest" href="/PartnerCrucible/Library/site.webmanifest">
+
+<!-- page view counter -->
+<script async src="https://api.countapi.xyz/hit/lagimik.github.io/PartnerCrucible?callback=cb"></script>
+
+<script>
+    function cb(response) {
+        document.getElementById('PartnerCrucible').innerText = response.value;
+    }
+</script>
+
 <style>
     
 .base {
@@ -115,6 +131,7 @@
       <h2 style="color: #FF8B01; padding: 0; margin: 0">a forge for Microsoft Partners</h2>
       <p>This project aims to serve as an <i>entry point</i> into the wealth of information and services available to Canadian Microsoft partners.</p>
       <p>The <i><b>Partner Crucible</b></i> will curate links, models, and insights to ensure our partners have an overview and a quick path forward.</p>
+      <p>This site viewed <span id="PartnerCrucible"></span> times. ( Counter by <a href="https://countapi.xyz/">CountAPI</a>)</p>
     </div>
 
     <div style="flex:25% ;padding: 0 4px; opacity: 0.7;">
