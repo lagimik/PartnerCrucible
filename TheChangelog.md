@@ -10,6 +10,20 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+### Week ending Jan 13, 2023
+
+Changes this week include new a wide range of Microsoft assessments of Azure infra, apps, sustainability.., also the Azure DevOps Demo generator, and Azure space technical blog.
+
+Date | Change | File
+:--- | :----- | ---:
+2021-01-15 | Redesign of Partner Crucible homepage | [See changes here](./index.html)
+2023-01-13 | added microsoft assessments | [See changes here](./AzureInfrastructureSolutionArea)
+2023-01-13 | added microsoft assessments | [See changes here](./DigitalAppsandInnovationSolutionArea)
+2023-01-13 | added microsoft assessments | [See changes here](./IndustrySustainability)
+2023-01-10 | added Azure DevOps Demo Generator | [See changes here](./DigitalAppsandInnovationSolutionArea)
+2023-01-09 | added Azure Space technical blog | [See changes here](./IndustryTelecom)
+
+
 ### Week ending Jan 6, 2023
 
 Changes this week include new skilling references with Skills Navigator and Learning Pathways, and Security Ninja training for Azure Network Security , Threat intelligence ninja, defender for cloud, and defender for cloud. Round it off with the TEI of Power platform.
