@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<!-- favicon -->
+<link rel="apple-touch-icon" sizes="180x180" href="/PartnerCrucible/Library/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/PartnerCrucible/Library/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/PartnerCrucible/Library/favicon-16x16.png">
+<link rel="manifest" href="/PartnerCrucible/Library/site.webmanifest">
+
+<!-- page view counter -->
+<script async src="https://api.countapi.xyz/hit/lagimik.github.io/PartnerCrucible?callback=cb"></script>
+
+<script>
+    function cb(response) {
+        document.getElementById('PartnerCrucible').innerText = response.value;
+    }
+</script>
+
+<style>
+    
+.base {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+
+.parallax {
+    /* The image used */
+    background-image: url("Library/crucible-background.png");
+  
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.row {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  /* The flip box container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
+.flip-box {
+  background-color: black;
+  width: 300px;
+  height: 200px;
+  border: 1px solid black;
+  perspective: 1000px; /* Remove this if you don't want the 3D effect */
+}
+
+/* This container is needed to position the front and back side */
+.flip-box-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.7s;
+  transform-style: preserve-3d;
+}
+
+/* Do an horizontal flip when you move the mouse over the flip box container */
+.flip-box:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+
+/* Position the front and back side */
+.flip-box-front, .flip-box-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden; /* Safari */
+  backface-visibility: hidden;
+}
+
+/* Style the front side */
+.flip-box-front {
+  background-color: black;
+  color: white;
+}
+
+/* Style the back side */
+.flip-box-back {
+  background-color:white;
+  color: black;
+  transform: rotateY(180deg);
+}
+</style>
+
+
+
+<body class="base">
+<!-- Start parallax -->
+
+<div class="parallax">
+
+  <!-- Start ChangeLog -->
+  <div style="display: flex; flex-wrap: wrap;">
+
+    <div style="flex: 30%; opacity: 0.7; background-color: black;font-size:36px; color: white">
+    </div>
+ 
+    <div style="flex:25% ;padding: 0 4px; opacity: 0.7;">
+      <div class="flip-box" >
+        <div class="flip-box-inner">
+          <div class="flip-box-front">
+            <h2>The ChangeLog</h2>
+            <img src="./Library/crucible-changelog-white.png" height="" width="100" />
+          </div>
+          <div class="flip-box-back">
+            <h2><a href="./TheChangelog">The ChangeLog</a></h2>
+            The Partner Crucible ChangeLog reflects recent the Partner Crucible updates.
+          </div>
+        </div>
+      </div>
+    </div>
+  
+  </div>
+  <!-- End ChangeLog -->
+
+  <!-- Start intro -->
+  <div style="display: flex; flex-wrap: wrap;">
+
+    <div style="flex: 30%; opacity: 0.7; background-color: black;font-size:36px; color: white">
+      <h1 style="color: #FF8B01; padding: 0; margin: 0" >Partner Crucible</h1>
+      <h2 style="color: #FF8B01; padding: 0; margin: 0">a forge for Microsoft Partners</h2>
+      <p>This project aims to serve as an <i>entry point</i> into the wealth of information and services available to Canadian Microsoft partners.</p>
+      <p>The <i><b>Partner Crucible</b></i> will curate links, models, and insights to ensure our partners have an overview and a quick path forward.</p>
+      <p>This site viewed <span id="PartnerCrucible"></span> times. ( Counter by <a href="https://countapi.xyz/">CountAPI</a>)</p>
+    </div>
+
+    <div style="flex:25% ;padding: 0 4px; opacity: 0.7;">
+      <div class="flip-box" >
+        <div class="flip-box-inner">
+          <div class="flip-box-front">
+            <h2>Signal:Noise</h2>
+            <img src="./Library/signaltonoise-title.png" height="" width="250" />
+          </div>
+          <div class="flip-box-back">
+            <h2><a href="./SignaltoNoise">Signal:Noise</a></h2>
+            <p>Signal:Analytics aims to provide points of view from experts and practitioners to help you identify the paths that carry the most signal and can accelerate your digital (or cloud) ambitions.</p>
+          </div>
+        </div>
+      </div>
+      <div class="flip-box" >
+        <div class="flip-box-inner">
+          <div class="flip-box-front">
+            <h2>Innovation</h2>
+            <img src="./Library/innovation.png" height="90" width="250" />
+          </div>
+          <div class="flip-box-back">
+            <h2><a href="./InnovationatMicrosoft">Innovation</a></h2>
+            A collection of resources for ideas stemming from research and innovation at Microsoft.
+          </div>
+        </div>
+      </div>
+      <div class="flip-box" >
+        <div class="flip-box-inner">
+          <div class="flip-box-front">
+            <h2>Industry</h2>
+            <img src="./Library/multindustry.png" height="" width="250" /> 
+          </div>
+          <div class="flip-box-back">
+            <h2>Industry</h2>
+            A collection of resources for partner practice building around key industries. 
+            <ul style="text-align: left;"">
+              <li><a href="./IndustryCloud">Industry Clouds</a></li>
+              <li><a href="./IndustrySustainability">Sustainability</a></li>
+              <li><a href="./IndustryCanadianPublicSector">Canadian Public Sector</a></li>
+              <li><a href="./IndustryFinancialServices">Financial SErvices</a></li>
+              <li><a href="./IndustryTelecom">Telecom</a></li>
+              <li><a href="./IndustryGeneral">Healthcare, Manufacturing, Public Safety, Farming </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End intro -->
+  
+  <!-- Start partner practice-->
+  
+  <div style="display: flex; flex-wrap: wrap; ">
+ 
+
+    <div style="flex:25%; background-color: black ;padding: 0 4px; vertical-align: middle; opacity: 0.7;">
+      <div class="flip-box" style="margin-left: auto; align-items: center; justify-content: center; ">
+        <div class="flip-box-inner">
+          <div class="flip-box-front">
+            <h2 >Partner Economics</h2>
+            <img src="./Library/crucible-commercialmarketplacepng.png" height="" width="250" />
+          </div>
+          <div class="flip-box-back">
+            <h2>Partner Economics</a></h2>
+            <ul style="text-align: left;"">
+              <li><a href="./ISV">ISV</a></li>
+              <li><a href="./CSP">Cloud Solution Provider</a></li>
+              <li><a href="./SaaS">Software as a Service</a></li>
+              <li><a href="./">Commercial Marketplace Offers</a></li>
+              <li><a href="./">FinOps</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    
+      <div class="flip-box" style="margin-left: auto">
+        <div class="flip-box-inner">
+          <div class="flip-box-front">
+            <h2>Partner Practice Building</h2>
+            <img src="./Library/innovation.png" height="90" width="250" />
+          </div>
+          <div class="flip-box-back">
+            <h2>Partner Practice Building</h2>
+            <ul style="text-align: left;"">
+              <li><a href="./SolutionPartners">Solution Partners</a></li>
+              <li><a href="./PartnerPortals">Partner Portals</a></li>
+              <li><a href="./PartnerSupport">Partner Support</a></li>
+              <li><a href="./PracticeBuilding">Practice Building and Profitability</a></li>
+              <li><a href="./SalesEnablement">Sales Enablement</a></li>
+              <li><a href="./LearningResources">Learning Resources</a></li>
+              <li><a href="./LearningResourcesFrenchDataAI">Ressources pour le perfectionnement (français)</a></li>
+              <li><a href="./OpenHack">OpenHacks</a></li>
+              <li><a href="./SandboxEnvironments">Sandbox Environments</a></li>
+            </ul>     
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div style="flex: 30%; opacity: 0.7; background-color: black;font-size:36px; color: white">
+      <h1 style="color: #FF8B01">partner practice</h1>
+      <p>A collection of partner resources related to practice building from profitability and growth, to skilling journeys, to ensuring recognition for your successes.</p>
+    </div>
+  </div>
+
+  <!-- Start solution areas -->
+  <div style="display: flex; flex-wrap: wrap;">
+
+    <div style="flex:30% ; opacity: 0.7; background-color: black;font-size:36px; color: white">
+    <h1 style="color: #FF8B01">solution areas</h1>
+    <p>The 2022-2023 partner <i>designations and specialisations</i> span 6 distinct <i>solution areas</i></p>
+    
+  
+    </div>
+
+    <div style="flex:15%; background-color: black ;padding: 0 4px; vertical-align: middle; opacity: 0.7;">
+      <div class="flip-box">
+        <div class="flip-box-inner">
+          <div class="flip-box-front">
+            <h2>Modern Work</h2>
+            <img src="./Library/crucible-mw-icon.png"   /> 
+          </div>
+          <div class="flip-box-back">
+            <h2><a href="./ModernWorkSolutionArea">Modern Work</a></h2>
+            <p>A collection of resources for Microsoft practice building in the Modern Work solution area</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="flip-box">
+        <div class="flip-box-inner">
+          <div class="flip-box-front">
+            <h2>Security</h2>
+            <img src="./Library/crucible-security-icon.png" /> 
+          </div>
+          <div class="flip-box-back">
+            <h2>Security</h2>
+            <ul style="text-align: left;"">
+              <li><a href="./SecuritySolutionArea">Security</a></li>
+              <li><a href="./SecuritySolutionArea-Sentinel">Sentinel</a></li>
+              <li><a href="./AzureDefenderIoT">Defender for IoT</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="flip-box">
+        <div class="flip-box-inner">
+          <div class="flip-box-front">
+            <h2>Azure Infrastructure</h2>
+            <img src="./Library/crucible-infra-icon.png"  /> 
+          </div>
+          <div class="flip-box-back">
+            <h2>Infrastructure</h2>
+            <ul style="text-align: left;"">
+              <li><a href="./AzureInfrastructureSolutionArea">Infrastructure</a></li>  
+              <li><a href="./AzureInfrastructureSolutionArea-LandingZones">Landing Zones</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="flex:15%; background-color: black ;padding: 0 4px; vertical-align: middle; opacity: 0.7;">
+      <div class="flip-box">
+        <div class="flip-box-inner">
+          <div class="flip-box-front">
+            <h2>Data and AI</h2>
+            <img src="./Library/crucible-ai-icon.png" /> 
+          </div>
+          <div class="flip-box-back">
+            <h2><a href="./DataAISolutionArea">Data and AI Solution Area</a></h2>
+            <p>A collection of resources for Microsoft practice building in the Data and AI solution area.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="flip-box">
+        <div class="flip-box-inner">
+          <div class="flip-box-front">
+            <h2>Digital and App Innovation</h2>
+            <img src="./Library/crucible-app-icon.png"  /> 
+          </div>
+          <div class="flip-box-back">
+            <h2>Digital and App Innovation</h2>
+            <ul style="text-align: left;"">
+              <li><a href="./DigitalAppsandInnovationSolutionArea">Digital and Applications Innovation Solution Area</a></li>
+              <li><a href="./AIIOTInsiderLab">AI and IoT Insider Lab</a></li>
+              <li><a href="./MixedReality">Mixed Reality</a></li>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="flip-box">
+        <div class="flip-box-inner">
+          <div class="flip-box-front">
+            <h2>Business Applications</h2>
+            <img src="./Library/crucible-ba-icon.png" /> 
+          </div>
+          <div class="flip-box-back">
+            <h2>Business Applications</h2>
+            <ul style="text-align: left;"">
+              <li><a href="./BusinessApplicationsSolutionArea">Business Applications Solution Area</a></li>
+              <li><a href="./PowerPlatformSolutionArea">Power Platform Solution Area</a></li>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End parallax -->
+
+</body>
+</head>
