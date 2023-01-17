@@ -9,6 +9,13 @@ A Collection of resources for Microsoft practice building in the Modern Work sol
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
+## Industry
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[The Microsoft 365 Partner Opportunity](https://cloudpartners.transform.microsoft.com/download?assetname=assets/MSFT%20partner%20opportunity%20M365%20-%20FINAL%20rev%202.pdf&download=1) | A Total Economic ImpactTM Partner Opportunity Analysis |
+Forrester 2020
+
 ## Practice Communities and References
 
 Source | Description | Notes
