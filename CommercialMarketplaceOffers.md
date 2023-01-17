@@ -11,12 +11,18 @@ A Collection of resources for Microsoft Commercial Marketplace Offer development
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
-## References
+## Industry
 
 Source | Description | Notes
 :----- | :-----  | :-----
 [Forrester Total Economic Impact of Commercial Marketplace ](https://azure.microsoft.com/mediahandler/files/resourcefiles/forrester-commercial-marketplace-tei/Forrester%20Commercial%20Marketplace%20TEI.pdf) | See how the commercial marketplace supports partners' direct salesforce through awareness and transacting capabilities as well as the Microsoft field sales and reseller channels| ...
+
+## Microsoft Commercial Marketplace
+
+Source | Description | Notes
+:----- | :-----  | :-----
 [Marketplace Summit](https://marketplacesummit.microsoft.com/)| Session recordings are available for you to watch, learn and enjoy! | November 2022
+[Marketplace Office Hours](https://microsoftcloudpartner.eventbuilder.com/MarketplaceOverviewandQAforPartners) | Explore Live and On-Demand Marketplace Office Hours webinars sessions on business and technical topics; providing publishers with the information and resources to successfully publish their solutions to the Commercial Marketplace | Marketplace 
 [Mastering the Marketplace](https://microsoft.github.io/) | Mastering the Marketplace is an on-demand learning library for building transactable offers on the Microsoft commercial marketplace. The library contains self-paced videos, hands-on labs, and sample code designed to help you get your offers onto the marketplace in less time and with more understanding. | Github
 [Co-sell opportunities](https://learn.microsoft.com/en-us/partner-center/co-sell-overview#co-sell-opportunities) | A co-sell opportunity is any type of collaboration with Microsoft sales teams, Microsoft partners, or both to sell products and solutions that meet customer needs | MS Learn
 
