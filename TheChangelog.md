@@ -10,6 +10,19 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+### Week ending Jan 20, 2023
+
+Changes this week include a focus on Data and AI with Purview (Zero 2 Hero)and CosmodDB references, marketplace and customer propensity data, et le Cloud en français!
+
+2023-01-21 | added POwer Platform release planner (preview) | [See changes here](./PowerPlatformSolutionArea)
+2023-01-17 | ajout le cloud en francais | [See changes here](./LearningResourcesFrench)
+2023-01-17 | added references to marketplace office hours | [See changes here](./CommercialMarketplaceOffers)
+2023-01-17 | added references to cloudascent customer propensity data | [See changes here](./SalesEnablement)
+2023-01-16 | added references to Microsoft Purview YouTube channel | [See changes here](./DataAISolutionArea)
+2023-01-16 | added 6 weeks from zero to hero with Purview | [See changes here](./DataAISolutionArea)
+2023-01-15 | added CosmosDB references | [See changes here](./DataAISolutionArea)
+
+
 ### Week ending Jan 13, 2023
 
 Changes this week include new a wide range of Microsoft assessments of Azure infra, apps, sustainability.., also the Azure DevOps Demo generator, and Azure space technical blog.
