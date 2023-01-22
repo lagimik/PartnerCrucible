@@ -8,6 +8,13 @@ A Collection of resources for Microsoft practice building in the Data and AI sol
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
+
+## Partner Practice
+Source | Description | Notes
+:----- | :-----  | :-----
+[Azure Partner Enablement Guide](https://assetsprod.microsoft.com/mpn/en-us/azure-partner-enablement-guide.pdf)| Enablement guide for Azure partners... | updated ~monthly
+[Azure Data & AI Partner Sales Acceleration Program (PSAP)](https://partner.microsoft.com/en-us/training/assets/collection/azure-data-and-ai-partner-sales-acceleration-program-psap#/) | The Azure Data & AI Partner Sales Acceleration Program (PSAP) provides access to sales assets and video guidance on how best to use these in enterprise sales engagements. | Microsoft Partner
+
 ## Learning Journeys
 
 Source | Description | Notes
