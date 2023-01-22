@@ -15,14 +15,15 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [The Microsoft 365 Partner Opportunity](https://cloudpartners.transform.microsoft.com/download?assetname=assets/MSFT%20partner%20opportunity%20M365%20-%20FINAL%20rev%202.pdf&download=1) | A Total Economic ImpactTM Partner Opportunity Analysis |
 Forrester 2020
+[Analyst Studies](https://vc.transform.microsoft.com/analyststudies) | Comprehensive listing of Total Economic Impact (TEI) studies of Microsoft Modern Work solutions| Forrester
 
-## Practice Communities and References
+## Partner Practice Communities and References
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[Value Calculator](https://vc.transform.microsoft.com/) | The Value Calculator uses real customer data to show the ROI that organizations can achieve by adopting our solutions across Modern Work, Security, Surface and more! Costs and benefits are calculated based on values from third-party Forrester TEI studies. The tool provides standardized and custom calculations to help you create a business case specific to your customer’s environment and needs.| Requires MCPP
-[Analyst Studies](https://vc.transform.microsoft.com/analyststudies) | Comprehensive listing of Total Economic Impact (TEI) studies of Microsoft Modern Work solutions| Forrester
 [Modern Work partner enablement guide](https://assetsprod.microsoft.com/mpn/en-us/modern-work-partner-enablement.pdf)| Top news, upcoming training, certifications and exams, and additional resources updated ~monthly | Requires MCPP login
+[Modern Work Partner Sales Enablement Program](https://partner.microsoft.com/en-us/training/assets/collection/modern-work-partner-sales-acceleration-program-psap#/) | his program offers best practices and presentation resources that will guide you in shaping a business-first sales model that focuses on the Modern Work solution area and its core sales plays.| Microsoft Partner 
+[Value Calculator](https://vc.transform.microsoft.com/) | The Value Calculator uses real customer data to show the ROI that organizations can achieve by adopting our solutions across Modern Work, Security, Surface and more! Costs and benefits are calculated based on values from third-party Forrester TEI studies. The tool provides standardized and custom calculations to help you create a business case specific to your customer’s environment and needs.| Requires MCPP
 [Microsoft 365 adoption tools](https://adoption.microsoft.com/en-us/) | Drive value with Microsoft 365 adoption tools. Use our resources to go from inspiration to execution with our productivity cloud. Get started, experiment with our services, and onboard employees at scale while being confident that you are improving the employee experience.| Microsoft Adoption
 [Partner Learning](https://readiness.transform.microsoft.com/)| Partner training starting point| Requires MCPP login
 [M365 Readiness Calendar](https://cloudpartners.transform.microsoft.com/readiness/calendar) | Partner training calendar | Requires MCPP login
