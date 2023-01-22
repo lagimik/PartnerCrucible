@@ -15,7 +15,6 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 Source | Description | Notes
 :----- | :-----  | :-----
 [Business Applications Partner Sales Acceleration Program](https://partner.microsoft.com/en-us/training/assets/collection/business-applications-partner-sales-acceleration-program-psap#/) | Get best practices and presentation resources that will guide you in shaping a business-first sales model that's focused on the Business Applications solution area and its core sales plays—and resources specially for small business.​| Microsoft Partner
-
 [Microsoft Dynamics 365 Partner portal](https://dynamicspartners.transform.microsoft.com)|Transform for Business Apps|Accessible based on partner competency / PCS
 [Business Applications ISV Connect](https://partner.microsoft.com/en-us/solutions/business-applications/isv-overview) | Grow your business faster by building unique, customer-centric line of business (LOB) apps with Dynamics 365 and Power Apps.|
 
