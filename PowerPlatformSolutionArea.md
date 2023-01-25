@@ -15,6 +15,7 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 ## Industry
 Source | Description | Notes
 :----- | :---------- | :-----
+[Magic Quadrant™ for Enterprise Low-Code Application Platforms](https://powerapps.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2023-gartner-magic-quadrant-for-enterprise-low-code-application-platforms/) | We are excited to see Microsoft named a Leader in 2023 Gartner® Magic Quadrant™ for Enterprise Low-Code Application Platforms for the fourth consecutive time. | Gartner
 [The Total Economic Impact™ of Microsoft Power Platform Premium Capabilities](https://info.microsoft.com/ww-landing-forrester-tei-of-power-platform-premium-capabilities.html) | a commissioned study conducted by Forrester Consulting, to explore how a composite organization realized substantial financial benefits using Power Platform premium capabilities | Forrester 2022
 
 ## Practice References
@@ -33,7 +34,7 @@ Source | Description | Notes
 :----- | :---------- | :-----
 [Power Platform Adoption](https://adoption.microsoft.com/en-us/powerplatform/) | Microsoft Power Platform adoption best practices and workbook | Microsoft Adoption
 [Microsoft Power Platform Training Journey](https://aka.ms/PowerPlatformTrainingJourney) | Microsoft Learn Journey |
-[Microsoft Power Platform training and certifications](https://aka.ms/PPTrainCertDeck) | This guide is designed to outline the training and certification options that can help you achieve your personal and professional goals. | 
+[Microsoft Power Platform training and certifications](https://aka.ms/PPTrainCertDeck) | This guide is designed to outline the training and certification options that can help you achieve your personal and professional goals. |
 [Tech Talks: Power Platform Partner Call Series](https://www.microsoftpartnercommunity.com/t5/Tech-Talks-Power-Platform/bd-p/PowerPlatformTechTalks) | Hear technical & program updates direct from MSFT engineering | ...
 [Power Platform Partner webinar series](https://learning.eventbuilder.com/PowerPlatform)| a whole new set of webinars to help you understand the path to profitability|...
 [Power Platform in a Day](https://powerplatform.microsoft.com/en-us/training-workshops/) |Experience how Microsoft Power Platform can meet your business challenges quickly and effectively by attending a virtual, one-day training workshop. |...
