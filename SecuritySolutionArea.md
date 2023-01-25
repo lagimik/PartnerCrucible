@@ -19,6 +19,7 @@ Source | Description | Notes
 [MISA](https://www.microsoft.com/en-ca/security/business/intelligent-security-association)| The Microsoft Intelligent Security Association (MISA) is an ecosystem of independent software vendors and managed security service providers that have integrated their solutions to better defend against a world of increasing threats| The Microsoft Intelligent Security Association (MISA)
 
 ## Community
+
 Source | Description | Notes
 :----- | :---------- | :----
 [Security, Compliance, and Identity](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ct-p/MicrosoftSecurityandCompliance) | Microsoft Tech Community for Security, Compliance, and Identity | Tech Community
