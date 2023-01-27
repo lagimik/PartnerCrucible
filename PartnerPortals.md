@@ -38,6 +38,7 @@ Source | Description | Notes
 [Azure for Partner](https://www.microsoft.com/azure/partners/)|Main page for Azure resources for Partners|
 [Azure for Services Partners](https://www.microsoft.com/azure/partners/practices/the-opportunity)|Grow your cloud services business with Azure|..
 [Azure for Technology Partners](https://azure.microsoft.com/en-us/partners/azure-technology-partners/)|Azure for resources  independent software vendors (ISVs)|..
+[Azure](https://azurecharts.com/)| Live visual exploration environment for Azure Cloud and ecosystem.| Azure Charts
 
 ## Technical Deep Dives and Labs
 Source | Description | Notes
