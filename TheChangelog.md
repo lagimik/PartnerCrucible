@@ -10,10 +10,28 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+### Week ending Jan 27, 2023
+
+Changes this week include Gartner Low Code Magic Quadrant, Get SEcurity Done (GSD) by @dcaddick, visual overview of Azure with Azure Charts by @AlekseiPolkovnikov ,and partner sales acceleration and insight resources.
+
+Date | Change | File
+:--- | :----- | ---:
+2023-01-26 | added references to Azure Charts | [See changes here](./PartnerPortals)
+2023-01-25 | added references to Cloud native | [See changes here](./DigitalAppsandInnovationSolutionArea)
+2023-01-24 | added reference to Gartner magic quadrant | [See changes here](./PowerPlatformSolutionArea)
+2023-01-23 | added references to Get Security Done (GSD) by @dcaddick | [See changes here](./SecuritySolutionArea)
+2023-01-23 | added references to Azure Insights report | [See changes here](./PracticeBuilding)
+2023-01-22 | added references to Partner Sales Enablement Program resources | [See changes here](./ModernWorkSolutionArea)
+2023-01-22 | added references to Partner Sales Enablement Program resources | [See changes here](./BusinessApplicationsSolutionArea)
+2023-01-22 | added references to Partner Sales Enablement Program resources | [See changes here](./SecuritySolutionArea)
+2023-01-22 | added references to Partner Sales Enablement Program resources | [See changes here](./AzureInfrastructureSolutionArea)
+
 ### Week ending Jan 20, 2023
 
 Changes this week include a focus on Data and AI with Purview (Zero 2 Hero)and CosmodDB references, marketplace and customer propensity data, et le Cloud en français!
 
+Date | Change | File
+:--- | :----- | ---:
 2023-01-21 | added POwer Platform release planner (preview) | [See changes here](./PowerPlatformSolutionArea)
 2023-01-17 | ajout le cloud en francais | [See changes here](./LearningResourcesFrench)
 2023-01-17 | added references to marketplace office hours | [See changes here](./CommercialMarketplaceOffers)
