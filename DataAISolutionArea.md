@@ -25,6 +25,13 @@ Source | Description | Notes
 [MySQL Developer Learning Journey](https://azure.microsoft.com/en-us/resources/mysql-developer-learning-journey/?OCID=mysql_dev_pdf_MySQL_page) | Learn more about Azure Database for MySQL and application development in Azure with videos, tutorials, and training modules curated for MySQL Developers. Use this 30-day learning path to grow your skills and develop and deploy applications faster in Azure.  | Azure Skills Navigator
 [Azure Database for MySQL Developer Guide](https://azure.microsoft.com/en-us/resources/azure-database-for-mysql-developer-guide/?OCID=mysql_dev_pdf_wk4_try_azd) | he Azure Database for MySQL Developer Guide is a comprehensive guide to developing MySQL-based applications in Azure. This guide contains actionable insights and proven best practices to successfully deploy cloud applications for MySQL in Azure. Towards the end of the guide, you can find links to tutorial jumpstarts, begin developing a sample PHP application, or select an evolved version utilizing a microservices architecture on AKS. | Azure Skills Navigator
 
+
+## OpenAI
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Request Access to Azure OpenAI Services](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu) | Azure OpenAI text and code models: Azure OpenAI Service requires registration and is currently only available to Microsoft managed customers and partners.| Customer Voice
+
 ## CosmosDB
 
 Source | Description | Notes
