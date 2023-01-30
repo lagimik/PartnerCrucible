@@ -23,3 +23,11 @@ Source | Description | Notes
 [Microsoft Inclusive Design](https://www.microsoft.com/design/inclusive/) | Inclusive Design is a methodology, born out of digital environments, that enables and draws on the full range of human diversity. Most importantly, this means including and learning from people with a range of perspectives. | Toolkits:<br> - - Inclusive 101 <br> - Inclusive Activities
 [#id24](https://inclusivedesign24.org/) | Inclusive Design 24 (#id24) is a free 24-hour online event for the global community. It celebrates inclusive design and shares knowledge and ideas from analogue to digital, from design to development, from planners to practitioners, and everything and everyone in between. | 
 
+## Technical References
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[Microsoft Edge: Test accessibility using the Accessibility tab.](https://learn.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/accessibility/accessibility-tab)| Test accessibility using the Accessibility tab | Microsoft Learn
+[Code samples for common accessibility issues in Windows apps.](https://learn.microsoft.com/en-us/accessibility-tools-docs/)| Code samples| Microsoft Learn
+[Chart GPT on Accessibility](https://dev.to/devsatasurion/how-chatgpt-can-help-your-code-be-accessible-2kfk)| How ChatGPT can help your code be accessible. | 
+
