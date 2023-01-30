@@ -71,7 +71,7 @@ Source | Description | Notes
 
 ## Sentinel
 
-* See the [Sentinel page](./SecuritySolutionArea.md)
+* See the [Sentinel page](../PartnerCrucible/SecuritySolutionArea-Sentinel)
 
 
 ## Microsoft Lighthouse
