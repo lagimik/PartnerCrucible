@@ -15,6 +15,7 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 Source | Description | Notes
 :----- | :---------- | :----
 [The Total Economic Impact™ of Microsoft Azure PaaS](https://azure.microsoft.com/en-ca/resources/the-total-economic-impact-of-microsoft-azure-paas/) | Get insights on how to realize cost savings and increase agility at your org from research and interviews with real Azure customers. Check out The Total Economic Impact of Microsoft Azure PaaS in this 2022 commissioned study conducted by Forrester Consulting | Forrester 2022
+[Magic Quadrant™ for Integration Platform as a Service, Worldwide](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2023-gartner-magic-quadrant-for-integration-platform-as-a-service-worldwide/#:~:text=We%20are%20excited%20that%20for%20the%20fifth%20consecutive,integration%20needs.%20An%20integration%20solution%20for%20all%20developers) | Microsoft named a Leader in 2023 Gartner® Magic Quadrant™ for Integration Platform as a Service, Worldwide | Gartner 2023
 
 ### Developers
 
