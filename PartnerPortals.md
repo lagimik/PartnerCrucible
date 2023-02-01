@@ -21,11 +21,12 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[Partner Community](https://www.microsoftpartnercommunity.com/)| Launch point for partner communities| ..
+[Partner Community](https://www.microsoftpartnercommunity.com/)| Launch point for partner communities| Microsoft Partners
 [Partner Community - Canadian Partner Zone](https://www.microsoftpartnercommunity.com/t5/Canadian-Partner-Zone/ct-p/canadian-partner)| Forums for Canadian Partners |
-[Partner](https://partner.microsoft.com)| gain instant access to exclusive resources, programs, tools, and connections. Join a community designed to foster business growth |...
+[Partner](https://partner.microsoft.com)| gain instant access to exclusive resources, programs, tools, and connections. Join a community designed to foster business growth | Microsoft Partners
 [Microsoft Partner Blog](https://blogs.partner.microsoft.com/mpn/)|...|[Rss Feed](https://blogs.partner.microsoft.com/mpn/mpnfeed)<br>[Twitter](https://twitter.com/msPartner)<br>[LinkedIn](https://www.linkedin.com/showcase/microsoft-partner-network/)
-[Partner Community Webinar Series](https://aka.ms/partnercall)|Join us monthly for important product and program updates, including tutorials that will help both you and our customers down the road|
+[Partner Community Webinar Series](https://aka.ms/partnercall)|Join us monthly for important product and program updates, including tutorials that will help both you and our customers down the road| Microsoft Partners
+[International Association of Microsoft Channel Partners](https://www.iamcp.org/) | World's largest community of Microsoft partners - Connect locally and internationally with Microsoft partners, learn from best practices and grow your profits – with the IAMCP | IAMCP
 
 ## Solution Area Portals
 
