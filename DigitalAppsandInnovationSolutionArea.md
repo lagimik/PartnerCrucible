@@ -17,17 +17,23 @@ Source | Description | Notes
 [The Total Economic Impact™ of Microsoft Azure PaaS](https://azure.microsoft.com/en-ca/resources/the-total-economic-impact-of-microsoft-azure-paas/) | Get insights on how to realize cost savings and increase agility at your org from research and interviews with real Azure customers. Check out The Total Economic Impact of Microsoft Azure PaaS in this 2022 commissioned study conducted by Forrester Consulting | Forrester 2022
 [Magic Quadrant™ for Integration Platform as a Service, Worldwide](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2023-gartner-magic-quadrant-for-integration-platform-as-a-service-worldwide/#:~:text=We%20are%20excited%20that%20for%20the%20fifth%20consecutive,integration%20needs.%20An%20integration%20solution%20for%20all%20developers) | Microsoft named a Leader in 2023 Gartner® Magic Quadrant™ for Integration Platform as a Service, Worldwide | Gartner 2023
 
-### Developers
+### Tools and Practices
 
 Source | Description | Notes
 :----- | :---------- | :----
 [Microsoft Assessments](https://learn.microsoft.com/en-us/assessments/) | Microsoft Assessments help customers work through a scenario of questions and recommendations that result in a curated guidance report that is actionable and informative. Assessments take time, but is time well-spent. | Microsoft Learn
+[Migration of multiple ASP.NET web apps at-scale](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/assess-asp-net-web-apps-at-scale-to-accelerate-your-app/ba-p/3718361) | Assess ASP.NET web apps at scale to accelerate your app migration strategy on Azure | Tech Community
+[Playwright Test Framework](https://github.com/microsoft/playwright) | Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. Playwright is built to enable cross-browser web automation that is ever-green, capable, reliable and fast. | Github
+
+### Developers
+
+Source | Description | Notes
+:----- | :---------- | :----
 [Cloud Native](https://azure.github.io/Cloud-Native/)| Cloud-Native technologies and techniques enable loosely coupled systems that are resilient, manageable, and observable. Use containers, microservices, APIs and more to build and run scalable applications in modern hybrid cloud environments.| GitHub
 [Build applications with Azure](https://azure.microsoft.com/en-ca/resources/developers/?utm_source=developermscom#featured-resources) | Build apps with best-in-class tools, your favorite open-source frameworks and languages, and a platform that supports a range of services and continuous collaboration and delivery |
 [Build applications with Azure](https://azure.microsoft.com/en-ca/resources/developers/?utm_source=developermscom#featured-resources) | Build apps with best-in-class tools, your favorite open-source frameworks and languages, and a platform that supports a range of services and continuous collaboration and delivery |
 [Azure skills navigator - the new developer's "Guide to the Cloud"](https://github.com/MicrosoftDocs/devrampup) | This guide is looking to take you from "zero to hero". Jump into your learning journey where you are and learn to take your code to the cloud. | Github
 [Azure Skills Navigator - Developers](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-skills-navigator-for-developers/Azure%20Skills%20Navigator%20-%20Developer%20Edition%20-%20Microsoft%202022.pdf) | A guide to build your skills around knowing how to architect and deploy apps in the Cloud and how to maintain and instrument those apps once deployed. Our guide provides an overview of key concepts across Java, .NET, Node.js, and Python, crucial topics to establishing a strong foundation on Microsoft Azure. | Azure Skills Navigator
-
 
 ### Hackathons
 
