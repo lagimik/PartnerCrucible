@@ -10,6 +10,20 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+
+### Week ending March 3, 2023
+
+Changes this week include Gartner MQ for Integration Platform as a Service, Playwright test framework, Technical references for accessibility testing, and the form to request access to OPenAI services.
+
+Date | Change | File
+:--- | :----- | ---:
+2023-02-01 | added references to Playwright test framework | [See changes here](./DigitalAppsandInnovationSolutionArea)
+2023-02-01 | added references to International Association of Microsoft Channel Partners | [See changes here](./PartnerPortals)
+2023-01-31 | added references to Magic Quadrant for Integration Platform as a Service, Worldwide | [See changes here](./DigitalAppsandInnovationSolutionArea)
+2023-01-30 | added technical references such as the accessibility tab in Edge | [See changes here](./MicrosoftAccessibility)
+2023-01-29 | added references to openai access request | [See changes here](./DataAISolutionArea)
+
+
 ### Week ending Jan 27, 2023
 
 Changes this week include Gartner Low Code Magic Quadrant, Get SEcurity Done (GSD) by @dcaddick, visual overview of Azure with Azure Charts by @AlekseiPolkovnikov ,and partner sales acceleration and insight resources.
