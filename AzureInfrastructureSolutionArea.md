@@ -14,6 +14,7 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Partner Opportunity For Azure Services Providers](https://tools.totaleconomicimpact.com/go/microsoft/AzureServicesPartner//docs/MicrosoftAzure_ServicesPartners_CaseStudy.pdf) | The A Total Economic ImpactTM Partner Opportunity Analysis | Forrester 2022
 [2022 Gartner® Magic Quadrant™ for Cloud Infrastructure and Platform Services](https://azure.microsoft.com/en-ca/blog/microsoft-named-a-leader-in-2022-gartner-magic-quadrant-for-cloud-infrastructure-and-platform-services/) | Gartner® recently published its 2022 Magic Quadrant™ for Cloud Infrastructure and Platform Services (CIPS) report. For the ninth consecutive year, Microsoft was named a Leader, and for the first time placed furthest on the Completeness of Vision axis.| October 2022
 
 ### Practice
