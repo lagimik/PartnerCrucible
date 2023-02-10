@@ -10,6 +10,13 @@ A Collection of resources for Microsoft practice building in the Business Applic
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
+
+## Industry References
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[The Partner Opportunity For Microsoft Business Applications](https://pbapstorageprod.blob.core.windows.net/protectedassets/The%20Partner%20Business%20Opportunity%20For%20Microsoft%20Business%20Applications.pdf?sv=2019-07-07&sr=b&sig=7jkdDSjog%2FjE4v4c5%2BPgkbYNkJ9FZ8%2FaZH%2FimFVJIYA%3D&se=2023-02-10T14%3A35%3A05Z&sp=r) | A Total Economic Impact™ Partner Opportunity Analysis | Forrester 2022
+
 ## Partner Practice Development References
 
 Source | Description | Notes
