@@ -13,8 +13,7 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[The Microsoft 365 Partner Opportunity](https://cloudpartners.transform.microsoft.com/download?assetname=assets/MSFT%20partner%20opportunity%20M365%20-%20FINAL%20rev%202.pdf&download=1) | A Total Economic ImpactTM Partner Opportunity Analysis |
-Forrester 2020
+[The Microsoft 365 Partner Opportunity](https://cloudpartners.transform.microsoft.com/download?assetname=assets/MSFT%20partner%20opportunity%20M365%20-%20FINAL%20rev%202.pdf&download=1) | A Total Economic ImpactTM Partner Opportunity Analysis |Forrester 2020
 [Analyst Studies](https://vc.transform.microsoft.com/analyststudies) | Comprehensive listing of Total Economic Impact (TEI) studies of Microsoft Modern Work solutions| Forrester
 
 ## Partner Practice Communities and References
