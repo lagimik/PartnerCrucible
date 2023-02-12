@@ -16,6 +16,7 @@ Source | Description | Notes
 :----- | :---------- | :----
 [The Total Economic Impact™ of Microsoft Azure PaaS](https://azure.microsoft.com/en-ca/resources/the-total-economic-impact-of-microsoft-azure-paas/) | Get insights on how to realize cost savings and increase agility at your org from research and interviews with real Azure customers. Check out The Total Economic Impact of Microsoft Azure PaaS in this 2022 commissioned study conducted by Forrester Consulting | Forrester 2022
 [Magic Quadrant™ for Integration Platform as a Service, Worldwide](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2023-gartner-magic-quadrant-for-integration-platform-as-a-service-worldwide/#:~:text=We%20are%20excited%20that%20for%20the%20fifth%20consecutive,integration%20needs.%20An%20integration%20solution%20for%20all%20developers) | Microsoft named a Leader in 2023 Gartner® Magic Quadrant™ for Integration Platform as a Service, Worldwide | Gartner 2023
+[State of DevOps Report](https://www.puppet.com/resources/state-of-platform-engineering) | Platform Engineering is the DevOps Differentiator — Learn Why| Puppet 2023
 
 ### Tools and Practices
 
@@ -43,6 +44,9 @@ Source | Description | Notes
 :----- | :---------- | :----
 [WhatTheHack on GitHub](https://github.com/microsoft/WhatTheHack) | Community driven openhack resources  | ,,,
 
+### Containers
+[Container Service Options and Guidance in Azure](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/container-service-options-and-guidance-in-azure/ba-p/3732666) | The main scope of this blog is to evaluate and understand the capabilities and limitations of Azure container services to help you choose the optimal platform for your container deployments. | Tech Community
+
 ### DevOps
 
 Source | Description | Notes
@@ -51,7 +55,6 @@ Source | Description | Notes
 [The Total Economic Impact Of GitHub Enterprise](https://resources.github.com/forrester/) | GitHub commissioned Forrester Consulting to conduct a Total Economic Impact (TEI) study and examine the potential return on investment (ROI) enterprises may realize by deploying GitHub Enterprise, subsequently referred to as GitHub | 2022 Forrester.
 [Developer Velocity Assessment](https://developervelocityassessment.com/)| By answering a few simple questions, you can benchmark your maturity score relative to peers in your industry. Then, get actionable guidance to boost Developer Velocity and drive better business results.| June 2022
 [DevOps Self Assessment from DORA, ITRev and MS](https://devblogs.microsoft.com/devops/devops-self-assessment-from-dora-itrev-and-ms/)| Nicole Forsgren, Gene Kim, participants of the DevOps Enterprise Forum and I collaborated on a free starter self-assessment for your team’s DevOps performance | 2017
-[State of DevOps Report](https://media.webteam.puppet.com/uploads/2021/07/Puppet-State-of-DevOps-Report-2021.pdf) | [...]for every team “doing DevOps” well, there are far too many organizations that have been stuck in the middle of their DevOps evolutionary journey for far too long—even if there are pockets of success in which individual teams are highly evolved| Puppet 2021
 [Azure DevOps Demo Generator](https://azuredevopsdemogenerator.azurewebsites.net/)| Azure DevOps Demo Generator helps you create projects on your Azure DevOps Organization with pre-populated sample content that includes source code, work items, iterations, service endpoints, build and release definitions based on a template you choose| Azure DEvOps
 
 ### Java
