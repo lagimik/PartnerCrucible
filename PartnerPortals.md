@@ -42,6 +42,7 @@ Source | Description | Notes
 [Azure](https://azurecharts.com/)| Live visual exploration environment for Azure Cloud and ecosystem.| Azure Charts
 
 ## Technical Deep Dives and Labs
+
 Source | Description | Notes
 :----- | :-----  | :-----
 [Microsoft US Partner Resources](https://microsoft.github.io/PartnerResources/)| The Microsoft Partners Resources repository consists of documents, learning resources and other assets designed to aid partners in practice development, upskilling, certifications, and bringing their solutions to market. | Brought to you by the Microsoft U.S. Global Partner Solutions (GPS) team, empowering partners and driving digital transformation.
