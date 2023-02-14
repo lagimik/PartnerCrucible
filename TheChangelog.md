@@ -11,7 +11,19 @@ This changelog reflects recent the Partner Crucible updates.
 ## Changelog
 
 
-### Week ending March 3, 2023
+### Week ending February 11, 2023
+
+Changes this week include updates to Forrester total economic impact of Business app and the partner opportunity for Azure service providers. Also include update to State of DevOps by Puppet and references to guide your use of Azure Development Environment (ADE). 
+
+Date | Change | File
+:--- | :----- | ---:
+2023-02-12 | updated the puppet state of devops and added references to container service options | [See changes here](./DigitalAppsandInnovationSolutionArea)
+2023-02-10 | Forrester TEI business apps | [See changes here](./BusinessApplicationsSolutionArea)
+2023-02-09 | added Forrester Partner Opportunity For Azure Services Providers | [See changes here](./AzureInfrastructureSolutionArea)
+2023-02-09 | added references to the Azure Development Environment (ADE) | [See changes here](./DigitalAppsandInnovationSolutionArea)
+
+
+### Week ending February 3, 2023
 
 Changes this week include Gartner MQ for Integration Platform as a Service, Playwright test framework, Technical references for accessibility testing, and the form to request access to OPenAI services.
 
