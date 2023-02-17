@@ -47,6 +47,13 @@ Source | Description | Notes
 ### Containers
 [Container Service Options and Guidance in Azure](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/container-service-options-and-guidance-in-azure/ba-p/3732666) | The main scope of this blog is to evaluate and understand the capabilities and limitations of Azure container services to help you choose the optimal platform for your container deployments. | Tech Community
 
+### GitHub
+
+Source | Description | Notes
+:----- | :---------- | :----
+[GitHub Partner Certifications](https://examregistration.github.com/overview) | GitHub certifications are an industry-endorsed approach to demonstrating proficiency with GitHub technologies. These certifications complement Microsoft’s existing role-based certifications, which 
+validate knowledge of foundational DevOps and cloud development concepts. GitHub certifications are designed to validate your expertise on applying these concepts with specific GitHub products | GitHub
+
 ### DevOps
 
 Source | Description | Notes
