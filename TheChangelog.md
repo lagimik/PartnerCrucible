@@ -12,7 +12,7 @@ This changelog reflects recent the Partner Crucible updates.
 
 ### Week ending February 18, 2023
 
-Changes this week include updates reference to OpenAI learning and onboarding resources in addition to GitHub certifications paths for partners. 
+Changes this week include updates reference to OpenAI learning and onboarding resources for OpenAI in addition to GitHub certifications paths for partners. 
 
 Date | Change | File
 :--- | :----- | ---:
