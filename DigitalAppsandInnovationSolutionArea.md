@@ -51,8 +51,8 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
-[GitHub Partner Certifications](https://examregistration.github.com/overview) | GitHub certifications are an industry-endorsed approach to demonstrating proficiency with GitHub technologies. These certifications complement Microsoft’s existing role-based certifications, which 
-validate knowledge of foundational DevOps and cloud development concepts. GitHub certifications are designed to validate your expertise on applying these concepts with specific GitHub products | GitHub
+[GitHub Roadmap](https://github.com/orgs/github/projects/4247/views/1) | GitHub public roadmap] | GitHub
+[GitHub Partner Certifications](https://examregistration.github.com/overview) | GitHub certifications are an industry-endorsed approach to demonstrating proficiency with GitHub technologies. These certifications complement Microsoft’s existing role-based certifications, which 'validate knowledge of foundational DevOps and cloud development concepts. GitHub certifications are designed to validate your expertise on applying these concepts with specific GitHub products | GitHub
 
 ### DevOps
 
