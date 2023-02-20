@@ -10,6 +10,14 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+### Week ending February 18, 2023
+
+Changes this week include updates reference to OpenAI learning and onboarding resources in addition to GitHub certifications paths for partners. 
+
+Date | Change | File
+:--- | :----- | ---:
+2023-02-20 | added OpenAI microsoft learning path alongside the request form for OpenAI services| [See changes here](./DataAISolutionArea)
+2023-02-17 | added references for GitHub Roadmap and Certifications for Microsoft Partners | [See changes here](./DigitalAppsandInnovationSolutionArea)
 
 ### Week ending February 11, 2023
 
