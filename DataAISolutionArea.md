@@ -19,6 +19,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[AI & ML Academy](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy) | This academy includes 5 modules, all of which build on top of each other. It incorporates technical assets as well as best practices. We include common AI/ML scenarios that we have seen throughout various industries. The objective of the academy is to help you all move faster and build effective solutions | MSUS
 [Azure Data Engineer Learning Path](https://aka.ms/data-engineer-learning-path) | Learn more about Azure Synapse Analytics with videos, tutorials, and training modules. Use this 30-day learning path to grow your skills and prepare for the DP-203 Azure Data Engineer Associate Certification.  | Azure Skills Navigator
 [Zero to hero in 4 weeks with Machine Learning](https://aka.ms/mllearningjourney) | This learning journey will teach you how to create innovative solutions for complex problems with Machine Learning on Azure in 4 short weeks. With just an hour each day - think coffee-fueled morning ritual or mid-afternoon break - you’ll be able to collaborate and build models faster with the latest machine learning tools and frameworks. Regardless of where you are in your journey, we can propel you to the next level and prepare you for the Azure Data Scientist Associate certification | Azure Skills Navigator
 [Azure AI Learning Journey](https://aka.ms/ailearningjourney) | Learn more about Azure AI solutions with videos, tutorials, and training modules. Use this 30-day learning path to grow your skills and prepare for the Azure AI Fundamentals Certification. | Azire Skills Navigator
@@ -32,6 +33,7 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [Request Access to Azure OpenAI Services](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu) | Azure OpenAI text and code models: Azure OpenAI Service requires registration and is currently only available to Microsoft managed customers and partners.| Customer Voice
 [Introduction to Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/) | Understand how you can use Azure OpenAI to build solutions against AI models within Azure.| Microsoft Learn
+[Azure OpenAI Service pricing](https://azure.microsoft.com/en-gb/pricing/details/cognitive-services/openai-service/) |  Optimise costs with a pay-as-you-go consumption model and a price per unit for each model.| 
 
 ## CosmosDB
 
