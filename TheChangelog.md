@@ -10,6 +10,15 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+### Week ending February 25, 2023
+
+Changes this week focus on security and AI with references to the MSSP Program and Zero Trust Deployments for M365 in addition to partner AI & ML Academy and AI hands-on demos.
+
+2023-02-24 | added references to Microsoft Managed Security Solutions Provider Partner Program (MSSP) program | [See changes here](./SecuritySolutionArea)
+2023-02-23 | added references to Zero Trust deployment plan with Microsoft 365 | [See changes here](./ModernWorkSolutionArea.)
+2023-02-22 | added AI & ML Academy references from Microsoft SUS | [See changes here](./DataAISolutionArea)
+2023-02-25 | added AI Hands-on Demos| [See changes here](./DataAISolutionArea)
+
 ### Week ending February 18, 2023
 
 Changes this week include updates reference to OpenAI learning and onboarding resources for OpenAI in addition to GitHub certifications paths for partners. 
