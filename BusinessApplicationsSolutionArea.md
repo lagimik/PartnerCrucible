@@ -21,6 +21,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Catalyst Partner FAQ](https://pbapstorageprod.blob.core.windows.net/protectedassets/Catalyst%20Partner%20FAQ.pdf?sv=2019-07-07&sr=b&sig=tpCxdyZoRr6BcVpboA0Qlt1ieqLL%2FQQgmobCCL1h8jo%3D&se=2023-02-28T14%3A09%3A24Z&sp=r) | Catalyst Partner FAQ | Transform
 [Business Applications Partner Sales Acceleration Program](https://partner.microsoft.com/en-us/training/assets/collection/business-applications-partner-sales-acceleration-program-psap#/) | Get best practices and presentation resources that will guide you in shaping a business-first sales model that's focused on the Business Applications solution area and its core sales plays—and resources specially for small business.​| Microsoft Partner
 [Microsoft Dynamics 365 Partner portal](https://dynamicspartners.transform.microsoft.com)|Transform for Business Apps|Accessible based on partner competency / PCS
 [Business Applications ISV Connect](https://partner.microsoft.com/en-us/solutions/business-applications/isv-overview) | Grow your business faster by building unique, customer-centric line of business (LOB) apps with Dynamics 365 and Power Apps.|
@@ -29,12 +30,13 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Catalyst Partner Training](https://mooc.msregistration.com/Content/eventlistings.aspx?rsvp=partner)| Microsoft Catalyst Partner Training Course Registration |...
 [Business Apps - Learning Journey - Customer Engagement](https://assetsprod.microsoft.com/mpn/en-ca/learning-journeys-dynamics-365-customer-engagement-offerings.pdf)| Enablement guide for Business Apps partners... | updated ~monthly
 [Business Apps - Learning Journey - Finance & Operations](https://assetsprod.microsoft.com/mpn/en-us/learning-journeys-dynamics-365-finance-operations-offerings.pdf)|Enablement guide for Business Apps partners... | updated ~monthly
 [Business Applications professional](https://aka.ms/bapskilling) | Enable ‘new to Microsoft Dynamics 365’ professionals to join projects as a business analyst, designer, or customizer. In addition to a survey of skills needed to start on a project, the modules include video interviews with people who work as Business Applications professionals and industry leaders. Modules conclude with assignments, knowledge checks, and other suggested learning opportunities.| Microsoft Learn
 [Virtual Instructor Success by Design Training](https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/fasttrack-for-dynamics---success-by-design-overview)|Success by Design (SbD) is the prescriptive guidance - approaches & recommended practices - for designing, building, and deploying a Dynamics 365 solution. It is grounded in fundamentals of good solution architecture and design, product capabilities, and proven approaches to business process transformation and implementation.  This  virtual training is a series of videos led by senior architects from the Dynamics 365 engineering team designed for project team leadership roles (e.g., Solution Architect, Project Manager, Lead Consultant, etc.), on how to leverage the Success by Design framework to achieve a successful deployment of Dynamics 365. |...
 [Partner Architect Bootcamp](https://satraining.dynamics.com/)| This online learning platform is designed to train systems integrator partners getting started on FastTrack for Dynamics365 engagements. <br> The learning modules in the courses are developed by senior architects from the Dynamics 365 engineering team for the partner solution architects.|...|Requires [partner registration](https://satraining.dynamics.com/register?next=%2F)
-[Catalyst Partner Training](https://mooc.msregistration.com/Content/eventlistings.aspx?rsvp=partner)| Microsoft Catalyst Partner Training Course Registration |...
+
 
 ## Developers
 
