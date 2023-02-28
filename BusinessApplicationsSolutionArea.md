@@ -27,7 +27,7 @@ Source | Description | Notes
 [Field Service Playbook](https://aka.ms/D365FSPartner)| Practice Playbook |
 [Customer Experience Platform Playbook](https://aka.ms/MCXPPartner)| Practice Playbook |
 [Project Operations Playbook](https://dynamicspartners.transform.microsoft.com/download/protected?assetname=protectedassets/Service-centric%20ERP%20Practice%20Partner%20Playbook.pdf&download=1&protected=1) | Practice Playbook |
-[Low Code Playbook]() | Practice Playbook |
+
 
 ## Partner Practice Development References
 
