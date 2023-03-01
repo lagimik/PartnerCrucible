@@ -22,6 +22,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Low Code Playbook](https://www.linkedin.com/smart-links/AQFToYVCP7OaWw/8704231a-c00d-4ddb-b4cc-7768aae14ec1) | Practice Playbook | LinkedIn
 [Power platform enablement guide](https://assetsprod.microsoft.com/mpn/en-us/power-platform-partner-enablement-guide.pdf)| Top news, upcoming training, certifications and exams, and additional resources updated monthly  | Requires MNP
 [Microsoft Power Platform Partner Portal](https://powerplatformpartners.transform.microsoft.com)| Partner Transform Portal for Power Platform | Accessible based on solution partner status
 [Power Platform Release Planner](https://experience.dynamics.com/releaseplans/?app=Power+Apps) | Released, Coming Soon, and Planned | Preview
@@ -32,6 +33,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Low Code Development & Fusion Teams](https://microsoft.github.io/Low-Code/) | From Power Platform To Cloud Integrations and Developer Tools! | GitHub
 [Power Platform Adoption](https://adoption.microsoft.com/en-us/powerplatform/) | Microsoft Power Platform adoption best practices and workbook | Microsoft Adoption
 [Microsoft Power Platform Training Journey](https://aka.ms/PowerPlatformTrainingJourney) | Microsoft Learn Journey |
 [Microsoft Power Platform training and certifications](https://aka.ms/PPTrainCertDeck) | This guide is designed to outline the training and certification options that can help you achieve your personal and professional goals. |

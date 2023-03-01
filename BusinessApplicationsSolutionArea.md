@@ -6,7 +6,7 @@
 
 ![Business Applications](./Library/Dynamics365_icon_scalable.svg)
 <br>
-A Collection of resources for Microsoft practice building in the Business Applications solution area. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md). 
+A Collection of resources for Microsoft practice building in the Business Applications solution area. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md).
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
@@ -16,6 +16,18 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 Source | Description | Notes
 :----- | :-----  | :-----
 [The Partner Opportunity For Microsoft Business Applications](https://pbapstorageprod.blob.core.windows.net/protectedassets/The%20Partner%20Business%20Opportunity%20For%20Microsoft%20Business%20Applications.pdf?sv=2019-07-07&sr=b&sig=7jkdDSjog%2FjE4v4c5%2BPgkbYNkJ9FZ8%2FaZH%2FimFVJIYA%3D&se=2023-02-10T14%3A35%3A05Z&sp=r) | A Total Economic Impact™ Partner Opportunity Analysis | Forrester 2022
+
+## Partner Practice Playbooks
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Sales Category Playbook](https://aka.ms/D365SalesPartnerPlaybook) | Practice Playbook |
+[Digital Contact Center Platform Playbook](https://aka.ms/DCCPPartnerPlaybook) | Practice Playbook |
+[Customer Service Playbook](https://aka.ms/D365CSPartner)| Practice Playbook |
+[Field Service Playbook](https://aka.ms/D365FSPartner)| Practice Playbook |
+[Customer Experience Platform Playbook](https://aka.ms/MCXPPartner)| Practice Playbook |
+[Project Operations Playbook](https://dynamicspartners.transform.microsoft.com/download/protected?assetname=protectedassets/Service-centric%20ERP%20Practice%20Partner%20Playbook.pdf&download=1&protected=1) | Practice Playbook |
+
 
 ## Partner Practice Development References
 
