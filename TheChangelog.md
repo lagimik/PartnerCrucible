@@ -10,11 +10,27 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+### Week ending March 3, 2023
+
+Changes this week's changes include new power apps and business apps practice playbooks, what global partners are doing with cloud for sustainability, and TEI of Azure VMWare services and partner session recordings for AI and MSP tenant access best practices.
+
+Date | Change | File
+:--- | :----- | ---:
+2023-03-23 | added reference to Demystifying Service Providers Access Methods | [See changes here](./SecuritySolutionArea)
+2023-03-03 | added Microsoft Cloud for Sustainability: Catalyzing progress with our global partners | [See changes here](./IndustrySustainability)
+2023-03-02 | added 2022 Magic Quadrant for Endpoint Protection Platforms | [See changes here](./SecuritySolutionArea)
+2023-03-02 | added AI and Machine Learning Partner Prep event recordings | [See changes here](./DataAISolutionArea)
+2023-03-02 | added references to FastTrack for Partners for Modern Work | [See changes here](./ModernWorkSolutionArea)
+2023-02-28 | added TEI for AVS migration | [See changes here](./AzureInfrastructureSolutionArea)
+2023-02-28 | added references to Catalyst partner program for business applications | [See changes here](./BusinessApplicationsSolutionArea)
+2023-02-27 | added power platform practice playbook and github repo | [See changes here](./PowerPlatformSolutionArea)
+2023-02-27 | added partner practice playbooks for business applications | [See changes here](./BusinessApplicationsSolutionArea)
+
 ### Week ending February 25, 2023
 
 Changes this week focus on security and AI with references to the MSSP Program and Zero Trust Deployments for M365 in addition to partner AI & ML Academy and AI hands-on demos.
 
-ate | Change | File
+Date | Change | File
 :--- | :----- | ---:
 2023-02-24 | added references to Microsoft Managed Security Solutions Provider Partner Program (MSSP) program | [See changes here](./SecuritySolutionArea)
 2023-02-23 | added references to Zero Trust deployment plan with Microsoft 365 | [See changes here](./ModernWorkSolutionArea.)
@@ -23,7 +39,7 @@ ate | Change | File
 
 ### Week ending February 18, 2023
 
-Changes this week include updates reference to OpenAI learning and onboarding resources for OpenAI in addition to GitHub certifications paths for partners. 
+Changes this week include updates reference to OpenAI learning and onboarding resources for OpenAI in addition to GitHub certifications paths for partners.
 
 Date | Change | File
 :--- | :----- | ---:
@@ -32,7 +48,7 @@ Date | Change | File
 
 ### Week ending February 11, 2023
 
-Changes this week include updates to Forrester total economic impact of Business app and the partner opportunity for Azure service providers. Also include update to State of DevOps by Puppet and references to guide your use of Azure Development Environment (ADE). 
+Changes this week include updates to Forrester total economic impact of Business app and the partner opportunity for Azure service providers. Also include update to State of DevOps by Puppet and references to guide your use of Azure Development Environment (ADE).
 
 Date | Change | File
 :--- | :----- | ---:
