@@ -14,6 +14,7 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 
 Source | Description | Notes
 :----- | :---------- | :----
+[2022 Magic Quadrant for Endpoint Protection Platforms](https://www.microsoft.com/en-us/security/blog/2023/03/02/microsoft-is-named-a-leader-in-the-2022-gartner-magic-quadrant-for-endpoint-protection-platforms/) | Microsoft is named a Leader in the 2022 Gartner® Magic Quadrant™ for Endpoint Protection Platforms | Gartner
 [Microsoft Digital Defense Report 2022](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5bUvv?culture=en-us&country=us) | The report is the culmination of Microsoft’s vast data and comprehensive research. It shares our unique insights on how the digital threat landscape is evolving and the crucial actions that can be taken today to improve the security of the ecosystem | Microsoft
 [Security Blog](https://www.microsoft.com/security/blog/)| Official Microsoft Security Blog |...
 [MISA](https://www.microsoft.com/en-ca/security/business/intelligent-security-association)| The Microsoft Intelligent Security Association (MISA) is an ecosystem of independent software vendors and managed security service providers that have integrated their solutions to better defend against a world of increasing threats| The Microsoft Intelligent Security Association (MISA)
