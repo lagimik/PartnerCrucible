@@ -34,7 +34,7 @@ Source | Description | Notes
 :----- | :---------- | :----
 [Security, Compliance, & Identity Partner Enablement Guide](https://assetsprod.microsoft.com/mpn/en-us/security-compliance-identity-partner-enablement-guide.pdf)| Top news, upcoming training, certifications and exams, and additional resources updated ~monthly | PDF Download <br>Requires MCPP
 [Security, Compliance, & Identity Partner Sales Acceleration Program (PSAP)](https://partner.microsoft.com/en-us/training/assets/collection/security-compliance-and-identity-partner-sales-acceleration-program-psap#/) | This program offers best practices and presentation resources that will guide you in shaping a business-first sales model that focuses on the Microsoft Security, Compliance, & Identity solution area and its core sales plays.​ | Microsoft Partner
-[Microsoft Managed Security Solutions Provider Partner Program](https://cloudaccelerator.microsoft.com/mssp-partner-program)| The Microsoft Managed Security Solutions Provider Partner Program is an invite-only program that has been created to support selected partners in creating customer intent to purchase and use Microsoft security technologies and solutions. | 
+[Microsoft Managed Security Solutions Provider Partner Program](https://cloudaccelerator.microsoft.com/mssp-partner-program)| The Microsoft Managed Security Solutions Provider Partner Program is an invite-only program that has been created to support selected partners in creating customer intent to purchase and use Microsoft security technologies and solutions. |
 [Security, Compliance, and Identity training and certifications](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4J4Mm)| This guide has been created to provide training and certification options to achieve personal success.
 [Security Build Intent Workshop](https://cloudpartners.transform.microsoft.com/workshops/cloud-accelerators?tab=security)| Azure credits for customer workshop delivery Microsoft 365 & Security for Partners | ...
 [The Chief Information Security Officer (CISO) Workshop Training](https://learn.microsoft.com/en-us/security/ciso-workshop/the-ciso-workshop) | The Chief Information Security Office (CISO) workshop helps accelerate security program modernization with reference strategies built using Zero Trust principles. | Microsoft Learn
@@ -49,6 +49,7 @@ Source | Description | Notes
 [XDR Cloud Guide](https://mslearn.cloudguides.com/en-us/guides/Investigate%20security%20incidents%20in%20a%20hybrid%20environment%20with%20Azure%20Sentinel)| ... |...
 [Microsoft XDR Partners](https://cloudpartners.transform.microsoft.com/mxdrpartners)|...|Update May 2022
 [DevSecOps](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/devsecops-in-azure?ocid=AID3045641)| From the Azure Architecture Centre > Solution Ideas |
+[Demystifying Service Provider's Access Methods](https://info.microsoft.com/CA-NoGEP-VDEO-FY23-01Jan-19-Demystifying-Service-Providers-Access-Methods-SRDEM133344_LP02-Thank-You---Standard-Hero.html) | Recommended practices for service providers | Webinar
 
 
 ## Zero Trust
