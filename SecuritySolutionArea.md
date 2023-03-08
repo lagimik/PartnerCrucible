@@ -40,6 +40,7 @@ Source | Description | Notes
 [The Chief Information Security Officer (CISO) Workshop Training](https://learn.microsoft.com/en-us/security/ciso-workshop/the-ciso-workshop) | The Chief Information Security Office (CISO) workshop helps accelerate security program modernization with reference strategies built using Zero Trust principles. | Microsoft Learn
 [Security best practices for Microsoft partners](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fassetsprod.microsoft.com%2Fen-us%2Fsecurity-best-practices-for-microsoft-partners.pdf&data=05%7C01%7CMarcAndre.Morisset%40microsoft.com%7Cdd98de75b69d48edf56608dae1d6fbda%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638070610836966572%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=O5QWHcIB4xn3IXbUOV%2FJO%2BG7yl4qWnUw36pBr75XI8E%3D&reserved=0) | Improve your security posture with Microsoft tools, resources, trainings, and platforms | 2022
 
+
 ## Architecture
 
 Source | Description | Notes
@@ -93,6 +94,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
+[Microsoft Sentinel and Microsoft 365 Defender](https://github.com/Azure/Azure-Sentinel) | This repository contains out of the box detections, exploration queries, hunting queries, workbooks, playbooks and much more to help you get ramped up with Microsoft Sentinel and provide you security content to secure your environment and hunt for threats. The hunting queries also include Microsoft 365 Defender hunting queries for advanced hunting scenarios in both Microsoft 365 Defender and Microsoft Sentinel.| GitHub
 [Microsoft 365 Defender Demo](https://cdx.transform.microsoft.com/experience-detail/d12fa95b-908d-4d74-bd3b-9549d9d562f4)| Using the integrated threat protection demo environment, this Microsoft 365 Defender Demo Guide walks field sellers through a content rich demo for customers showing the investigation of a simulated spear phishing attack and advanced hunting exercise.|..
 [Microsoft Defender for Business](https://learning.eventbuilder.com/M365MDBSeries)| WEbinar series|...
 [Microsoft 365 Defender Ninja](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/become-a-microsoft-365-defender-ninja/ba-p/1789376) | his Ninja blog covers the features and functions of Microsoft 365 Defender – everything that goes across the workloads, but not the individual workloads themselves. The content is structured into three different knowledge levels, with multiple modules: Fundamentals, Intermediate, and Expert. | August 2022
@@ -102,19 +104,22 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
+[Microsoft Defender for Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud) |  Will help you work programmatically at scale with Microsoft Defender for Cloud and provide you additional value to secure your environment, some of which has not yet been embedded into the product (yet). | GitHub 
 [Become a Microsoft Defender for Cloud Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/become-a-microsoft-defender-for-cloud-ninja/ba-p/1608761) | This blog post has a curation of many Microsoft Defender for Cloud (formerly known as Azure Security Center and Azure Defender) resources, organized in a format that can help you to go from absolutely no knowledge in Microsoft Defender for Cloud, to design and implement different scenarios |  Tech Community 2022
 
 ## Defender for Cloud Apps
 
 Source | Description | Notes
 :----- | :---------- | :----
+[Microsoft Defender for Cloud Apps](https://github.com/microsoft/Microsoft-Cloud-App-Security) | This repository contains out of the box playbooks and scripts to help you automate scenarios with Cloud App Security, secure your environment and hunt for threats. | GitHub
 [Microsoft Defender for Cloud Apps Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-defender-for-cloud-apps-ninja-training-june-2022/ba-p/2751518) | Microsoft Defender for Cloud Apps has hundreds of amazing videos available and it can sometimes be overwhelming with determining where to start and how to progress through different levels. We've gone through all these and created this repository of training materials - all in one central location! | June 2022
 [Top Threat Protection use cases in Microsoft Defender for Cloud Apps](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/top-threat-protection-use-cases-in-microsoft-defender-for-cloud/ba-p/3632483) | In this blog, we will showcase the top examples from each part of the threat protection landscape, to protect your organization from cloud apps threats, according to the following classifications: Prevent – SaaS Security Posture Management (SSPM), Detect – Business Email Compromise (BEC)scenario, Respond – Suspend user, Investigate – Investigate a compromised user| Sept 2022
 
-## Defender for Endpoint Ninja
+## Defender for Endpoint 
 
 Source | Description | Notes
 :----- | :---------- | :----
+[Microsoft 365 Defender](https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries) | Defender Hunting Queries| GitHub
 [Defender for Endpoint Ninja Show](https://adoption.microsoft.com/ninja-show/#upcoming)|This training series is based on the Ninja blog and brings you up to speed quickly on Microsoft Defender for Endpoint. In every episode, our experts guide you through the powerful features and functions of Microsoft Defender for Endpoint that help you keep your environment secure. We start with the fundamentals and dive deeper as the show continues.| Starts May 2022
 [Become a Microsoft Defender for Endpoint Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647) | |
 
