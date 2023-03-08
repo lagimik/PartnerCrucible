@@ -15,6 +15,7 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Microsoft Cloud for Sustainability: Catalyzing progress with our global partners](https://www.microsoft.com/en-us/industry/blog/sustainability/2023/02/28/microsoft-cloud-for-sustainability-catalyzing-progress-with-our-global-partners/#PartnersMakeMorePossible)| Example cloud for sustainability solutions from global partners| Partner Blog
 [Industry Resources](https://microsoft.github.io/PartnerResources/industry/)| Industry resources| Microsoft US
 [Sustainability Insider Program](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR1nWe0_9tKxEuN9c6D44qtNUOVZZVlpWMDVKVEs5M1dVVkc3TjdSMFpZVSQlQCN0PWcu) | Join the Microsoft Cloud for Sustainability Insider Program | ...
 [Improve your energy and carbon efficiency with Azure sustainability guidance](https://azure.microsoft.com/en-us/blog/improve-your-energy-and-carbon-efficiency-with-azure-sustainability-guidance/) | To support you in navigating this learning curve, we’re announcing technical guidance and skilling offerings that can help you plan your path forward, improve your sustainability posture, and create new business value while reducing your operational footprint.|Microsoft Azure
