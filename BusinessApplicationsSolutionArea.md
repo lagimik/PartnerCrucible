@@ -21,6 +21,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[FastTrack for Dynamics 365](https://businessapplications.transform.microsoft.com/download?assetname=assets/FastTrack%20for%20Dynamics%20365%20Overview%20Partner%20Pitch%20Deck.pptx) | FastTrack for Dynamics 365 is a customer success program powered by the Microsoft engineering team to enable organizations to accelerate Dynamics 365 implementations and go-live with confidence| Transform
 [Sales Category Playbook](https://aka.ms/D365SalesPartnerPlaybook) | Practice Playbook |
 [Digital Contact Center Platform Playbook](https://aka.ms/DCCPPartnerPlaybook) | Practice Playbook |
 [Customer Service Playbook](https://aka.ms/D365CSPartner)| Practice Playbook |
