@@ -23,13 +23,19 @@ Source | Description | Notes
 [Modern Work partner enablement guide](https://assetsprod.microsoft.com/mpn/en-us/modern-work-partner-enablement.pdf)| Top news, upcoming training, certifications and exams, and additional resources updated ~monthly | Requires MCPP login
 [Modern Work Partner Sales Enablement Program](https://partner.microsoft.com/en-us/training/assets/collection/modern-work-partner-sales-acceleration-program-psap#/) | his program offers best practices and presentation resources that will guide you in shaping a business-first sales model that focuses on the Modern Work solution area and its core sales plays.| Microsoft Partner 
 [Value Calculator](https://vc.transform.microsoft.com/) | The Value Calculator uses real customer data to show the ROI that organizations can achieve by adopting our solutions across Modern Work, Security, Surface and more! Costs and benefits are calculated based on values from third-party Forrester TEI studies. The tool provides standardized and custom calculations to help you create a business case specific to your customer’s environment and needs.| Requires MCPP
-[FastTrack Ready approved partners](https://cloudpartners.transform.microsoft.com/fasttrack-ready-approved-partners?culture=en-us&country=us) | FastTrack for Microsoft 365 helps organizations enable hybrid work with expert guidance – delivered remotely by Microsoft engineers and approved FastTrack Ready partners as a benefit of your eligible subscription. | Transform
 [Microsoft 365 adoption tools](https://adoption.microsoft.com/en-us/) | Drive value with Microsoft 365 adoption tools. Use our resources to go from inspiration to execution with our productivity cloud. Get started, experiment with our services, and onboard employees at scale while being confident that you are improving the employee experience.| Microsoft Adoption
 [Partner Learning](https://readiness.transform.microsoft.com/)| Partner training starting point| Requires MCPP login
 [M365 Readiness Calendar](https://cloudpartners.transform.microsoft.com/readiness/calendar) | Partner training calendar | Requires MCPP login
 [Microsoft 365 & Security for Partners](https://cloudpartners.transform.microsoft.com)|Transform for M365 and Security with resources on products, practice development, pre-sales workshops, readiness, events, news, and community | Accessible based on partner competency / PCS
 [M365 Partner Community](https://www.yammer.com/office365partners/#/home)|The M365 Partner Yammer Group is dedicated to a community that focuses on partner engagement, both in connecting partners to partners, as well as connecting partners within the M365 team at Microsoft. Join this community to learn the latest M365 updates, industry trends, and how you can easily connect with your fellow partners.| Yammer
 [M365 Partner Community Groups](https://www.yammer.com/office365partners/#/groups/suggested) | Include M365 Lighthouse, Microsoft Desktop Partner, CSP PArtner Community, etc...
+
+## FastTrack
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[FastTrack Ready approved partners](https://cloudpartners.transform.microsoft.com/fasttrack-ready-approved-partners?culture=en-us&country=us) | FastTrack for Microsoft 365 helps organizations enable hybrid work with expert guidance – delivered remotely by Microsoft engineers and approved FastTrack Ready partners as a benefit of your eligible subscription. | Transform
+[FastTrack Program Terms](https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FFeb-27-2023-FY23-FastTrack-Ready-Partner-Agreement.pdf&download=1) | These terms and conditions (“Terms and Conditions”) contain the requirements to participate in the FastTrack Ready Partner (“FRP”) Program (“Program”). | Transform
 
 ## M365 Roadmap and Trials
 
