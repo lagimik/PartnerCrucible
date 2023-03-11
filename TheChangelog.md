@@ -10,6 +10,20 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+
+### Week ending March 11, 2023
+
+Changes this week's changes include OpenAI learning plan and OpenAI workshops on GitHub. Also includes an extensive set of Azure security focussed Github repos.
+
+Date | Change | File
+:--- | :----- | ---:
+2023-03-11 | added intro to openAI learning path | [See changes here](./DataAISolutionArea)
+2023-03-08 | added A Guide to Data Governance | [See changes here](./DataAISolutionArea)
+2023-03-08 | added GitHub repo for Sentinel resources | [See changes here](./SecuritySolutionArea-Sentinel)
+2023-03-08 | added GitHub repo for security solutions | [See changes here](./SecuritySolutionArea)
+2023-03-08 | added GitHub repo for azure network security | [See changes here](./AzureInfrastructureSolutionArea)
+
+
 ### Week ending March 3, 2023
 
 Changes this week's changes include new power apps and business apps practice playbooks, what global partners are doing with cloud for sustainability, and TEI of Azure VMWare services and partner session recordings for AI and MSP tenant access best practices.
