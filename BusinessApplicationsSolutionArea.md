@@ -39,7 +39,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[Catalyst Partner FAQ](https://pbapstorageprod.blob.core.windows.net/protectedassets/Catalyst%20Partner%20FAQ.pdf?sv=2019-07-07&sr=b&sig=tpCxdyZoRr6BcVpboA0Qlt1ieqLL%2FQQgmobCCL1h8jo%3D&se=2023-02-28T14%3A09%3A24Z&sp=r) | Catalyst Partner FAQ | Transform
+[Catalyst Partner FAQ](https://pbapstorageprod.blob.core.windows.net/protectedassets/Catalyst%20Partner%20FAQ.pdf?sv=2019-07-07&sr=b&sig=6EKMfmcYH4mmfpH3Zdf9CsvsN4h8pvBUTVGsjT5KxpI%3D&se=2023-03-12T18%3A58%3A45Z&sp=r) | Catalyst Partner FAQ, November 3 2022| Transform
 [Business Applications Partner Sales Acceleration Program](https://partner.microsoft.com/en-us/training/assets/collection/business-applications-partner-sales-acceleration-program-psap#/) | Get best practices and presentation resources that will guide you in shaping a business-first sales model that's focused on the Business Applications solution area and its core sales plays—and resources specially for small business.​| Microsoft Partner
 [Microsoft Dynamics 365 Partner portal](https://dynamicspartners.transform.microsoft.com)|Transform for Business Apps|Accessible based on partner competency / PCS
 [Business Applications ISV Connect](https://partner.microsoft.com/en-us/solutions/business-applications/isv-overview) | Grow your business faster by building unique, customer-centric line of business (LOB) apps with Dynamics 365 and Power Apps.|
