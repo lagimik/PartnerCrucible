@@ -69,6 +69,7 @@ operations, reports and analyses is protected and can be trusted | Microsoft
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[ADX in a Day](https://github.com/Azure/ADX-in-a-Day) | One Day, Hands on workshop on Azure Data Explorer. Synapse Customer Success Engineering team is delighted to present this challenge based, discover by doing experience divided into 2 labs of 4 Hours each, a total of 8 hour | GitHub
 [When to use Azure Data Explorer](https://lnkd.in/eUUVTiNQ) | Tzvia Gitlin Troyna, Principal Program Manager at the Azure Data Explorer team, will give us a quick introduction on ADX, what it is, when to use it|
 [How to start with Azure Data Explorer](https://lnkd.in/dfCKwWDN) | Tzvia Gitlin Troyna, Principal Program Manager at the Azure Data Explorer team, will explain how to get started with ADX|
 [Demystifying Data Explorer](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/demystifying-data-explorer/ba-p/3636191) | Azure Data Explorer (ADX) is a high performance fully managed big data analytics platform for near real time analysis of large volumes of fresh and historical data (incl streaming data) to generate insights. It offers powerful ingestion, optimized and distributed storage, and intuitive querying capability using the Kusto Querying Language (KQL). | Microsoft Customer Success Engineering
