@@ -2,8 +2,6 @@
 
 ![Sentinel](./Library/sentinel-logo.png)
 
-[< Back to Crucible](./)
-
 ## Purpose
 
 A Collection of resources for building Sentinel and SOC demos. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md).
@@ -57,4 +55,3 @@ Source | Description | Notes
 [Discover the power of UEBA anomalies in Microsoft Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/discover-the-power-of-ueba-anomalies-in-microsoft-sentinel/ba-p/3576185) | Our mission in Microsoft Sentinel UEBA is to detect insider and unknown threats – so we surface those suspicious activities that won’t be detected by other platforms. Since we’re looking into and analyzing that grey area of activities - we’re able to provide insights on threats that might have been missed otherwise. | ...
 [UEBA Reference](https://learn.microsoft.com/en-us/azure/sentinel/ueba-reference) | This reference article lists the input data sources for the User and Entity Behavior Analytics service in Microsoft Sentinel. It also describes the enrichments that UEBA adds to entities, providing needed context to alerts and incidents. | Azure docs
 
-[< Back to Crucible](./)

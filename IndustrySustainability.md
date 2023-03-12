@@ -3,7 +3,6 @@
 
 ![Buying Through CSP](./Library/crucible-sustainability-title.png)
 
-[< Back to Crucible](./)
 
 ## Purpose
 
@@ -56,5 +55,3 @@ Source | Description | Notes
 [Sustainability Cloud on AppSource](https://appsource.microsoft.com/en-us/marketplace/cloudsIndustry?page=1&industry=sustainability)| Cloud fo sustainability services and solutions on AppSource | ...
 [Microsoft Cloud for Sustainability Trial](https://aka.ms/solutioncenter) | Microsoft Cloud for Sustainability  offers a free limited trial for 30 days  | Solutions Center
 [What's new and planned for Microsoft Cloud for Sustainability](https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave2/industry-clouds/sustainability/planned-features) | new and planned for Microsoft Cloud for Sustainability |
-
-[< Back to Crucible](./)

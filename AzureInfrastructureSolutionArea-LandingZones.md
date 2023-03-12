@@ -1,5 +1,5 @@
 # Azure Infrastructure - Landing Zones
-[< Back to Crucible](./)
+
 
 
 ![Azure Infrastructure](./Library/Azure-LandingZone.png)
@@ -37,5 +37,3 @@ Source | Description | Notes
 
 
 
-
-[< Back to Crucible](./)

@@ -1,6 +1,5 @@
 # Commercial Marketplace Offers
 
-[< Back to Crucible](./)
 ## Purpose
 
 ![Commercial Marketplace](./Library/microsoft-commercial-marketplace.png)
@@ -48,6 +47,3 @@ Source | Description | Notes
 
 ## Technical References
 
-
-
-[< Back to Crucible](./)

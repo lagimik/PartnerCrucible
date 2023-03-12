@@ -1,6 +1,6 @@
 # Modern Work Solution Area
 
-[< Back to Crucible](./)
+
 ## Purpose
 
 ![Microsoft 365](./Library/Microsoft365_logo_horiz_c-gray_rgb.png)
@@ -91,6 +91,3 @@ Source | Description | Notes
 [The People-Powered Workplace: Reimagine the Employee Experience](https://info.microsoft.com/ww-landing-the-people-powered-workplace.html?LCID=EN-US) | Viva ebook - Learn new ways to empower your people and teams by creating a new kind of workplace—one centered around your employees and their experience. | Microsoft 
 
 
-
-
-[< Back to Crucible](./)

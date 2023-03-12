@@ -1,7 +1,5 @@
 # Partner Support Plans
 
-[< Back to Crucible](./)
-
 ## Purpose
 
 A Collection of resources for Microsoft to support partners part of the (Microsoft Cloud Partner Program)
@@ -50,4 +48,3 @@ Source | Description | Notes
 [Microsoft Security Response Centre](https://www.microsoft.com/en-us/msrc?rtc=1)|Report a vulnerability in a Microsoft product or service to the MSRC - Microsoft Security Response Center. You can track the status of your report as we work with you to investigate and resolve the issue.|...
 [MSRC - Submit and Issue](https://msrc.microsoft.com/#:~:text=Microsoft%20follows%20Coordinated%20Vulnerability%20Disclosure%20%28CVD%29.%20We%20request,MSRC%27s%20Bug%20Bounty%20Programs%20and%20Terms%20and%20Conditions)| There is a single  process to report issues, supported by Coordinated Vulnerability Disclosure (CVD)|...
 
-[< Back to Crucible](./)

@@ -1,6 +1,5 @@
 # Microsoft Partner Portals
 
-[< Back to Crucible](./)
 
 ## Purpose
 
@@ -47,5 +46,3 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [Microsoft US Partner Resources](https://microsoft.github.io/PartnerResources/)| The Microsoft Partners Resources repository consists of documents, learning resources and other assets designed to aid partners in practice development, upskilling, certifications, and bringing their solutions to market. | Brought to you by the Microsoft U.S. Global Partner Solutions (GPS) team, empowering partners and driving digital transformation.
 [Airlift](https://airlift.microsoft.com/home_public)| An engineering-led event for deep dive technical trainings and opportunities for product feedback where you will experience direct engagement with subject matter experts and engineering teams who are building our products. | Microsoft Airlift December 5-9, 2022
-
-[< Back to Crucible](./)

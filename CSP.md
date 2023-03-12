@@ -1,6 +1,6 @@
 # Cloud Solution Provider Program
 
-[< Back to Crucible](./)
+
 
 ## Purpose
 
@@ -29,4 +29,3 @@ Source | Description | Notes
 [Transfer Azure subscriptions between subscribers and CSPs](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp) | This article provides high-level steps used to transfer Azure subscriptions to and from Cloud Solution Provider (CSP) partners and their customers.| MS Learn
 
 
-[< Back to Crucible](./)

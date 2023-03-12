@@ -2,7 +2,6 @@
 
 ![SaaS](./Library/SaaS.png)
 
-[< Back to Crucible](./)
 
 ## Purpose
 
@@ -30,5 +29,4 @@ Source | Description | Notes
 [Mastering SaaS offers](https://microsoft.github.io/Mastering-the-Marketplace/saas/) | This on-demand learning series includes videos, sample code, and hands-on labs meant to speed your time to publishing your custom SaaS offer on the Microsoft commercial marketplace. If you are building a SaaS offer for the marketplace this learning series is for you. | Mastering Marketplace
 [What is Azure Chaos Studio](https://learn.microsoft.com/en-us/azure/chaos-studio/chaos-studio-overview) | Azure Chaos Studio is a managed service that uses chaos engineering to help you measure, understand, and improve your cloud application and service resilience. | MS Learn
 
-[< Back to Crucible](./)
 

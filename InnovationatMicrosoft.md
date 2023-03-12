@@ -1,6 +1,6 @@
 # Innovation at Microsoft
 
-[< Back to Crucible](./)
+
 
 ## Purpose
 
@@ -32,4 +32,3 @@ Source | Description | Notes
 [Microsoft Inclusive Design](https://www.microsoft.com/design/inclusive/) | Inclusive Design is a methodology, born out of digital environments, that enables and draws on the full range of human diversity. Most importantly, this means including and learning from people with a range of perspectives. | Toolkits:<br> - - Inclusive 101 <br> - Inclusive Activities
 [#id24](https://inclusivedesign24.org/) | Inclusive Design 24 (#id24) is a free 24-hour online event for the global community. It celebrates inclusive design and shares knowledge and ideas from analogue to digital, from design to development, from planners to practitioners, and everything and everyone in between. |
 
-[< Back to Crucible](./)

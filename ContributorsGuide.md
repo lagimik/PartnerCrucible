@@ -1,6 +1,6 @@
 # Contributor's Guide
 
-[< Back to Crucible](./)
+
 
 ## How to contribute
 PartnerCrucible is shared on Github. 
@@ -19,4 +19,3 @@ Source | Description | Notes
 [Long running changes](https://docs.microsoft.com/en-us/contribute/how-to-write-workflows-major) |More advanced scenarios |
 
 
-[< Back to Crucible](./)

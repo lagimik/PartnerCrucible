@@ -1,7 +1,5 @@
 # Mixed Reality
 
-[< Back to Crucible](./)
-
 ## Purpose
 
 A collection of resources for Microsoft practice building in the Digital Apps and Innovation - Mixed Reality solution area. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md).
@@ -50,7 +48,3 @@ Source | Description | Notes
 [Microsoft Mechanics Mesh episode](https://aka.ms/mesh-mechanics) | |
 [AltspaceVR](https://account.altvr.com/users/sign_up) | Sign up for the AltspaceVR  |
 
-
-
-
-[< Back to Crucible](./)

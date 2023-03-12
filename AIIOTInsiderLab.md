@@ -1,7 +1,5 @@
 # Microsoft AI & IoT Insider Labs
 
-[< Back to Crucible](./)
-
 ![AI IoT Insider Lab](./Library/applytoiotinsiders.jpg)
 
 Microsoft’s IoT & AI Insider Labs are facilities to help you develop, prototype and test IoT and AI solutions for market commercialization. Located in Redmond, USA; Munich, Germany; and Shenzhen, China; they are located at the heart of Microsoft’s product group, industrial and manufacturing solutions.
@@ -26,4 +24,3 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [Microsoft AI & IoT Insider Labs](https://aiotlabs.microsoft.com/p/apply)| Microsoft AI & IoT Insider Labs
 
-[< Back to Crucible](./)

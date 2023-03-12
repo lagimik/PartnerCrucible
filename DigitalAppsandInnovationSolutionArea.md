@@ -1,6 +1,5 @@
 # Digital Apps and Innovation
 
-[< Back to Crucible](./)
 
 ## Purpose
 
@@ -81,4 +80,3 @@ Source | Description | Notes
 [Partner Innovation series: smarter buildings with Azure Digital Twins](https://blogs.partner.microsoft.com/mpn/partner-innovation-series-smarter-buildings-with-azure-digital-twins/?wt.mc_id=OCPM_AZU_OR_LI_CSO_GL_digital) | Willow is modernizing and transforming the real estate, infrastructure, and mining industries with WillowTwinTM — a SaaS platform built on Azure Digital Twins that makes buildings and spaces smart and more efficient.|...
 [Microsoft AI & IoT Insider Labs](https://aiotlabs.microsoft.com/p/apply)| Microsoft AI & IoT Insider Labs | ...
 
-[< Back to Crucible](./)

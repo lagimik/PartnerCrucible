@@ -1,6 +1,6 @@
 # Solution Partners
 
-[< Back to Crucible](./)
+
 
 ## Purpose
 
@@ -22,4 +22,3 @@ Source | Description | Notes
 [Canadian Partner Post](https://www.microsoftpartnercommunity.com/t5/What-s-new-for-Canadian-partners/Evolution-of-the-Microsoft-partner-network/m-p/67215#M103)|...|...
 [MPI Vodcast: Unwrapping the Microsoft Cloud Partner Program](https://www.youtube.com/watch?v=rmj0mMd5QU8&feature=youtu.be)|Tune in to our latest Microsoft Partner Innovation Vodcast episode, hosted by Jennifer Zarate, senior communications manager, Global Partner Solutions at Microsoft, as she sits down with Margaret Totten, managing director and CEO at Akari, and Deb McLeod, chief of staff at Solliance, to discuss the new Microsoft Cloud Partner Program and how the company is investing more in partners.|[Microsoft Partner Innovation Channel](https://www.youtube.com/channel/UCYUkW7seEYoQLNoYEEO32iQ)
 
-[< Back to Crucible](./)

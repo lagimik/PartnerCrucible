@@ -1,6 +1,5 @@
 # Business Applications Solution Area
 
-[< Back to Crucible](./)
 
 ## Purpose
 
@@ -66,4 +65,3 @@ Source | Description | Notes
 [Dynamics 365 Discounted SKU](https://experience.dynamics.com/requestlicense/)| This portal is used for SI/ISV Connect partners to obtain free or discounted non-production environment licenses with Biz Apps and Power Platform products to learn, test, and deliver end-to-end customer demos with their own solutions. These offers are to be used only on partner tenants, never on customer tenants.| ...
 [Dynamics 365 Free Trial](https://dynamics.microsoft.com/en-us/dynamics-365-free-trial/)| Try it free and learn how these intelligent business applications go beyond traditional CRM and ERP to help you adapt, innovate, and delight every customer.| ...
 
-[< Back to Crucible](./)

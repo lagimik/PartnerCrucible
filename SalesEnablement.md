@@ -1,6 +1,5 @@
 # Sales Enablement
 
-[< Back to Crucible](./)
 
 ## Purpose
 
@@ -22,5 +21,4 @@ Source | Description | Notes
 [Microsoft Tech Community](https://techcommunity.microsoft.com/)| Community Hubs, Blogs, Events|...
 [Customer Stories](https://customers.microsoft.com/en-us/search?sq=&ff=&p=0&so=story_publish_date%20desc)| Browse Microsoft customer stories and filter by language, industry, product, etc..| ...
 
-[< Back to Crucible](./)
 

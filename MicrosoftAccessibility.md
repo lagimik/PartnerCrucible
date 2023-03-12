@@ -3,8 +3,6 @@
 ![PowerApps](./Library/Acc%2BBadge%2Bv4.png)
 
 
-[< Back to Crucible](./)
-
 ## Purpose
 A Collection of resources for Microsoft practice building in with a focus on accessibility.  
 

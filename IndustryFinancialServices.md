@@ -1,7 +1,6 @@
 
 # Industry - Financial Services
 
-[< Back to Crucible](./)
 
 ## Purpose
 
@@ -40,8 +39,3 @@ Source | Description | Notes
 [Microsoft Azure Guidance for Sarbanes Oxley (SOX)](https://azure.microsoft.com/mediahandler/files/resourcefiles/microsoft-azure-guidance-for-sarbanes-oxley-sox/Azure%20SOX%20guidance.pdf.pdf) | This paper provides guidance to customers on how to leverage Azure’s existing compliance reports when addressing their own SOX compliance obligations | 2017
 [Compliance Map of Cloud Computing and Regulatory Principles in the US](https://servicetrust.microsoft.com/DocumentPage/5b483567-00b0-4d86-96ae-ee887dadb61c) | This document describes the key United States (U.S.) federal regulatory principles and recommended implementation practices that guide the use of cloud computing services by U.S. financial institutions. | Microsoft
 
-
-
-
-
-[< Back to Crucible](./)

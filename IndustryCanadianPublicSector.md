@@ -1,7 +1,5 @@
 # Microsoft Industry Cloud
 
-[< Back to Crucible](./)
-
 ## Purpose
 
 A Collection of resources for Microsoft practice building around the Canadian public sector. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md). 
@@ -28,5 +26,3 @@ Source | Description | Notes
 [Azure Landing Zones for Canadian Public Sector](https://github.com/Azure/CanadaPubSecALZ/) | The purpose of the reference implementation is to guide Canadian Public Sector customers on building Landing Zones in their Azure environment. | GitHub repo
 [Key Decisions](https://github.com/Azure/CanadaPubSecALZ/blob/main/docs/architecture.md#1-key-decisions) | Outlines the key decisions each department must consider as part of adopting Azure | ...
 [Canada Federal PBMM blueprint sample](https://learn.microsoft.com/en-us/azure/governance/blueprints/samples/canada-federal-pbmm) | This blueprint helps customers deploy a core set of policies for any Azure-deployed architecture that must implement controls for Canada Federal PBMM. | 2021
-
-[< Back to Crucible](./)

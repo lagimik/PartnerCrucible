@@ -1,5 +1,4 @@
 # Azure Infrastructure Solution Area
-[< Back to Crucible](./)
 
 ## Purpose
 
@@ -127,4 +126,3 @@ Source | Description | Notes
 [Landing zone considerations for Azure VMware Solution](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-vmware-solution-foundation-landing-zone) | Azure VMware Solution can be deployed as part of either a new landing zone or an existing landing zone environment. Well-designed landing zones help you avoid operational overhead and reduce costs by promoting segregated Azure environments and the use of shared services. |
 [Azure Virtual Desktop]() |Try it now during our promotional period We are pleased to offer a special promotion with no charge to access Azure Virtual Desktop for streaming applications to external users. This promotion is effective from July 14, 2021, to March 31, 2022. For additional pricing details, please read the product documentation page and FAQ below.|
 
-[< Back to Crucible](./)

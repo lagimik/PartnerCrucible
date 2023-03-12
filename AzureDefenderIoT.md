@@ -1,6 +1,6 @@
 
 # Azure Defender for IoT
-[< Back to Crucible](./)
+
 ## Purpose
 
 A collection of resources for Defender for IoT.
@@ -29,4 +29,3 @@ Source | Description | Notes
 [Azure Sentinel Auditing OT Environments](https://www.youtube.com/watch?v=GHjf2F_DB_M) | Azure Defender for IoT: Audit - analytics data management and hunting | ....
 [Channel 9 session The IoT Show](https://docs.microsoft.com/en-us/shows/internet-of-things-show/zero-trust-security-for-iot) | IoT Show: Zero-Trust Security for IoT |
 
-[< Back to Crucible](./)

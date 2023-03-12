@@ -1,6 +1,5 @@
 # Data and AI
 
-[< Back to Crucible](./)
 
 ## Purpose
 
@@ -79,4 +78,4 @@ Source | Description | Notes
 [StackOverflow](https://aka.ms/adx.sof) ||
 [YouTube](https://lnkd.in/e5cRUCs7) | ADX YouTube Channel|
 
-[< Back to Crucible](./)
+

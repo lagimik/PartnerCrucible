@@ -1,7 +1,5 @@
 # Independent Software Vendors (ISV)
 
-[< Back to Crucible](./)
-
 ## Purpose
 
 Collection of resources for ISVs.

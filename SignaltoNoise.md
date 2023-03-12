@@ -1,6 +1,6 @@
 ![Signal to Noise](/PartnerCrucible/Library/signaltonoise-title.png)
 
-[< Back to Crucible](./)
+
 
 # Why?
 
@@ -14,5 +14,3 @@
     </li>
   {% endfor %}
 </ul>
-
-[< Back to Crucible](./)

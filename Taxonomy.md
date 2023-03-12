@@ -17,7 +17,7 @@ The FY23 Solution Area Taxonomy Solution provides tagging for seller discoverabi
 ### Digital Application and Innovation
 ![Digital and Application Innovation](./Library/FY23TaxonomyDigital.jpg)
 
-[< Back to Crucible](./)
+
 
 ## References
 
@@ -26,4 +26,4 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [FY23 Solution Area Partner Taxonomy](https://aka.ms/FY23TaxonomyPartner)|Structure and Definitions for Solution Area and Industry|
 
-[< Back to Crucible](./)
+

@@ -1,5 +1,4 @@
 # Practice Building and Profitability
-[< Back to Crucible](./)
 
 ![Practice Building](./Library/practicebuilding.png)
 
@@ -67,5 +66,3 @@ Internships | Investing in building workforce of the future by funding **student
 Customer Investment Fund | Support for **strategic customer deliveries** through a central pool of project funding |*Revenue Incentives:* <br> - Modern work & security: 0.75% - 12% <br> - Core: 0.45% - 1.25%<br>  - Azure Consumed Revenue: 1%
 
 
-
-[< Back to Crucible](./)

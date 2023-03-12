@@ -1,7 +1,6 @@
 
 # Industry - Healthcare, Farming, Manufacturing, Public safety
 
-[< Back to Crucible](./)
 
 ## Purpose
 
@@ -58,5 +57,3 @@ Source | Description | Notes
 [Microsoft Product Placemat for CMMC 2.0 (Preview)](https://www.microsoft.com/en-us/download/details.aspx?id=102536)| Interactive view representing how we believe Microsoft cloud products and services satisfy requirements for CMMC practices. | Microsoft
 [CMMC Level 3 Regulatory Compliance built-in initiative](https://learn.microsoft.com/en-us/azure/governance/policy/samples/cmmc-l3) | The following article details how the Azure Policy Regulatory Compliance built-in initiative definition maps to compliance domains and controls in CMMC Level 3. | Microsoft Learn
 [Understanding Compliance Between Commercial, Government and DoD Offerings - March 2022 Update](https://techcommunity.microsoft.com/t5/public-sector-blog/understanding-compliance-between-commercial-government-and-dod/ba-p/3258326) | In this article, we will focus on each of the US-based cloud offerings from Microsoft and compare the differences in compliance, including the compendium of common factors customers may use to decide which of our offerings align with current and future requirements in demonstrating compliance with US Government regulations and underlying cybersecurity frameworks.| Tech Community
-
-[< Back to Crucible](./)

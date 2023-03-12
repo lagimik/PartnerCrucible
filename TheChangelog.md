@@ -2,7 +2,6 @@
 
 ![GitHub Changelog](./Library/crucible-changelog.png)
 
-[< Back to Crucible](./)
 
 ## Purpose
 
@@ -341,5 +340,3 @@ Date | Change | File
 2022-09-13 | Tech Talks: Power Platform Partner Call Series | [See changes here](./PowerPlatformSolutionArea)
 2022-09-12 | added project Orland | [See changes here](./ModernWorkSolutionArea)
 2022-09-09 | added threat hunting blog| [See changes here](./SecuritySolutionArea)
-
-[< Back to Crucible](./)

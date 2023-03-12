@@ -1,6 +1,5 @@
 # Learning Resources
 
-[< Back to Crucible](./)
 
 ## Purpose
 
@@ -44,5 +43,3 @@ Source | Description | Notes
 [Activate GitHub Student Developer Account](https://education.github.com/discount_requests/pack_application) | Learn and teach using real-world developer tools | Github
 [Activate Azure for Student Credit](https://azure.microsoft.com/en-us/free/students/) |  Use your university or school email to sign up and renew each year you're a student | Azure
 
-
-[< Back to Crucible](./)

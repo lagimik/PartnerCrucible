@@ -1,5 +1,4 @@
 # Industry - Telecom
-[< Back to Crucible](./)
 
 ## Purpose
 

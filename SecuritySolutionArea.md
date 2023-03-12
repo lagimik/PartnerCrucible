@@ -2,7 +2,6 @@
 
 ![Sentinel](./Library/crucible-security-title.png)
 
-[< Back to Crucible](./)
 
 ## Purpose
 
@@ -150,7 +149,6 @@ Source | Description | Notes
 [Insider risk Insider Risk Management Ninja](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-an-insider-risk-management-ninja/ba-p/3282306) | In this Ninja page, we share the top resources for Insider Risk Management users to become more proficient with the Microsoft Purview Insider Risk Management solution.  | April 2022
 [Communication Compliance Ninja](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-a-communication-compliance-ninja/ba-p/3283283) | In this Ninja page, we share the top resources for Communication Compliance users to become more proficient with the Microsoft Purview Communication Compliance solutio| April 2022
 
-[< Back to Crucible](./)
 
 
 
