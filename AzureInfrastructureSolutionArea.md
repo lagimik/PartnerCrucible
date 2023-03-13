@@ -99,7 +99,7 @@ Source | Description | Notes
 :----- | :---------- | :-----
 [AKS for Amazon EKS professionals](https://learn.microsoft.com/en-ca/azure/architecture/aws-professional/eks-to-aks/) | This series of articles helps professionals who are familiar with Amazon Elastic Kubernetes Service (Amazon EKS) to understand Azure Kubernetes Service (AKS). The series highlights key similarities and differences between these two managed Kubernetes solutions. | MS Lean
 
-### SAP
+### SAP on Azure
 
 Source | Description | Notes
 :----- | :---------- | :-----
@@ -108,6 +108,15 @@ Source | Description | Notes
 [Skill up](https://aka.ms/SAPonAzureResources) | |
 [SAP on Azure Advanced Specialization](httrps://aka.ms/SAPonAzureAdvancedSpec) | |\
 [SAP on Azure Video Podcast](https://www.youtube.com/playlist?list=PLvqyDwoCkBXYCm7_CNLavXHmdZD6rEvNn) | Videos covering a wide range of SAP on Azure scenarios | YouTube
+
+### Oracle on Azure
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[Oracle Database Workloads]https://github.com/Azure/Oracle-Workloads-for-Azure | This project documents the method of sizing on-prem Oracle Database workloads for initial migration into Azure | Github
+[Oracle on Azure IaaS](https://github.com/Azure/Oracle-Workloads-for-Azure/blob/main/Oracle%20on%20Azure%20IaaS%20Recommended%20Practices%20for%20Success.pdf) | Recommended Practices for Success | GitHub
+[Oracle RAC on Azure](https://techcommunity.microsoft.com/t5/data-architecture-blog/oracle-rac-on-azure/ba-p/1185410) | The goal of this post is to push past the idea that a lift and shift should always be a 1:1 move.  It's important when moving to the cloud to use the right tools, not just the tools you've always used, which is a very important lesson when it comes to Oracle Real Application Cluster, (RAC). | Tech Community
+
 
 ### Virtualization
 
