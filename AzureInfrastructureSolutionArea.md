@@ -17,6 +17,7 @@ Source | Description | Notes
 [2022 Gartner® Magic Quadrant™ for Cloud Infrastructure and Platform Services](https://azure.microsoft.com/en-ca/blog/microsoft-named-a-leader-in-2022-gartner-magic-quadrant-for-cloud-infrastructure-and-platform-services/) | Gartner® recently published its 2022 Magic Quadrant™ for Cloud Infrastructure and Platform Services (CIPS) report. For the ninth consecutive year, Microsoft was named a Leader, and for the first time placed furthest on the Completeness of Vision axis.| October 2022
 [The Total Economic Impact™ of Microsoft Azure Arc for Security and Governance.](https://aka.ms/arc-forresterstudy) | Read about the real impact and benefits businesses are experiencing by using Azure Arc to secure and govern infrastructure and applications across hybrid, multicloud and edge environments. The Forrester Consulting Total Economic Impact™ (TEI) study, commissioned by Microsoft, examines the potential return on investment (ROI)  enterprises may realize by deploying Azure Arc for consistent security and governance practices.| Forrester
 [The Projected Total Economic Impact™ of Microsoft Azure VMware Solution](https://azure.microsoft.com/en-us/resources/new-technology-the-projected-total-economic-impact-of-microsoft-azure-vmware-solution/) | See how organizations are saving costs and responding more quickly to customer needs by extending their enterprise VMware workloads to the cloud with Azure VMware Solution. | Forrester
+
 ### Practice
 
 Source | Description | Notes
@@ -113,7 +114,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
-[Oracle Database Workloads]https://github.com/Azure/Oracle-Workloads-for-Azure | This project documents the method of sizing on-prem Oracle Database workloads for initial migration into Azure | Github
+[Oracle Database Workloads](https://github.com/Azure/Oracle-Workloads-for-Azure) | This project documents the method of sizing on-prem Oracle Database workloads for initial migration into Azure | Github
 [Oracle on Azure IaaS](https://github.com/Azure/Oracle-Workloads-for-Azure/blob/main/Oracle%20on%20Azure%20IaaS%20Recommended%20Practices%20for%20Success.pdf) | Recommended Practices for Success | GitHub
 [Oracle RAC on Azure](https://techcommunity.microsoft.com/t5/data-architecture-blog/oracle-rac-on-azure/ba-p/1185410) | The goal of this post is to push past the idea that a lift and shift should always be a 1:1 move.  It's important when moving to the cloud to use the right tools, not just the tools you've always used, which is a very important lesson when it comes to Oracle Real Application Cluster, (RAC). | Tech Community
 
