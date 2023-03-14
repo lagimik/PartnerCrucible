@@ -1,5 +1,5 @@
 
-# Industry - Healthcare, Farming, Manufacturing, Public safety
+# Industry - Healthcare, Agriculture, Manufacturing, Public safety
 
 
 ## Purpose
@@ -17,10 +17,11 @@ Source | Description | Notes
 [Industry Cloud Partner Sandboxes](https://experience.dynamics.com/requestlicense/)|This portal is used for SI/ISV Connect partners to obtain free or discounted non-production environment licenses with Biz Apps and Power Platform products to learn, test, and deliver end-to-end customer demos with their own solutions. These offers are to be used only on partner tenants, never on customer tenants.| Includes Cloud for Sustainability, FSI, Healthcare, Retail, Nonprofit
 [GPS Industry Cloud](https://github.com/microsoft/GPS-IndustryCloud) | Labs and presentations| Github
 
-## Farming
+## Agriculture
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Microsoft Azure Data Manager for Agriculture](https://azure.microsoft.com/en-ca/blog/announcing-microsoft-azure-data-manager-for-agriculture-accelerating-innovation-across-the-agriculture-value-chain/?utm_source=dlvr.it&utm_medium=linkedin) | Announcing Microsoft Azure Data Manager for Agriculture: accelerating innovation across the agriculture value chain|  
 [FarmVibes.Edge](https://www.microsoft.com/en-us/research/project/project-farmvibes/articles/farmvibes-edge/) | FarmVibes.Edge involves developing technologies to process large amounts of data in the farm itself – either in the farmer’s house or office, or next to the base stations. | Microsoft Research
 [FarmVibes.Connect](https://www.microsoft.com/en-us/research/project/project-farmvibes/articles/farmvibes-connect/) | FarmVibes.Connect involves inventing new ways to bring Internet to the middle of a farm, such as leveraging unused TV channels, Narrowband IoT, and space communications. | Microsoft Research
 [FarmVibes.Bot](https://www.microsoft.com/en-us/research/project/project-farmvibes/articles/farmvibes-bot/) | The FarmVibes.Bot platform allows organizations to communicate simply and effectively with any user who has a feature phone (by USSD or SMS) or any user who has a smart phone (WhatsApp, Facebook, Telegram, etc.). | Microsoft Research
