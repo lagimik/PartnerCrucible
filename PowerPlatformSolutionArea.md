@@ -16,6 +16,7 @@ Source | Description | Notes
 :----- | :---------- | :-----
 [Magic Quadrant™ for Enterprise Low-Code Application Platforms](https://powerapps.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2023-gartner-magic-quadrant-for-enterprise-low-code-application-platforms/) | We are excited to see Microsoft named a Leader in 2023 Gartner® Magic Quadrant™ for Enterprise Low-Code Application Platforms for the fourth consecutive time. | Gartner
 [The Total Economic Impact™ of Microsoft Power Platform Premium Capabilities](https://info.microsoft.com/ww-landing-forrester-tei-of-power-platform-premium-capabilities.html) | a commissioned study conducted by Forrester Consulting, to explore how a composite organization realized substantial financial benefits using Power Platform premium capabilities | Forrester 2022
+[Forrester - Total Economic Impact of PowerBI](https://info.microsoft.com/ww-thankyou-TEI-of-microsoft-power-BI.html?lcid=en-us) | From the information provided in the interviews, Forrester has constructed a Total Economic Impact™ (TEI) framework for those organizations considering implementing Power BI | Forrester
 
 ## Practice References
 
@@ -56,10 +57,11 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
-[PowerBI Community](https://www.microsoftpartnercommunity.com/t5/Business-Intelligence/ct-p/Businessintelligence)| Leverage resources to grow your BI practice |...
+[Power BI Community](https://www.microsoftpartnercommunity.com/t5/Business-Intelligence/ct-p/Businessintelligence)| Leverage resources to grow your BI practice |...
+[Dashboard in a Day (DIAD)](https://powerbi.microsoft.com/en-us/diad/) | A one-day, hands-on workshop for business analysts that covers all the capabilities of Power BI | Power BI
+[Learning Plan Resources for Power BI](https://www.microsoftpartnercommunity.com/t5/Readiness-Training/Learning-Plan-Resources-for-Power-BI/td-p/75556) | Content to assist in upskilling on Microsoft Power BI| Tech Community
 [Power BI Enterprise Deployment Whitepaper](https://aka.ms/PBIEnterpriseDeploymentWP)| This whitepaper covers key considerations, the decisions which will be necessary throughout the process, and potential issues, and best practices|...
-[Forrester - Total Economic Impact of PowerBI](https://info.microsoft.com/ww-thankyou-TEI-of-microsoft-power-BI.html?lcid=en-us) | From the information provided in the interviews, Forrester has constructed a Total Economic Impact™ (TEI) framework for those organizations considering implementing Power BI |...
-[PowerBI Dev Camp](https://github.com/PowerBiDevCamp/) | Power BI Dev Camp is a essential resource for any developer that wants to know about developing on the Power BI developer platform. | Github
+[Power BI Dev Camp](https://github.com/PowerBiDevCamp/) | Power BI Dev Camp is a essential resource for any developer that wants to know about developing on the Power BI developer platform. | Github
 [Building Multi-language Reports in Power BI](https://github.com/PowerBiDevCamp/Multilanguage-Reports)|This repository contains demo files and documentation for the ProductSales.pbix developer sample which demonstrates how to build a multi-language report for Power BI which supports English, Spanish, French, German and Dutch.| Github
 
 ## Power Automate
