@@ -1,5 +1,7 @@
 # Digital Apps and Innovation
 
+![OpenHack](./Library/crucible-digitalapp.png)
+
 
 ## Purpose
 
