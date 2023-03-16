@@ -43,7 +43,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[Sustainability | Well-Architected Review](https://learn.microsoft.com/en-us/assessments/a24b1079-29a4-4d22-b678-376e84884f76/) | Examine your workload through the lens of sustainability. | Microsoft LEarn
+[Sustainability - Well-Architected Review](https://learn.microsoft.com/en-us/assessments/a24b1079-29a4-4d22-b678-376e84884f76/) | Examine your workload through the lens of sustainability. | Microsoft Learn
 [Emissions savings estimator for Microsoft Cloud](https://gw.us-il301.gateway.prod.island.powerapps.com/customerenrollmentservice/estimator/index.html) | This information will be used to understand your current on-premises footprint and comparable Azure footprint. | Power app
 [Emissions Impact Dashboard for Azure](https://appsource.microsoft.com/en-us/product/power-bi/coi-sustainability.emissions_impact_dashboard) | The Emissions Impact Dashboard provides our cloud customers with transparency into their greenhouse gas emissions associated with cloud usage. Our Generally Available version and is available for anyone to download.| App Source
 [Microsoft Solution Center](https://solutions.microsoft.com/) | Ready to set up a new deployment? Choose the cloud solution designed for your industry to get started.
