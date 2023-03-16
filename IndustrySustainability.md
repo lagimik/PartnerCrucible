@@ -20,6 +20,7 @@ Source | Description | Notes
 [Improve your energy and carbon efficiency with Azure sustainability guidance](https://azure.microsoft.com/en-us/blog/improve-your-energy-and-carbon-efficiency-with-azure-sustainability-guidance/) | To support you in navigating this learning curve, we’re announcing technical guidance and skilling offerings that can help you plan your path forward, improve your sustainability posture, and create new business value while reducing your operational footprint.|Microsoft Azure
 
 ## Skilling
+
 Source | Description | Notes
 :----- | :-----  | :-----
 [Azure sustainability guidance Cloud Skills Challenge](https://aka.ms/azure/sustainability/csc) | Azure sustainability guidance Cloud Skills Challenge: this fun, no-cost, interactive program helps skill individuals and teams on Microsoft cloud technologies via a gamified experience utilizing Microsoft Learn content. | MS Learn
@@ -38,6 +39,7 @@ Source | Description | Notes
 [Industry Cloud Partner Sandboxes](https://experience.dynamics.com/requestlicense/)|This portal is used for SI/ISV Connect partners to obtain free or discounted non-production environment licenses with Biz Apps and Power Platform products to learn, test, and deliver end-to-end customer demos with their own solutions. These offers are to be used only on partner tenants, never on customer tenants.| Includes Cloud for Sustainability, FSI, Healthcare, Retail, Nonprofit
 
 ## Sustainability Through Solutions
+
 Source | Description | Notes
 :----- | :-----  | :-----
 [How IoT, AI, and Digital Twins are helping achieve sustainability goals](https://azure.microsoft.com/en-gb/blog/how-iot-ai-and-digital-twins-are-helping-achieve-sustainability-goals/) | Organizations striving to improve their sustainability can make progress toward those goals by using the Internet of Things (IoT) and AI technology that monitors and analyzes their use of resources and resulting emissions. | Azure Blog
