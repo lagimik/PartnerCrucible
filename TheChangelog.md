@@ -12,7 +12,7 @@ This changelog reflects recent the Partner Crucible updates.
 
 ### Week ending March 17, 2023
 
-Changes this week's changes include a focus on Data and AI with Power BI, Oracle on Azure, Azure Data Explorer in a Day, and Hackathon, Github, and Devops to balance things out.
+Changes this week include a focus on Data and AI with Power BI, Oracle on Azure, Azure Data Explorer in a Day, and Hackathon, Github, and Devops to balance things out.
 
 Date | Change | File
 :--- | :----- | ---:
@@ -25,7 +25,7 @@ Date | Change | File
 
 ### Week ending March 10, 2023
 
-Changes this week's changes include OpenAI learning plan and OpenAI workshops on GitHub. Also includes an extensive set of Azure security focussed Github repos.
+Changes this week include OpenAI learning plan and OpenAI workshops on GitHub. Also includes an extensive set of Azure security focussed Github repos.
 
 Date | Change | File
 :--- | :----- | ---:
@@ -38,7 +38,7 @@ Date | Change | File
 
 ### Week ending March 3, 2023
 
-Changes this week's changes include new power apps and business apps practice playbooks, what global partners are doing with cloud for sustainability, and TEI of Azure VMWare services and partner session recordings for AI and MSP tenant access best practices.
+Changes this week include new power apps and business apps practice playbooks, what global partners are doing with cloud for sustainability, and TEI of Azure VMWare services and partner session recordings for AI and MSP tenant access best practices.
 
 Date | Change | File
 :--- | :----- | ---:
