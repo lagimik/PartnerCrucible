@@ -10,9 +10,22 @@ This changelog reflects recent the Partner Crucible updates.
 ## Changelog
 
 
-### Week ending March 11, 2023
+### Week ending March 17, 2023
 
-Changes this week's changes include OpenAI learning plan and OpenAI workshops on GitHub. Also includes an extensive set of Azure security focussed Github repos.
+Changes this week include a focus on Data and AI with Power BI, Oracle on Azure, Azure Data Explorer in a Day, and Hackathon, Github, and Devops to balance things out.
+
+Date | Change | File
+:--- | :----- | ---:
+2023-03-16 | added GitHub and DEvOps references | [See changes here](./DigitalAppsandInnovationSolutionArea)
+2023-03-15 | updated Power BI references | [See changes here](./PowerPlatformSolutionArea)
+2023-03-14 | added Microsoft Garage hackathon guidance | [See changes here](./Hackathon)
+2023-03-14 | added Microsoft Azure Data Manager for Agriculture | [See changes here](./IndustryGeneral)
+2023-03-13 | added Oracle on Azure references | [See changes here](./AzureInfrastructureSolutionArea)
+2023-03-12 | added Azure Data Explorer (ADX) in a Day | [See changes here](./DataAISolutionArea)
+
+### Week ending March 10, 2023
+
+Changes this week include OpenAI learning plan and OpenAI workshops on GitHub. Also includes an extensive set of Azure security focussed Github repos.
 
 Date | Change | File
 :--- | :----- | ---:
@@ -25,7 +38,7 @@ Date | Change | File
 
 ### Week ending March 3, 2023
 
-Changes this week's changes include new power apps and business apps practice playbooks, what global partners are doing with cloud for sustainability, and TEI of Azure VMWare services and partner session recordings for AI and MSP tenant access best practices.
+Changes this week include new power apps and business apps practice playbooks, what global partners are doing with cloud for sustainability, and TEI of Azure VMWare services and partner session recordings for AI and MSP tenant access best practices.
 
 Date | Change | File
 :--- | :----- | ---:

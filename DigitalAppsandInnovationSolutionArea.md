@@ -1,5 +1,7 @@
 # Digital Apps and Innovation
 
+![OpenHack](./Library/crucible-digitalapp.png)
+
 
 ## Purpose
 
@@ -13,6 +15,7 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 
 Source | Description | Notes
 :----- | :---------- | :----
+[The Total Economic Impact Of GitHub Enterprise](https://resources.github.com/forrester/) | GitHub commissioned Forrester Consulting to conduct a Total Economic Impact (TEI) study and examine the potential return on investment (ROI) enterprises may realize by deploying GitHub Enterprise, subsequently referred to as GitHub | 2022 Forrester.
 [The Total Economic Impact™ of Microsoft Azure PaaS](https://azure.microsoft.com/en-ca/resources/the-total-economic-impact-of-microsoft-azure-paas/) | Get insights on how to realize cost savings and increase agility at your org from research and interviews with real Azure customers. Check out The Total Economic Impact of Microsoft Azure PaaS in this 2022 commissioned study conducted by Forrester Consulting | Forrester 2022
 [Magic Quadrant™ for Integration Platform as a Service, Worldwide](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2023-gartner-magic-quadrant-for-integration-platform-as-a-service-worldwide/#:~:text=We%20are%20excited%20that%20for%20the%20fifth%20consecutive,integration%20needs.%20An%20integration%20solution%20for%20all%20developers) | Microsoft named a Leader in 2023 Gartner® Magic Quadrant™ for Integration Platform as a Service, Worldwide | Gartner 2023
 [State of DevOps Report](https://www.puppet.com/resources/state-of-platform-engineering) | Platform Engineering is the DevOps Differentiator — Learn Why| Puppet 2023
@@ -53,13 +56,15 @@ Source | Description | Notes
 :----- | :---------- | :----
 [GitHub Roadmap](https://github.com/orgs/github/projects/4247/views/1) | GitHub public roadmap] | GitHub
 [GitHub Partner Certifications](https://examregistration.github.com/overview) | GitHub certifications are an industry-endorsed approach to demonstrating proficiency with GitHub technologies. These certifications complement Microsoft’s existing role-based certifications, which 'validate knowledge of foundational DevOps and cloud development concepts. GitHub certifications are designed to validate your expertise on applying these concepts with specific GitHub products | GitHub
+[GitHub Advanced Security](https://learn.microsoft.com/en-us/users/githubtraining/collections/rqymc6yw8q5rey) |  The following modules will walk you through GitHub's advanced security features and provide you with the skills needed to recognize, apply, and evaluate these features within your own GitHub environment. | Microsoft Learn
+[Microsoft Azure Immersion Workshop: DevOps with GitHub (MAIW)](https://partner.microsoft.com/en-us/asset/collection/aiw-devops-with-github#/) |  The workshop will go deep on the tooling and process required to implement a modern DevOps approach to improve your productivity and developer velocity. | Partner
 
 ### DevOps
 
 Source | Description | Notes
 :----- | :---------- | :----
+[Well-architected: How a Quality DevOps Process for GitHub Gets Built](https://partner.microsoft.com/en-us/asset/detail/well-architected-how-a-quality-devops-process-for-github-gets-built-mp4) | In this session, we’ll share what defines a well-architected DevOps solution for Azure and how to meet the stringent Service Level Agreements (SLA), Service Level Objectives (SLO), and Service Level Indicators (SLI) that your customers require. In addition, we’ll cover marketplace requirements, monetization, and transactability to improve the agility and marketability of your Azure solutions as you go to market | Partners
 [DevOps Dojo](https://devblogs.microsoft.com/devops/intro-of-devops-dojo/)| Introductions to DevOps Dojo and links to additional topics | May 2021
-[The Total Economic Impact Of GitHub Enterprise](https://resources.github.com/forrester/) | GitHub commissioned Forrester Consulting to conduct a Total Economic Impact (TEI) study and examine the potential return on investment (ROI) enterprises may realize by deploying GitHub Enterprise, subsequently referred to as GitHub | 2022 Forrester.
 [Developer Velocity Assessment](https://developervelocityassessment.com/)| By answering a few simple questions, you can benchmark your maturity score relative to peers in your industry. Then, get actionable guidance to boost Developer Velocity and drive better business results.| June 2022
 [DevOps Self Assessment from DORA, ITRev and MS](https://devblogs.microsoft.com/devops/devops-self-assessment-from-dora-itrev-and-ms/)| Nicole Forsgren, Gene Kim, participants of the DevOps Enterprise Forum and I collaborated on a free starter self-assessment for your team’s DevOps performance | 2017
 [Azure DevOps Demo Generator](https://azuredevopsdemogenerator.azurewebsites.net/)| Azure DevOps Demo Generator helps you create projects on your Azure DevOps Organization with pre-populated sample content that includes source code, work items, iterations, service endpoints, build and release definitions based on a template you choose| Azure DEvOps

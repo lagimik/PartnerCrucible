@@ -129,8 +129,14 @@ Source | Description | Notes
 :----- | :---------- | :----
 [Setup a Microsoft Defender for Identity security alert lab](https://learn.microsoft.com/en-us/defender-for-identity/playbook-setup-lab) | The purpose of the Microsoft Defender for Identity Security Alert lab is to illustrate Defender for Identity's capabilities in identifying and detecting suspicious activities and potential attacks against your network. | Microsoft Learn
 
-## Microsoft Purview Information Protection Ninja
+## Purview
 
+Source | Description | Notes
+:----- | :---------- | :----
+[Data Loss Prevention: From on-premises to cloud](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWZOfK) | The purpose of this Microsoft-commissioned study was to delve into the data security landscape to find out how companies are managing and perceiving success of their DLP solutions. The goal of the study was to 1) uncover the top priorities and challenges facing organizations, 2) understand the evolution of firms’ DLP solutions as they address today’s shifting digital landscape, and 3) discover what barriers stand in the way of firms’ adopting cloud DLP solutions. | Microsoft Security
+[Gain flexibility and scale with a cloud-native DLP solution](https://www.microsoft.com/en-us/security/blog/2023/03/15/gain-flexibility-and-scale-with-a-cloud-native-dlp-solution/) | Microsoft spoke to more than 300 data and compliance professionals to create the white paper “Data Loss Prevention: From on-premises to cloud.” We’ve presented some of the study’s highlights here, including common DLP states in use, challenges in migrating to a new DLP solution, best practices, and the benefits of adopting a cloud-native DLP solution. | Microsoft Security
+
+## Microsoft Purview Information Protection Ninja
 
 Source | Description | Notes
 :----- | :---------- | :----
