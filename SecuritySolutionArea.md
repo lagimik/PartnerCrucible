@@ -13,6 +13,7 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 
 Source | Description | Notes
 :----- | :---------- | :----
+[The Total Economic Impact Of Microsoft Security](https://vc2prod.blob.core.windows.net/vc-resources/TEIStudies/TEI%20of%20Microsoft%20Security.pdf?sv=2020-02-10&ss=b&srt=sco&sp=rlx&se=2100-05-14T07:53:18Z&st=2021-05-13T23:53:18Z&spr=https&sig=7UHgHKCjrfJpo9Z6o2zHfTBgpxB9RHIHyCbyJiDePuI%3D) | Microsoft commissioned Forrester Consulting to conduct a Total Economic Impact™ (TEI) study and examine the potential return on investment (ROI) enterprises may realize by deploying Microsoft Security solutions | Forrester 2023
 [2022 Magic Quadrant for Endpoint Protection Platforms](https://www.microsoft.com/en-us/security/blog/2023/03/02/microsoft-is-named-a-leader-in-the-2022-gartner-magic-quadrant-for-endpoint-protection-platforms/) | Microsoft is named a Leader in the 2022 Gartner® Magic Quadrant™ for Endpoint Protection Platforms | Gartner
 [Microsoft Digital Defense Report 2022](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5bUvv?culture=en-us&country=us) | The report is the culmination of Microsoft’s vast data and comprehensive research. It shares our unique insights on how the digital threat landscape is evolving and the crucial actions that can be taken today to improve the security of the ecosystem | Microsoft
 [Security Blog](https://www.microsoft.com/security/blog/)| Official Microsoft Security Blog |...
