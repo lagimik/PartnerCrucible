@@ -9,6 +9,18 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+### Week ending March 24, 2023
+
+Changes this week include a Forrester TEI of Microsoft Security, and references to Sentinel Triage ASsistant, and DLP whitepaper. Subscription Vending  and Landing Zone accelerators for AVS. Finally, hackathon guidance from Microsoft garage on ASP .bet migration references. 
+
+2023-03-24 | added AVS landing solution accelerator | [See changes here](./AzureInfrastructureSolutionArea-LandingZones)
+2023-03-23 | added Microsoft Sentinel Triage AssistanT (STAT) | [See changes here](./SecuritySolutionArea-Sentinel)
+2023-03-23 | added capabilities in Microsoft Cloud for Sustainability | [See changes here](./IndustrySustainability)
+2023-03-21 | added Subscription Vending IaC Modules for Bicep & Terraform | [See changes here](./AzureInfrastructureSolutionArea)
+2023-03-21 | added The Total Economic Impact Of Microsoft Security | [See changes here](./SecuritySolutionArea)
+2023-03-20 | added Hackathon guidance | [See changes here](./Hackthon)
+2023-03-20 | added ASP .net migration via powershell references | [See changes here](./DigitalAppsandInnovationSolutionArea)
+2023-03-19 | added Data Loss Prevention: From on-premises to cloud whitepaper | [See changes here](./SecuritySolutionArea)
 
 ### Week ending March 17, 2023
 
