@@ -1,7 +1,7 @@
 
 # Industry - Sustainability
 
-![Buying Through CSP](./Library/crucible-sustainability-title.png)
+![Industry - Sustainability](./Library/crucible-sustainability-title.png)
 
 
 ## Purpose
@@ -28,6 +28,19 @@ Source | Description | Notes
 [Principles of Sustainable Software Engineering course](https://learn.microsoft.com/training/modules/sustainable-software-engineering-overview) | This Microsoft Learn module provides a primer on the eight principles of Sustainable Software Engineering, covering a wide range of topics such as electricity and carbon efficiency, carbon intensity, and how to think through the trade-offs required for optimization. Accessible to any level of learner familiar with basic computing concepts. | MS Learn
 
 ## Cloud for Sustainability
+
+The Industry Cloud portfolio is an extension of Microsoft's existing Cloud services. As such, the Microsoft Cloud for Sustainability is a set of capabilities that runs on Azure.
+
+![Cloud for Sustainability High-Level Architecture](./Library/cloud-for-sustainability-arch.png)
+
+Component | Description | Notes
+:----- | :-----  | :-----
+Sustainability manager|Microsoft Sustainability Manager is an extensible solution that unifies data intelligence and offers organizations an increasingly automated and comprehensive view into the emissions impact of their entire operations and value chain. It enables organizations to record and more accurately report their emissions, and continually test and optimize reduction strategies to reach their goals.
+Disparate data integration | Microsoft Sustainability Manager helps integrate disparate data from across an enterprise and value chain—from virtually any business system, solution provider, or vendor—and centralizes it with the Microsoft Cloud for Sustainability data model. Microsoft Cloud for Sustainability data model  (new): Cloud for Sustainability water data model (Preview) overview 
+Simplified data calculations|It includes built-in calculation methodologies for Scopes 1 and 2 plus several categories of Scope 3.1 Calculation methods for all 15 categories of Scope 3 emissions will be added over time based on the Greenhouse Gas Protocol. (Learn more about emissions scopes.) The nodular structure of Sustainability Manager and Power FX will also enable customers and partners to build complex calculations to address specific needs.
+Seamless, embedded collaboration and planning |The integration of Microsoft Teams enables sustainability contributors to seamlessly collaborate around Sustainability Manager data and insights and make detailed, strategic plans within the flow of work—helping streamline and speed up their workflow.2
+Platform flexibility and extensibility|Customers and partners can use Microsoft Azure and Power Platform to extend the core capabilities of Sustainability Manager quickly and easily, with custom industry vertical or horizontal solutions, such as new formulas or reports.
+
 
 Source | Description | Notes
 :----- | :-----  | :-----
