@@ -28,8 +28,14 @@ Source | Description | Notes
 [Azure for Services Partners](https://www.microsoft.com/azure/partners/practices/the-opportunity)|Grow your cloud services business with Azure| ...
 [Azure Blog](https://azure.microsoft.com/en-us/blog/)|Office Azure Blog|...
 [Azure Updates](https://azure.microsoft.com/en-us/updates/)|Get the latest updates on Azure products and features to meet your cloud investment needs. Subscribe to notifications to stay informed.|
-[FastTrack for Azure](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/bg-p/FastTrackforAzureBlog) | [Microsoft FastTrack](https://techcommunity.microsoft.com/t5/microsoft-fasttrack/ct-p/FastTrack) engages with customers and partners and maintain a collection of resources here | Tech Community
-[Partner Admin Link](https://partner.microsoft.com/en-us/asset/collection/partner-admin-link#/)|Partner Admin Link (PAL) enables Microsoft to identify and recognize partners who drive Azure customer success. Optimized for managed services where your organization is acting on behalf of the customer, PAL allows you to associate your MCPP ID with the credentials that you use to deliver services within the customer's Azure tenant.| Required MCPP Login
+
+## FastTrack for Azure
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[FastTrack for Azure Blog](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/bg-p/FastTrackforAzureBlog) | [Microsoft FastTrack](https://techcommunity.microsoft.com/t5/microsoft-fasttrack/ct-p/FastTrack) engages with customers and partners and maintain a collection of resources here | Tech Community
+[FastTrack for Azure](https://github.com/Azure/FTALive-Sessions) | This repository has been created to share our FastTrack for Azure Live session materials in one easy to manage location. | Github
+
 
 
 ### Azure Roles and Skills
@@ -63,6 +69,7 @@ Source | Description | Notes
 [Get Recognized for Driving Azure Consumption](https://aka.ms/PALWebcast) | |  MS US
 [PAL Howto: Video](https://partner.microsoft.com/en-us/resources/detail/setting-up-partner-admin-link-video-mp4)|...| Requires MCPP Login
 [PAL FAQ](https://partner.microsoft.com/en-us/resources/detail/pal-partner-faq-docx)| Frequently Asked Questions| Requires MCPP Login
+[Partner Admin Link](https://partner.microsoft.com/en-us/asset/collection/partner-admin-link#/)|Partner Admin Link (PAL) enables Microsoft to identify and recognize partners who drive Azure customer success. Optimized for managed services where your organization is acting on behalf of the customer, PAL allows you to associate your MCPP ID with the credentials that you use to deliver services within the customer's Azure tenant.| Required MCPP Login
 
 
 ### Security
