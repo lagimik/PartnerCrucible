@@ -13,6 +13,7 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 
 Source | Description | Notes
 :----- | :---------- | :----
+[Microsoft recognized as a Leader in The Forrester Wave™: Data Security Platforms, Q1 2023](https://www.microsoft.com/en-us/security/blog/2023/03/22/microsoft-recognized-as-a-leader-in-the-forrester-wave-data-security-platforms-q1-2023/) | Forrester listed Microsoft as a Leader in its  2023 Wave™ for Data Security Platforms. The Forrester Wave™ report evaluates the data security platform market and provides a detailed overview of the current offering, strategy, and market presence of these vendors. Microsoft received the highest possible score in the current offering category for data classification, data threat and risk visibility, data masking or redaction, encryption, rights management, privacy use cases, and integrations for Zero Trust criteria; and in the strategy category for the product vision, execution roadmap, and community engagement criteria. | Forrester
 [The Total Economic Impact Of Microsoft Security](https://vc2prod.blob.core.windows.net/vc-resources/TEIStudies/TEI%20of%20Microsoft%20Security.pdf?sv=2020-02-10&ss=b&srt=sco&sp=rlx&se=2100-05-14T07:53:18Z&st=2021-05-13T23:53:18Z&spr=https&sig=7UHgHKCjrfJpo9Z6o2zHfTBgpxB9RHIHyCbyJiDePuI%3D) | Microsoft commissioned Forrester Consulting to conduct a Total Economic Impact™ (TEI) study and examine the potential return on investment (ROI) enterprises may realize by deploying Microsoft Security solutions | Forrester 2023
 [2022 Magic Quadrant for Endpoint Protection Platforms](https://www.microsoft.com/en-us/security/blog/2023/03/02/microsoft-is-named-a-leader-in-the-2022-gartner-magic-quadrant-for-endpoint-protection-platforms/) | Microsoft is named a Leader in the 2022 Gartner® Magic Quadrant™ for Endpoint Protection Platforms | Gartner
 [Microsoft Digital Defense Report 2022](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5bUvv?culture=en-us&country=us) | The report is the culmination of Microsoft’s vast data and comprehensive research. It shares our unique insights on how the digital threat landscape is evolving and the crucial actions that can be taken today to improve the security of the ecosystem | Microsoft
@@ -105,7 +106,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
-[Microsoft Defender for Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud) |  Will help you work programmatically at scale with Microsoft Defender for Cloud and provide you additional value to secure your environment, some of which has not yet been embedded into the product (yet). | GitHub 
+[Microsoft Defender for Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud) |  Will help you work programmatically at scale with Microsoft Defender for Cloud and provide you additional value to secure your environment, some of which has not yet been embedded into the product (yet). | GitHub
 [Become a Microsoft Defender for Cloud Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/become-a-microsoft-defender-for-cloud-ninja/ba-p/1608761) | This blog post has a curation of many Microsoft Defender for Cloud (formerly known as Azure Security Center and Azure Defender) resources, organized in a format that can help you to go from absolutely no knowledge in Microsoft Defender for Cloud, to design and implement different scenarios |  Tech Community 2022
 
 ## Defender for Cloud Apps
@@ -116,7 +117,7 @@ Source | Description | Notes
 [Microsoft Defender for Cloud Apps Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-defender-for-cloud-apps-ninja-training-june-2022/ba-p/2751518) | Microsoft Defender for Cloud Apps has hundreds of amazing videos available and it can sometimes be overwhelming with determining where to start and how to progress through different levels. We've gone through all these and created this repository of training materials - all in one central location! | June 2022
 [Top Threat Protection use cases in Microsoft Defender for Cloud Apps](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/top-threat-protection-use-cases-in-microsoft-defender-for-cloud/ba-p/3632483) | In this blog, we will showcase the top examples from each part of the threat protection landscape, to protect your organization from cloud apps threats, according to the following classifications: Prevent – SaaS Security Posture Management (SSPM), Detect – Business Email Compromise (BEC)scenario, Respond – Suspend user, Investigate – Investigate a compromised user| Sept 2022
 
-## Defender for Endpoint 
+## Defender for Endpoint
 
 Source | Description | Notes
 :----- | :---------- | :----
