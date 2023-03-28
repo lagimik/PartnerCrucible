@@ -56,8 +56,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[A Guide to Data Governance](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GEtu) | Data Governance is about ensuring that the data being used in your core business 
-operations, reports and analyses is protected and can be trusted | Microsoft
+[A Guide to Data Governance](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GEtu) | Data Governance is about ensuring that the data being used in your core business operations, reports and analyses is protected and can be trusted | Microsoft
 [Guided Purview Learning Path](./Docs/Guided%20purview%20learning%20path%20-%20CAN%20FY23-%20kickoff.pdf) | 6 weeks from zero to hero with Purview: This guide is meant for anyone interested in learning more about data governance on Azure. For an average of 3-4 hours per week during 6 weeks, you’ll understand the basics of Purview and get hands-on experience with its various components, capabilities, and solutions. Go from zero to hero with Purview to set your company up for future data governance success | PDF
 [Microsoft Purview Workshop](https://github.com/tayganr/purviewlab) | 16 Purview learning modules | by @tayganr on Github 
 [Data Governance and Compliance with Microsoft Purview - Tech Intensity Series](https://msuspartners.eventbuilder.com/EnablePurview) | Extending the Purview name and bringing together data governance capabilities from Data & AI and compliance and risk solutions from Security into one product family, and rebranding to Microsoft Purview | August 2022
