@@ -20,12 +20,14 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[Sales Category Playbook](https://aka.ms/D365SalesPartnerPlaybook) | Practice Playbook |
-[Digital Contact Center Platform Playbook](https://aka.ms/DCCPPartnerPlaybook) | Practice Playbook |
-[Customer Service Playbook](https://aka.ms/D365CSPartner)| Practice Playbook |
-[Field Service Playbook](https://aka.ms/D365FSPartner)| Practice Playbook |
-[Customer Experience Platform Playbook](https://aka.ms/MCXPPartner)| Practice Playbook |
-[Project Operations Playbook](https://dynamicspartners.transform.microsoft.com/download/protected?assetname=protectedassets/Service-centric%20ERP%20Practice%20Partner%20Playbook.pdf&download=1&protected=1) | Practice Playbook |
+[Customer Service Playbook](https://aka.ms/D365CSPartner)| This playbook is intended for current Microsoft Business Applications Partners, current Microsoft Partners in areas other than Business Apps, and new Microsoft partners that are launching a customer service practice built on Dynamics 365 Customer Service |  Transform
+[Field Service Playbook](https://aka.ms/D365FSPartner)| This playbook is intended for current Microsoft Business Applications Partners, current Microsoft Partners that specialize in solution areas other than Biz Apps, and new Microsoft partners who are launching a field service practice built on Dynamics 365 Field Service |  Transform
+[Customer Experience Platform Playbook](https://aka.ms/MCXPPartner)| The Microsoft Customer Experience Platform is a complete marketing stack that learns from every customer interaction to optimize and deliver meaningful experiences. The stack delivers unparalleled customer insights through the interconnected nature of the tools and services that make it up, which include Microsoft Dynamics 365 and Power Platform, Microsoft 365 and the Teams modern workplace environment, and Azure. |  Transform
+[Sales Category Playbook](https://aka.ms/D365SalesPartnerPlaybook) |This playbook is intended for current Microsoft Business Applications Partners current Microsoft Partners in areas other than Business Apps, and new Microsoft partners that are launching a practice built on Microsoft Dynamics 365 Sales|  Transform
+[Digital Contact Center Platform Playbook](https://aka.ms/DCCPPartnerPlaybook) | This playbook is intended for current Microsoft Business Applications Partners, current Microsoft Partners in areas other than Business Apps, and new Microsoft partners that are launching a digital contact center practice built on Microsoft Dynamics 365 |  Transform
+[Project Operations Playbook](https://dynamicspartners.transform.microsoft.com/download/protected?assetname=protectedassets/Service-centric%20ERP%20Practice%20Partner%20Playbook.pdf&download=1&protected=1) | This playbook is intended for new and existing Microsoft partners who are launching a service-centric ERP practice built on Dynamics 365 Project Operations. | Transform
+[Connected Commerce](https://pbapstorageprod.blob.core.windows.net/protectedassets/Connected%20Commerce%20Practice%20Building%20Playbook.pdf?sv=2019-07-07&sr=b&sig=KRHVi%2B3ENWin7rYhGCS1w4U6TW7nEzrX2IX3RCAGSJY%3D&se=2023-03-29T20%3A10%3A03Z&sp=r) | This playbook is intended for new and existing Microsoft partners who are launching a Connected Commerce practice built on Dynamics 365 Commerce, e-commerce, Connected Spaces, Intelligent Order Management, and Fraud Protection. | Transform
+
 
 ## Partner Practice Development References
 
