@@ -9,6 +9,21 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+### Week ending March 31, 2023
+
+Changes this week include a Forrester Wave for Data security platforms, Azure and Business Apps FastTrack references, and some insight into ChatGPT from Microsoft Mechanics. 
+
+Date | Change | File
+:--- | :----- | ---:
+2023-03-29 | updated practice playbook descriptions | [See changes here](./BusinessApplicationsSolutionArea)
+2023-03-29 | added changes for FastTrack Recognized solutions architects | [See changes here](./BusinessApplicationsSolutionArea)
+2023-03-28 | added Microsoft Mechanics ChatGPT & OpenAI powering your apps | [See changes here](./DataAISolutionArea)
+2023-03-27 | Microsoft recognized as a Leader in The Forrester Wave: Data Security Platforms, Q1 2023 | [See changes here](./SecuritySolutionArea)
+2023-03-27 | added resources for FAstTrack for Azure GitHub repo | [See changes here](./AzureInfrastructureSolutionArea)
+2023-03-27 | added FastTrack for Business Apps references | [See changes here](./BusinessApplicationsSolutionArea)
+2023-03-25 | updated  description of sustainability manager | [See changes here](./IndustrySustainability.md)
+
+
 ### Week ending March 24, 2023
 
 Changes this week include a Forrester TEI of Microsoft Security, and references to Sentinel Triage ASsistant, and DLP whitepaper. Subscription Vending  and Landing Zone accelerators for AVS. Finally, hackathon guidance from Microsoft garage on ASP .bet migration references. 
