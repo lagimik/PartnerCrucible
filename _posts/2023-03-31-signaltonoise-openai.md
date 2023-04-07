@@ -1,6 +1,6 @@
 ---
 title: "Signal:Noise - OpenAI"
-date: 2023-03-31
+date: 2023-04-28
 ---
 
 ![Signal to Noise](/PartnerCrucibLibrasignaltonoise-saasjourney.png)
@@ -61,11 +61,11 @@ I normally don't do posts like this, but maybe someone will find it helpful. All
 Credits: Generative AI Market Map by Kelvin Mu
 
 
-## Way forward - *Mainstream* path to SaaS
+## Way forward - *Mainstream* path to OpenAI
 
 
 
-## Way forward - *Insiders* path to SaaS
+## Way forward - *Insiders* path to OPenAI
 
 
 
