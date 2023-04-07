@@ -44,6 +44,7 @@ Source | Description | Notes
 [Azure OpenAI Service pricing](https://azure.microsoft.com/en-gb/pricing/details/cognitive-services/openai-service/) |  Optimise costs with a pay-as-you-go consumption model and a price per unit for each model.| 
 [Request Access to Azure OpenAI Services](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu) | Azure OpenAI text and code models: Azure OpenAI Service requires registration and is currently only available to Microsoft managed customers and partners.| Customer Voice
 [ChatGPT & OpenAI powering your apps](https://www.youtube.com/watch?v=3t3qZu1Dy1k) | For your next application, leverage large-scale, generative AI models with a deep understanding of language and code, using Azure’s OpenAI service. Interact with models using natural language, prompts, and few-shot learning. Use the Azure OpenAI Studio to experiment and test your models before bringing them into your code to deliver differentiated app experiences, all with Azure’s enterprise-grade security built-in. | Microsoft Mechanics
+[Prompt Engineering 101 - Introduction and resources](https://www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain/) | By Xavier  (Xavi) Amatriain | LinkedIn
 
 ## CosmosDB
 
