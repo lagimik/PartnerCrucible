@@ -7,6 +7,12 @@ A Collection of resources for Microsoft practice building in the Data and AI sol
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
+## Industry
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Gartner Magic Quadrant for Analytics and Business Intelligence](https://lnkd.in/eVw-syW3) | Microsoft is recognized as a leader in the 2023 Gartner MQ for Analytics and Business Intelligence Platforms.| April 2023 Gartner
+
 ## Partner Practice
 
 Source | Description | Notes
