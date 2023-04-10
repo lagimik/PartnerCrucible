@@ -9,6 +9,17 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+### Week ending April 7, 2023
+
+Changes this week include an introduction prompt engineering and other videos from the AI Show, Gartner MQ for Analytics and Business Intelligence, and DevOps Threat Matrix. 
+
+Date | Change | File
+:--- | :----- | ---:
+2023-04-09 | added references to AI Show | [See changes here](./DataAISolutionArea)
+2023-04-07 | added prompt-engineering-101 | [See changes here](./DataAISolutionArea)
+2023-04-07 | Gartner Magic Quadrant for Analytics and Business Intelligence | [See changes here](./DataAISolutionArea)
+2023-04-07 | added devops threat matrix | [See changes here](./DigitalAppsandInnovationSolutionArea)
+
 ### Week ending March 31, 2023
 
 Changes this week include a Forrester Wave for Data security platforms, Azure and Business Apps FastTrack references, and some insight into ChatGPT from Microsoft Mechanics. 
