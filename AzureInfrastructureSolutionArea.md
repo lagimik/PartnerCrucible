@@ -112,6 +112,8 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Azure Center for SAP Solutions (ACSS)](https://www.microsoft.com/en-us/us-partner-blog/2022/11/09/kickstart-your-sap-deployment-with-azure-center-for-sap-solutions-acss-part-i/) | rameworks and automations that current cloud providers are offering to deploy, manage and optimize their SAP workloads | US Partner Blog
+[What is Azure Monitor for SAP solutions](https://learn.microsoft.com/en-us/azure/sap/monitor/about-azure-monitor-sap-solutions) | Azure Monitor for SAP solutions is an Azure-native monitoring product for SAP landscapes that run on Azure. | Microsoft Learn
 [Establish an SAP on Azure Center of Excellence](https://aka.ms/AzureCenterforSAPsolutions) | |
 [SAP on Azure Immersion Workshops](https://aka.ms/aiwpartners) | |
 [Skill up](https://aka.ms/SAPonAzureResources) | |
