@@ -17,6 +17,8 @@ date: 2023-04-28
 
 ## ...
 
+I think this would be cool in terms of building your own copliot as an example
+reuse the presentaiton you did. 2 birds, one stone 
 Use cases
 Sentinel copilot
 anytime you would otherwise need to sift through a ton of multi format input
@@ -63,10 +65,19 @@ Credits: Generative AI Market Map by Kelvin Mu
 
 ## Way forward - *Mainstream* path to OpenAI
 
+Onboard to Github Copilot: 
+https://github.com/login?return_to=%2Fgithub-copilot%2Fsignup
+Use github copilot to write the code
+Onboard to OpenAI: 
+Request Access to Azure OpenAI Service (microsoft.com)
+Use Github as a starting point 
+openai/openai-cookbook: Examples and guides for using the OpenAI API (github.com)
+Azure Samples (github.com)
 
 
 ## Way forward - *Insiders* path to OPenAI
 
-
+prompt engineering
+other insider nuggets
 
 [< Back to Signal:Noise index](/PartnerCrucibSignaltoNoise)
