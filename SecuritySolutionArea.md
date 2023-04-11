@@ -28,6 +28,7 @@ Source | Description | Notes
 [Customer Connection Programs](www.aka.ms/prseccom)|By signing up for the ongoing program, you will receive access to our NDA roadmap calls, design exercises, surveys, and private previews.|...
 [Afternoon Cyber Tea with Ann Johnson](https://open.spotify.com/show/3bLXLVq9nSoj3xtrNh0Br5) | Ann Johnson, Corporate Vice President, Business Development, Security, Compliance & Identity at Microsoft, talks with cybersecurity thought leaders and influential industry experts about the trends shaping the cyber landscape and what should be top-of-mind for the C-suite and other key decision makers. Ann and her guests explore the risk and promise of tools and systems powered by AI, IoT, machine learning, and other emerging technology, as well as the impact on how humans work, communicate, consume information, and live in this era of digital transformation. Please note, the opinions expressed by guests on this podcast are their own and are not endorsed by, nor do they necessarily reflect opinions of, Microsoft or Ann Johnson.| Spotify
 [Get Security Done (GSD)](https://dcaddick.github.io/gsd_public/) | Looking to collaborate on helping Customers and Partners uplift Security via the Microsoft Defender Suite | from @dcaddick
+[My Faber Security](https://myfabersecurity.com/) | Security, Compliance, and Identity blogs, focusing on Microsoft Security offerings. | from @AngelicaFaber
 
 ## Partner Practice
 
