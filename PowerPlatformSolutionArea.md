@@ -57,7 +57,10 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Join the Power BI Partner Community](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR8drSp2x0QRGiQ3Hbkpe_DRUMENQR0pJWUNITEpMUEpWTVlFN0dXOFlJOS4u) | The Power BI Partner Community is a Microsoft Teams site created for Power BI partners listed on https://powerbi.microsoft.com/en-us/ to collaborate and connect with the engineering team. Currently, we have about 2,900 members. | Form
 [Power BI Community](https://www.microsoftpartnercommunity.com/t5/Business-Intelligence/ct-p/Businessintelligence)| Leverage resources to grow your BI practice |...
+[Tech Talks: Business Intelligence ​Partner Community Call Series](http://aka.ms/TechTalksBI) | This is a weekly call on Wednesdays from 8 – 9am Pacific Time held via Teams and hosted by the Microsoft BAP SI Success Team and Engineering SMEs. During these calls, Microsoft Engineering members will provide updates on key technical capabilities, partner program updates, trainings, resources, and more spanning Business Intelligence. Don’t miss this opportunity to learn the latest and greatest about Power BI, Azure Synapse Analytics, and more – directly from its developers!  | Partner Community
+[Power BI](https://powerplatformpartners.transform.microsoft.com/products/powerbi) | Power BI Partner Landing Page  | Transform
 [Dashboard in a Day (DIAD)](https://powerbi.microsoft.com/en-us/diad/) | A one-day, hands-on workshop for business analysts that covers all the capabilities of Power BI | Power BI
 [Learning Plan Resources for Power BI](https://www.microsoftpartnercommunity.com/t5/Readiness-Training/Learning-Plan-Resources-for-Power-BI/td-p/75556) | Content to assist in upskilling on Microsoft Power BI| Tech Community
 [Power BI Enterprise Deployment Whitepaper](https://aka.ms/PBIEnterpriseDeploymentWP)| This whitepaper covers key considerations, the decisions which will be necessary throughout the process, and potential issues, and best practices|...
