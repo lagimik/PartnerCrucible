@@ -58,7 +58,8 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[Analytics end-to-end with Azure Synapse](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end?tabs=portal) | This example scenario demonstrates how to use Azure Synapse Analytics with the extensive family of Azure Data Services to build a modern data platform that's capable of handling the most common data challenges in an organization. | Azure Azrhictecture Centre
+[Analytics end-to-end with Azure Synapse](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end?tabs=portal) | This example scenario demonstrates how to use Azure Synapse Analytics with the extensive family of Azure Data Services to build a modern data platform that's capable of handling the most common data challenges in an organization. | Azure Architecture Centre
+[Azure Synapse Influencer program](https://azure.github.io/Synapse/influencers/#:~:text=The%20Azure%20Synapse%20Influencer%20Program%20brings%20together%20like-minded,of%20users%2C%20and%20achieve%20more%20through%20Azure%20Synapse.) | The Azure Synapse Influencer program recognizes Azure Synapse Analytics community members who actively support one another by sharing Synapse-related content, announcements, and product news via social media. | Github
 
 ## Purview
 
