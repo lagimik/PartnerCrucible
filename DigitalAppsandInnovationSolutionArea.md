@@ -76,6 +76,7 @@ which lead to shortened systems development lifecycles | Github
 
 Source | Description | Notes
 :----- | :---------- | :----
+[Azure Skills Navigator for Java](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-skills-navigator-java/Azure%20Skills%20Navigator%20-%20Java%20FINAL.pdf) | This guide helps you navigate the resources and training for choosing the right service, building, and deploying, monitoring, and expanding the capabilities of Java applications on Azure.  | Azure Skills Navigator
 [Get Started with Java on Azure](https://learn.microsoft.com/en-us/training/paths/get-started-java-azure/) | Start here and learn how you can build, migrate and scale Java applications on Azure using Azure services. Use tools and frameworks that you know and love – Spring, Tomcat, WildFly, JBoss, WebLogic, WebSphere, Maven, Gradle, IntelliJ, Eclipse, Jenkins, Terraform and more.| MS Learn
 [Java on Azure](https://aka.ms/partner/java)| prerecorded, online course, you'll learn how Microsoft Azure supports Java workload and processes with several options. Watch this video series to understand how Azure App Service, Azure Spring Cloud, Azure Kubernetes Service, and Azure managed database services help you to focus on writing code instead of on deployment complexities|...
 [Code, deploy, and scale Java your way](https://developer.microsoft.com/en-us/java) | Microsoft supports your workload with abundant choices, whether you're working on a Java app, app server, or framework.|
