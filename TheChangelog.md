@@ -9,6 +9,24 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+### Week ending April 14, 2023
+
+Changes this week include some key Data and AI MarketScape from IDC for Vision and MLOps, AI Zero to Hero, Synapse Influencer program. On the security front, Sentinel POC Architecture Recommendations by My Faber Security (@AngelicaFaber). For developers, the references to the 2020-2021 enterprise devops report and Java skills navigator. Finally, power platform references were refreshed and now include measuring the business value of Power Platform solutions. 
+
+Date | Change | File
+:--- | :----- | ---:
+2023-04-15 | added Measuring business value of Power Platform solution | [See changes here](./PowerPlatformSolutionArea)
+2023-04-14 | Added IDC MarketScape for computer Vision and MLOps | [See changes here](./DataAISolutionArea)
+2023-04-13 | added AI: Zero to Hero in 4 weeks with Machine Learning | [See changes here](./DataAISolutionArea)
+2023-04-13 | added the Azure Skills Navigator for Java | [See changes here](./DigitalAppsandInnovationSolutionArea)
+2023-04-12 | Added Sentinel POC Architecture and Recommendations for MSSPs by My Faber Security | [See changes here](./SecuritySolutionArea-Sentinel)
+2023-04-12 | refreshed the PowerBI resources | [See changes here](./PowerPlatformSolutionArea)
+2023-04-12 | added Azure Synapse Influencer program | [See changes here](./DataAISolutionArea)
+2023-04-11 | added references to Azure Center for SAP | [See changes here](./AzureInfrastructureSolutionArea)
+2023-04-11 | added My Faber Security Blog in Community | [See changes here](./SecuritySolutionArea)
+2023-04-11 | added Enterprise DevOps Report 2020-2021 | [See changes here](./DigitalAppsandInnovationSolutionArea)
+
+
 ### Week ending April 7, 2023
 
 Changes this week include an introduction prompt engineering and other videos from the AI Show, Gartner MQ for Analytics and Business Intelligence, and DevOps Threat Matrix. 
