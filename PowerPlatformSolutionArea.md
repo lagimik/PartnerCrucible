@@ -22,6 +22,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Measuring business value of Power Platform solutions](https://learn.microsoft.com/en-us/power-platform/guidance/adoption/business-value) | Measuring business value in Power Platform is a critical aspect of ensuring success and return on investment. Power Platform offers organizations a low-code/no-code platform for building applications, automating tasks, streamlining business processes, and infusing AI into your solutions.| Microsoft Learn
 [Low Code Playbook](https://www.linkedin.com/smart-links/AQFToYVCP7OaWw/8704231a-c00d-4ddb-b4cc-7768aae14ec1) | Practice Playbook | LinkedIn
 [Power platform enablement guide](https://assetsprod.microsoft.com/mpn/en-us/power-platform-partner-enablement-guide.pdf)| Top news, upcoming training, certifications and exams, and additional resources updated monthly  | Requires MNP
 [Microsoft Power Platform Partner Portal](https://powerplatformpartners.transform.microsoft.com)| Partner Transform Portal for Power Platform | Accessible based on solution partner status
