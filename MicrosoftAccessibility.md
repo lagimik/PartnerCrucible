@@ -16,6 +16,7 @@ Source | Description | Notes
 [Accessibility fundamentals](https://docs.microsoft.com/en-ca/training/paths/accessibility-fundamentals/) | with more than 1 billion people with disabilities in the world, Microsoft believes accessibility and inclusion are essential to delivering on our mission to empower every person and every organization on the planet to achieve more.|
 
 ## Innovation and Design References
+
 Source | Description | Notes
 :----- | :---------- | :-----
 [Microsoft Inclusive Design](https://www.microsoft.com/design/inclusive/) | Inclusive Design is a methodology, born out of digital environments, that enables and draws on the full range of human diversity. Most importantly, this means including and learning from people with a range of perspectives. | Toolkits:<br> - - Inclusive 101 <br> - Inclusive Activities
