@@ -10,21 +10,21 @@ date: 2023-04-18
 
 # Generative AI with OpenAI
 
-This post aims to provide some signal to partners around generative AI by exploring the elements of the solutions and elements of a practice and a starting points for the journey.
+This post aims to provide  signal to partners around generative AI by exploring the elements of the solutions and elements of a practice and a starting points for the journey.
 
 ## TL;DR
 
-* A *human-in-the-loop / Copilot* approach structures interactions to guide the generative AI capabilities.
+* A *human-in-the-loop / Copilot* approach is used to structure interactions to guide the generative AI capabilities.
 * It is essential to follow responsible AI principles when working with generative AI.
-* To begin exploring what the potential of *Azure OpenAI Service* could be for your company and your customers a first step could be be to leverage *GitHub Copilot* first-hand.
+* To begin exploring what the potential of *Azure OpenAI Service* could be for your company, and your customers, a first step could be be to leverage *GitHub Copilot* first-hand.
 * Azure OpenAI Services consists of the following models: *GPT-3 (soon GPT-4), ChatGPT, DALL-E, and Codex*
-* Through *human-in-the-loop* interactions with the above models new family of patterns is emerging including: *Retrieve-then-read, Plan-then-write, and Learn-then-generate*
-* A Generative AI practice will involve some customer discovery and exploration that can be facilitated through design thinking techniques such as: *empathy mapping, how might we?, rapid prototyping, and experimentation*.
+* Through *human-in-the-loop* interactions a new family of patterns is emerging including: *Retrieve-then-read, Plan-then-write, and Learn-then-generate*
+* A Generative AI practice will involve some customer discovery and exploration that can be facilitated through design thinking techniques such as: *empathy mapping, how might we? questions, rapid prototyping, and experimentation*.
 * A Generative AI practice will require expertise around *data sources, data processing, generative models, and output channels*
 
 ## Human-in-the-loop
 
-Generative AI is an emerging capability that can be injected into a creative process. A *human-in-the-loop / Copilot*  approach structures interactions to guide the generative AI capabilities. This can provide step-wise gains in productivity across a wide range of tasks. At the same time, tapping into these augmentation use-cases will take some exploration and discovery to pace customers through the journey in a responsible manner.
+Generative AI is an emerging capability that can be injected into a creative process. This includes development, writing, and visual arts. A *human-in-the-loop / Copilot*  approach is used to structure interactions to guide the generative AI capabilities. This can provide step-wise gains in productivity across a wide range of tasks. At the same time, tapping into these augmentation use-cases will take some exploration and discovery to pace customers through the journey in a responsible manner.
 
 ## Responsible AI
 
@@ -39,11 +39,11 @@ The following is an example set of responsible AI principles:
 - **Privacy & Security**: The generative AI should respect the privacy and consent of the data subjects and protect the confidentiality and integrity of the data used or generated.
 - **Human-centeredness**: The generative AI should augment rather than replace human intelligence and creativity and promote human values and well-being.
 
-By following these principles, we can ensure that generative AI is used in a responsible, ethical and beneficial way for society.
+By following principles, tailored to your context, generative AI can be used in a responsible, ethical and beneficial way.
 
 ## GitHub Copilot - Experiential Discovery of Generative AI
 
-To begin exploring what the potential of *Azure OpenAI Service* could  be for your company and your customers a first step could be be to leverage *GitHub Copilot* first-hand. Codex, one of the models in the OpenAI Service, provides a great example of how the augmentation with AI can amplify the developer role.
+To gain an appreciation of the potential of *Azure OpenAI Service* could be for your company, and your customers, a first step could be be to leverage *GitHub Copilot* first-hand. *Codex*, one of the models in the OpenAI Service, provides a great example of how augmentation with AI can amplify the developer.
 
 GitHub Copilot is a powerful tool that can help independent software vendors (ISVs) and professional services companies to develop high-quality code faster and easier. It acts as a code assistant that can suggest code completions, snippets, tests, and documentation based on the context of your code and the best practices of the GitHub community. GitHub Copilot can help you to:
 
