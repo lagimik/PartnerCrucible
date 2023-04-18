@@ -109,11 +109,11 @@ Component | Description | Solutions
 - Leverage resources on the Partner Crucible [OpenAI on the Partner Crucible](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea)
 
 
-## Way forward - *Insiders* path to OPenAI
+## Way forward - *Insiders* path to OpenAI
 
 - Tune into the [AI Show](https://learn.microsoft.com/en-ca/shows/ai-show/?ocid=aid2463683&wt.mc_id=aiml-17954-sejuare)
-- Onboard to OpenAI: [Request Access to Azure OpenAI Service](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu))
-- Use GitHub as a starting point [ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search](https://github.com/Azure-Samples/azure-search-openai-demo)
+- Onboard to the Azure OpenAI Service: [Request Access to Azure OpenAI Service](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu)
+- Use GitHub as a launch pad [ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search](https://github.com/Azure-Samples/azure-search-openai-demo)
 - Explore the OpenAI Cookbook [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
  
 
