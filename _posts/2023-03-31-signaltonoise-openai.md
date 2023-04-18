@@ -3,7 +3,7 @@ title: "Signal:Noise - Generative AI with OpenAI"
 date: 2023-04-18
 ---
 
-![Signal to Noise](/PartnerCrucibLibrasignaltonoise-generativeai.png)
+![Signal to Noise](/PartnerCrucible/Library/signaltonoise-generativeai.png)
 
 
 [< Back to Signal:Noise index](/PartnerCrucibSignaltoNoise)
@@ -13,7 +13,7 @@ date: 2023-04-18
 ## TL;DR
 
 * The a *human-in-the-loop* approach structures interactions to guide the generative AI capabilities.
-* To begin exploring what the potential of Azure OpenAI Service could  be for your company and your customers a first step could be be to leverage *GitHub Copilot* for yourselves.
+* To begin exploring what the potential of *Azure OpenAI Service* could be for your company and your customers a first step could be be to leverage *GitHub Copilot* first-hand.
 * Azure OpenAI SErvices consists of the following models: GPT-3 (soon GPT-4), ChatGPT, DALL-E, and Codex
 * Through human-in-the-loop interactions with the above models new family of patterns is emerging including: *Retrieve-then-read, Plan-then-write, and Learn-then-generate*
 * The Generative AI journey will involve some discovery and exploration that can be facilitated through design thinking techniques such as: *empathy mapping, how might we?, rapid prototyping, and experimentation*.
@@ -22,7 +22,7 @@ date: 2023-04-18
 
 Generative AI is an emerging capability that can be injected into a creative process. The *human-in-the-loop* approach structures interactions to guide the generative AI capabilities. This can provide step-wise gains in productivity across a wide range of tasks. At the same time, tapping into these augmentation use-cases will take some exploration and discovery to pace customers through the journey in a responsible manner.
 
-# Experiential Discovery with Generative AI
+# Experiential Discovery of Generative AI
 
 To begin exploring what the potential of Azure OpenAI Service could  be for your company and your customers a first step could be be to leverage GitHub Copilot for yourselves. Codex, one of the models in the OpenAI Service, provides a great example of how the augmentation with AI can amplify the developer role.
 
@@ -47,7 +47,6 @@ Azure OpenAI Services consists of the following models (as of April 2023):
 | DALL·E | AI model that can generate images from text prompts. | Generating images for e-commerce product catalogs, automating graphic design. | Wipro used DALL·E to create a virtual trial room for a fashion client, enabling customers to see how an outfit would look on them before purchasing. |
 | ChatGPT | AI model that can generate and understand conversations. | Creating chatbots, improving customer service. | HSBC used ChatGPT to create a virtual assistant for its website, which was able to answer customer queries in a natural language. |
 | Codex | AI model that can generate and understand code. | Automating programming tasks, improving developer productivity. | Soul Machines used Codex to develop an AI-powered assistant for software developers, which was able to write code and provide guidance on programming tasks. |
-
 
 # Explore Generative AI Patterns
 
@@ -77,7 +76,7 @@ Approach | Description
 
 
 ## Way forward - *Mainstream* path to OpenAI
-
+-[Responsible AI resources](https://www.microsoft.com/en-us/ai/responsible-ai-resources?activetab=pivot1%3aprimaryr4)
 - Use github copilot to write the code [Onboard to Github Copilot](https://github.com/login?return_to=%2Fgithub-copilot%2Fsignup)
 - Onboard to OpenAI: [Request Access to Azure OpenAI Service](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu))
 Use Github as a starting point 
