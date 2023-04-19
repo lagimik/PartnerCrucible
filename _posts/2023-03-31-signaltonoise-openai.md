@@ -113,7 +113,7 @@ Component | Description | Solutions
 
 - Tune into the [AI Show](https://learn.microsoft.com/en-ca/shows/ai-show/?ocid=aid2463683&wt.mc_id=aiml-17954-sejuare)
 - Onboard to the Azure OpenAI Service: [Request Access to Azure OpenAI Service](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu)
-- Use GitHub as a launch pad [ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search](https://github.com/Azure-Samples/azure-search-openai-demo)
+- Use GitHub as a launch pad [Azure OpenAI Samples](https://github.com/Azure/openai-samples)
 - Explore the OpenAI Cookbook [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
  
 
