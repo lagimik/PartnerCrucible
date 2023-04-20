@@ -73,6 +73,14 @@ which lead to shortened systems development lifecycles | Github
 [DevOps Self Assessment from DORA, ITRev and MS](https://devblogs.microsoft.com/devops/devops-self-assessment-from-dora-itrev-and-ms/)| Nicole Forsgren, Gene Kim, participants of the DevOps Enterprise Forum and I collaborated on a free starter self-assessment for your team’s DevOps performance | 2017
 [Azure DevOps Demo Generator](https://azuredevopsdemogenerator.azurewebsites.net/)| Azure DevOps Demo Generator helps you create projects on your Azure DevOps Organization with pre-populated sample content that includes source code, work items, iterations, service endpoints, build and release definitions based on a template you choose| Azure DEvOps
 
+### API First
+
+[Build REST APIs in three steps with API Management and Azure Functions](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-rest-apis-in-three-steps-with-api-management-and-azure/ba-p/1869627) |  A design-first approach allows you to  design your API in API Management and export it to an OpenAPI specification file, which could be used to bring organizational alignment and serve as a guidance for implementing backend services that support the API logic and client applications that consume the API. | Tech Community
+[Generate a new function app from an OpenAPI specification](https://azure.microsoft.com/en-au/updates/generate-a-new-function-app-from-an-openapi-specification/) | You can now generate function apps by importing an OpenAPI specification via the Azure Functions VS Code extension or command line. This new capability automatically generates all the necessary functions for your API, pre-configured based on the OpenAPI specification. Once generated, you add the business logic to each function/route as necessary.| Azure updates
+[Export API definition to Postman for API testing and monitoring](https://learn.microsoft.com/en-us/azure/api-management/export-api-postman) | Export an API definition from API Management as a Postman collection so that you can use Postman's tools to design, document, test, monitor, and collaborate on APIs.| Microsoft Learn
+
+
+
 ### Java
 
 Source | Description | Notes
