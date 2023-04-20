@@ -48,8 +48,6 @@ Source | Description | Notes
 :----- | :---------- | :----
 [WhatTheHack on GitHub](https://github.com/microsoft/WhatTheHack) | Community driven openhack resources  | ,,,
 
-### Containers
-[Container Service Options and Guidance in Azure](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/container-service-options-and-guidance-in-azure/ba-p/3732666) | The main scope of this blog is to evaluate and understand the capabilities and limitations of Azure container services to help you choose the optimal platform for your container deployments. | Tech Community
 
 ### GitHub
 
@@ -79,7 +77,9 @@ which lead to shortened systems development lifecycles | Github
 [Generate a new function app from an OpenAPI specification](https://azure.microsoft.com/en-au/updates/generate-a-new-function-app-from-an-openapi-specification/) | You can now generate function apps by importing an OpenAPI specification via the Azure Functions VS Code extension or command line. This new capability automatically generates all the necessary functions for your API, pre-configured based on the OpenAPI specification. Once generated, you add the business logic to each function/route as necessary.| Azure updates
 [Export API definition to Postman for API testing and monitoring](https://learn.microsoft.com/en-us/azure/api-management/export-api-postman) | Export an API definition from API Management as a Postman collection so that you can use Postman's tools to design, document, test, monitor, and collaborate on APIs.| Microsoft Learn
 
+### Containers
 
+[Container Service Options and Guidance in Azure](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/container-service-options-and-guidance-in-azure/ba-p/3732666) | The main scope of this blog is to evaluate and understand the capabilities and limitations of Azure container services to help you choose the optimal platform for your container deployments. | Tech Community
 
 ### Java
 
