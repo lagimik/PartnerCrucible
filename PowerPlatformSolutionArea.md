@@ -29,6 +29,7 @@ Source | Description | Notes
 [Power Platform Release Planner](https://experience.dynamics.com/releaseplans/?app=Power+Apps) | Released, Coming Soon, and Planned | Preview
 [Power Platform PAL Association](https://partner.microsoft.com/en-us/training/assets/detail/associate-your-power-apps-customer-deployments-to-your-partner-org-video-mp4) | Video to Learn how to associate your Power Apps customer deployments to your partner organization MCPP ID and get closer to attaining the Low Code Application Development Advanced specialization. | Questions and Answers starts at 25 minute mark.<br> Association in non-production environments is discussed at 32 minute mark
 [Power Platform Basic Training](https://docs.microsoft.com/en-us/learn/browse/?products=powerapps%2Cflow%2Cpower-automate&levels=beginner)| Basic Training| ...
+[PowerApps Developer PLan to build and test Power Apps for free](https://powerapps.microsoft.com/en-ca/developerplan/) | Create apps and flows without writing code with full-featured Power Apps and Power Automate development tools. Easily share and collaborate with others. | Power Platform
 
 ## Power Platform
 
