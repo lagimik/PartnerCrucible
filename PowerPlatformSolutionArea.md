@@ -12,6 +12,7 @@ A Collection of resources for Microsoft practice building in the Power platform 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
 ## Industry
+
 Source | Description | Notes
 :----- | :---------- | :-----
 [Magic Quadrant™ for Enterprise Low-Code Application Platforms](https://powerapps.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2023-gartner-magic-quadrant-for-enterprise-low-code-application-platforms/) | We are excited to see Microsoft named a Leader in 2023 Gartner® Magic Quadrant™ for Enterprise Low-Code Application Platforms for the fourth consecutive time. | Gartner
