@@ -9,9 +9,22 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+### Week ending April 21, 2023
+
+Changes this week include PowerApps Developer Plan (free environments for partner), guidance around API Design-First approaches, and Azure OpenAI Samples on GitHub, responsible AI, and a Signal:Noise post on the Azure OpenAI partner journey.
+
+Date | Change | File
+:--- | :----- | ---:
+2023-04-21 | added references to PowerApps Developer Plan to build and test Power Apps for free | [See changes here](./PowerPlatformSolutionArea)
+2023-04-20 | added references to API design first approach | [See changes here](./DigitalAppsandInnovationSolutionArea)
+2023-04-19 | added references to Azure OpenAI Samples | [See changes here](./DigitalAppsandInnovationSolutionArea)
+2023-04-19 | added references to Prompt Engine | [See changes here](./DataAISolutionArea)
+2023-04-18 | Publish Signal:Noise Azure OPenAI Post | [See changes here](./2023/04/18/signaltonoise-openai.html)
+2023-04-18 | added references to Responsible AI Resources | [See changes here](./DataAISolutionArea)
+
 ### Week ending April 14, 2023
 
-Changes this week include some key Data and AI MarketScape from IDC for Vision and MLOps, AI Zero to Hero, Synapse Influencer program. On the security front, Sentinel POC Architecture Recommendations by My Faber Security (@AngelicaFaber). For developers, the references to the 2020-2021 enterprise devops report and Java skills navigator. Finally, power platform references were refreshed and now include measuring the business value of Power Platform solutions. 
+Changes this week include some key Data and AI MarketScape from IDC for Vision and MLOps, AI Zero to Hero, Synapse Influencer program. On the security front, Sentinel POC Architecture Recommendations by My Faber Security (@AngelicaFaber). For developers, the references to the 2020-2021 enterprise devops report and Java skills navigator. Finally, power platform references were refreshed and now include measuring the business value of Power Platform solutions.
 
 Date | Change | File
 :--- | :----- | ---:
@@ -29,7 +42,7 @@ Date | Change | File
 
 ### Week ending April 7, 2023
 
-Changes this week include an introduction prompt engineering and other videos from the AI Show, Gartner MQ for Analytics and Business Intelligence, and DevOps Threat Matrix. 
+Changes this week include an introduction prompt engineering and other videos from the AI Show, Gartner MQ for Analytics and Business Intelligence, and DevOps Threat Matrix.
 
 Date | Change | File
 :--- | :----- | ---:
@@ -40,7 +53,7 @@ Date | Change | File
 
 ### Week ending March 31, 2023
 
-Changes this week include a Forrester Wave for Data security platforms, Azure and Business Apps FastTrack references, and some insight into ChatGPT from Microsoft Mechanics. 
+Changes this week include a Forrester Wave for Data security platforms, Azure and Business Apps FastTrack references, and some insight into ChatGPT from Microsoft Mechanics.
 
 Date | Change | File
 :--- | :----- | ---:
@@ -52,10 +65,9 @@ Date | Change | File
 2023-03-27 | added FastTrack for Business Apps references | [See changes here](./BusinessApplicationsSolutionArea)
 2023-03-25 | updated  description of sustainability manager | [See changes here](./IndustrySustainability.md)
 
-
 ### Week ending March 24, 2023
 
-Changes this week include a Forrester TEI of Microsoft Security, and references to Sentinel Triage ASsistant, and DLP whitepaper. Subscription Vending  and Landing Zone accelerators for AVS. Finally, hackathon guidance from Microsoft garage on ASP .bet migration references. 
+Changes this week include a Forrester TEI of Microsoft Security, and references to Sentinel Triage ASsistant, and DLP whitepaper. Subscription Vending  and Landing Zone accelerators for AVS. Finally, hackathon guidance from Microsoft garage on ASP .bet migration references.
 
 Date | Change | File
 :--- | :----- | ---:
