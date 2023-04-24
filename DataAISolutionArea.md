@@ -14,6 +14,7 @@ Source | Description | Notes
 [Gartner Magic Quadrant for Analytics and Business Intelligence](https://lnkd.in/eVw-syW3) | Microsoft is recognized as a leader in the 2023 Gartner MQ for Analytics and Business Intelligence Platforms.| April 2023 Gartner
 [IDC MarketScape: Worldwide General-Purpose Computer Vision AI Software Platform 2022 Vendor Assessment](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-generalpurpose-computer-vision-ai-software-platform-2022-vendor/)| Microsoft has been recognized as a Leader in the IDC MarketScape: Worldwide General-purpose Computer Vision AI Software Platform 2022 Vendor Assessment (doc #US49776422, November 2022). | IDC MarketScape
 [DC MarketScape: Worldwide MLOps Platforms 2022 Vendor Assessment](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-mlops-platforms-2022-vendor-assessment/) | Microsoft has been recognized as a Leader in the IDC MarketScape Worldwide Machine Learning Operations (MLOps) Platforms 2022 Vendor Assessment.| IDC MarketScape
+[The Forrester Wave™: Content Platforms, Q1 2023](https://techcommunity.microsoft.com/t5/microsoft-syntex-blog/microsoft-recognized-as-a-leader-in-forrester-wave-for-content/ba-p/3798091) | Microsoft recognized as a Leader in Forrester Wave for Content Platforms| Forrester
 
 ## Partner Practice
 
