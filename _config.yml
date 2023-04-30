@@ -10,5 +10,8 @@ url: "https://lagimik.github.io" # the base hostname & protocol for your site, e
 twitter_username: lagimik
 github_username:  lagimik
 
+# Google Anaytics
+measurement_id: G-RYZGVB8WWM
+
 # Build settings
 theme: jekyll-theme-slate
