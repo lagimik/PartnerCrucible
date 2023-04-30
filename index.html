@@ -8,13 +8,14 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/PartnerCrucible/Library/favicon-16x16.png">
 <link rel="manifest" href="/PartnerCrucible/Library/site.webmanifest">
 
-<!-- page view counter -->
-<script async src="https://api.countapi.xyz/hit/lagimik.github.io/PartnerCrucible?callback=cb"></script>
-
+<!-- page analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RYZGVB8WWM"></script>
 <script>
-    function cb(response) {
-        document.getElementById('PartnerCrucible').innerText = response.value;
-    }
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-RYZGVB8WWM');
 </script>
 
 <style>
