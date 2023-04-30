@@ -43,6 +43,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[OpenAI Learning Collection](https://sway.office.com/YLu2lOkCjvtNCHZC?ref=Link) | From Quickstarts to L100, L200, L300, and L400 content| Microsoft GPS Canada
 [Introduction to Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/) | Understand how you can use Azure OpenAI to build solutions against AI models within Azure.| Microsoft Learn
 [Learning Plan Resources for Azure OpenAI](https://microsoft.github.io/PartnerResources/azure/data-analytics-ai/openai) | This document is under active development. Please check regularly for updates | Microsoft US
 [Responsible AI Resources](https://www.microsoft.com/en-us/ai/responsible-ai-resources) | Explore resources designed to help you responsibly use AI at every stage of innovation - from concept to development, deployment, and beyond.|
