@@ -9,6 +9,18 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+### Week ending April 28, 2023
+
+Changes this week include the OpenAI learning collection, data transformation gameplan, and Forrester Wave for Content Platform. Also included is the Low-code signals blog post based on Edelman Assembly research.
+
+Date | Change | File
+:--- | :----- | ---:
+2023-04-30 | added Low-code signals 2023, by Microsoft and Edelman | [See changes here](./PowerPlatformSolutionArea)
+2023-04-26 | added references to TCO calculator | [See changes here](./AzureInfrastructureSolutionArea)
+2023-04-29 | added references to the OpenAI Learning Collection | [See changes here](./DataAISolutionArea)
+2023-04-24 | added references to the data transformation game plan | [See changes here](./DataAISolutionArea)
+2023-04-24 | added The Forrester Wave: Content Platforms, Q1 2023 | [See changes here](./DataAISolutionArea)
+
 ### Week ending April 21, 2023
 
 Changes this week include PowerApps Developer Plan (free environments for partner), guidance around API Design-First approaches, and Azure OpenAI Samples on GitHub, responsible AI, and a Signal:Noise post on the Azure OpenAI partner journey.
