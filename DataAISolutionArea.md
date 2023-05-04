@@ -39,22 +39,34 @@ Source | Description | Notes
 [Azure Database for MySQL Developer Guide](https://azure.microsoft.com/en-us/resources/azure-database-for-mysql-developer-guide/?OCID=mysql_dev_pdf_wk4_try_azd) | he Azure Database for MySQL Developer Guide is a comprehensive guide to developing MySQL-based applications in Azure. This guide contains actionable insights and proven best practices to successfully deploy cloud applications for MySQL in Azure. Towards the end of the guide, you can find links to tutorial jumpstarts, begin developing a sample PHP application, or select an evolved version utilizing a microservices architecture on AKS. | Azure Skills Navigator
 
 
-## OpenAI
+## Responsible AI
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[OpenAI Learning Collection](https://sway.office.com/YLu2lOkCjvtNCHZC?ref=Link) | From Quickstarts to L100, L200, L300, and L400 content| Microsoft GPS Canada
-[Introduction to Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/) | Understand how you can use Azure OpenAI to build solutions against AI models within Azure.| Microsoft Learn
-[Learning Plan Resources for Azure OpenAI](https://microsoft.github.io/PartnerResources/azure/data-analytics-ai/openai) | This document is under active development. Please check regularly for updates | Microsoft US
 [Responsible AI Resources](https://www.microsoft.com/en-us/ai/responsible-ai-resources) | Explore resources designed to help you responsibly use AI at every stage of innovation - from concept to development, deployment, and beyond.|
-[Azure OpenAI Workshop](https://github.com/Azure/azure-openai-workshop) | In this workshop, you will learn how to use the Azure OpenAI service to create AI powered solutions. You will get hands-on experience with the latest AI technologies and will learn how to use Azure OpenAI API.| GitHub
+
+## Azure OpenAI Services
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Azure OpenAI Service Documentation](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/) | Learn how to use Azure OpenAI's powerful language models including the GPT-3, Codex and Embeddings model series for content generation, summarization, semantic search, and natural language to code translation. | Microsoft Learn
 [Azure OpenAI Service pricing](https://azure.microsoft.com/en-gb/pricing/details/cognitive-services/openai-service/) |  Optimise costs with a pay-as-you-go consumption model and a price per unit for each model.|
 [Request Access to Azure OpenAI Services](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu) | Azure OpenAI text and code models: Azure OpenAI Service requires registration and is currently only available to Microsoft managed customers and partners.| Customer Voice
+
+## Azure OpenAI Learning Path
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[PArtner Learning Plan Resources for Azure OpenAI](https://microsoft.github.io/PartnerResources/azure/data-analytics-ai/openai) | This document is under active development. Please check regularly for updates | Microsoft US
+[OpenAI Learning Collection](https://sway.office.com/YLu2lOkCjvtNCHZC?ref=Link) | From Quickstarts to L100, L200, L300, and L400 content| Microsoft GPS Canada
+[Introduction to Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/) | Understand how you can use Azure OpenAI to build solutions against AI models within Azure.| Microsoft Learn
+[Azure OpenAI Workshop](https://github.com/Azure/azure-openai-workshop) | In this workshop, you will learn how to use the Azure OpenAI service to create AI powered solutions. You will get hands-on experience with the latest AI technologies and will learn how to use Azure OpenAI API.| GitHub
 [ChatGPT & OpenAI powering your apps](https://www.youtube.com/watch?v=3t3qZu1Dy1k) | For your next application, leverage large-scale, generative AI models with a deep understanding of language and code, using Azure’s OpenAI service. Interact with models using natural language, prompts, and few-shot learning. Use the Azure OpenAI Studio to experiment and test your models before bringing them into your code to deliver differentiated app experiences, all with Azure’s enterprise-grade security built-in. | Microsoft Mechanics
 [Prompt Engineering 101 - Introduction and resources](https://www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain/) | By Xavier  (Xavi) Amatriain | LinkedIn
 [Prompt Engine](https://github.com/microsoft/prompt-engine) | This repo contains an NPM utility library for creating and maintaining prompts for Large Language Models (LLMs).| GitHub
 [The AI Show](https://aka.ms/AIShowsubscribe) | The AI Show Live showcases the amazing work happening in AI at Microsoft. Developers learn what's new in AI in a short amount of time and are directed to assets helping them get started and on the road to success right away. Seth Juarez and friends work on cool projects and highlight what's new in Azure AI and Machine Learning. | Microsoft Learn
 [Azure OpenAI Samples](https://github.com/Azure/openai-samples) | This repo is a compilation of useful Azure OpenAI Service resources and code samples to help you get started and accelerate your technology adoption journey. | GitHub
+
 
 ## CosmosDB
 
