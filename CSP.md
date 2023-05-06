@@ -24,6 +24,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[GDAP roles by partner types](https://learn.microsoft.com/en-us/partner-center/gdap-least-privileged-roles-by-task#gdap-roles-by-partner-types) | Recommended for indirect providers to transact and manage | Microsoft Learn
 [Admin on behalf of (AOBO)](https://learn.microsoft.com/en-us/shows/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) | AOBO for O365 and Azure | MS Learn
 [Providing Support to your customers un CSP ](https://docs.microsoft.com/en-us/partner-center/customer-support)|Description of support requirements under CSP|..|
 [Transfer Azure subscriptions between subscribers and CSPs](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp) | This article provides high-level steps used to transfer Azure subscriptions to and from Cloud Solution Provider (CSP) partners and their customers.| MS Learn
