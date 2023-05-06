@@ -11,7 +11,7 @@ This changelog reflects recent the Partner Crucible updates.
 
 ### Week ending May 5, 2023
 
-Changes this week include reference for GPDAP roles for indirect providers, Landing Zones for Mainframe and Midrange workloads, and Azure OPenAI service references and learnings paths.
+Changes this week include reference for GDAP roles for indirect providers, Landing Zones for Mainframe and Midrange workloads, and Azure OPenAI service references and learnings paths.
 
 Date | Change | File
 :--- | :----- | ---:
