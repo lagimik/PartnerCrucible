@@ -9,6 +9,17 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+### Week ending May 5, 2023
+
+Changes this week include reference for GPDAP roles for indirect providers, Landing Zones for Mainframe and Midrange workloads, and Azure OPenAI service references and learnings paths.
+
+Date | Change | File
+:--- | :----- | ---:
+2023-05-06 | added  Recommended for indirect providers to transact and manage | [See changes here](./CSP)
+2023-05-05 | added Azure Landing Zone Accelerator for Modernized Mainframe and Midrange workloads | [See changes here](./AzureInfrastructureSolutionArea-LandingZones)
+2023-05-04 | extended Azure Open AI Service references | [See changes here](./DataAISolutionArea)
+
+
 ### Week ending April 28, 2023
 
 Changes this week include the OpenAI learning collection, data transformation gameplan, and Forrester Wave for Content Platform. Also included is the Low-code signals blog post based on Edelman Assembly research.
