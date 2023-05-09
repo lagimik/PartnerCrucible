@@ -50,6 +50,7 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :-----  | :-----
 [Azure OpenAI Service Documentation](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/) | Learn how to use Azure OpenAI's powerful language models including the GPT-3, Codex and Embeddings model series for content generation, summarization, semantic search, and natural language to code translation. | Microsoft Learn
+[Plan to manage costs for Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/how-to/manage-costs) | This article describes how you plan for and manage costs for Azure OpenAI Service.  | Microsoft Learn
 [Azure OpenAI Service pricing](https://azure.microsoft.com/en-gb/pricing/details/cognitive-services/openai-service/) |  Optimise costs with a pay-as-you-go consumption model and a price per unit for each model.|
 [Request Access to Azure OpenAI Services](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu) | Azure OpenAI text and code models: Azure OpenAI Service requires registration and is currently only available to Microsoft managed customers and partners.| Customer Voice
 
