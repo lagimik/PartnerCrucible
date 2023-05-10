@@ -20,6 +20,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[FY23 Data & AI Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy23-data-and-ai-azure-playbook-1.pdf) | Data & AI Practice playbook including partner programs and sales| Partner
 [Azure Partner Enablement Guide](https://assetsprod.microsoft.com/mpn/en-us/azure-partner-enablement-guide.pdf)| Enablement guide for Azure partners... | updated ~monthly
 [Azure Data & AI Partner Sales Acceleration Program (PSAP)](https://partner.microsoft.com/en-us/training/assets/collection/azure-data-and-ai-partner-sales-acceleration-program-psap#/) | The Azure Data & AI Partner Sales Acceleration Program (PSAP) provides access to sales assets and video guidance on how best to use these in enterprise sales engagements. | Microsoft Partner
 [The data transformation game plan](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW11It9) |  Data democratization empowers employees at all levels with the necessary insights to expedite decision-making, allowing organizations to gain competitive advantage. | Microsoft
@@ -28,6 +29,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Azure AI Bootcamp](https://vshow.on24.com/vshow/Azure_Depth/registration/22504) | Attend this bootcamp to learn about Azure artificial intelligence (AI) services designed for developers and data scientists to do more with less. Take advantage of responsible AI practices, decades of breakthrough research, and flexibility that Azure AI offers to build and deploy your own AI solutions. Engage with Microsoft leaders and product experts to acquire the knowledge to access and integrate high-quality vision, speech, language, and decision-making AI models through simple API (application programming interfaces) calls in your apps and services and create your own machine learning models with tools like Jupyter Notebooks, Visual Studio Code, and open-source frameworks like TensorFlow and PyTorch. | On-demand
 [Hands on with AI](https://aidemos.microsoft.com/) | Dive in to interactive demos that showcase a selection of the capabilities of the Microsoft AI platform | AI demos
 [AI & ML Academy](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy) | This academy includes 5 modules, all of which build on top of each other. It incorporates technical assets as well as best practices. We include common AI/ML scenarios that we have seen throughout various industries. The objective of the academy is to help you all move faster and build effective solutions | MSUS
 [AI and Machine Learning Partner Prep](https://msuspartners.eventbuilder.com/AIMLPartnerPrep) | On-demand videos - These sessions will allow your team to develop the capabilities of enabling customer adoption of AI and implementing Azure solutions for AI-powered apps and machine learning life cycles. | Events
@@ -38,37 +40,8 @@ Source | Description | Notes
 [MySQL Developer Learning Journey](https://azure.microsoft.com/en-us/resources/mysql-developer-learning-journey/?OCID=mysql_dev_pdf_MySQL_page) | Learn more about Azure Database for MySQL and application development in Azure with videos, tutorials, and training modules curated for MySQL Developers. Use this 30-day learning path to grow your skills and develop and deploy applications faster in Azure.  | Azure Skills Navigator
 [Azure Database for MySQL Developer Guide](https://azure.microsoft.com/en-us/resources/azure-database-for-mysql-developer-guide/?OCID=mysql_dev_pdf_wk4_try_azd) | he Azure Database for MySQL Developer Guide is a comprehensive guide to developing MySQL-based applications in Azure. This guide contains actionable insights and proven best practices to successfully deploy cloud applications for MySQL in Azure. Towards the end of the guide, you can find links to tutorial jumpstarts, begin developing a sample PHP application, or select an evolved version utilizing a microservices architecture on AKS. | Azure Skills Navigator
 
-
-## Responsible AI
-
-Source | Description | Notes
-:----- | :-----  | :-----
-[Responsible AI Resources](https://www.microsoft.com/en-us/ai/responsible-ai-resources) | Explore resources designed to help you responsibly use AI at every stage of innovation - from concept to development, deployment, and beyond.|
-
-## Azure OpenAI Services
-
-Source | Description | Notes
-:----- | :-----  | :-----
-[Azure OpenAI Service Documentation](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/) | Learn how to use Azure OpenAI's powerful language models including the GPT-3, Codex and Embeddings model series for content generation, summarization, semantic search, and natural language to code translation. | Microsoft Learn
-[Plan to manage costs for Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/how-to/manage-costs) | This article describes how you plan for and manage costs for Azure OpenAI Service.  | Microsoft Learn
-[Azure OpenAI Service pricing](https://azure.microsoft.com/en-gb/pricing/details/cognitive-services/openai-service/) |  Optimise costs with a pay-as-you-go consumption model and a price per unit for each model.|
-[Request Access to Azure OpenAI Services](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu) | Azure OpenAI text and code models: Azure OpenAI Service requires registration and is currently only available to Microsoft managed customers and partners.| Customer Voice
-
-## Azure OpenAI Learning Path
-
-Source | Description | Notes
-:----- | :-----  | :-----
-[Partner Learning Plan Resources for Azure OpenAI](https://microsoft.github.io/PartnerResources/azure/data-analytics-ai/openai) | This document is under active development. Please check regularly for updates | Microsoft US
-[OpenAI Learning Collection](https://sway.office.com/YLu2lOkCjvtNCHZC?ref=Link) | From Quickstarts to L100, L200, L300, and L400 content| Microsoft GPS Canada
-[Introduction to Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/) | Understand how you can use Azure OpenAI to build solutions against AI models within Azure.| Microsoft Learn
-[Azure OpenAI Workshop](https://github.com/Azure/azure-openai-workshop) | In this workshop, you will learn how to use the Azure OpenAI service to create AI powered solutions. You will get hands-on experience with the latest AI technologies and will learn how to use Azure OpenAI API.| GitHub
-[ChatGPT & OpenAI powering your apps](https://www.youtube.com/watch?v=3t3qZu1Dy1k) | For your next application, leverage large-scale, generative AI models with a deep understanding of language and code, using Azure’s OpenAI service. Interact with models using natural language, prompts, and few-shot learning. Use the Azure OpenAI Studio to experiment and test your models before bringing them into your code to deliver differentiated app experiences, all with Azure’s enterprise-grade security built-in. | Microsoft Mechanics
-[Prompt Engineering 101 - Introduction and resources](https://www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain/) | By Xavier  (Xavi) Amatriain | LinkedIn
-[Prompt Engine](https://github.com/microsoft/prompt-engine) | This repo contains an NPM utility library for creating and maintaining prompts for Large Language Models (LLMs).| GitHub
-[The AI Show](https://aka.ms/AIShowsubscribe) | The AI Show Live showcases the amazing work happening in AI at Microsoft. Developers learn what's new in AI in a short amount of time and are directed to assets helping them get started and on the road to success right away. Seth Juarez and friends work on cool projects and highlight what's new in Azure AI and Machine Learning. | Microsoft Learn
-[Azure OpenAI Samples](https://github.com/Azure/openai-samples) | This repo is a compilation of useful Azure OpenAI Service resources and code samples to help you get started and accelerate your technology adoption journey. | GitHub
-[Azure Cosmos DB + OpenAI ChatGPT](https://github.com/Azure-Samples/cosmosdb-chatgpt) | This sample application combines Azure Cosmos DB with OpenAI ChatGPT with a Blazor Server front-end for an intelligent chat bot application that shows off how you can build a simple chat application with OpenAi ChatGPT and Azure Cosmos DB.| GitHub
-
+## Azure OpenAI
+This section has been regrouped here: [Data & AI > Azure OpenAI](./DataAISolutionArea-AzureOpenAI)
 
 ## CosmosDB
 
@@ -112,3 +85,8 @@ Source | Description | Notes
 [YouTube](https://lnkd.in/e5cRUCs7) | ADX YouTube Channel|
 
 
+## Demos
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Data & AI Industry DREAM Demos & DREAM Demo in a Box](https://partner.microsoft.com/en-us/asset/collection/industry-dream-demos-and-dream-demo-in-a-box#/) | Data & AI Industry DREAM Demos are realistic clickable demos based on actual customer engagements that cover a range of industry scenarios in story form. These can be used to help both BDMs and TDMs envision how to bring Data & AI to life in their organization. The walkthrough material offers step by step guidance on how land this with customers. DREAM Demos in a Box are packaged Industry Scenario DREAM Demos with ARM templates that can be deployed in a customer’s subscription using the CAPE tool in just a few hours, enabling customers to test out the demo scenarios. | Partner
