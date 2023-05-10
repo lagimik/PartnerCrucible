@@ -1,4 +1,4 @@
-# Data &AI > Azure OpenAI
+# Data & AI > Azure OpenAI
 
 
 ## Purpose
