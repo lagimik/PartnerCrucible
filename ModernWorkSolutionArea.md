@@ -21,7 +21,7 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :-----  | :-----
 [Modern Work partner enablement guide](https://assetsprod.microsoft.com/mpn/en-us/modern-work-partner-enablement.pdf)| Top news, upcoming training, certifications and exams, and additional resources updated ~monthly | Requires MCPP login
-[Modern Work Partner Sales Enablement Program](https://partner.microsoft.com/en-us/training/assets/collection/modern-work-partner-sales-acceleration-program-psap#/) | his program offers best practices and presentation resources that will guide you in shaping a business-first sales model that focuses on the Modern Work solution area and its core sales plays.| Microsoft Partner 
+[Modern Work Partner Sales Enablement Program](https://partner.microsoft.com/en-us/training/assets/collection/modern-work-partner-sales-acceleration-program-psap#/) | his program offers best practices and presentation resources that will guide you in shaping a business-first sales model that focuses on the Modern Work solution area and its core sales plays.| Microsoft Partner
 [Value Calculator](https://vc.transform.microsoft.com/) | The Value Calculator uses real customer data to show the ROI that organizations can achieve by adopting our solutions across Modern Work, Security, Surface and more! Costs and benefits are calculated based on values from third-party Forrester TEI studies. The tool provides standardized and custom calculations to help you create a business case specific to your customer’s environment and needs.| Requires MCPP
 [Microsoft 365 adoption tools](https://adoption.microsoft.com/en-us/) | Drive value with Microsoft 365 adoption tools. Use our resources to go from inspiration to execution with our productivity cloud. Get started, experiment with our services, and onboard employees at scale while being confident that you are improving the employee experience.| Microsoft Adoption
 [Partner Learning](https://readiness.transform.microsoft.com/)| Partner training starting point| Requires MCPP login
@@ -52,6 +52,11 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [Zero Trust deployment plan with Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/security/microsoft-365-zero-trust?bc=%2Fsecurity%2Fzero-trust%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity%2Fzero-trust%2Ftoc.json&view=o365-worldwide) | This article provides a deployment plan for building Zero Trust security with Microsoft 365. | Microsoft Learn
 
+## M365 Lighthouse
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[M365 Lighthouse](https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/microsoft-365-lighthouse-helps-you-secure-and-improve-the-health/ba-p/3818774) | Microsoft 365 Lighthouse makes it easier than ever for Managed Service Providers (MSPs) to deliver services to small- and medium-sized customers at scale, with multi-tenant management capabilities that help secure users, devices, apps, and data across customer tenants. | Tech Community
 ## Hybrid
 
 Source | Description | Notes
@@ -88,6 +93,6 @@ Source | Description | Notes
 [Viva Business Learning Path and Assessment](https://partner.microsoft.com/en-US/training/assets/collection/microsoft-viva-employee-experience-business-learning-path#/)| Designed for executives, sales staff and account leads, the Business Rapid Assessment will test your knowledge of employee experience trends, specific Microsoft Viva module offerings, Employee Experience benefits, and more. | -Qualify for Modern Work go-to-market programs like Microsoft Viva workshops and investments to grow your Employee Experience practice
 [Viva Technical Learning Path and Assessment](https://partner.microsoft.com/en-US/training/assets/collection/microsoft-viva-employee-experience-technical-learning-path#/)| Created with IT admins and implementation specialists in mind, the Technical Rapid Assessment will test your knowledge of Microsoft Viva module implementation, feature experiences, tech requirements and similar technical necessities.
 [Viva adoption](https://adoption.microsoft.com/en-us/viva/) | Includes latest latest Work Trend Index, Josh Bersin employee experience assessment tool| Microsft Adoption
-[The People-Powered Workplace: Reimagine the Employee Experience](https://info.microsoft.com/ww-landing-the-people-powered-workplace.html?LCID=EN-US) | Viva ebook - Learn new ways to empower your people and teams by creating a new kind of workplace—one centered around your employees and their experience. | Microsoft 
+[The People-Powered Workplace: Reimagine the Employee Experience](https://info.microsoft.com/ww-landing-the-people-powered-workplace.html?LCID=EN-US) | Viva ebook - Learn new ways to empower your people and teams by creating a new kind of workplace—one centered around your employees and their experience. | Microsoft
 
 
