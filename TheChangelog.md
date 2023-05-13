@@ -17,7 +17,6 @@ Date | Change | File
 :--- | :----- | ---:
 2023-05-12 | added references to Cognixia GenAI DNA Framework | [See changes here](./DataAISolutionArea-AzureOpenAI)
 2023-05-12 | added references to ACSS and Azure monitor for SAP | [See changes here](./AzureInfrastructureSolutionArea)
-2023-05-12 | Merge branch 'main' of https://github.com/lagimik/PartnerCrucible | [See changes here](./)
 2023-05-12 | added Microsoft Channel Incentives | [See changes here](./PartnerPortals)
 2023-05-11 | added references to M365 lighthouse | [See changes here](./ModernWorkSolutionArea)
 2023-05-11 | added GPT 4 preview waitlist registration | [See changes here](./DataAISolutionArea-AzureOpenAI)
