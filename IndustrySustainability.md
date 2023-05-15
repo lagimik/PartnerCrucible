@@ -14,20 +14,21 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[2022 Environmental Sustainability Report](https://aka.ms/SustainabilityReport2022) | In 2020, we announced that Microsoft will be a carbon negative, water positive, zero waste company that protects ecosystems—all by 2030. Three years into this journey, we continue to make steady progress and remain steadfast in our commitment.| Microsoft
 [Microsoft Cloud for Sustainability: Catalyzing progress with our global partners](https://www.microsoft.com/en-us/industry/blog/sustainability/2023/02/28/microsoft-cloud-for-sustainability-catalyzing-progress-with-our-global-partners/#PartnersMakeMorePossible)| Example cloud for sustainability solutions from global partners| Partner Blog
 [Industry Resources](https://microsoft.github.io/PartnerResources/industry/)| Industry resources| Microsoft US
-[Sustainability Insider Program](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR1nWe0_9tKxEuN9c6D44qtNUOVZZVlpWMDVKVEs5M1dVVkc3TjdSMFpZVSQlQCN0PWcu) | Join the Microsoft Cloud for Sustainability Insider Program | ...
-[Improve your energy and carbon efficiency with Azure sustainability guidance](https://azure.microsoft.com/en-us/blog/improve-your-energy-and-carbon-efficiency-with-azure-sustainability-guidance/) | To support you in navigating this learning curve, we’re announcing technical guidance and skilling offerings that can help you plan your path forward, improve your sustainability posture, and create new business value while reducing your operational footprint.|Microsoft Azure
+
 
 ## Skilling
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Sustainability Insider Program](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR1nWe0_9tKxEuN9c6D44qtNUOVZZVlpWMDVKVEs5M1dVVkc3TjdSMFpZVSQlQCN0PWcu) | Join the Microsoft Cloud for Sustainability Insider Program | ...
 [Azure sustainability guidance Cloud Skills Challenge](https://aka.ms/azure/sustainability/csc) | Azure sustainability guidance Cloud Skills Challenge: this fun, no-cost, interactive program helps skill individuals and teams on Microsoft cloud technologies via a gamified experience utilizing Microsoft Learn content. | MS Learn
 [Azure sustainability guidance Microsoft Learn Collection](https://aka.ms/azure/sustainability/collection) | developed as a starting point to help you find relevant learning content on Azure sustainability initiatives, share this with friends and colleagues today and check back for updates in the weeks and months ahead.  | MS Learn
 [Principles of Sustainable Software Engineering course](https://learn.microsoft.com/training/modules/sustainable-software-engineering-overview) | This Microsoft Learn module provides a primer on the eight principles of Sustainable Software Engineering, covering a wide range of topics such as electricity and carbon efficiency, carbon intensity, and how to think through the trade-offs required for optimization. Accessible to any level of learner familiar with basic computing concepts. | MS Learn
 
-## Cloud for Sustainability
+## Microsoft Cloud for Sustainability
 
 The Industry Cloud portfolio is an extension of Microsoft's existing Cloud services. As such, the Microsoft Cloud for Sustainability is a set of capabilities that runs on Azure.
 
@@ -57,6 +58,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Improve your energy and carbon efficiency with Azure sustainability guidance](https://azure.microsoft.com/en-us/blog/improve-your-energy-and-carbon-efficiency-with-azure-sustainability-guidance/) | To support you in navigating this learning curve, we’re announcing technical guidance and skilling offerings that can help you plan your path forward, improve your sustainability posture, and create new business value while reducing your operational footprint.|Microsoft Azure
 [Sustainability - Well-Architected Review](https://learn.microsoft.com/en-us/assessments/a24b1079-29a4-4d22-b678-376e84884f76/) | Examine your workload through the lens of sustainability. | Microsoft Learn
 [Emissions savings estimator for Microsoft Cloud](https://gw.us-il301.gateway.prod.island.powerapps.com/customerenrollmentservice/estimator/index.html) | This information will be used to understand your current on-premises footprint and comparable Azure footprint. | Power app
 [Emissions Impact Dashboard for Azure](https://appsource.microsoft.com/en-us/product/power-bi/coi-sustainability.emissions_impact_dashboard) | The Emissions Impact Dashboard provides our cloud customers with transparency into their greenhouse gas emissions associated with cloud usage. Our Generally Available version and is available for anyone to download.| App Source
