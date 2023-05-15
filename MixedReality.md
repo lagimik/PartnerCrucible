@@ -2,7 +2,7 @@
 
 ## Purpose
 
-A collection of resources for Microsoft practice building in the Digital Apps and Innovation - Mixed Reality solution area. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md).
+A collection of resources for Microsoft practice building in the Digital Apps and Innovation - Mixed Reality solution area. For a view of other solution areas, please see the [Taxonomy](./Taxonomy).
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 

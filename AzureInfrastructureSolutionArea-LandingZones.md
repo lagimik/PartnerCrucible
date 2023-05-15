@@ -6,7 +6,7 @@
 
 ## Purpose
 
-A Collection of resources for Microsoft practice building in the **Azure Landing Zones**. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md).
+A Collection of resources for Microsoft practice building in the **Azure Landing Zones**. For a view of other solution areas, please see the [Taxonomy](./Taxonomy).
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 

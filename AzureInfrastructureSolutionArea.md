@@ -4,7 +4,7 @@
 
 ![Azure Infrastructure](./Library/Azure-Logo.png)
 
-A Collection of resources for Microsoft practice building in the Azure solution area. For a view of other solution areas, please see the [Taxonomy](Taxonomy.md).
+A Collection of resources for Microsoft practice building in the Azure solution area. For a view of other solution areas, please see the [Taxonomy](./Taxonomy).
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
