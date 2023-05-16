@@ -4,7 +4,7 @@
 
 ![Azure Infrastructure](./Library/Azure-Logo.png)
 
-A Collection of resources for Microsoft practice building in the Azure solution area. For a view of other solution areas, please see the [Taxonomy](./Taxonomy).
+A Collection of resources for Microsoft practice building in the Azure infrastructure solution area. For a view of other solution areas, please see the [Taxonomy](./Taxonomy).
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
@@ -17,28 +17,31 @@ Source | Description | Notes
 [The Total Economic Impact™ of Microsoft Azure Arc for Security and Governance.](https://aka.ms/arc-forresterstudy) | Read about the real impact and benefits businesses are experiencing by using Azure Arc to secure and govern infrastructure and applications across hybrid, multicloud and edge environments. The Forrester Consulting Total Economic Impact™ (TEI) study, commissioned by Microsoft, examines the potential return on investment (ROI)  enterprises may realize by deploying Azure Arc for consistent security and governance practices.| Forrester
 [The Projected Total Economic Impact™ of Microsoft Azure VMware Solution](https://azure.microsoft.com/en-us/resources/new-technology-the-projected-total-economic-impact-of-microsoft-azure-vmware-solution/) | See how organizations are saving costs and responding more quickly to customer needs by extending their enterprise VMware workloads to the cloud with Azure VMware Solution. | Forrester
 
-## Practice
+## Azure Infrastructure Practice Building
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Azure Profitability Infographics](https://msazurepartners.blob.core.windows.net/media/Resources/Misc/AzureProfitability-Infographic_v2.pdf) | Through 14 partner interviews with various Microsoft Azure partners, Forrester concluded that building and scaling a Microsoft Azure practice has the following three-year financial impact. | Forrester
 [Azure Partner Enablement Guide](https://assetsprod.microsoft.com/mpn/en-us/azure-partner-enablement-guide.pdf)| Enablement guide for Azure partners... | updated ~monthly
 [Microsoft Assessments](https://learn.microsoft.com/en-us/assessments/) | Microsoft Assessments help customers work through a scenario of questions and recommendations that result in a curated guidance report that is actionable and informative. Assessments take time, but is time well-spent. | Microsoft Learn
 [Azure Rapid Assessment Estimator](https://usdco.azurewebsites.net/Resources.aspx) | Take advantage of the Azure Rapid Assessment Estimator, a Microsoft Excel workbook that rapidly generates estimates of your existing infrastructure and workloads that are directly mapped to Azure IaaS and/or Azure PaaS services that meet or exceed your current specifications in the Azure region(‘s) you specify. |
-[Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-gb/pricing/tco/calculator/) | Estimate the cost savings you can realise by migrating your workloads to Azure |
+[Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-gb/pricing/tco/calculator/) | Estimate the cost savings you can realise by migrating your workloads to Azure | Azure
+[Azure Pricing Calculator](https://azure.microsoft.com/en-ca/pricing/calculator) | Calculate your estimated hourly or monthly costs for using Azure. Log in to the pricing calculator to create, save, and share cost estimates. Already an Azure customer? Create an estimate with your Azure agreement pricing | Azure
 [Azure Apps & Infrastructure Partner Sales Acceleration Program](https://partner.microsoft.com/en-us/training/assets/collection/azure-apps-and-infrastructure-partner-sales-acceleration-program-psap#/) | Get best practices and presentation resources that will guide you in shaping a business-first sales model that delivers a new insight to your prospect and focuses on the Microsoft Azure Apps & Infrastructure solution area and its core sales plays.| Microsoft Partner
-[Azure for Partner](https://www.microsoft.com/azure/partners/)|Main page for Azure resources for Partners | ...
-[Azure for Services Partners](https://www.microsoft.com/azure/partners/practices/the-opportunity)|Grow your cloud services business with Azure| ...
-[Azure Blog](https://azure.microsoft.com/en-us/blog/)|Office Azure Blog|...
+[Azure for Partner](https://www.microsoft.com/azure/partners/)|Main page for Azure resources for Partners | Azure
+[Azure for ISV](https://azure.microsoft.com/en-us/partners/isv/) | Build, Get Started , Scale, and Publish| Azure
+[Azure for Services Partners](https://www.microsoft.com/azure/partners/practices/the-opportunity)|Grow your cloud services business with Azure| Azure
+[Azure Blog](https://azure.microsoft.com/en-us/blog/)|Azure Blog | Azure
 [Azure Updates](https://azure.microsoft.com/en-us/updates/)|Get the latest updates on Azure products and features to meet your cloud investment needs. Subscribe to notifications to stay informed.|
 
 ## Partner Admin Link (PAL)
 
 Source | Description | Notes
 :----- | :---------- | :-----
-[Get Recognized for Driving Azure Consumption](https://aka.ms/PALWebcast) | |  MS US
-[PAL Howto: Video](https://partner.microsoft.com/en-us/resources/detail/setting-up-partner-admin-link-video-mp4)|...| Requires MCPP Login
-[PAL FAQ](https://partner.microsoft.com/en-us/resources/detail/pal-partner-faq-docx)| Frequently Asked Questions| Requires MCPP Login
-[Partner Admin Link](https://partner.microsoft.com/en-us/asset/collection/partner-admin-link#/)|Partner Admin Link (PAL) enables Microsoft to identify and recognize partners who drive Azure customer success. Optimized for managed services where your organization is acting on behalf of the customer, PAL allows you to associate your MCPP ID with the credentials that you use to deliver services within the customer's Azure tenant.| Required MCPP Login
+[Get Recognized for Driving Azure Consumption](https://aka.ms/PALWebcast) | Video Track impact across your customer engagements with Microsoft Partner Admin Link (PAL) |  MS US
+[Partner Admin Link (PAL) Everything](https://partner.microsoft.com/en-ca/training/assets/detail/partner-admin-link-pal-everything-mp4)|Video - Learn the details of Partner Admin Link (PAL), and measure your influence automatically and precisely on Microsoft Azure services that are consumed by customers.| Requires MCPP Login
+[Partner Admin Link (PAL) FAQ](https://partner.microsoft.com/en-us/resources/detail/pal-partner-faq-docx)| Frequently Asked Questions| Requires MCPP Login
+[Partner Admin Link (PAL)](https://partner.microsoft.com/en-us/asset/collection/partner-admin-link#/)|Partner Admin Link (PAL) enables Microsoft to identify and recognize partners who drive Azure customer success. Optimized for managed services where your organization is acting on behalf of the customer, PAL allows you to associate your MCPP ID with the credentials that you use to deliver services within the customer's Azure tenant.| Required MCPP Login
 
 ## FastTrack for Azure
 
@@ -62,11 +65,17 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :---------- | :-----
 [Subscription Vending IaC Modules for Bicep & Terraform](https://techcommunity.microsoft.com/t5/azure-tools-blog/announcing-our-new-subscription-vending-iac-modules-for-bicep/ba-p/3770617?utm_content=buffer89d4a&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer) | These modules are designed to help you streamline and automate the process of provisioning Azure subscriptions, making it easier than ever to get started with Azure. | Tech Community
-[CAF - Tools and Templates](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/resources/tools-templates) | he Cloud Adoption Framework has tools, templates, and assessments that can help you quickly implement technical changes. Use this framework to accelerate your cloud adoption. The following resources can help you in each phase of adoption. These tools, templates, and assessments can be used in multiple phases. | Microsoft Learn
+[Cloud Adoption Framework (CAF) - Tools and Templates](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/resources/tools-templates) | he Cloud Adoption Framework has tools, templates, and assessments that can help you quickly implement technical changes. Use this framework to accelerate your cloud adoption. The following resources can help you in each phase of adoption. These tools, templates, and assessments can be used in multiple phases. | Microsoft Learn
 [Azure Design Review](https://github.com/Azure/review-checklists) | Checklists for LZ, AKS, AVS, Multitenancy, SEcurity, AVS, and SAP | Github
 [Azure Latency Test](https://www.azurespeed.com/Azure/Latency) | This tool runs latency test from your IP location to Azure datacenters around the world. | Microsoft Data Center Optimization Program
 [Azure Governance Visualizer](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting) | from the collected data AzGovViz provides visibility on your HierarchyMap, creates a TenantSummary, creates DefinitionInsights and builds granular ScopeInsights on Management Groups and Subscriptions. The technical requirements as well as the required permissions are minimal. | @JulianHayward Github
 [AzAdvertizer](https://www.azadvertizer.net/index.html)| AzAdvertizer helps you to keep up with the pace by providing overview and insights on new releases and changes/updates for Azure Governance capabilities such as Azure Policy's policy definitions, initiatives (set definitions), aliases, security & regulatory compliance controls and Azure RBAC's role definitions and resource provider operations. |
+
+## Azure Landing Zones (ALZ)
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[Azure Landing Zone (ALZ)](./AzureInfrastructureSolutionArea-LandingZones.md) | Dedicated topic page for landing zones | Partner Crucible
 
 ## Security
 
@@ -97,7 +106,7 @@ Source | Description | Notes
 :----- | :---------- | :-----
 [Jumpstart HCIBox](https://azurearcjumpstart.io/azure_jumpstart_hcibox/) | HCIBox is a turnkey solution that provides a complete sandbox for exploring Azure Stack HCI capabilities and hybrid cloud integration in a virtualized environment| Arc Jumpstart
 
-\## AKS
+## AKS
 
 Source | Description | Notes
 :----- | :---------- | :-----
@@ -109,7 +118,7 @@ Source | Description | Notes
 :----- | :---------- | :-----
 [Azure Center for SAP solutions (GA)](https://aka.ms/AzureCenterforSAPSolutionsGA) | GA Announcement Blog| Tech Community  
 [Azure Center for SAP Solutions (ACSS)](https://www.microsoft.com/en-us/us-partner-blog/2022/11/09/kickstart-your-sap-deployment-with-azure-center-for-sap-solutions-acss-part-i/) | Frameworks and automations that current cloud providers are offering to deploy, manage and optimize their SAP workloads | US Partner Blog
-[Azure Monitor for SAP solutions (GA)](t https://aka.ms/AzureMonitorforSAPsolutionsGA) | GA Announcement Blog| Tech Community  
+[Azure Monitor for SAP solutions (GA)](https://aka.ms/AzureMonitorforSAPsolutionsGA) | GA Announcement Blog| Tech Community  
 [What is Azure Monitor for SAP solutions](https://learn.microsoft.com/en-us/azure/sap/monitor/about-azure-monitor-sap-solutions) | Azure Monitor for SAP solutions is an Azure-native monitoring product for SAP landscapes that run on Azure. | Microsoft Learn
 [Establish an SAP on Azure Center of Excellence](https://aka.ms/AzureCenterforSAPsolutions) | |
 [SAP on Azure Immersion Workshops](https://aka.ms/aiwpartners) | |
