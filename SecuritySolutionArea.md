@@ -40,7 +40,7 @@ Source | Description | Notes
 [Security, Compliance, and Identity training and certifications](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4J4Mm)| This guide has been created to provide training and certification options to achieve personal success.
 [Security Build Intent Workshop](https://cloudpartners.transform.microsoft.com/workshops/cloud-accelerators?tab=security)| Azure credits for customer workshop delivery Microsoft 365 & Security for Partners | ...
 [The Chief Information Security Officer (CISO) Workshop Training](https://learn.microsoft.com/en-us/security/ciso-workshop/the-ciso-workshop) | The Chief Information Security Office (CISO) workshop helps accelerate security program modernization with reference strategies built using Zero Trust principles. | Microsoft Learn
-[Security best practices for Microsoft partners](https://assetsprod.microsoft.com/en-us/security-best-practices-for-microsoft-partners.pdf) | Improve your security posture with Microsoft tools, resources, trainings, and platforms | 2022
+
 
 
 ## Architecture
