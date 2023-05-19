@@ -1,4 +1,4 @@
-# Sofrware-as-a-Service (SaaS)
+# Software-as-a-Service (SaaS)
 
 ![SaaS](./Library/SaaS.png)
 
