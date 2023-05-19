@@ -9,6 +9,19 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+### Week ending May 19, 2023
+Changes this week includes "What every CEO should know about generative AI" (@McKinsey). Also included are strong guidance on securing, managing Azure costs, and sustainability as part of your partner practice. Finally, the crucible is now curating resources for startups. 
+
+Date | Change | File
+:--- | :----- | ---:
+2023-05-19 | added Startups resource page | [See changes here](./Startups)
+2023-05-18 | added Resources to secure partner cloud practices | [See changes here](./PracticeBuilding-Secure)
+2023-05-16 | added FinOps with Azure ebook | [See changes here](./FinOps)
+2023-05-16 | added Azure pricing calculator | [See changes here](./AzureInfrastructureSolutionArea)
+2023-05-15 | added McKinsey article: What every CEO should know about generative AI | [See changes here](./DataAISolutionArea-AzureOpenAI)
+2023-05-15 | added references to 2022 MSFT Sustainability report | [See changes here](./IndustrySustainability)
+
+
 ### Week ending May 12, 2023
 
 Changes this week include a dedicated topic page on Azure OPenAI including #Cognixia GenAI DNA Framework, GPT4 Public Preview Waitlist, Managing Costs of Azure OpenAI, and sample of Azure Cosmos DB + OpenAI ChatGPT. Also, GA of ACSS and Azure Monitor for SAP, and key guidance on M365 Lighthouse .
