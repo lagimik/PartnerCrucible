@@ -106,19 +106,25 @@ Source | Description | Notes
 :----- | :---------- | :-----
 [Jumpstart HCIBox](https://azurearcjumpstart.io/azure_jumpstart_hcibox/) | HCIBox is a turnkey solution that provides a complete sandbox for exploring Azure Stack HCI capabilities and hybrid cloud integration in a virtualized environment| Arc Jumpstart
 
-## AKS
+## Workload - Azure Kubernetes Service (AKS)
 
 Source | Description | Notes
 :----- | :---------- | :-----
 [AKS for Amazon EKS professionals](https://learn.microsoft.com/en-ca/azure/architecture/aws-professional/eks-to-aks/) | This series of articles helps professionals who are familiar with Amazon Elastic Kubernetes Service (Amazon EKS) to understand Azure Kubernetes Service (AKS). The series highlights key similarities and differences between these two managed Kubernetes solutions. | MS Lean
 
+## Workload - Azure RedHat OpenShift (ARO)
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[Getting started with Microsoft Azure Red Hat OpenShift (ARO)](https://cloud.redhat.com/learn/getting-started-microsoft-azure-red-hat-openshift-aro) | In this learning path, you will complete prerequisites, deploy your first cluster on ARO, connect to your cluster, and delete your cluster if needed.| RedHat
+
 ## SAP on Azure
 
 Source | Description | Notes
 :----- | :---------- | :-----
-[Azure Center for SAP solutions (GA)](https://aka.ms/AzureCenterforSAPSolutionsGA) | GA Announcement Blog| Tech Community  
+[Azure Center for SAP solutions (GA)](https://aka.ms/AzureCenterforSAPSolutionsGA) | GA Announcement Blog| Tech Community
 [Azure Center for SAP Solutions (ACSS)](https://www.microsoft.com/en-us/us-partner-blog/2022/11/09/kickstart-your-sap-deployment-with-azure-center-for-sap-solutions-acss-part-i/) | Frameworks and automations that current cloud providers are offering to deploy, manage and optimize their SAP workloads | US Partner Blog
-[Azure Monitor for SAP solutions (GA)](https://aka.ms/AzureMonitorforSAPsolutionsGA) | GA Announcement Blog| Tech Community  
+[Azure Monitor for SAP solutions (GA)](https://aka.ms/AzureMonitorforSAPsolutionsGA) | GA Announcement Blog| Tech Community
 [What is Azure Monitor for SAP solutions](https://learn.microsoft.com/en-us/azure/sap/monitor/about-azure-monitor-sap-solutions) | Azure Monitor for SAP solutions is an Azure-native monitoring product for SAP landscapes that run on Azure. | Microsoft Learn
 [Establish an SAP on Azure Center of Excellence](https://aka.ms/AzureCenterforSAPsolutions) | |
 [SAP on Azure Immersion Workshops](https://aka.ms/aiwpartners) | |
