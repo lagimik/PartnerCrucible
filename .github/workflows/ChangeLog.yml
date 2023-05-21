@@ -31,8 +31,8 @@ jobs:
             file_change=$(git log --since="7 days" -p $file)
             file_changes+=($file_change)
           done
-          echo "test a: ${file_changes[@])"
-          echo "test b: ${file_changes[*])"
+          echo "test a: ${file_changes[@]}"
+          echo "test b: ${file_changes[*]}"
           echo "changes=${file_changes[@]}" >> $GITHUB_OUTPUT
 
   summary:
