@@ -13,7 +13,8 @@ jobs:
           fetch-depth: 0  # OR "2" -> To retrieve the preceding commit.
           
       - uses: tj-actions/changed-files@v35
-        name: changed-files
+        name: Changed Files
+        id: changed-files
         with:
             since: "7 days"
 
