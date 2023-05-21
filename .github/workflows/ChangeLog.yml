@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest  # windows-latest | macos-latest
 
     outputs:
-      file_changes: ${{ steps.file-changes.outputs.all_changed_files }}
+      file_changes: ${{ steps.file-changes.outputs.changes }}
 
     name: Test changed-files
     steps:
@@ -27,7 +27,7 @@ jobs:
         run: |
           for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
             echo "$file was changed"
-            git log --since="7 days" -p $file >> "$GITHUB_OUTPUT"
+            echo "changes=`git log --since="7 days" -p $file`" >> "$GITHUB_OUTPUT"
           done
   summary:
     needs: scan
@@ -36,6 +36,6 @@ jobs:
     steps:
       - name: Get file changes
         run: |
-          echo "${{ needs.scan.outputs.file_changes }}"
+          echo "${{ steps.file-changes.outputs.changes }}"
             
         
