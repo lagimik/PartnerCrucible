@@ -19,8 +19,8 @@ jobs:
         id: changed-files
         with:
             since: "7 days"
-            files: *.md
-
+            files: |
+              *.md
       - name: Get changes in files
         id: file-changes
         run: |
