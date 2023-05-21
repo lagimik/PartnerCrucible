@@ -4,8 +4,12 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  scan:
     runs-on: ubuntu-latest  # windows-latest | macos-latest
+
+    outputs:
+      file_changes: ${{ steps.file-changes.outputs.all_changed_files }}
+
     name: Test changed-files
     steps:
       - uses: actions/checkout@v3
@@ -18,8 +22,20 @@ jobs:
         with:
             since: "7 days"
 
-      - name: List all changed files
+      - name:  get changes in files
+        id: file-changes
         run: |
           for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
             echo "$file was changed"
+            git log --since="7 days" -p $file >> "$GITHUB_OUTPUT"
           done
+  summary:
+    needs: scan
+    runs-on: ubuntu-latest
+    name: Summary
+    steps:
+      - name: Get file changes
+        run: |
+          echo "${{ needs.scan.outputs.file_changes }}"
+            
+        
