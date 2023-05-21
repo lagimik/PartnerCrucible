@@ -41,5 +41,5 @@ jobs:
           CHANGES: ${{ needs.scan.outputs.changes }}
         run: |
           for change in $CHANGES; do
-            echo "$change"
+            echo $CHANGES
           done
