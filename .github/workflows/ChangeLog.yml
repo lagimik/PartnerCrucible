@@ -12,9 +12,9 @@ jobs:
         with:
           fetch-depth: 0  # OR "2" -> To retrieve the preceding commit.
           
-      - uses: tj-actions/changed-files@v14.6
+      - uses: tj-actions/changed-files@v35
         with:
-            since: 7 days
+            since: "7 days"
 
       - name: List all changed files
         run: |
