@@ -26,15 +26,15 @@ jobs:
         run: |
           file_changes=()
           file_change=""
+          json={"\"changes\":["}
           for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
             echo "$file was changed"
             file_change=$(git log --since="7 days" -p $file)
             file_changes+=($file_change)
+            json+="{\"file\":\"$file\",\"change\":\"$file_change\"},"
           done
-          echo "test a: ${file_changes[@]}"
-          echo "test b: ${file_changes[*]}"
-          echo "changes=${file_changes[@]}" >> $GITHUB_OUTPUT
-
+          json+={"]}}
+          echo "changes=$json" > $GITHUB_OUTPUT
   summary:
     runs-on: ubuntu-latest
     name: summary
