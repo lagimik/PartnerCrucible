@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0  # OR "2" -> To retrieve the preceding commit.
-          
+
       - uses: tj-actions/changed-files@v35
         name: Changed Files
         id: changed-files
@@ -31,8 +31,10 @@ jobs:
             file_change=$(git log --since="7 days" -p $file)
             file_changes+=($file_change)
           done
+          echo "test a: ${file_changes[@]"
+          echo "test b: ${file_changes[*]"
           echo "changes=${file_changes[@]}" >> $GITHUB_OUTPUT
- 
+
   summary:
     runs-on: ubuntu-latest
     name: summary
@@ -43,7 +45,6 @@ jobs:
     steps:
       - name: get passed values
         id: summary
-        
+
         run: |
           echo "${{ matrix.changes}}"
-          
