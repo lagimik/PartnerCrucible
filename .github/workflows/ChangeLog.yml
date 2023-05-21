@@ -7,10 +7,7 @@ jobs:
   scan:
     runs-on: ubuntu-latest  # windows-latest | macos-latest
 
-    outputs:
-      file_changes: ${{ steps.file-changes.outputs.changes }}
-
-    name: Test changed-files
+    name: Find changed-files
     steps:
       - uses: actions/checkout@v3
         with:
@@ -22,13 +19,18 @@ jobs:
         with:
             since: "7 days"
 
-      - name:  get changes in files
+      - name: Get changes in files
         id: file-changes
         run: |
+          file_changes=()
+          file_change = ""
           for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
             echo "$file was changed"
-            git log --since="7 days" -p $file
+            file_change = $(git log --since="7 days" -p $file)
+            file_changes += (file_change)
           done
+          echo "::set-output name=changes::${file_changes[@]}"
+ 
   summary:
     needs: scan
     runs-on: ubuntu-latest
@@ -36,6 +38,6 @@ jobs:
     steps:
       - name: Get file changes
         run: |
-          echo "${{ steps.file-changes.outputs.changes }}"
-            
-        
+          for change in ${{ steps.changed-files.outputs.changes }}; do
+            echo "$change"
+          done
