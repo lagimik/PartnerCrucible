@@ -6,7 +6,6 @@ on:
 jobs:
   scan:
     runs-on: ubuntu-latest  # windows-latest | macos-latest
-
     name: Find changed-files
     steps:
       - uses: actions/checkout@v3
@@ -29,15 +28,18 @@ jobs:
             file_change=$(git log --since="7 days" -p $file)
             file_changes+=($file_change)
           done
-          echo "::set-output name=changes::${file_changes[@]}"
+          echo "changes=${file_changes[@]}" >> $GITHUB_OUTPUT
  
   summary:
-    needs: scan
     runs-on: ubuntu-latest
-    name: Summary
+    name: summary
+    needs: scan
     steps:
-      - name: Get file changes
+      - name: get passed values
+        id: summary
+        env:
+          CHANGES: ${{ needs.scan.outputs.changes }}
         run: |
-          for change in ${{ steps.changed-files.outputs.changes }}; do
+          for change in $CHANGES; do
             echo "$change"
           done
