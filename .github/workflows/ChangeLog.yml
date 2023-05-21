@@ -37,13 +37,13 @@ jobs:
     runs-on: ubuntu-latest
     name: summary
     needs: scan
+    strategy:
+      matrix:
+        changes: ${{ fromJson(needs.scan.outputs.changes) }}
     steps:
       - name: get passed values
         id: summary
-        env:
-          CHANGES: ${{ needs.scan.outputs.changes }}
+        
         run: |
-          for change in $CHANGES; do
-            echo "------------------------\n\n"
-            echo $change
-          done
+          echo "${{ matrix.changes}}"
+          
