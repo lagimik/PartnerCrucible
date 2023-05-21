@@ -27,7 +27,7 @@ jobs:
         run: |
           for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
             echo "$file was changed"
-            echo "changes=`git log --since="7 days" -p $file`" >> "$GITHUB_OUTPUT"
+            git log --since="7 days" -p $file
           done
   summary:
     needs: scan
