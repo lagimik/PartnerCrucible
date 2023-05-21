@@ -7,6 +7,8 @@ jobs:
   scan:
     runs-on: ubuntu-latest  # windows-latest | macos-latest
     name: Find changed-files
+    outputs:
+      changes: ${{ steps.file-changes.outputs.changes }}
     steps:
       - uses: actions/checkout@v3
         with:
