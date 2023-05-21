@@ -22,12 +22,12 @@ jobs:
       - name: Get changes in files
         id: file-changes
         run: |
-          file_changes=()
-          file_change = ""
+          $file_changes=()
+          $file_change = ""
           for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
             echo "$file was changed"
-            file_change = $(git log --since="7 days" -p $file)
-            file_changes += (file_change)
+            $file_change = $(git log --since="7 days" -p $file)
+            $file_changes += (file_change)
           done
           echo "::set-output name=changes::${file_changes[@]}"
  
