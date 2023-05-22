@@ -43,7 +43,7 @@ jobs:
             file_change="${file_change//'{'/'%7B'}"
             file_change="${file_change//'}'/'%7D'}"
 
-            json+="{\n\"file\":\"$file\", \n\"change\":\"$file_change\"},"
+            json+="{\"file\":\"$file\", \"change\":\"$file_change\"},"
           done
           json+="]}"
 
