@@ -58,10 +58,11 @@ jobs:
     needs: scan
     strategy:
       matrix:
-        changes: ${{ fromJson(needs.scan.outputs.changes) }}
+        changesets: ${{ fromJson(needs.scan.outputs.changes) }}
     steps:
       - name: get passed values
         id: summary
 
         run: |
-          echo "${{ matrix.changes}}"
+          echo "${{ matrix.file}}"
+          echo "${{ matrix.change}}"
