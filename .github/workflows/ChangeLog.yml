@@ -32,8 +32,6 @@ jobs:
             file_change=$(git log --since="7 days" -p $file)
 
             file_change="${file_change//'%'/'%25'}"
-            file_change="${file_change//$'\n'/'%0A'}"
-            file_change="${file_change//$'\r'/'%0D'}"
             file_change="${file_change//':'/'%3A'}"
             file_change="${file_change//'<'/'%3C'}"
             file_change="${file_change//'>'/'%3E'}"
@@ -43,7 +41,7 @@ jobs:
             file_change="${file_change//'{'/'%7B'}"
             file_change="${file_change//'}'/'%7D'}"
 
-            json+="{\"file\":\"$file\",\"change\":\"$file_change\"},"
+            json+="{/n\"file\":\"$file\", /n\"change\":\"$file_change\"},"
           done
           json+="]}"
 
