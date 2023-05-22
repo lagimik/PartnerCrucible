@@ -39,9 +39,11 @@ jobs:
             file_change="${file_change//'>'/'%3E'}"
             file_change="${file_change//'"'/'%22'}"
             file_change="${file_change//'['/'%5B'}"
-            file_change="${file_change//']'/'%5C'}"
+            file_change="${file_change//']'/'%5D'}"
             file_change="${file_change//'{'/'%7B'}"
             file_change="${file_change//'}'/'%7D'}"
+            file_change="${file_change//'\'/'%5C'}"
+
 
             json+="{\"file\":\"$file\", \"change\":\"$file_change\"},"
           done
