@@ -57,8 +57,7 @@ jobs:
     name: summary
     needs: scan
     strategy:
-      matrix:
-        changesets: ${{ fromJson(needs.scan.outputs.changes) }}
+      matrix: ${{ fromJson(needs.scan.outputs.changes) }}
     steps:
       - name: get passed values
         id: summary
