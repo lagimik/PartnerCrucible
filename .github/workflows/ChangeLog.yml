@@ -60,8 +60,22 @@ jobs:
       matrix: ${{ fromJson(needs.scan.outputs.changes) }}
     steps:
       - name: Create Summary Jobs
-        id: summary
-
+        uses: austenstone/openai-completion-action@v2
+        id: create-summary
+        with:
+          prompt: "As an author of a site called for Microsoft partners called the PartnerCrucible, summarize the additions based on the following git diff output. Provide links to the added references. For relative links, add the base https://lagimik.github.io/PartnerCrucible/ ${{ matrix.changes.change}}"
+          max_tokens: 100
+        env:
+          OPENAI_API_KEY: ${{ secrets.SECRET_OPENAI_KEY }}
         run: |
           echo "${{ matrix.changes.file}}"
           echo "${{ matrix.changes.change}}"
+
+      - name: Print Summary
+        id: print-summary
+        uses: actions/github-script@v5
+        with:
+          script:  console.log(JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content)
+
+     
+        
