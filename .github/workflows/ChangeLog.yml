@@ -52,6 +52,7 @@ jobs:
           echo "$json"
 
           echo "changes=$json" >> $GITHUB_OUTPUT
+
   summary:
     runs-on: ubuntu-latest
     name: summary
@@ -59,7 +60,13 @@ jobs:
     strategy:
       matrix: ${{ fromJson(needs.scan.outputs.changes) }}
     steps:
-      - name: Create Summary Jobs
+      - name: Print Changes
+        id: print-changes
+        run: |
+          echo "${{ matrix.changes.file}}"
+          echo "${{ matrix.changes.change}}"
+
+      - name: Create Summary Completion Jobs
         uses: austenstone/openai-completion-action@v2
         id: create-summary
         with:
@@ -67,11 +74,8 @@ jobs:
           max_tokens: 100
         env:
           OPENAI_API_KEY: ${{ secrets.SECRET_OPENAI_KEY }}
-        run: |
-          echo "${{ matrix.changes.file}}"
-          echo "${{ matrix.changes.change}}"
-
-      - name: Print Summary
+       
+      - name: Print Summary Completion
         id: print-summary
         uses: actions/github-script@v5
         with:
