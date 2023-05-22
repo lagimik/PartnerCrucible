@@ -34,7 +34,7 @@ jobs:
             json+="{\"file\":\"$file\",\"change\":\"$file_change\"},"
           done
           json+="]}"
-          echo "changes=$json" > $GITHUB_OUTPUT
+          echo "changes=$json" >> $GITHUB_OUTPUT
   summary:
     runs-on: ubuntu-latest
     name: summary
