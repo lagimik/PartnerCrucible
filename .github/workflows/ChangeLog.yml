@@ -34,6 +34,17 @@ jobs:
             json+="{\"file\":\"$file\",\"change\":\"$file_change\"},"
           done
           json+="]}"
+
+          json="${json//'%'/'%25'}"
+          json="${json//$'\n'/'%0A'}"
+          json="${json//$'\r'/'%0D'}"
+          json="${json//'<'/'%3C'}"
+          json="${json//'>'/'%3E'}"
+          json="${json//'"'/'%22'}"
+          json="${json//'['/'%5B'}"
+          json="${json//']'/'%5C'}"
+          json="${json//'{'/'%7B'}"
+          json="${json//'}'/'%7D'}"
           echo "changes=$json" >> $GITHUB_OUTPUT
   summary:
     runs-on: ubuntu-latest
