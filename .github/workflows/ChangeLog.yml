@@ -70,7 +70,7 @@ jobs:
         uses: austenstone/openai-completion-action@v2
         id: create-summary
         with:
-          prompt: "As an author of a site called for Microsoft partners called the PartnerCrucible, summarize the additions based on the following git diff output. Provide links to the added references. For relative links, add the base https://lagimik.github.io/PartnerCrucible/ ${{ matrix.changes.change}}"
+          prompt: "As an author of a site called for Microsoft partners called the PartnerCrucible, summarize the additions based on the following git diff output. Provide links to the added references. For relative links, add the base https://lagimik.github.io/PartnerCrucible/ \n\n git diff output:\n\n ${{ matrix.changes.change}}"
           max_tokens: 100
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
