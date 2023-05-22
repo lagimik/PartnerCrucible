@@ -58,6 +58,7 @@ jobs:
     name: summary
     needs: scan
     strategy:
+      fail-fast: false
       matrix: ${{ fromJson(needs.scan.outputs.changes) }}
     steps:
       - name: Print Changes
@@ -71,7 +72,7 @@ jobs:
         id: create-summary
         with:
           prompt: "As an author of a site called for Microsoft partners called the PartnerCrucible, summarize the additions based on the following git diff output. Provide links to the added references. For relative links, add the base https://lagimik.github.io/PartnerCrucible/ \n\n git diff output:\n\n ${{ matrix.changes.change}}"
-          max_tokens: 100
+          max_tokens: 1000
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
        
