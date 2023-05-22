@@ -59,9 +59,9 @@ jobs:
     strategy:
       matrix: ${{ fromJson(needs.scan.outputs.changes) }}
     steps:
-      - name: get passed values
+      - name: Create Summary Jobs
         id: summary
 
         run: |
-          echo "${{ matrix.file}}"
-          echo "${{ matrix.change}}"
+          echo "${{ matrix.changes.file}}"
+          echo "${{ matrix.changes.change}}"
