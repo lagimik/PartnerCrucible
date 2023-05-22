@@ -68,6 +68,7 @@ jobs:
           echo "${{ matrix.changes.change}}"
 
       - name: Create Summary Completion Jobs
+        if: ${{ matrix.changes.change != null } }}
         uses: austenstone/openai-completion-action@v2
         id: create-summary
         with:
@@ -77,6 +78,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
        
       - name: Print Summary Completion
+        if: ${{ matrix.changes.change != null } }}
         id: print-summary
         uses: actions/github-script@v5
         with:
