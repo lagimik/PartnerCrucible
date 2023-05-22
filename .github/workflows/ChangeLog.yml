@@ -45,6 +45,9 @@ jobs:
           json="${json//']'/'%5C'}"
           json="${json//'{'/'%7B'}"
           json="${json//'}'/'%7D'}"
+
+          echo "$json"
+
           echo "changes=$json" >> $GITHUB_OUTPUT
   summary:
     runs-on: ubuntu-latest
