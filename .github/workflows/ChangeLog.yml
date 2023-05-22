@@ -24,27 +24,28 @@ jobs:
       - name: Get changes in files
         id: file-changes
         run: |
-          file_changes=()
+
           file_change=""
           json="{\"changes\":["
           for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
             echo "$file was changed"
             file_change=$(git log --since="7 days" -p $file)
-            file_changes+=($file_change)
+
+            file_change="${file_change//'%'/'%25'}"
+            file_change="${file_change//$'\n'/'%0A'}"
+            file_change="${file_change//$'\r'/'%0D'}"
+            file_change="${file_change//':'/'%3A'}"
+            file_change="${file_change//'<'/'%3C'}"
+            file_change="${file_change//'>'/'%3E'}"
+            file_change="${file_change//'"'/'%22'}"
+            file_change="${file_change//'['/'%5B'}"
+            file_change="${file_change//']'/'%5C'}"
+            file_change="${file_change//'{'/'%7B'}"
+            file_change="${file_change//'}'/'%7D'}"
+
             json+="{\"file\":\"$file\",\"change\":\"$file_change\"},"
           done
           json+="]}"
-
-          json="${json//'%'/'%25'}"
-          json="${json//$'\n'/'%0A'}"
-          json="${json//$'\r'/'%0D'}"
-          json="${json//'<'/'%3C'}"
-          json="${json//'>'/'%3E'}"
-          json="${json//'"'/'%22'}"
-          json="${json//'['/'%5B'}"
-          json="${json//']'/'%5C'}"
-          json="${json//'{'/'%7B'}"
-          json="${json//'}'/'%7D'}"
 
           echo "$json"
 
