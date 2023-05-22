@@ -78,7 +78,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
        
       - name: Print Summary Completion
-        if: ${{ matrix.changes.change != null } }}
+        if: ${{ matrix.changes.change != null  }}
         id: print-summary
         uses: actions/github-script@v5
         with:
