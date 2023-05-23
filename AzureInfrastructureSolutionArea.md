@@ -55,10 +55,12 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :---------- | :-----
 [Learning Pathways](https://learning-pathways.co.uk/) | A collection of self-guided learning journeys to help you with your ongoing professional development. | @MrPaulGriffiths
+[Detective Kusto](https://detective.kusto.io/) | Interactive Kusto Cases (KQL) | Detective Kusto
 [Azure Skills Navigator for System Administrators](https://aka.ms/SysAdminGuide) | A guide for deepening your knowledge of fundamental concepts of cloud computing and Azure core infrastructure services, management, monitoring, security, and compliance. | Azure Skills Navigator
 [Azure Skills Navigator for Solution Architects](https://aka.ms/SolArchGuide) | A guide for deepening your knowledge of fundamental concepts of Microsoft Azure, core solutions, solution design principles, including security and compliance, and deployment tools and methods to help bring your solution architectures to life. | Azure Skills Navigator
 [Azure Skills Navigator for Network Engineers](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-skills-navigator-for-network-engineers-/Azure%20Skills%20Navigator-%20Network%20EngineerOct10(learn.microsoft).pdf) | This Azure learning journey is designed for network engineering professionals needing to recommend, plan, and implement Azure networking solutions, including hybrid networking, connectivity, routing, security, and private access to Azure services | Azure Skills Navigator
 [Azure Citadel](https://www.azurecitadel.com/) | Azure Citadel is a community driven site devoted to getting hands on & learning Azure. Explore technical labs & videos across a range of Azure topics. Many labs are pitched towards the needs of the Azure partner community, but are freely available for all.| Azure Citadel
+
 
 ## Azure Tools
 
@@ -77,18 +79,14 @@ Source | Description | Notes
 :----- | :---------- | :-----
 [Azure Landing Zone (ALZ)](./AzureInfrastructureSolutionArea-LandingZones.md) | Dedicated topic page for landing zones | Partner Crucible
 
-## Security
+## Azure Lighthouse
 
 Source | Description | Notes
 :----- | :---------- | :-----
-[Azure Network Security](https://github.com/Azure/Azure-Network-Security) | Deploy Azure NetSec resources programmatically using scripts and templates | GitHub
-[Azure Network Security Ninja Training](https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-network-security-ninja-training/ba-p/2356101) | In this blog post, we will walk you through basic to advanced scenarios for Azure network security. Ready to become an Azure NetSec ninja? Dive right in! | Tech Community 2022
-
-## Kusto Query Language (KQL)
-
-Source | Description | Notes
-:----- | :---------- | :-----
-[Detective Kusto](https://detective.kusto.io/) | Interactive Kusto Cases | ...
+[Azure Lighthouse](https://www.microsoft.com/azure/partners/azure-lighthouse) | Landing page - The native management portal allows Managed Services Providers (MSPs) to profitably and efficiently build and deliver secure managed services for every customer need. | Azure for Partners
+[Azure Lighthouse Samples](https://github.com/Azure/Azure-Lighthouse-samples) | This repository contains samples to help you use Azure Resource Manager to configure Azure delegated resource management and to configure monitoring and management of customer environments. Includes [Deploy to Azure Buttons](https://github.com/Azure/Azure-Lighthouse-samples#deploy-to-azure-buttons) | GitHub
+[Onboard a customer to Azure Lighthouse](https://learn.microsoft.com/en-us/azure/lighthouse/how-to/onboard-customer) | This article explains how you, as a service provider, can onboard a customer to Azure Lighthouse. When you do so, delegated resources (subscriptions and/or resource groups) in the customer's Azure Active Directory (Azure AD) tenant can be managed by users in your tenant through Azure delegated resource management. | Microsoft Learn
+[Publish a Managed Service offer to Azure Marketplace](https://learn.microsoft.com/en-us/azure/lighthouse/how-to/publish-managed-services-offers) | In this article, you'll learn how to publish a public or private Managed Service offer to Azure Marketplace using the commercial marketplace program in Partner Center. Customers who purchase the offer will then delegate subscriptions or resource groups, allowing you to manage them through **Azure Lighthouse**. | Microsoft Learn
 
 ## Azure Arc
 
@@ -106,6 +104,14 @@ Source | Description | Notes
 :----- | :---------- | :-----
 [Jumpstart HCIBox](https://azurearcjumpstart.io/azure_jumpstart_hcibox/) | HCIBox is a turnkey solution that provides a complete sandbox for exploring Azure Stack HCI capabilities and hybrid cloud integration in a virtualized environment| Arc Jumpstart
 
+## Azure Security
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[Azure Network Security](https://github.com/Azure/Azure-Network-Security) | Deploy Azure NetSec resources programmatically using scripts and templates | GitHub
+[Azure Network Security Ninja Training](https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-network-security-ninja-training/ba-p/2356101) | In this blog post, we will walk you through basic to advanced scenarios for Azure network security. Ready to become an Azure NetSec ninja? Dive right in! | Tech Community 2022
+
+
 ## Workload - Azure Kubernetes Service (AKS)
 
 Source | Description | Notes
@@ -118,7 +124,7 @@ Source | Description | Notes
 :----- | :---------- | :-----
 [Getting started with Microsoft Azure Red Hat OpenShift (ARO)](https://cloud.redhat.com/learn/getting-started-microsoft-azure-red-hat-openshift-aro) | In this learning path, you will complete prerequisites, deploy your first cluster on ARO, connect to your cluster, and delete your cluster if needed.| RedHat
 
-## SAP on Azure
+##  Workload - SAP on Azure
 
 Source | Description | Notes
 :----- | :---------- | :-----
@@ -126,13 +132,13 @@ Source | Description | Notes
 [Azure Center for SAP Solutions (ACSS)](https://www.microsoft.com/en-us/us-partner-blog/2022/11/09/kickstart-your-sap-deployment-with-azure-center-for-sap-solutions-acss-part-i/) | Frameworks and automations that current cloud providers are offering to deploy, manage and optimize their SAP workloads | US Partner Blog
 [Azure Monitor for SAP solutions (GA)](https://aka.ms/AzureMonitorforSAPsolutionsGA) | GA Announcement Blog| Tech Community
 [What is Azure Monitor for SAP solutions](https://learn.microsoft.com/en-us/azure/sap/monitor/about-azure-monitor-sap-solutions) | Azure Monitor for SAP solutions is an Azure-native monitoring product for SAP landscapes that run on Azure. | Microsoft Learn
-[Establish an SAP on Azure Center of Excellence](https://aka.ms/AzureCenterforSAPsolutions) | |
-[SAP on Azure Immersion Workshops](https://aka.ms/aiwpartners) | |
-[Skill up](https://aka.ms/SAPonAzureResources) | |
-[SAP on Azure Advanced Specialization](httrps://aka.ms/SAPonAzureAdvancedSpec) | |\
+[Establish an SAP on Azure Center of Excellence](https://aka.ms/AzureCenterforSAPsolutions) | End-to-end solution enabling customers and partners to create and run SAP systems as a unified workload on Azure and provides a more seamless foundation for innovation on the Microsoft Cloud. | Tech Community
+[SAP on Azure Immersion Workshops](https://partner.microsoft.com/en-us/asset/collection/aiw-sapmscloud#/) | he SAP on the Microsoft Cloud workshop sets partners up for success as they engage with SAP customers. The content showcases the transformative potential of cloud services and what differentiates Microsoft as the preferred cloud platform for SAP workloads. | Microsoft Partners
+[SAP on Azure Resources](https://aka.ms/SAPonAzureResources) | Documentation and learning resources including case studies | Microsoft Learn 
+[SAP on Azure Advanced Specialization](https://aka.ms/SAPonAzureAdvancedSpec) | An SAP on Azure Specialization assures potential customers that a partner meets the highest standards for service delivery and support and increases partner visibility through prioritized ranking in searches and referrals via solution provider.| Microsoft Partners
 [SAP on Azure Video Podcast](https://www.youtube.com/playlist?list=PLvqyDwoCkBXYCm7_CNLavXHmdZD6rEvNn) | Videos covering a wide range of SAP on Azure scenarios | YouTube
 
-## Oracle on Azure
+##  Workload - Oracle on Azure
 
 Source | Description | Notes
 :----- | :---------- | :-----
@@ -140,17 +146,17 @@ Source | Description | Notes
 [Oracle on Azure IaaS](https://github.com/Azure/Oracle-Workloads-for-Azure/blob/main/Oracle%20on%20Azure%20IaaS%20Recommended%20Practices%20for%20Success.pdf) | Recommended Practices for Success | GitHub
 [Oracle RAC on Azure](https://techcommunity.microsoft.com/t5/data-architecture-blog/oracle-rac-on-azure/ba-p/1185410) | The goal of this post is to push past the idea that a lift and shift should always be a 1:1 move.  It's important when moving to the cloud to use the right tools, not just the tools you've always used, which is a very important lesson when it comes to Oracle Real Application Cluster, (RAC). | Tech Community
 
-## Virtualization
+##  Workload - Virtualization
 
 Source | Description | Notes
 :----- | :---------- | :-----
-[AVS Documentation (official)](https://aka.ms/AVSDocs)| |
-[AVS Partner Learning Path (official)](https://aka.ms/AVSLearningPath)| |
-[AVS Enterprise-Scale](https://aka.ms/AVSEnterpriseScale) | |
-[AVS Enterprise-Scale(GitHub repository)](https://aka.ms/AVSEnterpriseScaleRepo)| |
-[AVS TechZone](https://aka.ms/AVSTechZone)| | VMWare Site
-[AVS Overview Video Serie](https://aka.ms/AVSTechOverview) | The Azure VMware Solution (AVS) Technical Overview Series provides viewers with a basic understanding of the solution. VMware's Jeremiah Megie and Steve Pantol will lead you through nine modules |
-[AVS Deep Dive Video Series](https://aka.ms/AVSDeepDive) | The Azure VMware Solution (AVS) Deployment Deep Dive Series will walk you through the things you should consider before, during, and after deploying your AVS private cloud - complete with demos! |
+[AVS Documentation (official)](https://aka.ms/AVSDocs)| Learn how to use Azure VMware Solution to deploy a VMware Software-Defined Data Center (SDDC) private cloud to Azure. | Microsoft Learn
+[AVS Partner Learning Path (official)](https://aka.ms/AVSLearningPath)| Learn how Azure VMware Solution supports enterprise customers in their transition to the cloud. Evaluate key features and differentiators. Examine the use cases and customer stories. Understand the support structure and options. | Microsoft Learn
+[Azure VMware Solution landing zone accelerator](https://aka.ms/AVSEnterpriseScale) | The Microsoft Azure VMware Solution landing zone accelerator is an open-source collection of Azure Resource Manager and Bicep templates. It represents the strategic design path and target technical state for an Azure VMware Solution deployment. | Microsoft Learn
+[AVS Enterprise-Scale(GitHub repository)](https://aka.ms/AVSEnterpriseScaleRepo)| Enterprise-scale for AVS represents the strategic design path and target technical state for an Azure VMware Solution (AVS) deployment | GitHub
+[AVS TechZone](https://aka.ms/AVSTechZone)| Azure VMWare Solution page| VMWare Site
+[AVS Overview Video Series](https://aka.ms/AVSTechOverview) | The Azure VMware Solution (AVS) Technical Overview Series provides viewers with a basic understanding of the solution. VMware's Jeremiah Megie and Steve Pantol will lead you through nine modules | YouTube
+[AVS Deep Dive Video Series](https://aka.ms/AVSDeepDive) | The Azure VMware Solution (AVS) Deployment Deep Dive Series will walk you through the things you should consider before, during, and after deploying your AVS private cloud - complete with demos! | YouTube
 [AVS Hands-on Labs](https://aka.ms/AVSHOL) | Learn more about Azure VMware Solution by taking a Hands-on Lab (HOL). See the service in action as you go through tasks such as deployment and configuration of an Azure-based SDDC, as well as advanced topics for specific use cases like cloud migration | VMWare TechZone
 [AVS Micro-hack](https://aka.ms/AVSMicroHack) | Handling Azure vMware Solution (AVS) network connectivity and migration scenario from on-premises to Azure | Github
 [Azure VMWare Services Trial](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR1xHkcwkIqVOp6E37mZjgcpURU9GSjJYTExLSzMzNzdGTzJERDBGWk1QQiQlQCN0PWcu&web=1&wdLOR=c5F35665D-7650-45A8-87BE-07E2AF646064)|Provide top AVS partners an opportunity to try AVS free of cost for when they are building/improving AVS services practice. The FY22 AVS Pilot Program provides top AVS partners the opportunity to experience AVS free of charge with white glove support from Microsoft. | AVS Pilot (Trial SKU) provides 3 nodes free for 30-day/720-hours.
