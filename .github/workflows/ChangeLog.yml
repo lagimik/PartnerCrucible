@@ -84,5 +84,18 @@ jobs:
         with:
           script:  console.log(JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content)
 
+      - name: Create Crucible ChangeLog
+        if: ${{ (matrix.changes.change != null)  }}
+        run:
+          echo ${{ steps.create-summary.outputs.response }} >> cruciblechangelog.md
+
+      - name: Upload artifact
+        id:  upload-artifact
+        if: ${{ (matrix.changes.change != null)  }}
+        uses: actions/upload-artifact@v3
+        with:
+          name: change-summary
+          path: cruciblechangelog.md
+
      
         
