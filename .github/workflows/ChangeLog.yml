@@ -57,6 +57,8 @@ jobs:
     runs-on: ubuntu-latest
     name: summary
     needs: scan
+    outputs:
+      completion: ${{ steps.print-changes.outputs.completion }} 
     strategy:
       fail-fast: false
       matrix: ${{ fromJson(needs.scan.outputs.changes) }}
@@ -90,7 +92,7 @@ jobs:
         id: create-changelog
         env:
           FILENAME = "${{ matrix.changes.file}}-changelog.md"
-          SUMMARY = "${{ steps.print-create-summary.outputs.result }}"
+          SUMMARY = "${{ needs.summary.outputs.completion }}"
         run: |
           echo $SUMMARY >> $FILENAME
          
