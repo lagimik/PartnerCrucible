@@ -87,7 +87,7 @@ jobs:
       - name: Create Crucible ChangeLog
         if: ${{ (matrix.changes.change != null)  }}
         run:
-          echo JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content >> cruciblechangelog.md
+          echo JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content) >> cruciblechangelog.md
 
       - name: Upload artifact
         id:  upload-artifact
