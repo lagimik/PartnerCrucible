@@ -58,7 +58,7 @@ jobs:
     name: summary
     needs: scan
     outputs:
-      completion: ${{ steps.print-changes.outputs.completion }} 
+      completion: ${{ steps.extract-print.outputs.completion }} 
     strategy:
       fail-fast: false
       matrix: ${{ fromJson(needs.scan.outputs.changes) }}
@@ -79,9 +79,9 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
        
-      - name: Print and Create Summary Completion
+      - name: Extract and Print Summary Completion
         if: ${{ (matrix.changes.change != null)  }}
-        id: print-create-summary
+        id: extract-print-summary
         uses: actions/github-script@v5
         with:
           script: console.log(JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content)
@@ -91,8 +91,8 @@ jobs:
         if: ${{ (matrix.changes.change != null)  }}
         id: create-changelog
         env:
-          FILENAME = "${{ matrix.changes.file}}-changelog.md"
-          SUMMARY = "${{ needs.summary.outputs.completion }}"
+          FILENAME: "${{ matrix.changes.file}}-changelog.md"
+          SUMMARY: "${{ needs.summary.outputs.completion }}"
         run: |
           echo $SUMMARY >> $FILENAME
          
