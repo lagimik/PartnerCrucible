@@ -72,7 +72,7 @@ jobs:
         uses: austenstone/openai-completion-action@v2
         id: create-summary
         with:
-          prompt: "As an author of a site called for Microsoft partners called the PartnerCrucible, summarize the additions based on the following git diff output. Provide links to the added references. Use markdown as the output format. For relative links, add the base https://lagimik.github.io/PartnerCrucible/ \n\n git diff output:\n\n ${{ matrix.changes.change}}"
+          prompt: "As an author of a site called for Microsoft partners called the PartnerCrucible, summarize the additions based on the following git diff output. Provide links to the added references. Use markdown as the output format. For relative links, add the base https://lagimik.github.io/PartnerCrucible/ \\n\\n git diff output:\n\n ${{ matrix.changes.change}}"
           max_tokens: 1000
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -87,7 +87,7 @@ jobs:
       - name: Create Crucible ChangeLog
         if: ${{ (matrix.changes.change != null)  }}
         run:
-          echo JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content) >> cruciblechangelog.md
+          echo JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content >> ${{ matrix.changes.file}}-changelog.md
 
       - name: Upload artifact
         id:  upload-artifact
