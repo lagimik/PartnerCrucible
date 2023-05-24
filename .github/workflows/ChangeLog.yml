@@ -82,15 +82,15 @@ jobs:
         id: print-create-summary
         uses: actions/github-script@v5
         with:
-          script: |
-            console.log(JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content) >> "$GITHUB_OUTPUT"
+          script: console.log(JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content)
+           
 
       - name: Create Changelog
         if: ${{ (matrix.changes.change != null)  }}
         id: create-changelog
         env:
           FILENAME = "${{ matrix.changes.file}}-changelog.md"
-          SUMMARY = JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content
+          SUMMARY = "${{ steps.print-create-summary.outputs.result }}"
         run: |
           echo $SUMMARY >> $FILENAME
          
