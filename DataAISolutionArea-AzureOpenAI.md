@@ -28,8 +28,6 @@ Source | Description | Notes
 [Azure OpenAI Sales Acceleration](https://partner.microsoft.com/en-us/asset/collection/azure-openai-service-sales-acceleration-content#/) | Sales Acceleration content| Partner
 [AI for Good Research Lab]([https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/) | Microsoft’s AI for Good Lab is an applied research and data visualization lab that harnesses the power of big data, and Microsoft’s cloud technology. | Microsoft Research
 
-
-
 ## Azure OpenAI Services
 
 Source | Description | Notes
@@ -53,6 +51,12 @@ Source | Description | Notes
 [Prompt Engineering 101 - Introduction and resources](https://www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain/) | By Xavier  (Xavi) Amatriain | LinkedIn
 [Prompt Engine](https://github.com/microsoft/prompt-engine) | This repo contains an NPM utility library for creating and maintaining prompts for Large Language Models (LLMs).| GitHub
 [The AI Show](https://aka.ms/AIShowsubscribe) | The AI Show Live showcases the amazing work happening in AI at Microsoft. Developers learn what's new in AI in a short amount of time and are directed to assets helping them get started and on the road to success right away. Seth Juarez and friends work on cool projects and highlight what's new in Azure AI and Machine Learning. | Microsoft Learn
+
+## Copilot
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[AI apps and copilot framework](https://news.microsoft.com/source/features/ai/microsoft-outlines-framework-for-building-ai-apps-and-copilots-expands-ai-plugin-ecosystem/) | A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task | Microsoft News
 
 ## Examples and Demos
 
