@@ -84,7 +84,9 @@ jobs:
         id: extract-print-summary
         uses: actions/github-script@v6
         with:
-          script: console.log(JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content)
+          script: |
+            console.log(JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content)
+            return JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content 
            
 
       - name: Create Changelog
