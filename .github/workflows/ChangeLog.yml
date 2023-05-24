@@ -77,17 +77,14 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
        
-      - name: Print Summary Completion
+      - name: Print and Create Summary Completion
         if: ${{ (matrix.changes.change != null)  }}
-        id: print-summary
+        id: print-create-summary
         uses: actions/github-script@v5
         with:
-          script:  console.log(JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content)
-
-      - name: Create Crucible ChangeLog
-        if: ${{ (matrix.changes.change != null)  }}
-        run:
-          echo JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content >> ${{ matrix.changes.file}}-changelog.md
+          script: |
+            console.log(JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content)
+            console.log(JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content) >> ${{ matrix.changes.file}}-changelog.md
 
       - name: Upload artifact
         id:  upload-artifact
