@@ -84,7 +84,7 @@ jobs:
         with:
           script: |
             console.log(JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content)
-            console.log(JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content) >> ${{ matrix.changes.file}}-changelog.md
+            console.log(JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content) >> "${{ matrix.changes.file}}-changelog.md"
 
       - name: Upload artifact
         id:  upload-artifact
@@ -92,7 +92,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: change-summary
-          path: ${{ matrix.changes.file}}-changelog.md
+          path: "${{ matrix.changes.file}}-changelog.md"
 
      
         
