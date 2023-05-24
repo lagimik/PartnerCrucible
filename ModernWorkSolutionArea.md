@@ -15,6 +15,7 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [The Microsoft 365 Partner Opportunity](https://cloudpartners.transform.microsoft.com/download?assetname=assets/MSFT%20partner%20opportunity%20M365%20-%20FINAL%20rev%202.pdf&download=1) | A Total Economic ImpactTM Partner Opportunity Analysis |Forrester 2020
 [Analyst Studies](https://vc.transform.microsoft.com/analyststudies) | Comprehensive listing of Total Economic Impact (TEI) studies of Microsoft Modern Work solutions| Forrester
+[Total Economic Impact of Microsoft Viva](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE56D0e) |Microsoft commissioned Forrester Consulting to conduct a Total Economic Impact™ (TEI) study and examine the potential return on investment (ROI) enterprises may realize by deploying Viva | Forrester
 
 ## Partner Practice Communities and References
 
@@ -57,6 +58,8 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :-----  | :-----
 [M365 Lighthouse](https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/microsoft-365-lighthouse-helps-you-secure-and-improve-the-health/ba-p/3818774) | Microsoft 365 Lighthouse makes it easier than ever for Managed Service Providers (MSPs) to deliver services to small- and medium-sized customers at scale, with multi-tenant management capabilities that help secure users, devices, apps, and data across customer tenants. | Tech Community
+
+
 ## Hybrid
 
 Source | Description | Notes
@@ -89,10 +92,17 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[Total Economic Impact of Microsoft Viva](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE56D0e) | | Forrester
 [Viva Business Learning Path and Assessment](https://partner.microsoft.com/en-US/training/assets/collection/microsoft-viva-employee-experience-business-learning-path#/)| Designed for executives, sales staff and account leads, the Business Rapid Assessment will test your knowledge of employee experience trends, specific Microsoft Viva module offerings, Employee Experience benefits, and more. | -Qualify for Modern Work go-to-market programs like Microsoft Viva workshops and investments to grow your Employee Experience practice
 [Viva Technical Learning Path and Assessment](https://partner.microsoft.com/en-US/training/assets/collection/microsoft-viva-employee-experience-technical-learning-path#/)| Created with IT admins and implementation specialists in mind, the Technical Rapid Assessment will test your knowledge of Microsoft Viva module implementation, feature experiences, tech requirements and similar technical necessities.
 [Viva adoption](https://adoption.microsoft.com/en-us/viva/) | Includes latest latest Work Trend Index, Josh Bersin employee experience assessment tool| Microsft Adoption
 [The People-Powered Workplace: Reimagine the Employee Experience](https://info.microsoft.com/ww-landing-the-people-powered-workplace.html?LCID=EN-US) | Viva ebook - Learn new ways to empower your people and teams by creating a new kind of workplace—one centered around your employees and their experience. | Microsoft
+
+## Syntex
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Microsoft Syntex plugins for Microsoft 365 Copilot](https://www.youtube.com/watch?v=MdgpoKV8t_s) | Syntex actions and skills, including classification, content assembly and eSignature, into your Copilot experiences.| YouTube
+[Microsoft Syntex repository services ](https://adoption.microsoft.com/en-us/syntex/register/?interest=repositoryServices) | Stay informed about Microsoft Syntex – Content AI integrated in the flow of work. Automatically read, tag, and index high volumes of content and connect it where it’s needed – in search, in applications, and as reusable knowledge.  | Microsoft Adoption
+[SharePoint, OneDrive, and Teams Security Previews]() | We are happy to announce the following Microsoft Syntex eSignature, SharePoint, OneDrive, and Teams Security Private Previews at Microsoft Build 2023 |
 
 
