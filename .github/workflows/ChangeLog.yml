@@ -82,7 +82,7 @@ jobs:
       - name: Extract and Print Summary Completion
         if: ${{ (matrix.changes.change != null)  }}
         id: extract-print-summary
-        uses: actions/github-script@v5
+        uses: actions/github-script@v6
         with:
           script: console.log(JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content)
            
@@ -92,7 +92,7 @@ jobs:
         id: create-changelog
         env:
           FILENAME: "${{ matrix.changes.file}}-changelog.md"
-          SUMMARY: "${{ needs.summary.outputs.completion }}"
+          SUMMARY: "${{ steps.extract-print-summary.outputs.result }}"
         run: |
           echo $SUMMARY >> $FILENAME
          
