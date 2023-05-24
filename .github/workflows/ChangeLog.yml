@@ -88,8 +88,11 @@ jobs:
       - name: Create Changelog
         if: ${{ (matrix.changes.change != null)  }}
         id: create-changelog
+        env:
+          FILENAME = "${{ matrix.changes.file}}-changelog.md"
+          SUMMARY = JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content
         run: |
-          echo "$GITHUB_OUTPUT" >> "${{ matrix.changes.file}}-changelog.md"
+          echo $SUMMARY >> $FILENAME
          
 
       - name: Upload artifact
