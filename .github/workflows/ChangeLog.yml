@@ -76,7 +76,7 @@ jobs:
         with:
           prompt: |
             "With an energetic tone summarize the url links found below in the git diff output to encourage readers to follow the links. Use an attention grabbing tagline as the title. Use the following markdown as the output format. Include the references to the source file for the changes that has a .md extension. Add the following base URI to the source file: https://lagimik.github.io/PartnerCrucible/
-            "|Date added|Link title with url| Short summary| Source file |""
+            "|Date added|Link title with url| Short summary| Source file |"
             "|-------------|------------------|------------|-------------|"
             "${{ matrix.changes.change}}"
           max_tokens: 1000
