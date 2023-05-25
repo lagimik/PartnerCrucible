@@ -71,6 +71,14 @@ which lead to shortened systems development lifecycles | Github
 [DevOps Self Assessment from DORA, ITRev and MS](https://devblogs.microsoft.com/devops/devops-self-assessment-from-dora-itrev-and-ms/)| Nicole Forsgren, Gene Kim, participants of the DevOps Enterprise Forum and I collaborated on a free starter self-assessment for your team’s DevOps performance | 2017
 [Azure DevOps Demo Generator](https://azuredevopsdemogenerator.azurewebsites.net/)| Azure DevOps Demo Generator helps you create projects on your Azure DevOps Organization with pre-populated sample content that includes source code, work items, iterations, service endpoints, build and release definitions based on a template you choose| Azure DEvOps
 
+## Defender for DevOps
+
+Source | Description | Notes
+:----- | :---------- | :----
+[Remediating Infrastructure-as-Code Security Misconfigurations with Microsoft Defender for DevOps](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/remediating-infrastructure-as-code-security-misconfigurations/ba-p/3824135) | By integrating Microsoft Defender for DevOps into Azure DevOps and GitHub environments, security teams and developers can now collaborate toward DevOps security posture management from code to cloud. Security teams can view the security hygiene of each repository, identifying which repositories contain critical IaC misconfigurations before the infrastructure is provisioned to production workloads | Tech Community
+[Detect exposed secrets in code](https://learn.microsoft.com/en-us/azure/defender-for-cloud/detect-exposed-secrets) | Defender for Cloud offers a solution by using secret scanning to detect credentials, secrets, certificates, and other sensitive content in your source code and your build output.  | Microsoft Learn
+[Enable pull request annotations in GitHub and Azure DevOps](https://learn.microsoft.com/en-us/azure/defender-for-cloud/enable-pull-request-annotations) | With Microsoft Defender for Cloud, you can configure PR annotations in Azure DevOps. You can get PR annotations in GitHub if you're a GitHub Advanced Security customer.|  Microsoft Learn
+
 ### API First
 
 [Build REST APIs in three steps with API Management and Azure Functions](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-rest-apis-in-three-steps-with-api-management-and-azure/ba-p/1869627) |  A design-first approach allows you to  design your API in API Management and export it to an OpenAPI specification file, which could be used to bring organizational alignment and serve as a guidance for implementing backend services that support the API logic and client applications that consume the API. | Tech Community
