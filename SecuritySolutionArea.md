@@ -133,6 +133,14 @@ Source | Description | Notes
 :----- | :---------- | :----
 [Setup a Microsoft Defender for Identity security alert lab](https://learn.microsoft.com/en-us/defender-for-identity/playbook-setup-lab) | The purpose of the Microsoft Defender for Identity Security Alert lab is to illustrate Defender for Identity's capabilities in identifying and detecting suspicious activities and potential attacks against your network. | Microsoft Learn
 
+## Defender for DevOps
+
+Source | Description | Notes
+:----- | :---------- | :----
+[Remediating Infrastructure-as-Code Security Misconfigurations with Microsoft Defender for DevOps](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/remediating-infrastructure-as-code-security-misconfigurations/ba-p/3824135) | By integrating Microsoft Defender for DevOps into Azure DevOps and GitHub environments, security teams and developers can now collaborate toward DevOps security posture management from code to cloud. Security teams can view the security hygiene of each repository, identifying which repositories contain critical IaC misconfigurations before the infrastructure is provisioned to production workloads | Tech Community
+[Detect exposed secrets in code](https://learn.microsoft.com/en-us/azure/defender-for-cloud/detect-exposed-secrets) | Defender for Cloud offers a solution by using secret scanning to detect credentials, secrets, certificates, and other sensitive content in your source code and your build output.  | Microsoft Learn
+[Enable pull request annotations in GitHub and Azure DevOps](https://learn.microsoft.com/en-us/azure/defender-for-cloud/enable-pull-request-annotations) | With Microsoft Defender for Cloud, you can configure PR annotations in Azure DevOps. You can get PR annotations in GitHub if you're a GitHub Advanced Security customer.|  Microsoft Learn
+
 ## Purview
 
 Source | Description | Notes
