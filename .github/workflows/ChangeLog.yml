@@ -58,7 +58,7 @@ jobs:
     name: summary
     needs: scan
     outputs:
-      completion: ${{ steps.extract-print.outputs.completion }} 
+      completion: ${{ steps.extract-print.outputs.completion }}
     strategy:
       fail-fast: false
       matrix: ${{ fromJson(needs.scan.outputs.changes) }}
@@ -74,11 +74,15 @@ jobs:
         uses: austenstone/openai-completion-action@v2
         id: create-summary
         with:
-          prompt: "As an author of a site called for Microsoft partners called the PartnerCrucible, summarize the additions based on the following git diff output. Provide links to the added references. Use markdown as the output format. For relative links, add the base https://lagimik.github.io/PartnerCrucible/ \\n\\n git diff output:\n\n ${{ matrix.changes.change}}"
+          prompt: |
+            "With an energetic tone summarize the url links found below in the git diff output to encourage readers to follow the links. Use an attention grabbing tagline as the title. Use the following markdown as the output format. Include the references to the source file for the changes that has a .md extension. Add the following base URI to the source file: https://lagimik.github.io/PartnerCrucible/
+            "|Date added|Link title with url| Short summary| Source file |""
+            "|-------------|------------------|------------|-------------|"
+            "${{ matrix.changes.change}}"
           max_tokens: 1000
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-       
+
       - name: Extract and Print Summary Completion
         if: ${{ (matrix.changes.change != null)  }}
         id: extract-print-summary
@@ -86,8 +90,8 @@ jobs:
         with:
           script: |
             console.log(JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content)
-            return JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content 
-           
+            return JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content
+
 
       - name: Create Changelog
         if: ${{ (matrix.changes.change != null)  }}
@@ -97,7 +101,7 @@ jobs:
           SUMMARY: "${{ steps.extract-print-summary.outputs.result }}"
         run: |
           echo $SUMMARY >> $FILENAME
-         
+
 
       - name: Upload artifact
         id:  upload-artifact
@@ -107,5 +111,4 @@ jobs:
           name: change-summary
           path: "${{ matrix.changes.file}}-changelog.md"
 
-     
-        
+
