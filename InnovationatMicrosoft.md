@@ -42,8 +42,9 @@ Source | Description | Notes
 
 See the dedicated [Hackathon Collection](./Hackathon)
 
-## Labs
+## Technology Centers and Labs
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Microsoft Technology Centers](https://www.microsoft.com/en-us/mtc/offerings) | Our collection of offerings supports your digital transformation journey. You can learn more about our core offerings below | Microsoft Technology Centers
 [Microsoft AI & IoT Insider Labs](https://aiotlabs.microsoft.com/p/apply)| Microsoft AI & IoT Insider Labs
