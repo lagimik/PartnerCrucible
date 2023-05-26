@@ -41,7 +41,7 @@ Source | Description | Notes
 [Azure Database for MySQL Developer Guide](https://azure.microsoft.com/en-us/resources/azure-database-for-mysql-developer-guide/?OCID=mysql_dev_pdf_wk4_try_azd) | he Azure Database for MySQL Developer Guide is a comprehensive guide to developing MySQL-based applications in Azure. This guide contains actionable insights and proven best practices to successfully deploy cloud applications for MySQL in Azure. Towards the end of the guide, you can find links to tutorial jumpstarts, begin developing a sample PHP application, or select an evolved version utilizing a microservices architecture on AKS. | Azure Skills Navigator
 
 ## Azure OpenAI
-This section has been regrouped here: [Data & AI > Azure OpenAI](./DataAISolutionArea-AzureOpenAI)
+This section has been regrouped here: [Data & AI > Azure OpenAI](./DataAISolutionArea-AzureOpenAI.md)
 
 ## CosmosDB
 
