@@ -24,9 +24,10 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[CSP security best practices](https://learn.microsoft.com/en-us/partner-center/csp-security-best-practices) | All partners in the Cloud Solution Provider (CSP) program accessing Partner Center and Partner Center APIs should follow the security guidance in this article to protect themselves and customers.| Microsoft Lean
 [GDAP roles by partner types](https://learn.microsoft.com/en-us/partner-center/gdap-least-privileged-roles-by-task#gdap-roles-by-partner-types) | Recommended for indirect providers to transact and manage | Microsoft Learn
 [Admin on behalf of (AOBO)](https://learn.microsoft.com/en-us/shows/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) | AOBO for O365 and Azure | MS Learn
-[Providing Support to your customers un CSP ](https://docs.microsoft.com/en-us/partner-center/customer-support)|Description of support requirements under CSP|..|
+[Providing Support to your customers on CSP ](https://docs.microsoft.com/en-us/partner-center/customer-support)|Description of support requirements under CSP|..|
 [Transfer Azure subscriptions between subscribers and CSPs](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp) | This article provides high-level steps used to transfer Azure subscriptions to and from Cloud Solution Provider (CSP) partners and their customers.| MS Learn
 
 
