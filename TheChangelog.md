@@ -9,6 +9,30 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+### Week ending May 26, 2023
+
+Additions this week include a blueprint for the public governance of AI, SDKs and copilot frameworks. Partners: fortify your security posture with DLP and Defender for DevOps, and discover Power Platform Hackathon in a Box.
+
+Date | Change | File
+:--- | :----- | ---:
+2023-05-26 | adding security CSP references | [See changes here](./CSP)
+2023-05-26 | adding security CSP references | [See changes here](./SecuritySolutionArea-Sentinel)
+2023-05-25 | added references to Microsoft Technology Centers (MTC) | [See changes here](./InnovationatMicrosoft)
+2023-05-25 | added references to Defender for DevOps | [See changes here](./DigitalAppsandInnovationSolutionArea)
+2023-05-25 | added resources for Defender for DevOps | [See changes here](./SecuritySolutionArea)
+2023-05-24 | added references for Semantic Kernel (SK) | [See changes here](./DataAISolutionArea-AzureOpenAI)
+2023-05-24 | added AI Governance Blueprint,  apps and copilot framework | [See changes here](./DataAISolutionArea-AzureOpenAI)
+2023-05-24 | added Power Platform Hackathon in a Box | [See changes here](./PowerPlatformSolutionArea)
+2023-05-24 | added Advanced hunting for Microsoft Purview Data Loss Prevention (DLP) incidents | [See changes here](./SecuritySolutionArea)
+2023-05-24 | added synex annoucements from Build 2023 | [See changes here](./ModernWorkSolutionArea)
+2023-05-24 | multiple updates to Azure Lighthouse and customer onboarding | [See changes here](./AzureInfrastructureSolutionArea)
+2023-05-23 | updated power platform practice playbook url | [See changes here](./PowerPlatformSolutionArea)
+2023-05-23 | updated Azure Lighthouse references | [See changes here](./AzureInfrastructureSolutionArea)
+2023-05-23 | added Microsoft Purview & Priva Partner Playbook | [See changes here](./SecuritySolutionArea)
+2023-05-23 | added Microsoft SaaS Day for Startups | [See changes here](./Startups)
+2023-05-20 | added RedHat ARO learning path | [See changes here](./AzureInfrastructureSolutionArea)
+
+
 ### Week ending May 19, 2023
 Changes this week includes "What every CEO should know about generative AI" (@McKinsey). Also included are strong guidance on securing, managing Azure costs, and sustainability as part of your partner practice. Finally, the crucible is now curating resources for startups. 
 
