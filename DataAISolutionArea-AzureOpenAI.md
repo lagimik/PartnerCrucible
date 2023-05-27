@@ -19,15 +19,22 @@ Source | Description | Notes
 [Advancing human-centered AI: Updates on responsible AI research](https://www.microsoft.com/en-us/research/blog/advancing-human-centered-ai-updates-on-responsible-ai-research/) | he following is a glimpse into the past year’s research for advancing responsible AI with authors from Aether.| Microsoft Research 
 [GENERATIVE AI IS HERE - DOES YOUR COMPANY HAVE THE DNA TO MAKE IT WORK?](https://online.flippingbook.com/view/524344474/) | The GenAI DNA Framework� presented in this article is intended to help companies reduce risks, increase adoption, accelerate benefits, and achieve the business value desired from GenAI while keeping the frustrations and costs of “random acts of digital” at a minimum. | Cognixia
 
-## Azure OpenAI Practice Building and Responsible AI
+## Responsible AI
 
 Source | Description | Notes
 :----- | :-----  | :-----
 [Governing AI: A Blueprint for the Future](https://aka.ms/May25Whitepaper) | A five-point blueprint for the public governance of A| Microsoft
 [Responsible AI Resources](https://www.microsoft.com/en-us/ai/responsible-ai-resources) | Explore resources designed to help you responsibly use AI at every stage of innovation - from concept to development, deployment, and beyond.|
+[AI-powered content safety](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-ai-content-safety-ebook/Azure%20Content%20Safety%20eBook.pdf) | An eBook to Build a leading content moderation strategy with AI | Microsoft
+[AI for Good Research Lab]([https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/) | Microsoft’s AI for Good Lab is an applied research and data visualization lab that harnesses the power of big data, and Microsoft’s cloud technology. | Microsoft Research
+
+## Azure OpenAI Practice Building
+
+Source | Description | Notes
+:----- | :-----  | :-----
 [Partner Data and AI Solution Area Landing](https://partner.microsoft.com/en-us/explore/solution-areas#tab-2) | | Partner
 [Azure OpenAI Sales Acceleration](https://partner.microsoft.com/en-us/asset/collection/azure-openai-service-sales-acceleration-content#/) | Sales Acceleration content| Partner
-[AI for Good Research Lab]([https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/) | Microsoft’s AI for Good Lab is an applied research and data visualization lab that harnesses the power of big data, and Microsoft’s cloud technology. | Microsoft Research
+
 
 ## Azure OpenAI Services
 
@@ -53,12 +60,27 @@ Source | Description | Notes
 [Prompt Engine](https://github.com/microsoft/prompt-engine) | This repo contains an NPM utility library for creating and maintaining prompts for Large Language Models (LLMs).| GitHub
 [The AI Show](https://aka.ms/AIShowsubscribe) | The AI Show Live showcases the amazing work happening in AI at Microsoft. Developers learn what's new in AI in a short amount of time and are directed to assets helping them get started and on the road to success right away. Seth Juarez and friends work on cool projects and highlight what's new in Azure AI and Machine Learning. | Microsoft Learn
 
+## Content Safety
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Azure AI Content Safety](https://aka.ms/contentsafety) | Use AI to monitor text and image content for safety.| Azure|
+[Tech community blog](https://aka.ms/contentsafety-techblog) | Azure AI Content Safety enables enterprises across various industries to harness the power of Responsible AI, facilitating the creation of secure online spaces and fostering a sense of community.| Tech Community
+[Azure AI Content Safety studio](https://aka.ms/contentsafetystudio) | Machine learning assisted moderation APIs that detect material that is potentially offensive, risky, or otherwise undesirable, to assure the contents in community is safe.| Azure 
+[Introducing Azure AI Content Safety | A new Azure Cognitive Service for content moderation](https://aka.ms/contentsafetydemo) | Introducing Azure AI Content Safety, the content moderation platform that uses AI to identify inappropriate content to create better online experiences for everyone. With advanced language and vision models, AI content classifiers, and content moderation severity scores, you can confidently review content to keep online communities safe.| YouTube
+
+
 ## Copilot
 
 Source | Description | Notes
 :----- | :-----  | :-----
 [AI apps and copilot framework](https://news.microsoft.com/source/features/ai/microsoft-outlines-framework-for-building-ai-apps-and-copilots-expands-ai-plugin-ecosystem/) | A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task | Microsoft News
 [Semantic Kernel: A Lightweight SDK for LLMs](https://techcommunity.microsoft.com/t5/educator-developer-blog/unlock-the-potential-of-ai-in-your-apps-with-semantic-kernel-a/ba-p/3773847) | Semantic Kernel (SK) is an innovative and lightweight Software Development Kit (SDK) designed to integrate Artificial Intelligence (AI) Large Language Models (LLMs) with conventional programming languages| Tech Community
+[Building AI solutions with Semantic Kernel](https://build.microsoft.com/en-US/sessions/31e11443-70d3-4020-8c8c-0a654bccd233?source=sessions) | During this session, learn why we created Semantic Kernel (SK) and how it requires a new kind of developer mindset.  Discover how SK has evolved alongside OpenAI’s GPT-4 trajectory and what plugins will mean. We also discuss early signals we have gathered around SK use for copilots. | Build 2023 
+
+## Plugins
+[ChatGPT Plugins waitlist](https://openai.com/waitlist/plugins) | ChatGPT Plugins will now be available to all ChatGPT plus subscribers, no waitlist required! If you are a developer who has ChatGPT plus and you are interested in making a plugin, please fill out the form below. | OpenAI
+[ChatGPT Plugin Quickstart using Python and FastAPI](https://github.com/Azure-Samples/openai-plugin-fastapi) | his is a quickstart for sample for creating ChatGPT Plugin using GitHub Codespaces, VS Code, and Azure. The sample includes templates to deploy the plugin to Azure Container Apps using the Azure Developer CLI. | GitHub
 
 ## Examples and Demos
 
@@ -70,3 +92,4 @@ Source | Description | Notes
 [Azure Cosmos DB + OpenAI ChatGPT](https://github.com/Azure-Samples/cosmosdb-chatgpt) | This sample application combines Azure Cosmos DB with OpenAI ChatGPT with a Blazor Server front-end for an intelligent chat bot application that shows off how you can build a simple chat application with OpenAi ChatGPT and Azure Cosmos DB.| GitHub
 [Document Analysis demo using Azure Form Recognizer and Azure OpenAI](https://microsoft.sharepoint.com/teams/AIEngagements/_layouts/15/stream.aspx?id=%2Fteams%2FAIEngagements%2FShared%20Documents%2FDemos%2FDocument%20Analysis%20demo%20using%20Azure%20Form%20Recognizer%20and%20Azure%20OpenAI%2Emp4) | Document Analysis demo using Azure Form Recognizer and Azure OpenAI|
 [Customer Service Conversational Insights with Azure OpenAI](https://github.com/microsoft/Customer-Service-Conversational-Insights-with-Azure-OpenAI-Services) | The Customer Service Conversational Insights is a solution accelerator built on top of Azure Cognitive Search, Bot Framework, Azure Speech Services and Azure OpenAI that allows customers to quickly deploy an integrated platform and immediately start extracting insights from customer conversations.| GitHub
+[Podcast Copilot](https://github.com/microsoft/PodcastCopilot) | This code was demonstrated at the Build 2023 keynote by Microsoft CTO Kevin Scott, illustrating the architecture of a Copilot. | GitHub

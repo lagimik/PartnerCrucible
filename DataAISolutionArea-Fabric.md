@@ -16,6 +16,19 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [Introducing Microsoft Fabric: Data analytics for the era of AI](https://azure.microsoft.com/en-us/blog/introducing-microsoft-fabric-data-analytics-for-the-era-of-ai/) | Announcement - By Arun Ulagaratchagan Corporate Vice President, Azure Data | Azure
 
+## Community
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐢𝐧𝐠 𝐅𝐚𝐛𝐫𝐢𝐜](https://lnkd.in/duxVTQtq) | | BI Polar Blog
+[Overcoming the Fear: Exploring Microsoft Fabric from a Power BI Angle](https://lnkd.in/d5D_dnVg) | | Data Marc Blog
+[Microsoft Fabric – the first look](https://lnkd.in/dd93-MZF) | | coding family blog
+[Microsoft Fabric – Beyond Hype and Marketing!](https://lnkd.in/dH2aq3qT) | | Data Mozart Blog
+[Getting Started with Microsoft Fabric: Enabling 60-Day Trial and Analysing Data](https://lnkd.in/dr8SRWBT) | | ServerlessSQL
+[Overview of new Microsoft Fabric Power BI Announcements](https://lnkd.in/d7GP4tnx) | | Data Goblins Blog
+[Direct Lake: My Favorite Feature in Microsoft Fabric](https://lnkd.in/dBW-K5vB) | | Artis Consulting
+[Data Intelligence on light speed: Microsoft Fabric](https://lnkd.in/dNe5mVTD) | | redgate
+
 ## Microsoft Fabric
 Source | Description | Notes
 :----- | :-----  | :-----
