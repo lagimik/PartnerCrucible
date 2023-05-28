@@ -89,11 +89,9 @@ jobs:
         uses: actions/github-script@v6
         with:
           script: |
-            console.log("START - OPENAI RESPONSE:")
-            console.log("${{ steps.create-summary.outputs.response }}")
-            console.log("END - OPENAI RESPONSE:")
-            console.log(JSON.parse("${{ steps.create-summary.outputs.response }}").choices[0].message.content)
-            return (JSON.parse("${{ steps.create-summary.outputs.response }}").choices[0].message.content)
+            const completion_text = JSON.parse('${{ steps.openai_completion.outputs.response }}').choices[0].message.content
+            console.log(JSON.parse(completion_text)
+            return (completion_text)
 
       - name: Create Changelog
         if: ${{ (matrix.changes.change != null)  }}
