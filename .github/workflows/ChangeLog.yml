@@ -90,10 +90,11 @@ jobs:
         env:
           OPENAI_RESPONSE: ${{ steps.openai_completion.outputs.response }}
         with:
+          debug: true
           script: |
-            const completion_text = JSON.parse($OPENAI_RESPONSE).choices[0].message.content
-            console.log(JSON.parse(completion_text)
-            return (completion_text)
+            const completion  = JSON.parse($OPENAI_RESPONSE)
+            console.log(JSON.parse(completion_text.choices[0].message.content)
+            return (completion_text.choices[0].message.content)
 
       - name: Create Changelog
         if: ${{ (matrix.changes.change != null)  }}
