@@ -87,13 +87,13 @@ jobs:
         if: ${{ (matrix.changes.change != null) }}
         id: extract-print-summary
         uses: actions/github-script@v6
-        with:
         env:
           OPENAI_RESPONSE: ${{ steps.openai_completion.outputs.response }}
-        script: |
-          const completion_text = JSON.parse($OPENAI_RESPONSE).choices[0].message.content
-          console.log(JSON.parse(completion_text)
-          return (completion_text)
+        with:
+          script: |
+            const completion_text = JSON.parse($OPENAI_RESPONSE).choices[0].message.content
+            console.log(JSON.parse(completion_text)
+            return (completion_text)
 
       - name: Create Changelog
         if: ${{ (matrix.changes.change != null)  }}
