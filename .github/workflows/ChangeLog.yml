@@ -60,7 +60,6 @@ jobs:
     outputs:
       completion: ${{ steps.extract-print.outputs.completion }}
     strategy: 
-      max-parallel: 1
       fail-fast: false
       matrix: ${{ fromJson(needs.scan.outputs.changes) }}
     steps:
@@ -90,7 +89,9 @@ jobs:
         uses: actions/github-script@v6
         with:
           script: |
+            console.log("START - OPENAI RESPONSE:")
             console.log(${{ steps.create-summary.outputs.response }})
+            console.log("END - OPENAI RESPONSE:")
             console.log(JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content)
             return JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content
 
