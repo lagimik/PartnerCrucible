@@ -59,7 +59,7 @@ jobs:
     needs: scan
     outputs:
       completion: ${{ steps.extract-print.outputs.completion }}
-    strategy: 
+    strategy:
       fail-fast: false
       matrix: ${{ fromJson(needs.scan.outputs.changes) }}
     steps:
@@ -75,9 +75,9 @@ jobs:
         id: create-summary
         with:
           prompt: |
-            "With an energetic tone summarize the url links found below in the git diff output to encourage readers to follow the links. Use an attention grabbing tagline as the title. Use the following markdown as the output format. Include the references to the source file for the changes that has a .md extension. Add the following base URI to the source file: https://lagimik.github.io/PartnerCrucible/
-            "|Date added|Link title with url| Short summary| Source file |"
-            "|-------------|------------------|------------|-------------|"
+            "With an energetic tone summarize the url links found below in the git diff output to encourage readers to follow the links."
+            "Use an attention grabbing tagline as the title."
+            " Use markdown as the output format."
             "${{ matrix.changes.change}}"
           max_tokens: 1000
         env:
