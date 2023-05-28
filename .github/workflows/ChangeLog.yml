@@ -89,11 +89,12 @@ jobs:
         uses: actions/github-script@v6
         env:
           OPENAI_RESPONSE: ${{ steps.create-summary.outputs.response }}
+
         with:
           debug: true
           script: |
-            const completion  = JSON.parse($OPENAI_RESPONSE)
-            console.log(JSON.parse(completion.choices[0].message.content)
+            const completion  = fromJSON($OPENAI_RESPONSE)
+            console.log(completion.choices[0].text)
             return (completion.choices[0].message.content)
 
       - name: Create Changelog
