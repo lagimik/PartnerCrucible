@@ -93,8 +93,8 @@ jobs:
           debug: true
           script: |
             const completion  = JSON.parse($OPENAI_RESPONSE)
-            console.log(JSON.parse(completion_text.choices[0].message.content)
-            return (completion_text.choices[0].message.content)
+            console.log(JSON.parse(completion.choices[0].message.content)
+            return (completion.choices[0].message.content)
 
       - name: Create Changelog
         if: ${{ (matrix.changes.change != null)  }}
