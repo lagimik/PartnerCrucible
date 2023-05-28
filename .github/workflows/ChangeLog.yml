@@ -83,27 +83,14 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
-      - name: Extract and Print Summary Completion
+      - name: Extract Compltetion and Create ChangeLog
         if: ${{ (matrix.changes.change != null) }}
         id: extract-print-summary
-        uses: actions/github-script@v6
         env:
-          OPENAI_RESPONSE: ${{ steps.create-summary.outputs.response }}
-
-        with:
-          debug: true
-          script: |
-            const completion  = fromJSON($OPENAI_RESPONSE)
-            console.log(completion.choices[0].text)
-            return (completion.choices[0].message.content)
-
-      - name: Create Changelog
-        if: ${{ (matrix.changes.change != null)  }}
-        id: create-changelog
-        env:
-          FILENAME: "${{ matrix.changes.file}}-changelog.md"
-          SUMMARY: "${{ steps.extract-print-summary.outputs.result }}"
+          FILENAME: ${{ matrix.changes.file}}-changelog.md
+          SUMMARY: ${{ fromJson(steps.create-summary.outputs.response).choices[0].message.content }}
         run: |
+          echo $SUMMARY
           echo $SUMMARY >> $FILENAME
 
 
