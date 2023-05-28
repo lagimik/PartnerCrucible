@@ -59,7 +59,8 @@ jobs:
     needs: scan
     outputs:
       completion: ${{ steps.extract-print.outputs.completion }}
-    strategy:
+    strategy: 
+      max-parallel: 1
       fail-fast: false
       matrix: ${{ fromJson(needs.scan.outputs.changes) }}
     steps:
@@ -72,8 +73,6 @@ jobs:
       - name: Create Summary Completion Jobs
         if: ${{ (matrix.changes.change != null)  }}
         uses: austenstone/openai-completion-action@v2
-        concurrency: 
-            group: summary-completion
         id: create-summary
         with:
           prompt: |
