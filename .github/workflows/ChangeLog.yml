@@ -90,10 +90,10 @@ jobs:
         with:
           script: |
             console.log("START - OPENAI RESPONSE:")
-            console.log(${{ steps.create-summary.outputs.response }})
+            console.log("${{ steps.create-summary.outputs.response }}")
             console.log("END - OPENAI RESPONSE:")
-            console.log(JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content)
-            return JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content
+            console.log(JSON.parse("${{ steps.create-summary.outputs.response }}").choices[0].message.content)
+            return (JSON.parse("${{ steps.create-summary.outputs.response }}").choices[0].message.content)
 
       - name: Create Changelog
         if: ${{ (matrix.changes.change != null)  }}
