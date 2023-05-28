@@ -84,8 +84,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
       - name: Extract and Print Summary Completion
-        if: ${{ (matrix.changes.change != null)  }}
-        if: ${{ JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content != null }}
+        if: ${{ (matrix.changes.change != null) && JSON.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content != null }}
         id: extract-print-summary
         uses: actions/github-script@v6
         with:
