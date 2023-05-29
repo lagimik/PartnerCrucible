@@ -1,4 +1,4 @@
-# Data & AI > Fabric
+# Data & AI > Microsoft Fabric
 
 
 ## Purpose
@@ -30,6 +30,7 @@ Source | Description | Notes
 [Data Intelligence on light speed: Microsoft Fabric](https://lnkd.in/dNe5mVTD) | | redgate
 
 ## Microsoft Fabric
+
 Source | Description | Notes
 :----- | :-----  | :-----
 [Administration and Governance in Fabric](https://aka.ms/Fabric-Admin-Gov-Blog) | Fabric provides a unified intelligent data foundation for all analytics workloads and integrates Power BI, Data Factory, and the next generation of Synapse to offer customers an easy to manage, modern analytics solution| Fabric Blog
@@ -45,8 +46,8 @@ Source | Description | Notes
 [Dataverse and Microsoft Fabric integration](https://aka.ms/Dataverse-Fabric-Blog) | “View in Microsoft Fabric” automatically makes all your Dynamics 365 data available for analysis in Microsoft Fabric without having to copy data, build ETL pipelines, or use third-party integration tool | Dynamics Blog
 
 
-
 ## Practice Building
+
 Source | Description | Notes
 :----- | :-----  | :-----
 [Unlocking Transformative Data Value with Microsoft Fabric](https://info.microsoft.com/ww-landing-unlocking-transformative-data-value-with-microsoft-fabric.html) | ebook - Learn why accessing and managing real-time data in the cloud is key to long-term business success—and see how to get started with a modern analytics solution. | Microsoft 
@@ -55,6 +56,7 @@ Source | Description | Notes
 [Microsoft Fabric - Free Trial](https://app.fabric.microsoft.com/singleSignOn?ru=https%3A%2F%2Fapp.fabric.microsoft.com%2F%3FnoSignUpCheck%3D1) | Free Trial| Microsoft 
 
 ## Skilling
+
 Source | Description | Notes
 :----- | :-----  | :-----
 [Get started with Microsoft Fabric](https://lnkd.in/dza3b8ru) | Microsoft Learning path for Microsoft Fabric (9𝐡) | Microsoft Learn
@@ -63,6 +65,7 @@ Source | Description | Notes
 [Webinar Series: Introduction to Microsoft Fabric](https://info.microsoft.com/ww-landing-introduction-to-microsoft-fabric-webinar-series.html?lcid=en-us)| On-demand: Watch this series to learn about the key experiences and benefits of this end-to-end analytics solution | Microsoft Webinars
 
 ## References
+
 Source | Description | Notes
 :----- | :-----  | :-----
 [Microsoft Fabric documentation](https://learn.microsoft.com/en-gb/fabric/) | Microsoft Fabric is a unified platform that can meet your organization's data and analytics needs. Discover the capabilities Fabric has to offer, understand how it works, and how to use it.| Microsoft Learn
