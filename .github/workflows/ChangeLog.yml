@@ -59,7 +59,7 @@ jobs:
     needs: scan
     outputs:
       completion: ${{ steps.extract-print.outputs.completion }}
-    strategy: 
+    strategy:
       fail-fast: false
       matrix: ${{ fromJson(needs.scan.outputs.changes) }}
     steps:
@@ -75,33 +75,22 @@ jobs:
         id: create-summary
         with:
           prompt: |
-            "With an energetic tone summarize the url links found below in the git diff output to encourage readers to follow the links. Use an attention grabbing tagline as the title. Use the following markdown as the output format. Include the references to the source file for the changes that has a .md extension. Add the following base URI to the source file: https://lagimik.github.io/PartnerCrucible/
-            "|Date added|Link title with url| Short summary| Source file |"
-            "|-------------|------------------|------------|-------------|"
+            "With an energetic tone summarize the url links found below in the git diff output to encourage readers to follow the links."
+            "Use an attention grabbing tagline as the title."
+            " Use markdown as the output format."
             "${{ matrix.changes.change}}"
           max_tokens: 1000
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
-      - name: Extract and Print Summary Completion
+      - name: Extract Compltetion and Create ChangeLog
         if: ${{ (matrix.changes.change != null) }}
         id: extract-print-summary
-        uses: actions/github-script@v6
-        with:
-          script: |
-            console.log("START - OPENAI RESPONSE:")
-            console.log("${{ steps.create-summary.outputs.response }}")
-            console.log("END - OPENAI RESPONSE:")
-            console.log(JSON.parse("${{ steps.create-summary.outputs.response }}").choices[0].message.content)
-            return (JSON.parse("${{ steps.create-summary.outputs.response }}").choices[0].message.content)
-
-      - name: Create Changelog
-        if: ${{ (matrix.changes.change != null)  }}
-        id: create-changelog
         env:
-          FILENAME: "${{ matrix.changes.file}}-changelog.md"
-          SUMMARY: "${{ steps.extract-print-summary.outputs.result }}"
+          FILENAME: ${{ matrix.changes.file}}-changelog.md
+          SUMMARY: ${{ fromJson(steps.create-summary.outputs.response).choices[0].message.content }}
         run: |
+          echo $SUMMARY
           echo $SUMMARY >> $FILENAME
 
 
