@@ -86,7 +86,7 @@ jobs:
       - name: Extract Completion and Create ChangeLog
         if: ${{ (matrix.changes.change != null) }}
         id: extract-print-summary
-        env:
+        env: |
           FILENAME: ${{ matrix.changes.file}}-changelog.md
           SUMMARY: ${{ fromJson(steps.create-summary.outputs.response).choices[0].message.content }}
         run: |
@@ -108,7 +108,7 @@ jobs:
 
       - name: Download Image
         id: download-image
-        env:
+        env: |
           FILENAME: ${{ matrix.changes.file}}-changelog.md
           IMAGE_FILENAME: ${{ matrix.changes.file}}-image.png
           IMAGE_URL: ${{ steps.create-image-prompt.outputs.result }}
