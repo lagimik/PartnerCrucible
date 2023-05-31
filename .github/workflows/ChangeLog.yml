@@ -75,7 +75,7 @@ jobs:
         id: create-summary
         with:
           prompt: |
-            "With an energetic tone summarize the url links found below in the git diff output to encourage readers to follow the links."
+            "With an energetic tone summarize the url links found below in the Partner Crucible updates to encourage readers to follow the links."
             "Use an attention grabbing tagline as the title."
             " Use markdown as the output format."
             "${{ matrix.changes.change}}"
@@ -83,7 +83,7 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
-      - name: Extract Compltetion and Create ChangeLog
+      - name: Extract Completion and Create ChangeLog
         if: ${{ (matrix.changes.change != null) }}
         id: extract-print-summary
         env:
@@ -93,6 +93,31 @@ jobs:
           echo $SUMMARY
           echo $SUMMARY >> $FILENAME
 
+      - name: Create Image Prompt
+        id: create-image-prompt
+        env:
+          FILENAME: ${{ matrix.changes.file}}-changelog.md
+        run:
+          echo "prompt=`head -c 64 $FILENAME`" >> $GITHUB_OUTPUT
+
+      - name: Generate Image
+        id: generate-image
+        uses: austenstone/openai-image-generation@main
+        with:
+          openai-api-key: ${{ secrets.OPENAI_API_KEY }}
+          prompt: ${{ steps.create-image-prompt.outputs.prompt }}
+
+      - name: Download Image
+        if: ${{ (matrix.changes.change != null) }}
+        id: download-image
+        env:
+          FILENAME: ${{ matrix.changes.file}}-changelog.md
+          IMAGE_FILENAME: ${{ matrix.changes.file}}-image.png
+          IMAGE_URL: ${{ steps.generate-image.outputs.image }}
+          IMAGE_MARKDOWN: '![ ${{ matrix.changes.file}} ]( ${{ matrix.changes.file}}-image.png )'
+        run: |
+          curl -o $IMAGE_FILENAME $IMAGE_URL
+          echo $IMAGE_MARKDOWN >> $FILENAME
 
       - name: Upload artifact
         id:  upload-artifact
@@ -100,6 +125,6 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: change-summary
-          path: "${{ matrix.changes.file}}-changelog.md"
+          path: "${{ matrix.changes.file}}*.*"
 
 
