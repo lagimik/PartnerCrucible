@@ -99,7 +99,7 @@ jobs:
         env:
           FILENAME: ${{ matrix.changes.file}}-changelog.md
         run:
-          echo "prompt=an abstract nature landscape with `head -c 64 $FILENAME`" >> $GITHUB_OUTPUT
+          echo "prompt=an abstract nature landscape, without words, inspired by teh sentence: `head -c 64 $FILENAME`" >> $GITHUB_OUTPUT
 
       - name: Generate Image
         id: generate-image
