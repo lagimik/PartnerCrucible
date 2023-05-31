@@ -98,7 +98,7 @@ jobs:
         env:
           FILENAME: ${{ matrix.changes.file}}-changelog.md
         run:
-          echo `head -c -64 $FILENAME`
+          echo `head -c 64 $FILENAME`
 
       - name: Generate Image
         id: generate-image
