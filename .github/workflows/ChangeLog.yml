@@ -98,14 +98,14 @@ jobs:
         env:
           FILENAME: ${{ matrix.changes.file}}-changelog.md
         run:
-          echo `head -c 64 $FILENAME` >> $GITHUB_OUTPUT
+          echo "prompt=`head -c 64 $FILENAME`" >> $GITHUB_OUTPUT
 
       - name: Generate Image
         id: generate-image
         uses: austenstone/openai-image-generation@main
         with:
           openai-api-key: ${{ secrets.OPENAI_API_KEY }}
-          prompt: ${{ steps.create-image-prompt.outputs.result }}
+          prompt: ${{ steps.create-image-prompt.outputs.prompt }}
 
       - name: Download Image
         if: ${{ (matrix.changes.change != null) }}
