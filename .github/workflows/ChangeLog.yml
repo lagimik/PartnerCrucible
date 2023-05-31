@@ -111,7 +111,7 @@ jobs:
           openai-api-key: ${{ secrets.OPENAI_API_KEY }}
           prompt: ${{ steps.create-image-prompt.outputs.result }}
       - run: |
-          curl -o $IMAGE_FILENAME $IMAGE_URL
+          curl -o $IMAGE_FILENAME '$IMAGE_URL'
           echo $IMAGE_MARKDOWN >> $FILENAME
 
       - name: Upload artifact
