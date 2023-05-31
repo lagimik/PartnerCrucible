@@ -75,7 +75,7 @@ jobs:
         id: create-summary
         with:
           prompt: |
-            "With an energetic tone summarize the url links found below in the git diff output to encourage readers to follow the links."
+            "With an energetic tone summarize the url links found below in the Partner Crucible updates to encourage readers to follow the links."
             "Use an attention grabbing tagline as the title."
             " Use markdown as the output format."
             "${{ matrix.changes.change}}"
@@ -95,9 +95,10 @@ jobs:
 
       - name: Create Image Prompt
         id: create-image-prompt
-        uses: actions/github-script@v3
-        with:
-          script: return "cat skateboarding"
+        env:
+          FILENAME: ${{ matrix.changes.file}}-changelog.md
+        run:
+          echo `head -n1 $FILENAME`
 
       - name: Generate Image
         id: generate-image
