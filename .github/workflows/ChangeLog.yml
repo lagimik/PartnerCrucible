@@ -105,8 +105,6 @@ jobs:
         with:
           openai-api-key: ${{ secrets.OPENAI_API_KEY }}
           prompt: ${{ steps.create-image-prompt.outputs.result }}
-        run:
-          echo ${{ steps.generate-image.outputs.image }}
 
       - name: Download Image
         if: ${{ (matrix.changes.change != null) }}
@@ -116,7 +114,7 @@ jobs:
           IMAGE_FILENAME: ${{ matrix.changes.file}}-image.png
           IMAGE_URL: ${{ steps.create-image-prompt.outputs.result }}
           IMAGE_MARKDOWN: '![ ${{ matrix.changes.file}} ]( ${{ matrix.changes.file}}-image.png )'
-      - run: |
+        run: |
           curl -o $IMAGE_FILENAME '$IMAGE_URL'
           echo $IMAGE_MARKDOWN >> $FILENAME
 
