@@ -112,7 +112,7 @@ jobs:
         env:
           FILENAME: ${{ matrix.changes.file}}-changelog.md
           IMAGE_FILENAME: ${{ matrix.changes.file}}-image.png
-          IMAGE_URL: ${{ steps.generate-image.outputs.result }}
+          IMAGE_URL: ${{ steps.generate-image.outputs.image }}
           IMAGE_MARKDOWN: '![ ${{ matrix.changes.file}} ]( ${{ matrix.changes.file}}-image.png )'
         run: |
           curl -o $IMAGE_FILENAME $IMAGE_URL
