@@ -75,9 +75,10 @@ jobs:
         id: create-summary
         with:
           prompt: |
-            "With an energetic tone summarize the url links found below in the Partner Crucible updates to encourage readers to follow the links."
+            "With an energetic tone summarize the changes found below in the Partner Crucible updates to encourage readers to follow the links."
             "Use an attention grabbing tagline as the title."
-            " Use markdown as the output format."
+            "Use markdown as the output format."
+            "Add linebreaks between each sentence."
             "${{ matrix.changes.change}}"
           max_tokens: 1000
         env:
@@ -124,7 +125,41 @@ jobs:
         if: ${{ (matrix.changes.change != null)  }}
         uses: actions/upload-artifact@v3
         with:
-          name: change-summary
+          name: completion-segments
           path: "${{ matrix.changes.file}}*.*"
 
+newsletter:
+  runs-on: ubuntu-latest
+  name: newsletter
+  needs: summary
+  steps:
+    - name: Download and Expand Artifact
+      id: download-artifact
+      uses: actions/download-artifact@v2
+      with:
+        name: completion-segments
+        path: completion-segments
+
+    - name: List artifacts
+      id: list-artifacts
+      run: |
+        ls -l completion-segments
+
+    - name: Combine Summaries
+      id: combine-summaries
+      run: |
+        cd completion-segments
+        echo "# Partner Crucible Update Stream" >> partnercrucible-newsletter.md
+        for file in *.md; do
+          echo $file
+          cat $file >> partnercrucible-newsletter.md
+        done
+
+    - name: Upload newsletter
+      id:  upload-newsletter
+      uses: actions/upload-artifact@v3
+      with:
+        name: upload-newsletter
+        path: partnercrucible-newsletter.md
+    
 
