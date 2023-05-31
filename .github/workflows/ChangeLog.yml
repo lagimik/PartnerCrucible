@@ -18,7 +18,7 @@ jobs:
         name: Changed Files
         id: changed-files
         with:
-            since: "3 days"
+            since: "7 days"
             files: |
               *.md
       - name: Get changes in files
@@ -98,7 +98,7 @@ jobs:
         env:
           FILENAME: ${{ matrix.changes.file}}-changelog.md
         run:
-          echo "prompt=`head -c 64 $FILENAME`" >> $GITHUB_OUTPUT
+          echo "prompt=`an abstract nature landscape with head -c 64 $FILENAME`" >> $GITHUB_OUTPUT
 
       - name: Generate Image
         id: generate-image
