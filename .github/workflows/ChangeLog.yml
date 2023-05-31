@@ -128,38 +128,38 @@ jobs:
           name: completion-segments
           path: "${{ matrix.changes.file}}*.*"
 
-newsletter:
-  runs-on: ubuntu-latest
-  name: newsletter
-  needs: summary
-  steps:
-    - name: Download and Expand Artifact
-      id: download-artifact
-      uses: actions/download-artifact@v2
-      with:
-        name: completion-segments
-        path: completion-segments
+  newsletter:
+    runs-on: ubuntu-latest
+    name: newsletter
+    needs: summary
+    steps:
+      - name: Download and Expand Artifact
+        id: download-artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: completion-segments
+          path: completion-segments
 
-    - name: List artifacts
-      id: list-artifacts
-      run: |
-        ls -l completion-segments
+      - name: List artifacts
+        id: list-artifacts
+        run: |
+          ls -l completion-segments
 
-    - name: Combine Summaries
-      id: combine-summaries
-      run: |
-        cd completion-segments
-        echo "# Partner Crucible Update Stream" >> partnercrucible-newsletter.md
-        for file in *.md; do
-          echo $file
-          cat $file >> partnercrucible-newsletter.md
-        done
+      - name: Combine Summaries
+        id: combine-summaries
+        run: |
+          cd completion-segments
+          echo "# Partner Crucible Update Stream" >> partnercrucible-newsletter.md
+          for file in *.md; do
+            echo $file
+            cat $file >> partnercrucible-newsletter.md
+          done
 
-    - name: Upload newsletter
-      id:  upload-newsletter
-      uses: actions/upload-artifact@v3
-      with:
-        name: upload-newsletter
-        path: partnercrucible-newsletter.md
+      - name: Upload newsletter
+        id:  upload-newsletter
+        uses: actions/upload-artifact@v3
+        with:
+          name: upload-newsletter
+          path: partnercrucible-newsletter.md
     
 
