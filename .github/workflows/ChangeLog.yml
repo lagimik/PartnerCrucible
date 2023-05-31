@@ -124,6 +124,6 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: change-summary
-          path: "${{ matrix.changes.file}}-changelog.md"
+          path: "${{ matrix.changes.file}}*.*"
 
 
