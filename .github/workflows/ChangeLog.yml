@@ -57,6 +57,7 @@ jobs:
     runs-on: ubuntu-latest
     name: summary
     needs: scan
+    continue-on-error: true
     outputs:
       completion: ${{ steps.extract-print.outputs.completion }}
     strategy:
@@ -99,7 +100,7 @@ jobs:
         env:
           FILENAME: ${{ matrix.changes.file}}-changelog.md
         run:
-          echo "prompt=an abstract nature landscape, without words, inspired by the sentence - `head -c 64 $FILENAME`" >> $GITHUB_OUTPUT
+          echo "prompt=an abstract modern urban landscape, without words, inspired by the sentence - `head -c 64 $FILENAME`" >> $GITHUB_OUTPUT
 
       - name: Generate Image
         id: generate-image
@@ -132,6 +133,7 @@ jobs:
     runs-on: ubuntu-latest
     name: newsletter
     needs: summary
+    
     steps:
       - name: Download and Expand Artifact
         id: download-artifact
