@@ -83,7 +83,7 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
-      - name: Extract Compltetion and Create ChangeLog
+      - name: Extract Completion and Create ChangeLog
         if: ${{ (matrix.changes.change != null) }}
         id: extract-print-summary
         env:
@@ -93,6 +93,20 @@ jobs:
           echo $SUMMARY
           echo $SUMMARY >> $FILENAME
 
+      - name: Create Image Prompt
+        id: create-image-prompt
+        uses: actions/github-script@v3
+        with:
+          script: return "cat skateboarding"
+
+      - name: Generate Image
+        id: generate-image
+        uses: austenstone/openai-image-generation@main
+        with:
+          openai-api-key: ${{ secrets.OPENAI_API_KEY }}
+          prompt: ${{ steps.create-image-prompt.outputs.result }}
+      - run: |
+          echo ${{ steps.generate-image.outputs.image }} >> ${{ matrix.changes.file}}-image.png
 
       - name: Upload artifact
         id:  upload-artifact
