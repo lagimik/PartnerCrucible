@@ -137,7 +137,7 @@ jobs:
     steps:
       - name: Download and Expand Artifact
         id: download-artifact
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v3
         with:
           name: completion-segments
           path: completion-segments
@@ -161,6 +161,6 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: partnercrucible-stream
-          path: completeion-segments/*
+          path: completion-segments/*
     
 
