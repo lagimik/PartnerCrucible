@@ -153,14 +153,14 @@ jobs:
           cd completion-segments
           for file in *.md; do
             echo $file
-            cat $file >> partnercrucible-newsletter.md
+            cat $file >> partnercrucible-stream.md
           done
 
-      - name: Upload newsletter
-        id:  upload-newsletter
+      - name: Upload stream
+        id:  upload-stream
         uses: actions/upload-artifact@v3
         with:
-          name: upload-newsletter
-          path: partnercrucible-newsletter.md
+          name: partnercrucible-stream
+          path: completeion-segments/*
     
 
