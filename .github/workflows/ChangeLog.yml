@@ -86,7 +86,7 @@ jobs:
       - name: Extract Completion and Create ChangeLog
         if: ${{ (matrix.changes.change != null) }}
         id: extract-print-summary
-        env: |
+        env:
           FILENAME: ${{ matrix.changes.file}}-changelog.md
           SUMMARY: ${{ fromJson(steps.create-summary.outputs.response).choices[0].message.content }}
         run: |
@@ -105,14 +105,17 @@ jobs:
         with:
           openai-api-key: ${{ secrets.OPENAI_API_KEY }}
           prompt: ${{ steps.create-image-prompt.outputs.result }}
+        run:
+          echo ${{ steps.generate-image.outputs.image }}
 
       - name: Download Image
+        if: ${{ (matrix.changes.change != null) }}
         id: download-image
-        env: |
+        env:
           FILENAME: ${{ matrix.changes.file}}-changelog.md
           IMAGE_FILENAME: ${{ matrix.changes.file}}-image.png
           IMAGE_URL: ${{ steps.create-image-prompt.outputs.result }}
-          IMAGE_MARKDOWN: \!\[ ${{ matrix.changes.file}} \]( '${{ matrix.changes.file}}-image.png' )
+          IMAGE_MARKDOWN: '![ ${{ matrix.changes.file}} ]( ${{ matrix.changes.file}}-image.png )'
       - run: |
           curl -o $IMAGE_FILENAME '$IMAGE_URL'
           echo $IMAGE_MARKDOWN >> $FILENAME
