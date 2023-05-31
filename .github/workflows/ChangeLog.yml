@@ -101,15 +101,15 @@ jobs:
 
       - name: Generate Image
         id: generate-image
+        uses: austenstone/openai-image-generation@main
+        with:
+          openai-api-key: ${{ secrets.OPENAI_API_KEY }}
+          prompt: ${{ steps.create-image-prompt.outputs.result }}
         env:
           FILENAME: ${{ matrix.changes.file}}-changelog.md
           IMAGE_FILENAME: ${{ matrix.changes.file}}-image.png
           IMAGE_URL: ${{ steps.create-image-prompt.outputs.result }}
           IMAGE_MARKDOWN: \!\[ ${{ matrix.changes.file}} \]( '${{ matrix.changes.file}}-image.png' )
-        uses: austenstone/openai-image-generation@main
-        with:
-          openai-api-key: ${{ secrets.OPENAI_API_KEY }}
-          prompt: ${{ steps.create-image-prompt.outputs.result }}
       - run: |
           curl -o $IMAGE_FILENAME '$IMAGE_URL'
           echo $IMAGE_MARKDOWN >> $FILENAME
