@@ -151,7 +151,6 @@ jobs:
         id: combine-summaries
         run: |
           cd completion-segments
-          echo "# Partner Crucible Update Stream" >> partnercrucible-newsletter.md
           for file in *.md; do
             echo $file
             cat $file >> partnercrucible-newsletter.md
