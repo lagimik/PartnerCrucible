@@ -112,10 +112,10 @@ jobs:
         env:
           FILENAME: ${{ matrix.changes.file}}-changelog.md
           IMAGE_FILENAME: ${{ matrix.changes.file}}-image.png
-          IMAGE_URL: ${{ steps.create-image-prompt.outputs.result }}
+          IMAGE_URL: ${{ steps.generate-image.outputs.result }}
           IMAGE_MARKDOWN: '![ ${{ matrix.changes.file}} ]( ${{ matrix.changes.file}}-image.png )'
         run: |
-          curl -o $IMAGE_FILENAME '$IMAGE_URL'
+          curl -o $IMAGE_FILENAME $IMAGE_URL
           echo $IMAGE_MARKDOWN >> $FILENAME
 
       - name: Upload artifact
