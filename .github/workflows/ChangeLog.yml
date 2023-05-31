@@ -105,6 +105,9 @@ jobs:
         with:
           openai-api-key: ${{ secrets.OPENAI_API_KEY }}
           prompt: ${{ steps.create-image-prompt.outputs.result }}
+
+      - name: Download Image
+        id: download-image
         env:
           FILENAME: ${{ matrix.changes.file}}-changelog.md
           IMAGE_FILENAME: ${{ matrix.changes.file}}-image.png
