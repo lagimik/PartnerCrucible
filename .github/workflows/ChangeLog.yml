@@ -29,7 +29,7 @@ jobs:
           json="{\"changes\":["
           for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
             echo "$file was changed"
-            file_change=$(git log --since="3 days" -p -U0 $file)
+            file_change=$(git log --since="7 days" -p -U0 $file)
 
             file_change="${file_change//'%'/'%25'}"
             file_change="${file_change//$'\n'/'%0A'}"
@@ -98,7 +98,7 @@ jobs:
         env:
           FILENAME: ${{ matrix.changes.file}}-changelog.md
         run:
-          echo "prompt=`an abstract nature landscape with head -c 64 $FILENAME`" >> $GITHUB_OUTPUT
+          echo "prompt=an abstract nature landscape with `head -c 64 $FILENAME`" >> $GITHUB_OUTPUT
 
       - name: Generate Image
         id: generate-image
