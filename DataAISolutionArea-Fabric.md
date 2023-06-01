@@ -16,10 +16,11 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [Introducing Microsoft Fabric: Data analytics for the era of AI](https://azure.microsoft.com/en-us/blog/introducing-microsoft-fabric-data-analytics-for-the-era-of-ai/) | Announcement - By Arun Ulagaratchagan Corporate Vice President, Azure Data | Azure
 
-## Community
+## Fabric Community
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Fabric Community](https://community.fabric.microsoft.com/)| Fabric Community is the place for you to ask questions, provide solutions, and build your knowledge.| Microsoft Community
 [Introducing Fabric](https://lnkd.in/duxVTQtq) | | BI Polar Blog
 [Overcoming the Fear: Exploring Microsoft Fabric from a Power BI Angle](https://lnkd.in/d5D_dnVg) | | Data Marc Blog
 [Microsoft Fabric – the first look](https://lnkd.in/dd93-MZF) | | coding family blog
@@ -54,7 +55,7 @@ Source | Description | Notes
 [Accelerate your data potential with Microsoft Fabric](https://build.microsoft.com/en-US/sessions/423f41d4-815f-4744-bac0-53d121321cfb?source=sessions) | Bring your data engineers, scientists, and analysts together in new ways and unleash innovation in your organization with a class-leading open and governed solution that truly allows you to do more, with less. | Microsoft Build 2023
 [Unlocking Transformative Data Value with Microsoft Fabric](https://info.microsoft.com/ww-landing-unlocking-transformative-data-value-with-microsoft-fabric.html) | ebook - Learn why accessing and managing real-time data in the cloud is key to long-term business success—and see how to get started with a modern analytics solution. | Microsoft 
 [Microsoft Fabric licenses](https://lnkd.in/dJZiSA2N)| A Microsoft Fabric subscription consists of tenants, capacities, and workspaces and can be organized in various ways according to your organizational needs | Microsoft Learn
-[Microsoft Fabric Guided Tour](https://guidedtour.microsoft.com/en-us/guidedtour/microsoft-fabric/microsoft-fabric/1/1) | | Microsoft Guided Tour
+[Microsoft Fabric Guided Tour](https://guidedtour.microsoft.com/en-us/guidedtour/microsoft-fabric/microsoft-fabric/1/1) | Guided tour for Microsoft Fabric | Microsoft Guided Tour
 [Microsoft Fabric - Free Trial](https://app.fabric.microsoft.com/singleSignOn?ru=https%3A%2F%2Fapp.fabric.microsoft.com%2F%3FnoSignUpCheck%3D1) | Free Trial| Microsoft 
 
 ## Skilling
@@ -64,10 +65,7 @@ Source | Description | Notes
 [Get started with Microsoft Fabric](https://lnkd.in/dza3b8ru) | Microsoft Learning path for Microsoft Fabric (9𝐡) | Microsoft Learn
 [End-to-end tutorials in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/get-started/end-to-end-tutorials)  | hese tutorials guide you through a scenario that covers the entire process, from data acquisition to data consumption. Includes: lakehouse, data science, real-time analytics, data warehouse tutorials | Microsoft Learn
 [Tutorial: Fabric for Power BI users](https://learn.microsoft.com/en-us/power-bi/fundamentals/fabric-get-started) | In this tutorial, you learn how to use Dataflows Gen2 and Pipelines to ingest data into a Lakehouse and create a dimensional model. | Microsoft Learn
-[Fabric Community](https://community.fabric.microsoft.com/)| Fabric Community is the place for you to ask questions, provide solutions, and build your knowledge.| Microsoft Community
 [Webinar Series: Introduction to Microsoft Fabric](https://info.microsoft.com/ww-landing-introduction-to-microsoft-fabric-webinar-series.html?lcid=en-us)| On-demand: Watch this series to learn about the key experiences and benefits of this end-to-end analytics solution | Microsoft Webinars
-
-[]() | Microsoft Build 2023
 
 ## References
 
