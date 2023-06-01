@@ -67,6 +67,17 @@ Source | Description | Notes
 [How to Hybrid: The WorkLab Guides](https://www.microsoft.com/en-us/worklab/hybrid-work-guides)| Here are your practical guides to in-person and asynchronous collaboration, resetting work-life balance, and getting hybrid meetings right.|...
 [Worklab - Podcast](https://www.microsoft.com/en-us/worklab/podcast/) | Everything we thought we knew about work—where we do it, when we do it, how we do it—has been turned on its head. Where is it all going, and is there a map to get us there? WorkLab is a new podcast from Microsoft that taps into data and research to guide you on the road ahead. Leaders and scientists share the company’s findings, and we’ll hear stories about how people and organizations are being transformed at this radical moment. Join us as we explore the science of work and ingenuity. |
 
+## Microsoft365 Desired State Configuration (M365DSC)
+Source | Description | Notes
+:----- | :-----  | :-----
+[Microsoft365DSC - Your Cloud Configuration](https://microsoft365dsc.com/) | Microsoft365DSC is the most comprehensive and complete solution to have your Microsoft 365 tenant configuration simple and stable. It's an Open-Source initiative hosted on GitHub, led by Microsoft engineers and maintained by the community. | Microsoft DSC Official Website
+[Microsoft365DSC - GitHub](https://github.com/Microsoft/Microsoft365DSC) | This module allows organizations to automate the deployment, configuration, reporting and monitoring of Microsoft 365 Tenants via PowerShell Desired State Configuration. | GitHub
+[Managing Microsoft 365 in true DevOps style with Microsoft365DSC and Azure DevOps](https://office365dsc.azurewebsites.net/Pages/Resources/Whitepapers/Managing%20Microsoft%20365%20with%20Microsoft365Dsc%20and%20Azure%20DevOps.pdf) | Microsoft365DSC is a PowerShell Desired State Configuration (DSC) module which can configure and manage Microsoft 365 in a true DevOps style: “Configuration-as-Code” | M365 DSC
+[Microsoft365DSC](https://www.youtube.com/channel/UCveScabVT6pxzqYgGRu17iw) | Configuration as Code for the Cloud | Youtube
+[Getting Started Part 1]() [https://www.french365connection.co.uk/post/m365dsc-getting-started-part-3-plan-design-and-manage-your-microsoft-365-workloads ](https://www.french365connection.co.uk/post/m365dsc-getting-started-part-1-desired-state-configuration)| Part 1 - Desired State Configuration| French365 Connection
+[Getting Started Part 2]() https://www.french365connection.co.uk/post/m365dsc-getting-started-part-2-installation-authentication-and-export-configuration | Part 2 - Installation, authentication and export configuration | French365 Connection
+[Getting Started Part 3]() https://www.french365connection.co.uk/post/m365dsc-getting-started-part-3-plan-design-and-manage-your-microsoft-365-workloads | Part 3 - 3: Plan, Design and Manage your Microsoft 365 workloads | French365 Connection
+
 ## Teams Calling and Teams Rooms
 
 Source | Description | Notes
@@ -79,8 +90,6 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[Managing Microsoft 365 in true DevOps style with Microsoft365DSC and Azure DevOps](https://office365dsc.azurewebsites.net/Pages/Resources/Whitepapers/Managing%20Microsoft%20365%20with%20Microsoft365Dsc%20and%20Azure%20DevOps.pdf) | Microsoft365DSC is a PowerShell Desired State Configuration (DSC) module which can configure and manage Microsoft 365 in a true DevOps style: “Configuration-as-Code” | M365 DSC
-[Microsoft365DSC](https://www.youtube.com/channel/UCveScabVT6pxzqYgGRu17iw) | Configuration as Code for the Cloud | Youtube
 [M365 Development](https://developer.microsoft.com/en-us/microsoft-365/?utm_source=developermscom)| Build collaborative apps for Microsoft 365 and Microsoft Teams that connect people, data, and processes to help users thrive in the hybrid workplace |
 [M365 Developer Program](http://aka.ms/M365DevProgram) | Get an instant sandbox preconfigured with sample data, including Teams Developer Portal, and start developing on the Microsoft 365 platform. |
 [M365 Developer Program - Video](https://aka.ms/Setup-M365-Dev-Account) | Introducing New Instant Sandbox for Microsoft 365 Developer Program | YouTube
