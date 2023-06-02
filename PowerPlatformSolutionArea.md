@@ -48,7 +48,7 @@ Source | Description | Notes
 :----- | :---------- | :-----
 [Low Code Development & Fusion Teams](https://microsoft.github.io/Low-Code/) | From Power Platform To Cloud Integrations and Developer Tools! | GitHub
 [Power Platform Adoption](https://adoption.microsoft.com/en-us/powerplatform/) | Microsoft Power Platform adoption best practices and workbook | Microsoft Adoption
-[Microsoft Power Platform Training Journey](https://aka.ms/PowerPlatformTrainingJourney) | Microsoft Learn Journey |
+[Microsoft Power Platform Training Journey](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5aFet) | Microsoft Learn Journey |
 [Microsoft Power Platform training and certifications](https://aka.ms/PPTrainCertDeck) | This guide is designed to outline the training and certification options that can help you achieve your personal and professional goals. |
 [Tech Talks: Power Platform Partner Call Series](https://www.microsoftpartnercommunity.com/t5/Tech-Talks-Power-Platform/bd-p/PowerPlatformTechTalks) | Hear technical & program updates direct from MSFT engineering | ...
 [Power Platform Partner webinar series](https://learning.eventbuilder.com/PowerPlatform)| a whole new set of webinars to help you understand the path to profitability|...
