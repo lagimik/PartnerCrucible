@@ -38,6 +38,15 @@ Source | Description | Notes
 [Business Applications Partner Sales Acceleration Program](https://partner.microsoft.com/en-us/training/assets/collection/business-applications-partner-sales-acceleration-program-psap#/) | Get best practices and presentation resources that will guide you in shaping a business-first sales model that's focused on the Business Applications solution area and its core sales plays—and resources specially for small business.​| Microsoft Partner
 [Business Applications ISV Connect](https://partner.microsoft.com/en-us/solutions/business-applications/isv-overview) | Grow your business faster by building unique, customer-centric line of business (LOB) apps with Dynamics 365 and Power Apps.|
 
+## Dynamics Certifications
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[Dynamics Certifications](https://aka.ms/BusAppsTrainCertPoster) | Overview Poster | Microsoft
+[Dynamics Training and certifications guide](https://aka.ms/D365TrainCertDeck) | Summary role-based training and certification guide | Microsoft
+
+
+
 ## Skilling
 
 Source | Description | Notes

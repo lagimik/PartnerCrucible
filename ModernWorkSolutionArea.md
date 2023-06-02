@@ -31,6 +31,14 @@ Source | Description | Notes
 [M365 Partner Community](https://www.yammer.com/office365partners/#/home)|The M365 Partner Yammer Group is dedicated to a community that focuses on partner engagement, both in connecting partners to partners, as well as connecting partners within the M365 team at Microsoft. Join this community to learn the latest M365 updates, industry trends, and how you can easily connect with your fellow partners.| Yammer
 [M365 Partner Community Groups](https://www.yammer.com/office365partners/#/groups/suggested) | Include M365 Lighthouse, Microsoft Desktop Partner, CSP PArtner Community, etc...
 
+## Microsoft 365 Certifications
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[ Microsoft 365 Certifications](https://aka.ms/M365Certs_Poster) | Overview Poster | Microsoft
+[ Microsoft 365 and certifications guide](https://aka.ms/M365TrainCertDeck) | Summary role-based training and certification guide | Microsoft
+
+
 ## FastTrack
 
 Source | Description | Notes

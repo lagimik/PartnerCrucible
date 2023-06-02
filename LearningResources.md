@@ -14,6 +14,15 @@ Source | Description | Notes
 [Learning Pathways](https://learning-pathways.co.uk/) | A collection of self-guided learning journeys to help you with your ongoing professional development. | @MrPaulGriffiths
 [John Savill's Technical Training](https://www.youtube.com/c/NTFAQGuy/featured) | This channel is focused on bring distraction free content to help you learn. Lots of content around Azure, PowerShell, DevOps, Hyper-V, Windows and more! | @NTFAQGuy
 
+## Microsoft Certifications
+Source | Description | Notes
+:----- | :---------- | :----
+[Training and Certifications Poster](https://aka.ms/TrainCertPoster) | Fundemental and role-based certification overview | Microsoft
+[Microsoft training and certification guides](https://aka.ms/traincertdeck) | These guides are designed to outline the training and certification options for each solution area that can help you achieve your personal and professional goals. Each guide includes resources such as certification portfolio, overview, journey and learning path to help you prepare for your learning experience | Microsoft
+[Microsoft Learn](https://learn.microsoft.com)| Discover new skills, find certifications, and advance your career in minutes with interactive, hands-on learning paths.| Open to All
+[Cloud Skills Challenge](https://www.microsoft.com/en-ca/sites/cloud-skills-challenge/)| Learn. Compete. Develop skills with this self-paced technical upskilling challenge | For teams or individuals
+
+
 ## Microsoft References
 
 Source | Description | Notes
@@ -22,8 +31,6 @@ Source | Description | Notes
 [Tech Talks](https://techcommunity.microsoft.com/t5/microsoft-tech-talks/ct-p/MicrosoftTechTalks) | Technical Community designed to bring IT Pros together for discussions on MS Technology & Services thru In-Person & Virtual events | ...
 [Learn TV](https://docs.microsoft.com/en-us/events/) | Join upcoming live events and watch past events delivered by the technical community and Microsoft experts. | ...
 [Learn TV - Partner Events](https://docs.microsoft.com/en-us/events/learn-events/Partner-Events/) | Microsoft is proud to bring you this fantastic content from our partners. Watch this space for upcoming partner events. | ...
-[Microsoft Learn](https://learn.microsoft.com)| Discover new skills, find certifications, and advance your career in minutes with interactive, hands-on learning paths.| Open to All
-[Cloud Skills Challenge](https://www.microsoft.com/en-ca/sites/cloud-skills-challenge/)| Learn. Compete. Develop skills with this self-paced technical upskilling challenge | For teams or individuals
 [Cloud Skills Challenge - 30 days to learn it](https://developer.microsoft.com/en-us/offers/30-days-to-learn-it) |30 Days to Learn It can help you build skills and start your preparation for Microsoft Certifications for AI, DevOps, Microsoft 365, low code, IoT, data science, cloud development, and more. Select your challenge below, work through learning modules, and exchange ideas with peers through a global community forum.|...
 [Cloud Games](https://docs.microsoft.com/en-ca/certifications/cloud-games)| Play. Solve. Win. Enjoy the thrill of solving real-world challenges in immersive role-playing games that can help you sharpen your technical skills. | Who Hacked?<br>Data Feeds
 [Partner Virtual Training](https://partner.microsoft.com/en-US/training/virtual-training-series#/)| These training opportunities provide chat-based instructors with targeted information delivered in a consolidated time frame to enhance your expertise.|Required MCPP membership

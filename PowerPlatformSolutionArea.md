@@ -33,6 +33,15 @@ Source | Description | Notes
 [Power Platform Basic Training](https://docs.microsoft.com/en-us/learn/browse/?products=powerapps%2Cflow%2Cpower-automate&levels=beginner)| Basic Training| ...
 [PowerApps Developer PLan to build and test Power Apps for free](https://powerapps.microsoft.com/en-ca/developerplan/) | Create apps and flows without writing code with full-featured Power Apps and Power Automate development tools. Easily share and collaborate with others. | Power Platform
 
+## Power Platform Certifications
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[Power Platform Certifications](https://aka.ms/BusAppsTrainCertPoster) | Overview Poster | Microsoft
+[Power Platform  Training and certifications guide](https://aka.ms/PPTrainCertDeck) | Summary role-based training and certification guide |Microsoft
+[Power Platform Training Journey](https://aka.ms/powertrainingjourney) | Complete role-based training and certification journey map| Microsoft
+
+
 ## Power Platform
 
 Source | Description | Notes

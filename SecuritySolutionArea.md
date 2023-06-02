@@ -40,9 +40,15 @@ Source | Description | Notes
 [Security, Compliance, and Identity training and certifications](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4J4Mm)| This guide has been created to provide training and certification options to achieve personal success.
 [Security Build Intent Workshop](https://cloudpartners.transform.microsoft.com/workshops/cloud-accelerators?tab=security)| Azure credits for customer workshop delivery Microsoft 365 & Security for Partners | ...
 [The Chief Information Security Officer (CISO) Workshop Training](https://learn.microsoft.com/en-us/security/ciso-workshop/the-ciso-workshop) | The Chief Information Security Office (CISO) workshop helps accelerate security program modernization with reference strategies built using Zero Trust principles. | Microsoft Learn
-[Microsoft Purview & Priva Partner Playbook](https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FMicrosoft-Purview-and-Priva-Partner-Playbook.pdf&download=1) | This playbook provides Microsoft Partners with guidance and resources to help build or expand their practice by offering data security, compliance, 
-and privacy solutions. It is a packaged journey that will help you learn more about the Microsoft Purview and Priva product family and the opportunities for partners. You’ll find guidance on practice development, the skills your organization will require to be successful, and the tools to take your offerings to market. | 
+[Microsoft Purview & Priva Partner Playbook](https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FMicrosoft-Purview-and-Priva-Partner-Playbook.pdf&download=1) | This playbook provides Microsoft Partners with guidance and resources to help build or expand their practice by offering data security, compliance, and privacy solutions. It is a packaged journey that will help you learn more about the Microsoft Purview and Priva product family and the opportunities for partners. You’ll find guidance on practice development, the skills your organization will require to be successful, and the tools to take your offerings to market. | 
 
+## Security and Compliance Certifications
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[Security and Compliance Certifications](https://aka.ms/SCICerts_Poster) | Overview Poster | Microsoft
+[Security and Compliance Training and certifications guide](https://aka.ms/SecurityTrainCertDeck) | Summary role-based training and certification guide |Microsoft
+[Security and Compliance Training Journey](https://aka.ms/SecurityTrainingJourney) | Complete role-based training and certification journey map| Microsoft
 
 ## Architecture
 
