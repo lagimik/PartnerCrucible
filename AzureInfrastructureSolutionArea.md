@@ -53,6 +53,7 @@ Source | Description | Notes
 [FastTrack for Azure](https://github.com/Azure/FTALive-Sessions) | This repository has been created to share our FastTrack for Azure Live session materials in one easy to manage location. | Github
 
 ## Azure Certifications
+
 Source | Description | Notes
 :----- | :---------- | :-----
 [Microsoft Azure Certifications](https://aka.ms/AzureCerts_Poster) | Overview Poster | Microsoft

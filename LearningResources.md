@@ -15,6 +15,7 @@ Source | Description | Notes
 [John Savill's Technical Training](https://www.youtube.com/c/NTFAQGuy/featured) | This channel is focused on bring distraction free content to help you learn. Lots of content around Azure, PowerShell, DevOps, Hyper-V, Windows and more! | @NTFAQGuy
 
 ## Microsoft Certifications
+
 Source | Description | Notes
 :----- | :---------- | :----
 [Training and Certifications Poster](https://aka.ms/TrainCertPoster) | Fundemental and role-based certification overview | Microsoft
