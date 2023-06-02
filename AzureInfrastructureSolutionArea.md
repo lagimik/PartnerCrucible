@@ -83,6 +83,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Use Azure Lighthouse with your managed service business](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-lighthouse/) | Learn about and adopt Azure Lighthouse for your managed service business to manage your customers at scale. | Microsoft Learn
 [Azure Lighthouse](https://www.microsoft.com/azure/partners/azure-lighthouse) | Landing page - The native management portal allows Managed Services Providers (MSPs) to profitably and efficiently build and deliver secure managed services for every customer need. | Azure for Partners
 [Azure Lighthouse Samples](https://github.com/Azure/Azure-Lighthouse-samples) | This repository contains samples to help you use Azure Resource Manager to configure Azure delegated resource management and to configure monitoring and management of customer environments.  | GitHub
 [Azure Built-In Roles](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles) | Azure role-based access control (Azure RBAC) has several Azure built-in roles that you can assign to users, groups, service principals, and managed identities. Role assignments are the way you control access to Azure resources. | Microsoft Learn

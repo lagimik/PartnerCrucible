@@ -18,7 +18,7 @@ jobs:
         name: Changed Files
         id: changed-files
         with:
-            since: "3 days"
+            since: "7 days"
             files: |
               *.md
       - name: Get changes in files
@@ -29,7 +29,7 @@ jobs:
           json="{\"changes\":["
           for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
             echo "$file was changed"
-            file_change=$(git log --since="3 days" -p -U0 $file)
+            file_change=$(git log --since="7 days" -p -U0 $file)
 
             file_change="${file_change//'%'/'%25'}"
             file_change="${file_change//$'\n'/'%0A'}"
@@ -57,6 +57,7 @@ jobs:
     runs-on: ubuntu-latest
     name: summary
     needs: scan
+    continue-on-error: true
     outputs:
       completion: ${{ steps.extract-print.outputs.completion }}
     strategy:
@@ -75,9 +76,10 @@ jobs:
         id: create-summary
         with:
           prompt: |
-            "With an energetic tone summarize the url links found below in the Partner Crucible updates to encourage readers to follow the links."
+            "With an energetic tone summarize the changes found below in the Partner Crucible updates to encourage readers to follow the links."
             "Use an attention grabbing tagline as the title."
-            " Use markdown as the output format."
+            "Use markdown as the output format."
+            "Add linebreaks between each sentence."
             "${{ matrix.changes.change}}"
           max_tokens: 1000
         env:
@@ -98,7 +100,7 @@ jobs:
         env:
           FILENAME: ${{ matrix.changes.file}}-changelog.md
         run:
-          echo "prompt=`head -c 64 $FILENAME`" >> $GITHUB_OUTPUT
+          echo "prompt=an abstract modern urban landscape, without words, inspired by the sentence - `head -c 64 $FILENAME`" >> $GITHUB_OUTPUT
 
       - name: Generate Image
         id: generate-image
@@ -124,7 +126,41 @@ jobs:
         if: ${{ (matrix.changes.change != null)  }}
         uses: actions/upload-artifact@v3
         with:
-          name: change-summary
+          name: completion-segments
           path: "${{ matrix.changes.file}}*.*"
 
+  newsletter:
+    runs-on: ubuntu-latest
+    name: newsletter
+    needs: summary
+    
+    steps:
+      - name: Download and Expand Artifact
+        id: download-artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: completion-segments
+          path: completion-segments
+
+      - name: List artifacts
+        id: list-artifacts
+        run: |
+          ls -l completion-segments
+
+      - name: Combine Summaries
+        id: combine-summaries
+        run: |
+          cd completion-segments
+          for file in *.md; do
+            echo $file
+            cat $file >> partnercrucible-stream.md
+          done
+
+      - name: Upload stream
+        id:  upload-stream
+        uses: actions/upload-artifact@v3
+        with:
+          name: partnercrucible-stream
+          path: completion-segments/*
+    
 
