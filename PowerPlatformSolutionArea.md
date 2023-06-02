@@ -20,7 +20,7 @@ Source | Description | Notes
 [Forrester - Total Economic Impact of PowerBI](https://info.microsoft.com/ww-thankyou-TEI-of-microsoft-power-BI.html?lcid=en-us) | From the information provided in the interviews, Forrester has constructed a Total Economic Impact™ (TEI) framework for those organizations considering implementing Power BI | Forrester
 [Low-code signals 2023](https://cloudblogs.microsoft.com/powerplatform/2023/04/13/low-code-signals-2023/) |  Edelman Assembly, on behalf of Microsoft, surveyed more than 2,000 IT CIOs and IT pros to understand the benefits they derive from low-code platforms. | Edelman Assembly, Microsoft
 
-## Practice References
+## Practice Building References
 
 Source | Description | Notes
 :----- | :---------- | :-----
@@ -32,6 +32,7 @@ Source | Description | Notes
 [Power Platform PAL Association](https://partner.microsoft.com/en-us/training/assets/detail/associate-your-power-apps-customer-deployments-to-your-partner-org-video-mp4) | Video to Learn how to associate your Power Apps customer deployments to your partner organization MCPP ID and get closer to attaining the Low Code Application Development Advanced specialization. | Questions and Answers starts at 25 minute mark.<br> Association in non-production environments is discussed at 32 minute mark
 [Power Platform Basic Training](https://docs.microsoft.com/en-us/learn/browse/?products=powerapps%2Cflow%2Cpower-automate&levels=beginner)| Basic Training| ...
 [PowerApps Developer PLan to build and test Power Apps for free](https://powerapps.microsoft.com/en-ca/developerplan/) | Create apps and flows without writing code with full-featured Power Apps and Power Automate development tools. Easily share and collaborate with others. | Power Platform
+[Power Platform Hackathon in a Box](https://www.linkedin.com/smart-links/AQFtpgiucM3hQA/59e480f0-7625-4e8b-bf1e-73d003a4b5b0) | Organizer guide an participant handbook by @KymDupuis | LinkedIn
 
 ## Power Platform Certifications
 
@@ -42,20 +43,18 @@ Source | Description | Notes
 [Power Platform Training Journey](https://aka.ms/powertrainingjourney) | Complete role-based training and certification journey map| Microsoft
 
 
-## Power Platform
+## Power Platform Skilling
 
 Source | Description | Notes
 :----- | :---------- | :-----
 [Low Code Development & Fusion Teams](https://microsoft.github.io/Low-Code/) | From Power Platform To Cloud Integrations and Developer Tools! | GitHub
 [Power Platform Adoption](https://adoption.microsoft.com/en-us/powerplatform/) | Microsoft Power Platform adoption best practices and workbook | Microsoft Adoption
-[Microsoft Power Platform Training Journey](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5aFet) | Microsoft Learn Journey |
-[Microsoft Power Platform training and certifications](https://aka.ms/PPTrainCertDeck) | This guide is designed to outline the training and certification options that can help you achieve your personal and professional goals. |
 [Tech Talks: Power Platform Partner Call Series](https://www.microsoftpartnercommunity.com/t5/Tech-Talks-Power-Platform/bd-p/PowerPlatformTechTalks) | Hear technical & program updates direct from MSFT engineering | ...
 [Power Platform Partner webinar series](https://learning.eventbuilder.com/PowerPlatform)| a whole new set of webinars to help you understand the path to profitability|...
 [Power Platform in a Day](https://powerplatform.microsoft.com/en-us/training-workshops/) |Experience how Microsoft Power Platform can meet your business challenges quickly and effectively by attending a virtual, one-day training workshop. |...
 [Fusion development approach to building apps using PowerApps](https://learn.microsoft.com/en-ca/power-apps/guidance/fusion-dev-ebook/) | The purpose of this guide is to summarize the way in which citizen and professional developers can work together, following a fusion development approach. As you progress through this guide, you'll play the role of the different participants in this process to build a complex, fully functional solution that combines Power Apps with Azure services.  | Microsoft
 [Fusion development ebook API](https://github.com/microsoft/fusion-dev-ebook) | This API supports the the fusion development approach to building power apps.| Github
-[Power Platform Hackahton in a Box](https://www.linkedin.com/smart-links/AQFtpgiucM3hQA/59e480f0-7625-4e8b-bf1e-73d003a4b5b0) | Organizer guide an participant handbook by @KymDupuis | LinkedIn
+
 
 ## Asset Lifecyle Management
 
