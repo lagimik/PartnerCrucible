@@ -76,10 +76,10 @@ jobs:
         id: create-summary
         with:
           prompt: |
-            "With an energetic tone summarize the changes found below in the Partner Crucible updates to encourage readers to follow the links."
-            "Use an attention grabbing tagline as the title."
+            "Use an energetic tone summarize the changes found below in the Partner Crucible updates to encourage readers to follow the links."
+            "Use an attention grabbing tagline in a heading as the title."
+            "include the links as part of the summary."
             "Use markdown as the output format."
-            "Add linebreaks between each sentence."
             "${{ matrix.changes.change}}"
           max_tokens: 1000
         env:
