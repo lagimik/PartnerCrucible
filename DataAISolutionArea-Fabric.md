@@ -67,6 +67,11 @@ Source | Description | Notes
 [Tutorial: Fabric for Power BI users](https://learn.microsoft.com/en-us/power-bi/fundamentals/fabric-get-started) | In this tutorial, you learn how to use Dataflows Gen2 and Pipelines to ingest data into a Lakehouse and create a dimensional model. | Microsoft Learn
 [Webinar Series: Introduction to Microsoft Fabric](https://info.microsoft.com/ww-landing-introduction-to-microsoft-fabric-webinar-series.html?lcid=en-us)| On-demand: Watch this series to learn about the key experiences and benefits of this end-to-end analytics solution | Microsoft Webinars
 
+## Labs
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Azure Fabric Labs](https://github.com/MicrosoftLearning/mslearn-fabric/tree/main/Instructions/Labs) | Hands-on labs to Create a lakehouse, Analyze data with Apache Spark, Use delta tables in Apache Spark, Ingest data with a pipeline in Microsoft Fabric, Create a Dataflow (Gen2) in Microsoft Fabric, Analyze data in a data warehouse,  Real-Time Analytics in Microsoft Fabric, notebooks to train a model in Microsoft Fabric  | GitHub
 ## References
 
 Source | Description | Notes
