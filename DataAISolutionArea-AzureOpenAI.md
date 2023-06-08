@@ -81,8 +81,18 @@ Source | Description | Notes
 [Building AI solutions with Semantic Kernel](https://build.microsoft.com/en-US/sessions/31e11443-70d3-4020-8c8c-0a654bccd233?source=sessions) | During this session, learn why we created Semantic Kernel (SK) and how it requires a new kind of developer mindset.  Discover how SK has evolved alongside OpenAI’s GPT-4 trajectory and what plugins will mean. We also discuss early signals we have gathered around SK use for copilots. | Build 2023
 
 ## Plugins
+
+Source | Description | Notes
+:----- | :-----  | :-----
 [ChatGPT Plugins waitlist](https://openai.com/waitlist/plugins) | ChatGPT Plugins will now be available to all ChatGPT plus subscribers, no waitlist required! If you are a developer who has ChatGPT plus and you are interested in making a plugin, please fill out the form below. | OpenAI
 [ChatGPT Plugin Quickstart using Python and FastAPI](https://github.com/Azure-Samples/openai-plugin-fastapi) | his is a quickstart for sample for creating ChatGPT Plugin using GitHub Codespaces, VS Code, and Azure. The sample includes templates to deploy the plugin to Azure Container Apps using the Azure Developer CLI. | GitHub
+
+## Labs
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Azure OpenAI in-a-day workshop](https://github.com/microsoft/azure-openai-in-a-day-workshop) | In this technical workshop, you will get a comprehensive introduction to Azure OpenAI Service and Azure OpenAI Studio. You will learn how to create and refine prompts for various scenarios using hands-on exercises.| GitHub
+[Azure OpenAI Labs](https://github.com/MicrosoftLearning/mslearn-openai/tree/main/Labfiles) | NLP, Prompt Engineering | GitHub
 
 ## Examples and Demos
 
