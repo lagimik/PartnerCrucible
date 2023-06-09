@@ -41,6 +41,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Data, privacy, and security for Azure OpenAI Service](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy) |This article provides details regarding how data provided by you to the Azure OpenAI service is processed, used, and stored. | Microsoft Learn
 [Azure OpenAI Service Documentation](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/) | Learn how to use Azure OpenAI's powerful language models including the GPT-3, Codex and Embeddings model series for content generation, summarization, semantic search, and natural language to code translation. | Microsoft Learn
 [Plan to manage costs for Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/how-to/manage-costs) | This article describes how you plan for and manage costs for Azure OpenAI Service.  | Microsoft Learn
 [Azure OpenAI Service pricing](https://azure.microsoft.com/en-gb/pricing/details/cognitive-services/openai-service/) |  Optimise costs with a pay-as-you-go consumption model and a price per unit for each model.|
