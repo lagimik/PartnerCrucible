@@ -24,6 +24,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Microsoft’s AI Customer Commitments](https://blogs.microsoft.com/blog/2023/06/08/announcing-microsofts-ai-customer-commitments/) | AI Customer Commitments | Microsoft Blog
 [Governing AI: A Blueprint for the Future](https://aka.ms/May25Whitepaper) | A five-point blueprint for the public governance of A| Microsoft
 [Responsible AI Resources](https://www.microsoft.com/en-us/ai/responsible-ai-resources) | Explore resources designed to help you responsibly use AI at every stage of innovation - from concept to development, deployment, and beyond.|
 [AI-powered content safety](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-ai-content-safety-ebook/Azure%20Content%20Safety%20eBook.pdf) | An eBook to Build a leading content moderation strategy with AI | Microsoft
