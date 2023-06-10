@@ -9,6 +9,18 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+### Week ending June 9, 2023
+
+Additions this week include Gartner MQ for Cloud AI Developer Services, Microsoft Customer AI Commitments, Data PRivacy and Security for Azure OpenAI, Azure Fabric Labs, and Azure OPenAI in a day workshops.
+
+Date | Change | File
+:--- | :----- | ---:
+2023-06-09 | added Gartner Magic Quadrant for Cloud AI Developer Services | [See changes here](./DataAISolutionArea-AzureOpenAI)
+2023-06-09 | added references to AI Customer Commitments | [See changes here](./DataAISolutionArea-AzureOpenAI)
+2023-06-09 | added Data privacy and security for Azure OpenAI service | [See changes here](./DataAISolutionArea-AzureOpenAI)
+2023-06-08 | added Azure Fabric labs | [See changes here](./DataAISolutionArea-Fabric)
+2023-06-08 | added Azure OpenAI in-a-day workshop | [See changes here](./DataAISolutionArea-AzureOpenAI)
+
 ### Week ending June 2, 2023
 
 Additions this week include certification posters, guides and journeys, AI Anthology and Learning Companion, the Accessibility Innovation Toolkit some Microsoft Build announcements for good measure.
