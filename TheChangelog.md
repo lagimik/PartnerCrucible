@@ -1,6 +1,6 @@
 # Partner Crucible Changelog
 
-![GitHub Changelog](./Library/crucible-changelog.png)
+![GitHub Changelog](./Library/crucible-changelog-title.png)
 
 
 ## Purpose
