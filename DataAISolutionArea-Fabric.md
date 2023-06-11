@@ -72,6 +72,7 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :-----  | :-----
 [Azure Fabric Labs](https://github.com/MicrosoftLearning/mslearn-fabric/tree/main/Instructions/Labs) | Hands-on labs to Create a lakehouse, Analyze data with Apache Spark, Use delta tables in Apache Spark, Ingest data with a pipeline in Microsoft Fabric, Create a Dataflow (Gen2) in Microsoft Fabric, Analyze data in a data warehouse,  Real-Time Analytics in Microsoft Fabric, notebooks to train a model in Microsoft Fabric  | GitHub
+
 ## References
 
 Source | Description | Notes
