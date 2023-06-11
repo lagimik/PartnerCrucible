@@ -2,7 +2,6 @@
 {% assign crumbs = page.url | remove:'/index.html' | split:'/' %}
   <section id="breadcrumbs" class="inner">
     <h3 style="color: white">
-      <img src="/PartnerCrucible/Library/favicon-32x32.png" style="vertical-align:bottom">
       <a href="/PartnerCrucible">Partner Crucible Home</a>  
         {% for crumb in crumbs offset: 1 %}  
           {% if forloop.last %} 
