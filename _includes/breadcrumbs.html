@@ -4,8 +4,8 @@
     <section id="breadcrumbs" class="inner">
       <h3 style="color: white">
       <a href="/PartnerCrucible">Partner Crucible Home</a>
-      {% assign exclude =  site.posts | where: "url", page.url }
-      {% if exclude == ""  %}
+      {% assign match_post =  site.posts | where: "url", page.url }
+      {% if match_post == ""  %}
         {% for crumb in crumbs offset: 1 %}
           {% if forloop.last %}
             / {{ page.title }}
