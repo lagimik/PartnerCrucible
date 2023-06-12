@@ -9,9 +9,8 @@
         <img src="/PartnerCrucible/Library/favicon-32x32.png" style="vertical-align:bottom">
         <a href="/PartnerCrucible">Partner Crucible Home</a>
           {% for crumb in crumbs offset: 1 %}
-            {% if page.url contains 'Summary' %}
 
-            {% elsif {{ site.posts | where: "url", page.url }} %}
+            {% if {{ site.posts | where: "url", page.url }} %}
 
             {% else %}
               {% if forloop.last %}
