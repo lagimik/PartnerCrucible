@@ -7,7 +7,7 @@
         <a href="/PartnerCrucible">Partner Crucible Home</a>
           {% for crumb in crumbs offset: 1 %}
             {% assign exclude =  site.posts | where: "url", page.url }
-            {% if exclude == nil  %}
+            {% if exclude == ""  %}
               {% if forloop.last %}
                 / {{ page.title }}
               {% else %}
