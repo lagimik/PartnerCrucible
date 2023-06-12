@@ -1,20 +1,15 @@
 <div id="breadcrumb_wrap" class="outer">
-  {% for page in site.pages %}
-    {% assign crumbs = page.url | remove:'/index.html' | split:'/' %}
+  {% assign crumbs = page.url | remove:'/index.html' | split:'/' %}
     <section id="breadcrumbs" class="inner">
       <h3 style="color: white">
-      <a href="/PartnerCrucible">Partner Crucible Home</a>
-      {% assign match_post =  site.posts | where: "url", page.url }
-      {% if match_post == ""  %}
-        {% for crumb in crumbs offset: 1 %}
-          {% if forloop.last %}
-            / {{ page.title }}
-          {% else %}
-            / <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append:' | replace:'without-plug','without-plugins/' }}{% endfor %}">{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</a>
-          {% endif %}
-        {% endfor %}
-
-      </h3>
-    </section>
+        <img src="/PartnerCrucible/Library/favicon-32x32.png" style="vertical-align:bottom">
+        <a href="/PartnerCrucible">Partner Crucible Home</a>
+          {% for crumb in crumbs offset: 1 %}
+            {% if forloop.last %}
+             / {{ page.title }}
+            {% else %}
+            / <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append:' | replace:'without-plug','without-plugins/' }}{% endfor %}">{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</a>  {% endif %}
+      <h3>
+   <section>
   {% endfor %}
   </div>
