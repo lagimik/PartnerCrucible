@@ -3,6 +3,8 @@ title: "Signal:Noise - DevOps"
 date: 2022-09-12
 ---
 
+# DevOps
+
 ![Signal to Noise](/PartnerCrucible/Library/signaltonoise-devops.png)
 
 [< Back to Signal:Noise index](/PartnerCrucible/SignaltoNoise)
@@ -21,12 +23,12 @@ A great example of an insiders view on DevOps is offered by [DevOps Dojo](https:
 
 ## More DevOps savvy, less tools
 
-DevOps, or other combinations of (Biz|Dev|Sec|Ops), helps reinforce the organization's capability to to deal with business changes in the wake of disruptions. 
-It is a compliment to the strategic planning work, providing the approach for organizations to hypothesize, validate assumptions and adjust to changing conditions. 
+DevOps, or other combinations of (Biz|Dev|Sec|Ops), helps reinforce the organization's capability to to deal with business changes in the wake of disruptions.
+It is a compliment to the strategic planning work, providing the approach for organizations to hypothesize, validate assumptions and adjust to changing conditions.
 
 However, despite the accelerated digital transformation and a global pandemic many organisations continue to  conduct business-as-usual with out-dated procurement, technology, and implementation practices. For instance, *Transformation project RFPs are awarded to staff augmentation firms.
-*Transaction confirmations by fax still occur. 
-*Some cybersecurity and infrastructure squads still do not have software development skills on their team. 
+*Transaction confirmations by fax still occur.
+*Some cybersecurity and infrastructure squads still do not have software development skills on their team.
 
 How can we reconcile these observations in the context of digital economies and platforms as services? And how is this related to DevOps?!?
 
@@ -49,7 +51,7 @@ Through Devops organizations can de-risk new customer or citizen interaction mod
 
 ## Trust in teams
 
-The ability for DevOps teams to deliver from end-to-end and address cross-cutting concerns is what sets them apart. DevOps teams include all the necessary roles in the delivery process: from business leaders to process designers, security experts, quality assurance, as well as the developers and operations roles. 
+The ability for DevOps teams to deliver from end-to-end and address cross-cutting concerns is what sets them apart. DevOps teams include all the necessary roles in the delivery process: from business leaders to process designers, security experts, quality assurance, as well as the developers and operations roles.
 
 One of the key benefits of introducing DevOps processes and culture is that it removes the communication barriers between teams and the reliance on any single individual for progress to be made
 
@@ -96,6 +98,6 @@ Beyond the tooling and the usual topics, Dojo also covers the following topics:
 - [Dojo – SRE]() Coming soon
 
 
-If you are so inclined, also explore [What the Hack - 014 - OSSDevOps](https://github.com/microsoft/WhatTheHack/tree/master/014-OSSDevOps) : DevOps is a journey not a destination. 
+If you are so inclined, also explore [What the Hack - 014 - OSSDevOps](https://github.com/microsoft/WhatTheHack/tree/master/014-OSSDevOps) : DevOps is a journey not a destination.
 
 [< Back to Signal:Noise index](/PartnerCrucible/SignaltoNoise)

@@ -3,12 +3,12 @@ title: "Signal:Noise - Generative AI with Azure OpenAI Service"
 date: 2023-04-18
 ---
 
+# Generative AI with Azure Open OpenAI Service
+
 ![Signal to Noise](/PartnerCrucible/Library/signaltonoise-generativeai.png)
 
 
 [< Back to Signal:Noise index](/PartnerCrucible/SignaltoNoise)
-
-# Generative AI with Azure Open OpenAI Service
 
 This post aims to provide  signal to partners around generative AI by exploring the elements of the solutions and elements of a practice and a starting points for the journey.
 
@@ -28,7 +28,7 @@ Generative AI is an emerging capability that can be injected into a creative pro
 
 ## Responsible AI
 
-Generative AI is a powerful technology that can create novel and realistic content such as text, images, audio and video. However, it can also pose ethical and social challenges, such as the potential for misuse, deception, bias and harm. Therefore, it is essential to follow *responsible AI* principles when working with generative AI. 
+Generative AI is a powerful technology that can create novel and realistic content such as text, images, audio and video. However, it can also pose ethical and social challenges, such as the potential for misuse, deception, bias and harm. Therefore, it is essential to follow *responsible AI* principles when working with generative AI.
 
 The following is an example set of responsible AI principles:
 
@@ -52,9 +52,9 @@ GitHub Copilot is a powerful tool that can help independent software vendors (IS
 - Learn new skills and technologies by exploring different ways of solving problems and discovering new frameworks, libraries, and APIs that you may not be familiar with.
 - Enhance your creativity and productivity by getting inspired by the suggestions of GitHub Copilot and experimenting with different solutions and approaches.
 
-GitHub Copilot is designed to work with any programming language and any code editor that supports the Language Server Protocol (LSP) and can be used withing Visual Studio Code, GitHub Codespaces, or any other compatible editor. 
+GitHub Copilot is designed to work with any programming language and any code editor that supports the Language Server Protocol (LSP) and can be used withing Visual Studio Code, GitHub Codespaces, or any other compatible editor.
 
-## Models 
+## Models
 
 Azure OpenAI Services consists of the following models (as of April 2023):
 
@@ -84,8 +84,8 @@ In these early stages of Generative AI there is no shortage of opportunity. By t
 
 Design thinking is a human-centered approach to problem-solving that involves empathy, ideation, prototyping and testing. Some design thinking approaches that can help identify generative AI use-cases are:
 
-Approach | Description 
-:----- | :---------- 
+Approach | Description
+:----- | :----------
 **Empathy mapping**| This is a technique to understand the needs, pains and goals of the users or stakeholders of a potential solution. It involves creating a visual representation of what the users say, do, think and feel in relation to a problem or opportunity.
 **How might we (HMW) questions** | These are open-ended questions that frame the problem or opportunity in a positive and actionable way. They help to generate ideas for possible solutions that address the users' needs and goals. For example, HMW use generative AI to create personalized learning experiences for students?
 **Rapid prototyping** | This is a technique to quickly create and test low-fidelity versions of potential solutions using simple and inexpensive materials. It helps to validate the assumptions and hypotheses behind the ideas and get feedback from the users or stakeholders. For example, using paper sketches or mockups to demonstrate how generative AI can produce different types of content or data.
@@ -104,7 +104,7 @@ Component | Description | Solutions
 
 ## Way forward - *Mainstream* path to Azure OpenAI Service
 
-- Explore [Responsible AI resources](https://www.microsoft.com/en-us/ai/responsible-ai-resources?activetab=pivot1%3aprimaryr4) designed to help you responsibly use AI at every stage of innovation - from concept to development, deployment, and beyond. 
+- Explore [Responsible AI resources](https://www.microsoft.com/en-us/ai/responsible-ai-resources?activetab=pivot1%3aprimaryr4) designed to help you responsibly use AI at every stage of innovation - from concept to development, deployment, and beyond.
 - Use Github copilot to write the code and experience generative AI [Onboard to GitHub Copilot](https://github.com/login?return_to=%2Fgithub-copilot%2Fsignup)
 - Leverage resources on the Partner Crucible [OpenAI on the Partner Crucible](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea)
 
@@ -115,6 +115,6 @@ Component | Description | Solutions
 - Onboard to the Azure OpenAI Service: [Request Access to Azure OpenAI Service](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu)
 - Use GitHub as a launch pad [Azure OpenAI Samples](https://github.com/Azure/openai-samples)
 - Explore the OpenAI Cookbook [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
- 
+
 
 [< Back to Signal:Noise index](/PartnerCrucibSignaltoNoise)
