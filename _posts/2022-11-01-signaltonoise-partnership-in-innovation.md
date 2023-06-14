@@ -3,6 +3,8 @@ title: "Signal:Noise - Partnership in innovation"
 date: 2022-10-30
 ---
 
+# Partnership in innovation
+
 ![Signal to Noise](/PartnerCrucible/Library/signaltonoise-partnershipinnovation.png)
 
 [< Back to Signal:Noise index](/PartnerCrucible/SignaltoNoise)

@@ -3,12 +3,12 @@ title: "Signal:Noise - Journey to SaaS - a hitchhiker's guide"
 date: 2023-01-02
 ---
 
+# Journey to SaaS - a hitchhiker's guide
+
 ![Signal to Noise](/PartnerCrucible/Library/signaltonoise-saasjourney.png)
 
 
 [< Back to Signal:Noise index](/PartnerCrucible/SignaltoNoise)
-
-# Journey to SaaS - a hitchhiker's guide
 
 This post aims to frame the Independent Software Vendor or Service Provider journey to Software-as-a-Service (SaaS) and provide some much needed signal to a noisy landscape. This post will cover the *Why, What, How* of SaaS. (We leave the *Who and When* up to the reader.)
 
@@ -138,11 +138,11 @@ Type | Description | Notes
 
 ## Get after it with the *Partner Crucible*
 
-The [PartnerCrucible](https://lagimik.github.io/PartnerCrucible/) hosts a collection of links to key resources for partners. 
+The [PartnerCrucible](https://lagimik.github.io/PartnerCrucible/) hosts a collection of links to key resources for partners.
 
 * a set of resources to [guide partners on the SaaS journey](/PartnerCrucible/SaaS)
-* a set of resources about the [Commercial Marketplace](\PartnerCrucible\CommercialMarketplaceOffers) 
-* a set of resources for [Cloud Service Providers](\PartnerCrucible\CSP) 
+* a set of resources about the [Commercial Marketplace](\PartnerCrucible\CommercialMarketplaceOffers)
+* a set of resources for [Cloud Service Providers](\PartnerCrucible\CSP)
 * a set of resources for [Independent Software Vendors](\PartnerCrucible\ISV)
 
 This project aims to serve as an *entry point* into the wealth of information and services available to Canadian Microsoft partners.

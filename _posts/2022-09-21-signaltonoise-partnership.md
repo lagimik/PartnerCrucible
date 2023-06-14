@@ -3,6 +3,8 @@ title: "Signal:Noise - What's in a partnership?"
 date: 2022-09-21
 ---
 
+# What's in a partnership?
+
 ![Signal to Noise](/PartnerCrucible/Library/signaltonoise-partnership.png)
 
 [< Back to Signal:Noise index](/PartnerCrucible/SignaltoNoise)
