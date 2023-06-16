@@ -21,7 +21,7 @@ Date | Change | File
 2023-06-15 | added Transform landing page for PVA | [See changes here](./PowerPlatformSolutionArea)
 2023-06-14 | added landing zone accelerator for Azure Container Apps | [See changes here](./AzureInfrastructureSolutionArea-LandingZones)
 2023-06-14 | added Azure DiY | [See changes here](./LearningResources)
-2023-06-10 | AOAI genetated newsletter | [See changes here](./Summary/2023/06/02/partnercrucible-summary)
+2023-06-10 | AOAI generated newsletter | [See changes here](./Summary/2023/06/02/partnercrucible-summary)
 
 ### Week ending June 9, 2023
 
