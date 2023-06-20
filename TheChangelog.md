@@ -9,6 +9,20 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+### Week ending June 16, 2023
+
+Additions this week include Azure DiY, and LZ accelerator for Azure Container Apps. Also, see the AI Hackathon Starter Kit, and guidance on growing you Power Platform practice.
+
+Date | Change | File
+:--- | :----- | ---:
+2023-06-16 | added Navigating ISV programs: Best practices for driving growth | [See changes here](./PowerPlatformSolutionArea)
+2023-06-16 | Added AI Hackathon Starter Kit | [See changes here](./DataAISolutionArea-AzureOpenAI)
+2023-06-16 | added MDE client analyzer | [See changes here](./SecuritySolutionArea)
+2023-06-15 | added Transform landing page for PVA | [See changes here](./PowerPlatformSolutionArea)
+2023-06-14 | added landing zone accelerator for Azure Container Apps | [See changes here](./AzureInfrastructureSolutionArea-LandingZones)
+2023-06-14 | added Azure DiY | [See changes here](./LearningResources)
+2023-06-10 | AOAI generated newsletter | [See changes here](./Summary/2023/06/02/partnercrucible-summary)
+
 ### Week ending June 9, 2023
 
 Additions this week include Gartner MQ for Cloud AI Developer Services, Microsoft Customer AI Commitments, Data PRivacy and Security for Azure OpenAI, Azure Fabric Labs, and Azure OPenAI in a day workshops.
