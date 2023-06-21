@@ -128,8 +128,16 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[AKS Construction Set](https://github.com/Azure/AKS-Construction) | AKS Construction dramatically accelerates this work by providing the templates and deployment scripts to quickly create a fully configured, Kubernetes environment, tailored to meet your operational and security needs, ready to run your workloads in production. | GitHub
 [Baseline architecture for an Azure Kubernetes Service (AKS) cluster](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/baseline-aks) | This reference architecture provides a recommended baseline infrastructure architecture to deploy an Azure Kubernetes Service (AKS) cluster on Azure. | Microsoft Learn
 [AKS for Amazon EKS professionals](https://learn.microsoft.com/en-ca/azure/architecture/aws-professional/eks-to-aks/) | This series of articles helps professionals who are familiar with Amazon Elastic Kubernetes Service (Amazon EKS) to understand Azure Kubernetes Service (AKS). The series highlights key similarities and differences between these two managed Kubernetes solutions. | MS Lean
+[CI/CD for AKS apps with Azure Pipelines](https://learn.microsoft.com/en-us/azure/architecture/guide/aks/aks-cicd-azure-pipelines) | Use Azure Pipelines to deploy AKS applications | Microsoft Learn 
+[CI/CD for AKS apps with GitHub Actions and GitFlow](https://learn.microsoft.com/en-us/azure/architecture/guide/aks/aks-cicd-github-actions-and-gitops) | The example scenario in this article is applicable to businesses that want to modernize end-to-end application development by using containers, continuous integration (CI) for build, and GitOps for continuous deployment (CD). | Microsoft Learn
+[GitOps for Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/gitops-aks/gitops-blueprint-aks) | GitOps is a set of principles for operating and managing a software system. This article describes techniques for using GitOps principles to operate and manage an Azure Kubernetes Services (AKS) cluster.| Microsoft Learn
+
+
+
+
 
 ## Workload - Azure RedHat OpenShift (ARO)
 
