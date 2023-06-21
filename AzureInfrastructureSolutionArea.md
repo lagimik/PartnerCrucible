@@ -128,6 +128,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Baseline architecture for an Azure Kubernetes Service (AKS) cluster](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/baseline-aks) | This reference architecture provides a recommended baseline infrastructure architecture to deploy an Azure Kubernetes Service (AKS) cluster on Azure. | Microsoft Learn
 [AKS for Amazon EKS professionals](https://learn.microsoft.com/en-ca/azure/architecture/aws-professional/eks-to-aks/) | This series of articles helps professionals who are familiar with Amazon Elastic Kubernetes Service (Amazon EKS) to understand Azure Kubernetes Service (AKS). The series highlights key similarities and differences between these two managed Kubernetes solutions. | MS Lean
 
 ## Workload - Azure RedHat OpenShift (ARO)
