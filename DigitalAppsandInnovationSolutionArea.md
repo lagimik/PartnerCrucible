@@ -88,6 +88,8 @@ Source | Description | Notes
 
 ### Containers
 
+Source | Description | Notes
+:----- | :---------- | :----
 [Container Service Options and Guidance in Azure](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/container-service-options-and-guidance-in-azure/ba-p/3732666) | The main scope of this blog is to evaluate and understand the capabilities and limitations of Azure container services to help you choose the optimal platform for your container deployments. | Tech Community
 
 ### Java
