@@ -94,6 +94,17 @@ Source | Description | Notes
 [Microsoft 365 Lighthouse for SMB Managed Services Providers (MSPs)](https://www.youtube.com/watch?v=p0kd4bsd_wI) | Introducing a new portal that will enable multi-tenant management of Microsoft 365 services by IT Partners – especially Managed Service Providers (MSPs) who serve small & medium-sized businesses (SMBs).| Nov 2020
 [Microsoft 365 Lighthouse Demo](https://www.youtube.com/watch?v=oSlh2-MeFL0) | Microsoft 365 Lighthouse is an admin portal that helps Managed Service Providers (MSPs) secure and manage devices, data, and users at scale for small- and medium-sized business (SMB) customers who are using Microsoft 365 Business Premium | 2021
 
+## Microsoft Entra
+
+Source | Description | Notes
+:----- | :---------- | :----
+[Secure Identities and Access – Build Intent Workshop](https://partner.microsoft.com/en-CA/partnership/partner-incentives/build-intent-workshops-usage-secure-identities-and-access) | Secure Identities and Access Workshop is designed to help customers assess the maturity of their identity estates. By using Secure Score and application discovery tools, you can help your customers gain visibility into their current identity estates and work together with them to define clear next steps and the best ways to mitigate risks.  | Microsoft Partner
+[Days of the Defender: Identity & Access Management with Microsoft Entra](https://vshow.on24.com/vshow/Security_Depth/registration/22542) | PArtner On-demand : Days of Defender - Identity & Access Management with Microsoft Entra Deep Dive. These Security depth workshops are intermediate to advanced technical sessions | 
+[Microsoft Entra sessions @ Build 2023](https://build.microsoft.com/en-US/sessions?search=entra&sortBy=relevance) | lagship event for developers, Microsoft Build is where industry disruptors, cutting-edge technologists, and the developer community come together to learn about new tech, share ideas, and get fueled with skills to build the future | Microsoft Build 2023
+[Microsoft Entra sessions @ Airlift 2022](https://airlift.microsoft.com/sessionscheduler?p1=eyJzcGVha2VyIjpbXSwidGltZXNsb3QiOltdLCJkYXkiOltdLCJyb29tIjpbXSwibG9jYXRpb24iOltdLCJkaWdpdGFsIjpbXSwibWVkaWEiOiIiLCJkaXNwbGF5bW9kZSI6Imxpc3QiLCJncm91cGJ5IjoiIiwiaW5wZXJzb24iOmZhbHNlLCJzY2hlZHVsZWQiOmZhbHNlLCJvbmRlbWFuZCI6ZmFsc2UsInVwY29taW5nIjpmYWxzZSwiaGFzc2xpZGVzIjpmYWxzZSwic3RhcnQiOiIiLCJmaW5pc2giOiIiLCJwYWdlbnVtYmVyIjoxLCJjYXRlZ29yaWVzIjp7fSwia2V5d29yZCI6Im1pY3Jvc29mdCBlbnRyYSJ9) | Airlifr is an engineering-led event for deep dive technical training.| Microsoft Airlift
+
+
+
 ## Microsoft Defender Threat Intelligence
 
 Source | Description | Notes
