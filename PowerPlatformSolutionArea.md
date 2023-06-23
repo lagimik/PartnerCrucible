@@ -34,6 +34,7 @@ Source | Description | Notes
 [Power Platform Basic Training](https://docs.microsoft.com/en-us/learn/browse/?products=powerapps%2Cflow%2Cpower-automate&levels=beginner)| Basic Training| ...
 [PowerApps Developer PLan to build and test Power Apps for free](https://powerapps.microsoft.com/en-ca/developerplan/) | Create apps and flows without writing code with full-featured Power Apps and Power Automate development tools. Easily share and collaborate with others. | Power Platform
 [Power Platform Hackathon in a Box](https://www.linkedin.com/smart-links/AQFtpgiucM3hQA/59e480f0-7625-4e8b-bf1e-73d003a4b5b0) | Organizer guide an participant handbook by @KymDupuis | LinkedIn
+[Integrating Microsoft Sentinel and Power Platform to better monitor and protect your low-code solutions](https://powerapps.microsoft.com/en-us/blog/integrating-microsoft-sentinel-and-power-platform-to-better-monitor-and-protect-your-low-code-solutions/) | Microsoft Sentinel solution for Microsoft Power Platform, a premium offering, allowing customers to detect various suspicious activities such as Microsoft Power Apps execution from unauthorized geographies, suspicious data destruction by Power Apps, mass deletion of Power Apps, phishing attacks made possible through Power Apps, Power Automate flows activity by departing employees, Microsoft Power Platform connectors added to the an environment, and the update or removal of Microsoft Power Platform data loss prevention policies.| Microsoft Blo;g
 
 ## Power Platform Certifications
 
@@ -42,7 +43,6 @@ Source | Description | Notes
 [Power Platform Certifications](https://aka.ms/BusAppsTrainCertPoster) | Overview Poster | Microsoft
 [Power Platform  Training and certifications guide](https://aka.ms/PPTrainCertDeck) | Summary role-based training and certification guide |Microsoft
 [Power Platform Training Journey](https://aka.ms/powertrainingjourney) | Complete role-based training and certification journey map| Microsoft
-
 
 ## Power Platform Skilling
 
@@ -55,7 +55,6 @@ Source | Description | Notes
 [Power Platform in a Day](https://powerplatform.microsoft.com/en-us/training-workshops/) |Experience how Microsoft Power Platform can meet your business challenges quickly and effectively by attending a virtual, one-day training workshop. |...
 [Fusion development approach to building apps using PowerApps](https://learn.microsoft.com/en-ca/power-apps/guidance/fusion-dev-ebook/) | The purpose of this guide is to summarize the way in which citizen and professional developers can work together, following a fusion development approach. As you progress through this guide, you'll play the role of the different participants in this process to build a complex, fully functional solution that combines Power Apps with Azure services.  | Microsoft
 [Fusion development ebook API](https://github.com/microsoft/fusion-dev-ebook) | This API supports the the fusion development approach to building power apps.| Github
-
 
 ## Asset Lifecyle Management
 
@@ -88,7 +87,6 @@ Source | Description | Notes
 [Microsoft Learn for Power Automate](https://learn.microsoft.com/en-us/training/powerplatform/power-automate) | Learn how to free your organization from mundane tasks with automated flows and robotic process automation (RPA).| Microsoft Learn
 [Flow-in-a-Day](https://aka.ms/flowinaday) | Hands-on labs. This is the Power Automate in a day v8 material | Github
 [RPA-in-day](https://aka.ms/RPAinaday) | Hands-on labs. | Zip archive download
-
 
 ## Power Virtual Agents (PVA)
 
