@@ -9,6 +9,21 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+### Week ending June 23, 2023
+
+Additions this week include Sentinel for POwer Platform, #AKS construction kit, ASK CI/CD with ADO and GitHub, Microsoft #Purview One-Stop-Shop (OSS), CEO's guide to Generative AI, and #MicrosoftFabric webinar series
+
+Date | Change | File
+:--- | :----- | ---:
+2023-06-22 | added Integrating Microsoft Sentinel and Power Platform to better monitor and protect your low-code solutions | [See changes here](./PowerPlatformSolutionArea)
+2023-06-21 | added AKS guidance including Construction Kit, CI/CD with Azure Devops and GitHub, and GitOps references | [See changes here](./AzureInfrastructureSolutionArea)
+2023-06-21 | added section for Entra | [See changes here](./SecuritySolutionArea)
+2023-06-21 | added Baseline architecture for an Azure Kubernetes Service (AKS) cluster | [See changes here](./AzureInfrastructureSolutionArea)
+2023-06-20 | added Microsoft Purview One-Stop-Shop (OSS) | [See changes here](./SecuritySolutionArea)
+2023-06-19 | The CEO's Guide to the Generative AI Revolution | [See changes here](./DataAISolutionArea-AzureOpenAI)
+2023-06-19 | added Introduction to Microsoft Fabric - Webinar series | [See changes here](./DataAISolutionArea-Fabric)
+
+
 ### Week ending June 16, 2023
 
 Additions this week include Azure DiY, and LZ accelerator for Azure Container Apps. Also, see the AI Hackathon Starter Kit, and guidance on growing you Power Platform practice.
