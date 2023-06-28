@@ -114,6 +114,13 @@ Source | Description | Notes
 [Viva adoption](https://adoption.microsoft.com/en-us/viva/) | Includes latest latest Work Trend Index, Josh Bersin employee experience assessment tool| Microsft Adoption
 [The People-Powered Workplace: Reimagine the Employee Experience](https://info.microsoft.com/ww-landing-the-people-powered-workplace.html?LCID=EN-US) | Viva ebook - Learn new ways to empower your people and teams by creating a new kind of workplace—one centered around your employees and their experience. | Microsoft
 
+## Microsoft 365 Copilot
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Microsoft 365 Copilot: The AI-Powered Future of Work](https://aka.ms/M365CopilotPartner) | Partner resource landing page | Transform
+[Microsoft 365 Copilot Partner Guide](https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FMicrosoft365-Copilot-Partner-Guide.pptx&download=1) | This deck provides comprehensive guidance for partner readiness and customer adoption  | Transform
+
 ## Syntex
 
 Source | Description | Notes
