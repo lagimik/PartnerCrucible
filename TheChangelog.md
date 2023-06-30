@@ -9,9 +9,22 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+### Week ending June 30, 2023
+
+Additions this week include copilot reference material for partners for business applications, power platform, and modern work, data & AI. In addition see 2023 Forrester Wave Low-Code Platforms for Professional Developers,
+
+Date | Change | File
+:--- | :----- | ---:
+2023-06-30 | updated with partner copilot reference material for partners for Business Applications | [See changes here](./BusinessApplicationsSolutionArea)
+2023-06-30 | updated with partner copilot reference material for partners for Data & AI | [See changes here](./DataAISolutionArea-AzureOpenAI)
+2023-06-30 | updated with partner copilot reference material for partners Modern Work | [See changes here](./ModernWorkSolutionArea)
+2023-06-30 | updated with partner copilot reference material for partners for Power Platform | [See changes here](./PowerPlatformSolutionArea)
+2023-06-29 | added 2023 Forrester Wave Low-Code Platforms for Professional Developers | [See changes here](./PowerPlatformSolutionArea)
+
+
 ### Week ending June 23, 2023
 
-Additions this week include Sentinel for POwer Platform, #AKS construction kit, ASK CI/CD with ADO and GitHub, Microsoft #Purview One-Stop-Shop (OSS), CEO's guide to Generative AI, and #MicrosoftFabric webinar series
+Additions this week include Sentinel for Power Platform, #AKS construction kit, ASK CI/CD with ADO and GitHub, Microsoft #Purview One-Stop-Shop (OSS), CEO's guide to Generative AI, and #MicrosoftFabric webinar series
 
 Date | Change | File
 :--- | :----- | ---:
