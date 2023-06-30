@@ -66,6 +66,13 @@ Source | Description | Notes
 [FastTrack Recognized Solution Architects—Dynamics 365](https://dynamics.microsoft.com/en-us/fasttrack/recognized-solution-architects/) |  The Dynamics 365 product engineering team recognizes practicing solution architects for consistently exhibiting deep architecture expertise and creating high-quality solutions for customers during Dynamics 365 FastTrack governed engagements.|
 [Microsoft FastTrack Recognized Solution Architect nomination – Dynamics 365](https://dynamics.microsoft.com/en-us/fasttrack/recognized-solution-architects/nomination/dynamics/) | Nomination form|
 
+## Dynamics 365 Copilot
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[AI Innovations](https://dynamicspartners.transform.microsoft.com/cloud-conversations?tab=tab-custom3) | Generative AI in Dynamics  including Power Dynamics 365 Copilot, Copilot in ERP, Copilot in Customer Experience| Transform
+[Dynamics Copilot Pitch Deck](https://dynamicspartners.transform.microsoft.com/download/protected?assetname=protectedassets%2FDynamics%20365%20Copilot%20pitch%20deck.pptx&download=1&protected=1&src=https:%2F%2Fdynamicspartners.transform.microsoft.com%2Fcloud-conversations) | Partner Pitch Deck - History, overview, and deep dive into fusing Dynamics 365 with Generative AI| Transform
+
 ## Developers
 
 Source | Description | Notes

@@ -57,6 +57,13 @@ Source | Description | Notes
 [Fusion development approach to building apps using PowerApps](https://learn.microsoft.com/en-ca/power-apps/guidance/fusion-dev-ebook/) | The purpose of this guide is to summarize the way in which citizen and professional developers can work together, following a fusion development approach. As you progress through this guide, you'll play the role of the different participants in this process to build a complex, fully functional solution that combines Power Apps with Azure services.  | Microsoft
 [Fusion development ebook API](https://github.com/microsoft/fusion-dev-ebook) | This API supports the the fusion development approach to building power apps.| Github
 
+## Power Platform Copilot
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[AI Innovations](https://dynamicspartners.transform.microsoft.com/cloud-conversations?tab=tab-custom3) | Generative AI in Power Platform including Power Apps, Power Virtual Agents, Power Pages| Transform
+[Power Platform Generative AI](https://dynamicspartners.transform.microsoft.com/download/protected?assetname=protectedassets%2FPower%20Platform%20generative%20pitch%20deck.pptx&download=1&protected=1&src=https:%2F%2Fdynamicspartners.transform.microsoft.com%2Fcloud-conversations) | Partner Pitch Deck - History, overview, and deep dive into fusing Power Platform with Generative AI | Transform
+
 ## Asset Lifecyle Management
 
 ALM techniques to be applied to move Power Platform solution to different environments.

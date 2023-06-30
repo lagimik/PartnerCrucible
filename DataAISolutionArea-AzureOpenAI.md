@@ -21,6 +21,7 @@ Source | Description | Notes
 [Advancing human-centered AI: Updates on responsible AI research](https://www.microsoft.com/en-us/research/blog/advancing-human-centered-ai-updates-on-responsible-ai-research/) | he following is a glimpse into the past year’s research for advancing responsible AI with authors from Aether.| Microsoft Research
 [Generative AI is here - Does you company have the DNA to make it work?](https://online.flippingbook.com/view/524344474/) | The GenAI DNA Framework presented in this article is intended to help companies reduce risks, increase adoption, accelerate benefits, and achieve the business value desired from GenAI while keeping the frustrations and costs of “random acts of digital” at a minimum. | Cognixia
 [AI Anthology](https://unlocked.microsoft.com/ai-anthology/a) | we invited 20 experts, with specialties encompassing a broad spectrum—spanning the fields of business, economics, education, engineering, health, history, law, mathematics, medicine, psychology, and the sciences—to explore the capabilities of GPT-4 and provide their insightful reflections in the form of essays. | Microsoft Unlocked
+[AI Business School](https://www.microsoft.com/en-us/ai/ai-business-school) | Online leadership series and learn how to drive business impact by creating an effective AI strategy, enabling an AI-ready culture, innovating responsibly, and more| Microsoft
 
 ## Responsible AI
 
@@ -36,7 +37,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[Partner Data and AI Solution Area Landing](https://partner.microsoft.com/en-us/explore/solution-areas#tab-2) | | Partner
+[Partner Data and AI Solution Area Landing](https://partner.microsoft.com/en-us/explore/solution-areas#tab-2) | Lanfin page for partner resources | Partner
 [Azure OpenAI Sales Acceleration](https://partner.microsoft.com/en-us/asset/collection/azure-openai-service-sales-acceleration-content#/) | Sales Acceleration content| Partner
 
 
@@ -65,6 +66,7 @@ Source | Description | Notes
 [Prompt Engineering 101 - Introduction and resources](https://www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain/) | By Xavier  (Xavi) Amatriain | LinkedIn
 [Prompt Engine](https://github.com/microsoft/prompt-engine) | This repo contains an NPM utility library for creating and maintaining prompts for Large Language Models (LLMs).| GitHub
 [The AI Show](https://aka.ms/AIShowsubscribe) | The AI Show Live showcases the amazing work happening in AI at Microsoft. Developers learn what's new in AI in a short amount of time and are directed to assets helping them get started and on the road to success right away. Seth Juarez and friends work on cool projects and highlight what's new in Azure AI and Machine Learning. | Microsoft Learn
+[Azure AI Bootcamp](https://vshow.on24.com/vshow/Azure_Depth/registration/22504) | On-demand - learn about Azure artificial intelligence (AI) services designed for developers and data scientists to acquire the knowledge to access and integrate high-quality vision, speech, language, and decision-making AI models through simple API calls in your apps and services and create your own machine learning models with tools like Jupyter Notebooks, Visual Studio Code, and open-source frameworks like TensorFlow and PyTorch.| Learning
 
 ## Content Safety
 
@@ -103,6 +105,8 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Data & AI Industry Partner Activation Kit](https://partner.microsoft.com/en-us/asset/collection/data-and-ai-industry-partner-activation-kit#/) | This collection presents a set of Industry Kits containing key Azure Data & AI Use Cases. Each use case comes with critical resources and information designed to help Partners articulate Microsoft’s Data & AI Industry value proposition and accelerate Azure Data & AI Services growth| Partner
+[Data & AI Industry DREAM Demos & DREAM Demo in a Box](https://partner.microsoft.com/en-us/asset/collection/industry-dream-demos-and-dream-demo-in-a-box#/) | Data & AI Industry DREAM Demos are realistic clickable demos based on actual customer engagements that cover a range of industry scenarios in story form. | Partner
 [Azure OpenAI Service Generative AI Customer Demo](https://assetsprod.microsoft.com/mpn/en-us/azure-openai-service-chatgpt-tdm-customer-demo.mp4) | Customer-ready customer technical decision maker demo | Partner
 [Azure OpenAI Service ChatGPT Customer Demo](https://assetsprod.microsoft.com/mpn/en-us/azure-openai-service-generative-ai-tdm-customer-demo.mp4) | Customer-ready customer technical decision maker demo| Partner
 [Azure OpenAI Samples](https://github.com/Azure/openai-samples) | This repo is a compilation of useful Azure OpenAI Service resources and code samples to help you get started and accelerate your technology adoption journey. | GitHub

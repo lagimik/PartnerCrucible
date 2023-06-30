@@ -120,6 +120,9 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [Microsoft 365 Copilot: The AI-Powered Future of Work](https://aka.ms/M365CopilotPartner) | Partner resource landing page | Transform
 [Microsoft 365 Copilot Partner Guide](https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FMicrosoft365-Copilot-Partner-Guide.pptx&download=1) | This deck provides comprehensive guidance for partner readiness and customer adoption  | Transform
+[How to prepare for Microsoft 365 Copilot](https://techcommunity.microsoft.com/t5/microsoft-365-copilot/how-to-prepare-for-microsoft-365-copilot/ba-p/3851566) | Blog provides an overview of Copilot, shares technical details, and how you can prepare for it: best practices about setting permissions policies, details about admin controls, change management, adoption, security, privacy, compliance, and data residency to help your organization get prepared. | Tech Community
+[Microsoft 365 Copilot Technical Overview for Partners](https://transform.microsoft.com/modernwork/download?assetname=assets%2FMicrosoft%20365%20Copilot%20Technical%20Deck.pptx&download=1) | This is a library of Microsoft 365 Copilot slides for Microsoft partners to use as needed when talking to customers. These are designed to provide an overview of privacy, security, data residency, technical questions. | Microsoft Transform
+[Data, Privacy, and Security for Microsoft 365 Copilot](https://learn.microsoft.com/en-ca/DeployOffice/privacy/microsoft-365-copilot) | Provides an overview of Microsoft 365 Copilot data usage, privacy, residency, and sovereignty | Microsoft Learn
 
 ## Syntex
 
