@@ -9,9 +9,9 @@
 ## Posts
 
 <ul>
-  {% for summary in site.Summary %}
+  {% for post in site.GenerativePartnerCrucible %}
     <li>
-      <a href="/PartnerCrucible{{ summary.url }}">{{ summary.title }}</a>
+      <a href="/PartnerCrucible{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
