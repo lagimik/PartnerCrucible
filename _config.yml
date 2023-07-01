@@ -15,3 +15,7 @@ measurement_id: G-RYZGVB8WWM
 
 # Build settings
 theme: jekyll-theme-slate
+
+# add a collection for the Summary
+collections:
+- Summary
