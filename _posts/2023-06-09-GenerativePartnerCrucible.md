@@ -2,6 +2,7 @@
 title: "Generative Partner Crucible - for the week ending June 09, 2023"
 date: 2023-06-09
 flag: "GenerativePartnerCrucible"
+layout: "generativepartnercrucible"
 ---
 
 # Summary Week ending June 9, 2023 *(powered by Azure OpenAI Services and GitHub)*

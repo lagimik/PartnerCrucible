@@ -2,6 +2,7 @@
 title: "Generative Partner Crucible - for the week ending June 30, 2023"
 date: 2023-06-30
 flag: "GenerativePartnerCrucible"
+layout: "generativepartnercrucible"
 ---
 
 ![ PowerPlatformSolutionArea.md ]( /PartnerCrucible/assets/images/2023-06-30-PowerPlatformSolutionArea.md-image.png )
