@@ -14,5 +14,6 @@
     <li>
       <a href="/PartnerCrucible{{ post.url }}">{{ post.title }}</a>
     </li>
+    { % endif %}
   {% endfor %}
 </ul>
