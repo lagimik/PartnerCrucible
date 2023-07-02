@@ -1,7 +1,7 @@
 ---
 title: "Signal:Noise - Journey to SaaS - a hitchhiker's guide"
 date: 2023-01-02
-flag: SignalNoise
+flag: "SignalNoise"
 ---
 
 # Journey to SaaS - a hitchhiker's guide

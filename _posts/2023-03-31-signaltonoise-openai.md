@@ -1,7 +1,7 @@
 ---
 title: "Signal:Noise - Generative AI with Azure OpenAI Service"
 date: 2023-04-18
-flag: SignalNoise
+flag: "SignalNoise"
 ---
 
 # Generative AI with Azure Open OpenAI Service

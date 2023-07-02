@@ -1,7 +1,7 @@
 ---
 title: "Signal:Noise - Finding purpose amidst the digital frenzy"
 date: 2022-09-06
-flag: SignalNoise
+flag: "SignalNoise"
 ---
 
 # Welcome to a technology partner *insider view*

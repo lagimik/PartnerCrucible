@@ -1,10 +1,10 @@
 ---
 title: "Generative Partner Crucible - for the week ending June 23, 2023"
 date: 2023-06-23
-flag: GenerativePartnerCrucible
+flag: "GenerativePartnerCrucible"
 ---
 
-![ AzureInfrastructureSolutionArea.md ]( AzureInfrastructureSolutionArea.md-image.png )
+![ AzureInfrastructureSolutionArea.md ]( /assets/images/2023-06-23-AzureInfrastructureSolutionArea.md-image.png )
 
 # Azure Core Infrastructure
 
@@ -14,21 +14,21 @@ All things AKK, including AKS Construction Kit, CI/CD with Azure Devops and GitH
 - [CI/CD with Azure GitHub](https://learn.microsoft.com/en-us/azure/architecture/guide/aks/aks-cicd-github-actions-and-gitops)
 - [AKS GitOps Architecture](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/gitops-aks/gitops-blueprint-aks) 
 
-![ DataAISolutionArea-AzureOpenAI.md ]( DataAISolutionArea-AzureOpenAI.md-image.png)
+![ DataAISolutionArea-AzureOpenAI.md ]( /assets/images/2023-06-23-DataAISolutionArea-AzureOpenAI.md-image.png)
 # Azure Data and AI: 
 
 See "The CEO’s Guide to the Generative AI Revolution" for insights on the latest AI trends and how to leverage them for your business. Follow
 - "The CEO’s Guide to the Generative AI Revolution": [BCG article](https://www.bcg.com/publications/2023/ceo-guide-to-ai-revolution)
   
 
-![ PowerPlatformSolutionArea.md ]( PowerPlatformSolutionArea.md-image.png )
+![ PowerPlatformSolutionArea.md ]( /assets/images/2023-06-23-PowerPlatformSolutionArea.md-image.png )
 # Security: Power Platform
 
 Integrating Microsoft Sentinel and Power Platform to better monitor and protect your low-code solutions. Learn more about this premium offering and how it can detect suspicious activity in your environment. Read the Microsoft Blog post for more information: 
 - [Integrating Microsoft Sentinel and Power Platform to better monitor and protect your low-code solutions](https://powerapps.microsoft.com/en-us/blog/integrating-microsoft-sentinel-and-power-platform-to-better-monitor-and-protect-your-low-code-solutions/).
 
 
-![ SecuritySolutionArea.md ]( SecuritySolutionArea.md-image.png )
+![ SecuritySolutionArea.md ]( /assets/images/2023-06-23-SecuritySolutionArea.md-image.png )
 # Security : Entra and Purview 
 
  Partners can participate in the Secure Identities and Access Workshop to help customers assess the maturity of their identity estates, learn about advanced technical sessions at Days of the Defender, and attend workshops and sessions at Microsoft Build 2023 and Airlift 2022. 

@@ -1,7 +1,7 @@
 ---
 title: "Signal:Noise - Partnership in innovation"
 date: 2022-10-30
-flag: SignalNoise
+flag: "SignalNoise"
 ---
 
 # Partnership in innovation
