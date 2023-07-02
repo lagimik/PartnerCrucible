@@ -2,6 +2,7 @@
 title: "Signal:Noise - Microsoft Ignite 2022 - Developer (including low-code) for partner"
 date: 2022-09-12
 flag: "SignalNoise"
+layout: "signalnoise"
 ---
 
 # Microsoft Ignite 2022  - Developer (and low-code)

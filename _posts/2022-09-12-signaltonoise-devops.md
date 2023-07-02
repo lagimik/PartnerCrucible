@@ -2,6 +2,7 @@
 title: "Signal:Noise - DevOps"
 date: 2022-09-12
 flag: "SignalNoise"
+layout: "signalnoise"
 ---
 
 # DevOps

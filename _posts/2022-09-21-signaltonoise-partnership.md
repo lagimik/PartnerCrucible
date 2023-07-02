@@ -2,6 +2,7 @@
 title: "Signal:Noise - What's in a partnership?"
 date: 2022-09-21
 flag: "SignalNoise"
+layout: "signalnoise"
 ---
 
 # What's in a partnership?
