@@ -1,9 +1,15 @@
 
+---
+title: "Generative Partner Crucible - for the week ending June 02, 2023"
+date: 2023-06-02
+flag: "GenerativePartnerCrucible"
+---
+
 # Summary Week ending June 2, 2023 *(powered by Azure OpenAI Services and GitHub)*
 
 # Azure Core Infrastructure 
 
-![ AzureInfrastructureSolutionArea.md ]( AzureInfrastructureSolutionArea.md-image.png )
+![ AzureInfrastructureSolutionArea.md ]( /assets/images/2023-06-02-AzureInfrastructureSolutionArea.md-image.png )
 
 Follow the links below to dive in and explore. We've added the FY24 certification poster, guides, and journeys! Get started on your role-based training and certification now.
 
@@ -26,7 +32,7 @@ Get ahead of the game and start your certification journey today!
 
 # AI
 
-![ DataAISolutionArea-AzureOpenAI.md ]( DataAISolutionArea-AzureOpenAI.md-image.png )
+![ DataAISolutionArea-AzureOpenAI.md ]( /assets/images/2023-06-02-DataAISolutionArea-AzureOpenAI.md-image.png )
 
 Partner Crucible has made some fantastic updates that are sure to pique your interest and keep you updated on the latest industry trends. Check out these exciting changes:
 - [AI Anthology](https://unlocked.microsoft.com/ai-anthology/a): We invited 20 experts to explore the capabilities of GPT-4 and provide their insightful reflections in the form of essays. 
@@ -38,7 +44,7 @@ Partner Crucible has made some fantastic updates that are sure to pique your int
 
 # Unleash Your Data Potential 
 
-![ DataAISolutionArea-Fabric.md ]( DataAISolutionArea-Fabric.md-image.png )
+![ DataAISolutionArea-Fabric.md ]( /assets/images/2023-06-02-DataAISolutionArea-Fabric.md-image.png )
 
 UpdatesHave you checked out the latest updates to Partner Crucible? Get ready to accelerate your data potential with Microsoft Fabric! 
 
@@ -49,7 +55,7 @@ UpdatesHave you checked out the latest updates to Partner Crucible? Get ready to
  
 # Modern Work
 
-![ ModernWorkSolutionArea.md ]( ModernWorkSolutionArea.md-image.png )
+![ ModernWorkSolutionArea.md ]( /assets/images/2023-06-02-ModernWorkSolutionArea.md-image.png )
 
 Partner Crucible has undergone some exciting changes! Check out our latest updates, including:
 Get an overview of Microsoft 365 certifications with our informative poster and a summary of role-based training and certification guide. 
@@ -67,7 +73,7 @@ Don't miss out on these game-changing updates. Follow the links above to acceler
 
 # Power Platform
 
-![ PowerPlatformSolutionArea.md ]( PowerPlatformSolutionArea.md-image.png )
+![ PowerPlatformSolutionArea.md ]( /assets/images/2023-06-02-PowerPlatformSolutionArea.md-image.png )
 
  Discover our Microsoft Learn journey, training, and certification options [here](https://github.com/lagimik/PartnerCrucible/blob/main/PowerPlatformSolutionArea.md#power-platform-skilling).
  - **Power Platform Hackathon in a Box:** Get ready to hack with our updated organizer guide and participant handbook on LinkedIn. Find them [here](https://www.linkedin.com/smart-links/AQFtpgiucM3hQA/59e480f0-7625-4e8b-bf1e-73d003a4b5b0).
@@ -77,7 +83,7 @@ With these Partner Crucible updates, you'll be one step closer to mastering the 
 
 # Security
 
-![ SecuritySolutionArea.md ]( SecuritySolutionArea.md-image.png )
+![ SecuritySolutionArea.md ]( /assets/images/2023-06-02-SecuritySolutionArea.md-image.png )
 
 Get ready to enhance your expertise in data security, compliance, and privacy solutions with the latest Microsoft Partner Crucible updates! Discover the revamped Microsoft Purview and Priva Partner Playbook, featuring a packaged journey comprising essential guidance, resources, and tools. Plus, elevate your skills with the detailed Security and Compliance Certifications overview poster, the comprehensive role-based training and certification guide, and the complete training and certification journey map.
 
@@ -89,7 +95,7 @@ You can now connect your threat intelligence platform to Microsoft Sentinel with
 - [Security and Compliance Training Journey Map](https://aka.ms/SecurityTrainingJourney)
 
 # Access for All
-![ MicrosoftAccessibility.md ]( MicrosoftAccessibility.md-image.png )
+![ MicrosoftAccessibility.md ]( /assets/images/2023-06-02-MicrosoftAccessibility.md-image.png )
 
 Microsoft has made great strides in accessibility innovation, and now they're making it even easier for you to get involved
 - Check out the new [Accessibility Innovation Toolkit](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWYD6w) to get practical tips, examples, and case studies. 
@@ -98,7 +104,7 @@ Microsoft has made great strides in accessibility innovation, and now they're ma
 
 ## Get Certified and Learn with Microsoft's Latest Learning Resources!
 
-![ LearningResources.md ]( LearningResources.md-image.png )
+![ LearningResources.md ]( /assets/images/2023-06-02-LearningResources.md-image.png )
 
 Microsoft has recently made updates to their Partner Crucible platform, featuring an array of new learning resources and certification opportunities. Check out the links below to discover new skills, find certifications, and advance your career in minutes with interactive, hands-on learning paths:
 - [Training and Certifications Poster](https://aka.ms/TrainCertPoster) 
