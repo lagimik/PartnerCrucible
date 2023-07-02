@@ -10,7 +10,7 @@
 
 <ul>
 {% for post in site.posts %}
-  {% if page.layout == 'signalnoise' %}
+  {% if post.layout == 'signalnoise' %}
     <li>
       <a href="/PartnerCrucible{{ post.url }}">{{ post.title }}</a>
     </li>
