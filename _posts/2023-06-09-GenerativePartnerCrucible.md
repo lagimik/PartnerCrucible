@@ -9,7 +9,7 @@ layout: "generativepartnercrucible"
 
 ## Microsoft Azure OpenAI 
 
-![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/DataAISolutionArea-AzureOpenAI.md-image.png )
+![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2023-06-09/DataAISolutionArea-AzureOpenAI.md-image.png )
 
 From being recognized as a Leader for the fourth year in a row in the Gartner Magic Quadrant for Cloud AI Developer Services, to introducing Azure AI Content Safety, a new Azure Cognitive Service for content moderation, and providing a comprehensive introduction to Azure OpenAI Service and Azure OpenAI Studio with the Azure OpenAI in-a-day workshop and labs. Plus, learn more about data privacy and security for Azure OpenAI Service. Follow the links below to learn more about these updates and stay on top of the latest AI solutions.
 
@@ -22,7 +22,7 @@ From being recognized as a Leader for the fourth year in a row in the Gartner Ma
   
 
 ## Azure Fabric 
-![ DataAISolutionArea-Fabric.md ]( /PartnerCrucible/assets/images/DataAISolutionArea-Fabric.md-image.png )
+![ DataAISolutionArea-Fabric.md ]( /PartnerCrucible/assets/images/2023-06-09-DataAISolutionArea-Fabric.md-image.png )
 
 Don't wait any longer to explore the latest updates in Partner Crucible – click on the links now and take advantage of all the new capabilities!
 
