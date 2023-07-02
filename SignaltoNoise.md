@@ -10,6 +10,7 @@
 
 <ul>
   {% for post in site.posts %}
+    {% if page.flag == 'SignalNoise' %}
     <li>
       <a href="/PartnerCrucible{{ post.url }}">{{ post.title }}</a>
     </li>

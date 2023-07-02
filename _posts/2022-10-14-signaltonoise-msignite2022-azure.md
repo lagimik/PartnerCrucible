@@ -1,6 +1,7 @@
 ---
 title: "Signal:Noise - Microsoft Ignite 2022 - Azure for partners"
 date: 2022-09-12
+flag: SignalNoise
 ---
 
 # Microsoft Ignite 2022 - Azure for Partners
