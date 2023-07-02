@@ -4,7 +4,7 @@ date: 2023-06-30
 flag: "GenerativePartnerCrucible"
 ---
 
-![ PowerPlatformSolutionArea.md ]( /assets/images/2023-06-30-PowerPlatformSolutionArea.md-image.png )
+![ PowerPlatformSolutionArea.md ]( /PartnerCrucible/assets/images/2023-06-30-PowerPlatformSolutionArea.md-image.png )
 
 # Power Platform Copilot
 
@@ -16,7 +16,7 @@ The Forrester report acknowledges Microsoft’s “best-in-class features for AI
 
 Visit the [Partner Crucible Power Platform](https://lagimik.github.io/PartnerCrucible/PowerPlatformSolutionArea) topic page for more partner resources
 
-![ BusinessApplicationsSolutionArea.md ]( /assets/images/2023-06-30-BusinessApplicationsSolutionArea.md-image.png )
+![ BusinessApplicationsSolutionArea.md ]( /PartnerCrucible/assets/images/2023-06-30-BusinessApplicationsSolutionArea.md-image.png )
 
 # Dynamics 365 Copilot
 
@@ -26,7 +26,7 @@ The Partner Crucible has been updated with new reference material for partners i
 
 Visit the [Partner Crucible Business Applications](https://lagimik.github.io/PartnerCrucible/BusinessApplicationsSolutionArea) topic page for more partner resources
 
-![ DataAISolutionArea-AzureOpenAI.md ]( /assets/images/2023-06-30-DataAISolutionArea-AzureOpenAI.md-image.png )
+![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2023-06-30-DataAISolutionArea-AzureOpenAI.md-image.png )
 
 # Data & AI and Azure OpenAI
 
@@ -38,7 +38,7 @@ Visit the [Partner Crucible Business Applications](https://lagimik.github.io/Par
 
 Visit the [Partner Crucible Data & AI](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea) topic page for more partner resources
 
-![ ModernWorkSolutionArea.md ]( /assets/images/2023-06-30-ModernWorkSolutionArea.md-image.png )
+![ ModernWorkSolutionArea.md ]( /PartnerCrucible/assets/images/2023-06-30-ModernWorkSolutionArea.md-image.png )
 
 # Microsoft 365 Copilot
 - [How to prepare for Microsoft 365 Copilot](https://techcommunity.microsoft.com/t5/microsoft-365-copilot/how-to-prepare-for-microsoft-365-copilot/ba-p/3851566): Provides an overview of Copilot and offers technical details on how to prepare for it, including best practices for setting permissions policies, admin controls, change management, adoption, security, privacy, compliance, and data residency. 
