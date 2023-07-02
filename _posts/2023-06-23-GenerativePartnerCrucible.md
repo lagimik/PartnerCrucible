@@ -1,3 +1,9 @@
+---
+title: "Generative Partner Crucible - for the week ending June 23, 2023"
+date: 2023-06-23
+flag: GenerativePartnerCrucible
+---
+
 ![ AzureInfrastructureSolutionArea.md ]( AzureInfrastructureSolutionArea.md-image.png )
 
 # Azure Core Infrastructure
