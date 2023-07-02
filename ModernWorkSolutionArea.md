@@ -77,6 +77,7 @@ Source | Description | Notes
 [Worklab - Podcast](https://www.microsoft.com/en-us/worklab/podcast/) | Everything we thought we knew about work—where we do it, when we do it, how we do it—has been turned on its head. Where is it all going, and is there a map to get us there? WorkLab is a new podcast from Microsoft that taps into data and research to guide you on the road ahead. Leaders and scientists share the company’s findings, and we’ll hear stories about how people and organizations are being transformed at this radical moment. Join us as we explore the science of work and ingenuity. |
 
 ## Microsoft365 Desired State Configuration (M365DSC)
+
 Source | Description | Notes
 :----- | :-----  | :-----
 [Microsoft365DSC - Your Cloud Configuration](https://microsoft365dsc.com/) | Microsoft365DSC is the most comprehensive and complete solution to have your Microsoft 365 tenant configuration simple and stable. It's an Open-Source initiative hosted on GitHub, led by Microsoft engineers and maintained by the community. | Microsoft DSC Official Website
