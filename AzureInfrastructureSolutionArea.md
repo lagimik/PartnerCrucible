@@ -167,13 +167,14 @@ Source | Description | Notes
 [Oracle on Azure IaaS](https://github.com/Azure/Oracle-Workloads-for-Azure/blob/main/Oracle%20on%20Azure%20IaaS%20Recommended%20Practices%20for%20Success.pdf) | Recommended Practices for Success | GitHub
 [Oracle RAC on Azure](https://techcommunity.microsoft.com/t5/data-architecture-blog/oracle-rac-on-azure/ba-p/1185410) | The goal of this post is to push past the idea that a lift and shift should always be a 1:1 move.  It's important when moving to the cloud to use the right tools, not just the tools you've always used, which is a very important lesson when it comes to Oracle Real Application Cluster, (RAC). | Tech Community
 
-##  Workload - Virtualization
+##  Workload - Azure VMWare Solution (AVS)
 
 Source | Description | Notes
 :----- | :---------- | :-----
 [AVS Documentation (official)](https://aka.ms/AVSDocs)| Learn how to use Azure VMware Solution to deploy a VMware Software-Defined Data Center (SDDC) private cloud to Azure. | Microsoft Learn
 [AVS Partner Learning Path (official)](https://aka.ms/AVSLearningPath)| Learn how Azure VMware Solution supports enterprise customers in their transition to the cloud. Evaluate key features and differentiators. Examine the use cases and customer stories. Understand the support structure and options. | Microsoft Learn
 [Azure VMware Solution landing zone accelerator](https://aka.ms/AVSEnterpriseScale) | The Microsoft Azure VMware Solution landing zone accelerator is an open-source collection of Azure Resource Manager and Bicep templates. It represents the strategic design path and target technical state for an Azure VMware Solution deployment. | Microsoft Learn
+[Landing zone considerations for Azure VMware Solution](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-vmware-solution-foundation-landing-zone) | Azure VMware Solution can be deployed as part of either a new landing zone or an existing landing zone environment. Well-designed landing zones help you avoid operational overhead and reduce costs by promoting segregated Azure environments and the use of shared services. | Microsoft Learn
 [AVS Enterprise-Scale(GitHub repository)](https://aka.ms/AVSEnterpriseScaleRepo)| Enterprise-scale for AVS represents the strategic design path and target technical state for an Azure VMware Solution (AVS) deployment | GitHub
 [AVS TechZone](https://aka.ms/AVSTechZone)| Azure VMWare Solution page| VMWare Site
 [AVS Overview Video Series](https://aka.ms/AVSTechOverview) | The Azure VMware Solution (AVS) Technical Overview Series provides viewers with a basic understanding of the solution. VMware's Jeremiah Megie and Steve Pantol will lead you through nine modules | YouTube
@@ -181,5 +182,5 @@ Source | Description | Notes
 [AVS Hands-on Labs](https://aka.ms/AVSHOL) | Learn more about Azure VMware Solution by taking a Hands-on Lab (HOL). See the service in action as you go through tasks such as deployment and configuration of an Azure-based SDDC, as well as advanced topics for specific use cases like cloud migration | VMWare TechZone
 [AVS Micro-hack](https://aka.ms/AVSMicroHack) | Handling Azure vMware Solution (AVS) network connectivity and migration scenario from on-premises to Azure | Github
 [Azure VMWare Services Trial](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR1xHkcwkIqVOp6E37mZjgcpURU9GSjJYTExLSzMzNzdGTzJERDBGWk1QQiQlQCN0PWcu&web=1&wdLOR=c5F35665D-7650-45A8-87BE-07E2AF646064)|Provide top AVS partners an opportunity to try AVS free of cost for when they are building/improving AVS services practice. The FY22 AVS Pilot Program provides top AVS partners the opportunity to experience AVS free of charge with white glove support from Microsoft. | AVS Pilot (Trial SKU) provides 3 nodes free for 30-day/720-hours.
-[Landing zone considerations for Azure VMware Solution](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-vmware-solution-foundation-landing-zone) | Azure VMware Solution can be deployed as part of either a new landing zone or an existing landing zone environment. Well-designed landing zones help you avoid operational overhead and reduce costs by promoting segregated Azure environments and the use of shared services. |
-[Azure Virtual Desktop]() |Try it now during our promotional period We are pleased to offer a special promotion with no charge to access Azure Virtual Desktop for streaming applications to external users. This promotion is effective from July 14, 2021, to March 31, 2022. For additional pricing details, please read the product documentation page and FAQ below.|
+
+
