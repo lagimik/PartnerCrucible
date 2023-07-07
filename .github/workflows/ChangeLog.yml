@@ -153,7 +153,7 @@ jobs:
           cd completion-segments
           for file in *.md; do
             echo $file
-            cat $file >> partnercrucible-stream.md
+            cat $file >> GenerativePartnerCrucible.md
           done
 
       - name: Upload stream
