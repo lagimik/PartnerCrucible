@@ -9,9 +9,22 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+### Week ending July 7, 2023
+
+Additions this week include Azure API Manager (APIM) and integration landing zone and monetization guidance, and logging and development guidance for Azure OpenAI.
+
+Date | Change | File
+:--- | :----- | ---:
+2023-07-05 | APIM monetization | [See changes here](./DigitalAppsandInnovationSolutionArea)
+2023-07-05 | added Azure OpenAI logging and development guidance | [See changes here](./DataAISolutionArea-AzureOpenAI)
+2023-07-05 | Refreshed section on  AVS | [See changes here](./AzureInfrastructureSolutionArea)
+2023-07-05 | added Azure Integration Services landing zone accelerator | [See changes here](./AzureInfrastructureSolutionArea-LandingZones)
+2023-07-01 | Added Generative Partner Crucible - An experiment in Generative AI| [See changes here](./GenerativePartnerCrucible)
+
+
 ### Week ending June 30, 2023
 
-Additions this week include copilot reference material for partners for business applications, power platform, and modern work, data & AI. In addition see 2023 Forrester Wave Low-Code Platforms for Professional Developers,
+Additions this week include copilot reference material for partners for business applications, power platform, and modern work, data & AI. In addition see 2023 Forrester Wave Low-Code Platforms for Professional Developers.
 
 Date | Change | File
 :--- | :----- | ---:
