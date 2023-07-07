@@ -5,7 +5,7 @@ flag: "GenerativePartnerCrucible"
 layout: "generativepartnercrucible"
 ---
 
-![ BusinessApplicationsSolutionArea.md ]( /PartnerCrucible/assets/images/BusinessApplicationsSolutionArea.md-image.png )
+![ BusinessApplicationsSolutionArea.md ]( /PartnerCrucible/assets/images/2023-07-07-BusinessApplicationsSolutionArea.md-image.png )
 
 # Business Applications
 
@@ -14,7 +14,7 @@ Updates include new reference material for partners in the business applications
 - [AI Innovations](https://dynamicspartners.transform.microsoft.com/cloud-conversations?tab=tab-custom3): These updates offer valuable insights and resources to help partners excel in the ever-evolving landscape of business applications.
 - [Dynamics Copilot Pitch Deck](https://dynamicspartners.transform.microsoft.com/download/protected?assetname=protectedassets%252FDynamics%2520365%2520Copilot%2520pitch%2520deck.pptx&download=1&protected=1&src=https%3A%252F%252Fdynamicspartners.transform.microsoft.com%252Fcloud-conversations): comprehensive understanding of the Dynamics 365 Copilot and its integration with generative AI, you can access the Partner Pitch Deck
 
-![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/DataAISolutionArea-AzureOpenAI.md-image.png )
+![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2023-07-07-DataAISolutionArea-AzureOpenAI.md-image.png )
 
 Visit the [Partner Crucible Business Applications](https://lagimik.github.io/PartnerCrucible/BusinessApplicationsSolutionAreaI) topic page for more partner resources.
 
@@ -29,7 +29,7 @@ Visit the [Partner Crucible Business Applications](https://lagimik.github.io/Par
 
 Visit the [Partner Crucible Data & AI - Azure OpenAI](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-AzureOpenAI) topic page for more partner resources.
 
-![ DigitalAppsandInnovationSolutionArea.md ]( /PartnerCrucible/assets/images/DigitalAppsandInnovationSolutionArea.md-image.png )
+![ DigitalAppsandInnovationSolutionArea.md ]( /PartnerCrucible/assets/images/2023-07-07-DigitalAppsandInnovationSolutionArea.md-image.png )
 
 # Digital and Application Innovation
 
@@ -41,7 +41,7 @@ Changes include improvements to the APIM monetization feature and the introducti
 
 Visit the [Partner Crucible Digital and Applications Innovation](https://lagimik.github.io/PartnerCrucible/DigitalAppsandInnovationSolutionArea) topic page for more partner resources.
 
-![ ModernWorkSolutionArea.md ]( /PartnerCrucible/assets/images/ModernWorkSolutionArea.md-image.png )
+![ ModernWorkSolutionArea.md ]( /PartnerCrucible/assets/images/2023-07-07-ModernWorkSolutionArea.md-image.png )
 
 # Modern Work
 
@@ -53,7 +53,7 @@ Visit the [Partner Crucible Digital and Applications Innovation](https://lagimik
 Visit the [Partner Crucible Modern Work](https://lagimik.github.io/PartnerCrucible/ModernWorkSolutionArea) topic page for more partner resources.
 
 
-![ PowerPlatformSolutionArea.md ]( /PartnerCrucible/assets/images/PowerPlatformSolutionArea.md-image.png )
+![ PowerPlatformSolutionArea.md ]( /PartnerCrucible/assets/images/2023-07-07-PowerPlatformSolutionArea.md-image.png )
 
 # Power Platform
 
