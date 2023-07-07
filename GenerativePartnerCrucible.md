@@ -1,12 +1,11 @@
-# Generative Partner Crucible
 
 ![Signal to Noise](/PartnerCrucible/Library/generativeAI-title.png)
 
-## Why?
+# Why?
 
-**General Partner Crucible** is an experiment in generative AI.
+The **Generative  Partner Crucible** is an experiment in generative AI.
 
-## Posts
+# Posts
 
 <ul>
 {% for post in site.posts %}
