@@ -1,6 +1,6 @@
 # Generative Partner Crucible
 
-![Signal to Noise](/PartnerCrucible/Library/signaltonoise-title.png)
+![Signal to Noise](/PartnerCrucible/Library/generativeAI-title.png)
 
 ## Why?
 
