@@ -15,7 +15,7 @@ The Forrester report acknowledges Microsoft’s “best-in-class features for AI
 -  [Power Platform Generative AI](https://dynamicspartners.transform.microsoft.com/download/protected?assetname=protectedassets%252FPower%2520Platform%2520generative%2520pitch%2520deck.pptx&download=1&protected=1&src=https%3A%252F%252Fdynamicspartners.transform.microsoft.com%252Fcloud-conversations): Partner Pitch Deck - History, overview, and deep dive into fusing Power Platform with Generative AI. 
 - [2023 Forrester Wave Low-Code Platforms for Professional Developers](https://dynamicspartners.transform.microsoft.com/download/protected?assetname=protectedassets%252FPower%2520Platform%2520generative%2520pitch%2520deck.pptx&download=1&protected=1&src=https%3A%252F%252Fdynamicspartners.transform.microsoft.com%252Fcloud-conversations) 
 
-Visit the [Partner Crucible Power Platform](https://lagimik.github.io/PartnerCrucible/PowerPlatformSolutionArea) topic page for more partner resources
+Visit the [Partner Crucible Power Platform](https://lagimik.github.io/PartnerCrucible/PowerPlatformSolutionArea) topic page for more partner resources.
 
 ![ BusinessApplicationsSolutionArea.md ]( /PartnerCrucible/assets/images/2023-06-30-BusinessApplicationsSolutionArea.md-image.png )
 
