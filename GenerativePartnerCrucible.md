@@ -11,7 +11,7 @@ The **Generative  Partner Crucible** is an experiment in generative AI.
 {% for post in site.posts %}
   {% if post.layout == 'generativepartnercrucible' %}
     <tr>
-      <td href="/PartnerCrucible{{ post.url }}">{{ post.title }}</td><td>img src="{{post.thumbnail}}</td>
+      <td href="/PartnerCrucible{{ post.url }}">{{ post.title }}</td><td><img src="{{post.thumbnail}}"/></td>
     </tr>
   {% endif %}
 {% endfor %}
