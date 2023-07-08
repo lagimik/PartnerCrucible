@@ -138,7 +138,7 @@ jobs:
         with:
           image-folder: '.' # This is a Required field & this folder has original images
           new-resolution: '200x200' # This is Required field
-          output-folder: "images" # This is Required field & this folder will be used to store resized images
+          output-folder: "assets/images" # This is Required field & this folder will be used to store resized images
 
       - name: Upload artifact
         id:  upload-artifact
@@ -148,7 +148,7 @@ jobs:
           name: completion-segments
           path: |
             ./*.md
-            ./images/*.png
+            ./assets/images/*.png
 
   newsletter:
     runs-on: ubuntu-latest
@@ -167,23 +167,23 @@ jobs:
         uses: actions/download-artifact@v3
         with:
           name: completion-segments
-          path: completion-segments
+          path: .
 
       - name: List artifacts
         id: list-artifacts
         run: |
-          ls -l completion-segments
+          ls -l .
 
       - name: Combine Summaries
         id: combine-summaries
 
         env:
-          OUTPUTFILE: ${{ steps.run-date.outputs.rundate}}-GenerativePartnerCrucible.md
+          OUTPUTFILE: _posts/${{ steps.run-date.outputs.rundate}}-GenerativePartnerCrucible.md
           RUNDATE: ${{ steps.run-date.outputs.rundate}}
 
         run: |
-          cd completion-segments
-          
+          mkdir _posts
+
           echo "---" >> $OUTPUTFILE
           echo "title: 'Generative Partner Crucible - for the week ending $RUNDATE'" >> $OUTPUTFILE
           echo "date: $RUNDATE" >> $OUTPUTFILE
@@ -201,6 +201,9 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: partnercrucible-stream
-          path: completion-segments/*
+          path: |
+            ./_posts/*.md
+            ./assets/images/*.png
+
     
 
