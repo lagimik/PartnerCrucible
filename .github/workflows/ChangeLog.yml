@@ -192,6 +192,7 @@ jobs:
           echo "date: $RUNDATE" >> $OUTPUTFILE
           echo "flag: GenerativePartnerCrucible" >> $OUTPUTFILE
           echo "layout: generativepartnercrucible" >> $OUTPUTFILE
+          echo "thumbnail: /assets/images/2023-07-07-PowerPlatformSolutionArea.md-image.png" >> $OUTPUTFILE
           echo "---" >> $OUTPUTFILE
 
           for file in *changelog.md; do
