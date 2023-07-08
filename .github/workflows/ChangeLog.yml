@@ -97,11 +97,14 @@ jobs:
         if: ${{ (matrix.changes.change != null) }}
         id: extract-print-summary
         env:
-          FILENAME: ${{ matrix.changes.file}}-changelog.md
+          FILENAME: ${{ matrix.changes.file}}
+          MARKDOWN_FILENAME: ${{ matrix.changes.file}}-changelog.md
           SUMMARY: ${{ fromJson(steps.create-summary.outputs.response).choices[0].message.content }}
         run: |
           echo $SUMMARY
-          echo $SUMMARY >> $FILENAME
+          echo $SUMMARY >> $MARKDOWN_FILENAME
+          echo "Visit the extended Partner Crucible page on this [Topic Page]](https://lagimik.github.io/PartnerCrucible/${FILENAME%.md}) for more partner resources." >> $MARKDOWN_FILENAME
+
 
       - name: Create Image Prompt
         id: create-image-prompt
