@@ -119,7 +119,7 @@ jobs:
           IMAGE_URL: ${{ steps.generate-image.outputs.image }}
           IMAGE_MARKDOWN: '![ ${{ matrix.changes.file}} ]( ${{matrix.changes.file}}-image.png )'
         run: |
-          curl -o `date +"%Y-%m-%`-$IMAGE_FILENAME $IMAGE_URL
+          curl -o `date +"%Y-%m-%"`-$IMAGE_FILENAME $IMAGE_URL
           { echo -n $IMAGE_MARKDOWN; cat $MARKFDOWN_FILENAME; } > $MARKFDOWN_FILENAME.new
           mv $MARKFDOWN_FILENAME{.new,}
           
