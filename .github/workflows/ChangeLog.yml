@@ -76,9 +76,10 @@ jobs:
         id: create-summary
         with:
           prompt: |
-            "Use an professional tone to summarize the changes found below in the Partner Crucible updates to encourage readers to follow the links."
-            "Create a 3 word heading as the title."
-            "Include the links as part of the summary."
+            "Use an professional tone to summarize the changes found below in the Partner Crucible updates to help Microsoft Partners Build their technical practice."
+            "Use the solution areas as a title heading,"
+            "Create a summary of all the changes."
+            "Next, provide a bullet list of links with a short summary.
             "Use markdown as the output format."
             "${{ matrix.changes.change}}"
           max_tokens: 1000
@@ -116,10 +117,21 @@ jobs:
           FILENAME: ${{ matrix.changes.file}}-changelog.md
           IMAGE_FILENAME: ${{ matrix.changes.file}}-image.png
           IMAGE_URL: ${{ steps.generate-image.outputs.image }}
-          IMAGE_MARKDOWN: '![ ${{ matrix.changes.file}} ]( ${{ matrix.changes.file}}-image.png )'
+          IMAGE_MARKDOWN: '![ ${{ matrix.changes.file}} ]( ${{matrix.changes.file}}-image.png )'
         run: |
           curl -o $IMAGE_FILENAME $IMAGE_URL
-          echo $IMAGE_MARKDOWN >> $FILENAME
+          sed -i '1s/^/$IMAGE_MARKDOWN /' $FILENAME
+          
+      
+      - name: Resize Images
+        id: resize-images
+        # You can change the version as well
+        uses: gonzalonaveira/gh-image-resizing@master
+        with:
+          IMAGES_MAX_WIDTH: "200"
+          IMAGES_QUALITY: "90"
+          IMAGES_FORMATS: "png" 
+          IMAGES_DIRECTORIES: "./"
 
       - name: Upload artifact
         id:  upload-artifact
@@ -151,6 +163,14 @@ jobs:
         id: combine-summaries
         run: |
           cd completion-segments
+          
+          echo "---" >> GenerativePartnerCrucible.md
+          echo "title: 'Generative Partner Crucible - for the week ending July 7, 2023' >> GenerativePartnerCrucible.md
+          echo "date: 2023-07-07 >> GenerativePartnerCrucible.md
+          echo "flag: GenerativePartnerCrucible >> GenerativePartnerCrucible.md
+          echo "layout: generativepartnercrucible " >> GenerativePartnerCrucible.md
+          echo "---" >> GenerativePartnerCrucible.md
+
           for file in *.md; do
             echo $file
             cat $file >> GenerativePartnerCrucible.md
