@@ -64,6 +64,13 @@ jobs:
       fail-fast: false
       matrix: ${{ fromJson(needs.scan.outputs.changes) }}
     steps:
+
+      - name: Run Date
+        id: run-date
+        run: |
+          echo "rundate=`date +%Y-%m-%d`" >> $GITHUB_OUTPUT
+
+
       - name: Print Changes
         id: print-changes
         run: |
@@ -114,12 +121,13 @@ jobs:
         if: ${{ (matrix.changes.change != null) }}
         id: download-image
         env:
+          RUNDATE: ${{ steps.run-date.outputs.rundate}}
           MARKFDOWN_FILENAME: ${{ matrix.changes.file}}-changelog.md
-          IMAGE_FILENAME: ${{ matrix.changes.file}}-image.png
+          IMAGE_FILENAME: ${{ steps.run-date.outputs.rundate}}-${{ matrix.changes.file}}-image.png
           IMAGE_URL: ${{ steps.generate-image.outputs.image }}
-          IMAGE_MARKDOWN: '![ ${{ matrix.changes.file}} ]( /PartnerCrucible/assets/images/${{matrix.changes.file}}-image.png )'
+          IMAGE_MARKDOWN: '![ ${{ matrix.changes.file}} ]( /PartnerCrucible/assets/images/${{ steps.run-date.outputs.rundate}}-${{matrix.changes.file}}-image.png )'
         run: |
-          curl -o `date +%Y-%m-%d`-$IMAGE_FILENAME $IMAGE_URL
+          curl -o $IMAGE_FILENAME $IMAGE_URL
           { echo -n $IMAGE_MARKDOWN; cat $MARKFDOWN_FILENAME; } > $MARKFDOWN_FILENAME.new
           mv $MARKFDOWN_FILENAME{.new,}
           
@@ -162,19 +170,23 @@ jobs:
 
       - name: Combine Summaries
         id: combine-summaries
+
+        env:
+          OUTPUTFILE: ${{ steps.run-date.outputs.rundate}}-GenerativePartnerCrucible.md
+
         run: |
           cd completion-segments
           
-          echo "---" >> `date +%Y-%m-%d`-GenerativePartnerCrucible.md
-          echo "title: 'Generative Partner Crucible - for the week ending July 7, 2023'" >> `date +%Y-%m-%d`-GenerativePartnerCrucible.md
-          echo "date: 2023-07-07" >> `date +%Y-%m-%d`-GenerativePartnerCrucible.md
-          echo "flag: GenerativePartnerCrucible" >> `date +%Y-%m-%d`-GenerativePartnerCrucible.md
-          echo "layout: generativepartnercrucible" >> `date +%Y-%m-%d`-GenerativePartnerCrucible.md
-          echo "---" >> `date +%Y-%m-%d`-GenerativePartnerCrucible.md
+          echo "---" >> $OUTPUTFILE
+          echo "title: 'Generative Partner Crucible - for the week ending July 7, 2023'" >> $OUTPUTFILE
+          echo "date: 2023-07-07" >> $OUTPUTFILE
+          echo "flag: GenerativePartnerCrucible" >> $OUTPUTFILE
+          echo "layout: generativepartnercrucible" >> $OUTPUTFILE
+          echo "---" >> $OUTPUTFILE
 
           for file in *changelog.md; do
             echo $file
-            cat $file >> `date +%Y-%m-%d`-GenerativePartnerCrucible.md
+            cat $file >> $OUTPUTFILE
           done
 
       - name: Upload stream
