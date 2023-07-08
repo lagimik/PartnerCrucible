@@ -200,10 +200,40 @@ jobs:
         id:  upload-stream
         uses: actions/upload-artifact@v3
         with:
-          name: partnercrucible-stream
+          name: generative-partner-crucible
           path: |
             ./_posts/*.md
             ./assets/images/*.png
 
+  pull-request:
+    runs-on: ubuntu-latest  # windows-latest | macos-latest
+    name: Pull request
+    needs: newsletter
+
+    
+    steps:
+      - name: Checkout
+        id: checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # OR "2" -> To retrieve the preceding commit.
+
+      - name: Download and Expand Artifact
+        id: download-artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: generative-partner-crucible
+          path: .
+
+      - name: Create Pull Request
+        id: cpr
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Add Generative Partner Crucible for ${{ steps.run-date.outputs.rundate}}"
+          title: "Add Generative Partner Crucible for ${{ steps.run-date.outputs.rundate}}"
+          body: "This is an automated pull request to add the Generative Partner Crucible for ${{ steps.run-date.outputs.rundate}}"
+    
+        
     
 
