@@ -132,15 +132,13 @@ jobs:
           mv $MARKFDOWN_FILENAME{.new,}
           
       
-      - name: Resize Images
-        id: resize-images
-        # You can change the version as well
-        uses: gonzalonaveira/gh-image-resizing@master
+      - name: Image Resizer Action
+        id: image-resizer
+        uses: sharadcodes/img-resizer@v1.1
         with:
-          IMAGES_MAX_WIDTH: "200"
-          IMAGES_QUALITY: "90"
-          IMAGES_FORMATS: "png" 
-          IMAGES_DIRECTORIES: "./"
+          image-folder: '.' # This is a Required field & this folder has original images
+          new-resolution: '200x200' # This is Required field
+          output-folder: "images" # This is Required field & this folder will be used to store resized images
 
       - name: Upload artifact
         id:  upload-artifact
@@ -156,6 +154,12 @@ jobs:
     needs: summary
     
     steps:
+
+      - name: Run Date
+        id: run-date
+        run: |
+         echo "rundate=`date +%Y-%m-%d`" >> $GITHUB_OUTPUT
+
       - name: Download and Expand Artifact
         id: download-artifact
         uses: actions/download-artifact@v3
@@ -173,13 +177,14 @@ jobs:
 
         env:
           OUTPUTFILE: ${{ steps.run-date.outputs.rundate}}-GenerativePartnerCrucible.md
+          RUNDATE: ${{ steps.run-date.outputs.rundate}}
 
         run: |
           cd completion-segments
           
           echo "---" >> $OUTPUTFILE
-          echo "title: 'Generative Partner Crucible - for the week ending July 7, 2023'" >> $OUTPUTFILE
-          echo "date: 2023-07-07" >> $OUTPUTFILE
+          echo "title: 'Generative Partner Crucible - for the week ending $RUNDATE'" >> $OUTPUTFILE
+          echo "date: $RUNDATE" >> $OUTPUTFILE
           echo "flag: GenerativePartnerCrucible" >> $OUTPUTFILE
           echo "layout: generativepartnercrucible" >> $OUTPUTFILE
           echo "---" >> $OUTPUTFILE
