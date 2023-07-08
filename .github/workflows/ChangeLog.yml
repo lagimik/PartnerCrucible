@@ -117,9 +117,9 @@ jobs:
           MARKFDOWN_FILENAME: ${{ matrix.changes.file}}-changelog.md
           IMAGE_FILENAME: ${{ matrix.changes.file}}-image.png
           IMAGE_URL: ${{ steps.generate-image.outputs.image }}
-          IMAGE_MARKDOWN: '![ ${{ matrix.changes.file}} ]( ${{matrix.changes.file}}-image.png )'
+          IMAGE_MARKDOWN: '![ ${{ matrix.changes.file}} ]( /PartnerCrucible/assets/images/${{matrix.changes.file}}-image.png )'
         run: |
-          curl -o `date +"%Y-%m-%"`-$IMAGE_FILENAME $IMAGE_URL
+          curl -o `date +%Y-%m-%d`-$IMAGE_FILENAME $IMAGE_URL
           { echo -n $IMAGE_MARKDOWN; cat $MARKFDOWN_FILENAME; } > $MARKFDOWN_FILENAME.new
           mv $MARKFDOWN_FILENAME{.new,}
           
@@ -165,16 +165,16 @@ jobs:
         run: |
           cd completion-segments
           
-          echo "---" >> `date +"%Y-%m-%`-GenerativePartnerCrucible.md
-          echo "title: 'Generative Partner Crucible - for the week ending July 7, 2023'" >> `date +"%Y-%m-%`-GenerativePartnerCrucible.md
-          echo "date: 2023-07-07" >> `date +"%Y-%m-%`-GenerativePartnerCrucible.md
-          echo "flag: GenerativePartnerCrucible" >> `date +"%Y-%m-%`-GenerativePartnerCrucible.md
-          echo "layout: generativepartnercrucible" >> `date +"%Y-%m-%`-GenerativePartnerCrucible.md
-          echo "---" >> `date +"%Y-%m-%`-GenerativePartnerCrucible.md
+          echo "---" >> `date +%Y-%m-%d`-GenerativePartnerCrucible.md
+          echo "title: 'Generative Partner Crucible - for the week ending July 7, 2023'" >> `date +%Y-%m-%d`-GenerativePartnerCrucible.md
+          echo "date: 2023-07-07" >> `date +%Y-%m-%d`-GenerativePartnerCrucible.md
+          echo "flag: GenerativePartnerCrucible" >> `date +%Y-%m-%d`-GenerativePartnerCrucible.md
+          echo "layout: generativepartnercrucible" >> `date +%Y-%m-%d`-GenerativePartnerCrucible.md
+          echo "---" >> `date +%Y-%m-%d`-GenerativePartnerCrucible.md
 
           for file in *changelog.md; do
             echo $file
-            cat $file >> `date +"%Y-%m-%`-GenerativePartnerCrucible.md
+            cat $file >> `date +%Y-%m-%d`-GenerativePartnerCrucible.md
           done
 
       - name: Upload stream
