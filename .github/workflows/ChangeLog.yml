@@ -122,7 +122,7 @@ jobs:
         id: download-image
         env:
           RUNDATE: ${{ steps.run-date.outputs.rundate}}
-          MARKFDOWN_FILENAME: ${{ steps.run-date.outputs.rundate}}-${{ matrix.changes.file}}-changelog.md
+          MARKFDOWN_FILENAME: ${{ matrix.changes.file}}-changelog.md
           IMAGE_FILENAME: ${{ steps.run-date.outputs.rundate}}-${{ matrix.changes.file}}-image.png
           IMAGE_URL: ${{ steps.generate-image.outputs.image }}
           IMAGE_MARKDOWN: '![ ${{ matrix.changes.file}} ]( /PartnerCrucible/assets/images/${{ steps.run-date.outputs.rundate}}-${{matrix.changes.file}}-image.png )'
