@@ -165,13 +165,13 @@ jobs:
           cd completion-segments
           
           echo "---" >> GenerativePartnerCrucible.md
-          echo "title: 'Generative Partner Crucible - for the week ending July 7, 2023' >> GenerativePartnerCrucible.md
-          echo "date: 2023-07-07 >> GenerativePartnerCrucible.md
-          echo "flag: GenerativePartnerCrucible >> GenerativePartnerCrucible.md
-          echo "layout: generativepartnercrucible " >> GenerativePartnerCrucible.md
+          echo "title: 'Generative Partner Crucible - for the week ending July 7, 2023'" >> GenerativePartnerCrucible.md
+          echo "date: 2023-07-07" >> GenerativePartnerCrucible.md
+          echo "flag: GenerativePartnerCrucible" >> GenerativePartnerCrucible.md
+          echo "layout: generativepartnercrucible" >> GenerativePartnerCrucible.md
           echo "---" >> GenerativePartnerCrucible.md
 
-          for file in *.md; do
+          for file in *changelog.md; do
             echo $file
             cat $file >> GenerativePartnerCrucible.md
           done
