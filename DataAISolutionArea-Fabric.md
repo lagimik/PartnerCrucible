@@ -2,7 +2,7 @@
 
 ## Purpose
 
-![Microsoft Fabric](./Library/crucible-fabric-logo.png)
+![Microsoft Fabric](./Library/crucible-microsoftfabric-overview.png)
 
 A Collection of resources for Microsoft practice building leveraging Fabric. For a view of other solution areas, please see the [Taxonomy](./Taxonomy).
 
