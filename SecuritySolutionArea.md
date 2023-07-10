@@ -125,6 +125,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
+[Support matrices for Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/support-matrix-defender-for-cloud) | Describes Azure services and client operating systems that are supported by Microsoft Defender for Cloud. | Microsoft Learn
 [Microsoft Defender for Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud) |  Will help you work programmatically at scale with Microsoft Defender for Cloud and provide you additional value to secure your environment, some of which has not yet been embedded into the product (yet). | GitHub
 [Become a Microsoft Defender for Cloud Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/become-a-microsoft-defender-for-cloud-ninja/ba-p/1608761) | This blog post has a curation of many Microsoft Defender for Cloud (formerly known as Azure Security Center and Azure Defender) resources, organized in a format that can help you to go from absolutely no knowledge in Microsoft Defender for Cloud, to design and implement different scenarios |  Tech Community 2022
 
