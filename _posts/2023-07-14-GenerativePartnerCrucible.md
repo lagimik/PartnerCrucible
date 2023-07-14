@@ -5,17 +5,43 @@ flag: GenerativePartnerCrucible
 layout: generativepartnercrucible
 thumbnail: /assets/images/2023-07-07-PowerPlatformSolutionArea.md-image.png
 ---
-![ DataAISolutionArea-Fabric.md ]( /PartnerCrucible/assets/images/2023-07-14-DataAISolutionArea-Fabric.md-image.png )## Data AI Solution Area - Fabric### Summary of Changes:- Azure Databricks integration with Microsoft Fabric and OneLake has been announced.- A blog post explaining how Azure Databricks can work with Microsoft Fabric has been published.### Links:- [Using Azure Databricks with Microsoft Fabric and OneLake](https://blog.fabric.microsoft.com/en-us/blog/using-azure-databricks-with-microsoft-fabric-and-onelake?ft=All%3A) - This blog post provides details on the integration of Azure Databricks with Microsoft Fabric and OneLake. It explains how the two systems can work together.Please find the [Fabric overview](./Library/crucible-microsoftfabric-overview.png) image.
-Visit the extended Partner Crucible page on this [Topic Page]](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-Fabric) for more partner resources.
-![ GenerativePartnerCrucible.md ]( /PartnerCrucible/assets/images/2023-07-14-GenerativePartnerCrucible.md-image.png )# Solution Areas## Generative Partner CrucibleThe Generative Partner Crucible is an experiment in generative AI.Summary of Changes:- Updated the thumbnail size of the partner crucible.- Adjusted HTML tags and closed tags properly.- Added a table and thumbnail to the partner crucible.- Updated the copy and layout of the partner crucible.Links:- [Partner Crucible](/PartnerCrucible) - A link to the partner crucible page.- [post.title](/PartnerCrucible{{ post.url }}) - A link to the partner crucible post with the title "post.title".- [post.thumbnail](post.thumbnail) - A link to the partner crucible post thumbnail image.Commit Details:- Commit 179b92424b7c47dccc21576456bc07e568af3d3d - Tweaked the thumbnail size.- Commit 77e4efe49fe6d064ea632833aeabcb6f6e0aa9e7 - Adjusted HTML tags.- Commit 714c27ba7301d6c7b2fa47d6362985a361c9d725 - Closed HTML tag properly.- Commit 19d80185e34acc43c6f0d1953f1bc11c279543a9 - Added a table and thumbnail.- Commit 3850b126ac779212c9f44bb0dd9640930ac0a71f - Updated copy and layout.
-Visit the extended Partner Crucible page on this [Topic Page]](https://lagimik.github.io/PartnerCrucible/GenerativePartnerCrucible) for more partner resources.
-![ ModernWorkSolutionArea.md ]( /PartnerCrucible/assets/images/2023-07-14-ModernWorkSolutionArea.md-image.png )# Modern Work Solution Area## Summary of Changes- Added information about the Microsoft 365 Copilot Partner Community and Microsoft 365 Copilot Explained.## Links- [Join the Microsoft 365 Copilot Partner Community](https://aka.ms/CopilotPartnerCommunity): This community is designed to be a resource for Microsoft Partners interested in Microsoft 365 Copilot. Fill out the form to join.- [Microsoft 365 Copilot Explained](https://youtu.be/B2-8wrF9Okc): Watch this video to get an inside look at how large language models (LLMs) work with your organization's data. Learn about the process and how it ensures data privacy and security with Microsoft 365 Copilot. (Source: Microsoft Mechanics)
+![ DataAISolutionArea-Fabric.md ]( /PartnerCrucible/assets/images/2023-07-14-DataAISolutionArea-Fabric.md-image.png )
+
+# Data AI Solution Area - Fabric
+
+Azure Databricks integration with Microsoft Fabric and OneLake has been announced.- A blog post explaining how Azure Databricks can work with Microsoft Fabric has been published.
+
+- [Using Azure Databricks with Microsoft Fabric and OneLake](https://blog.fabric.microsoft.com/en-us/blog/using-azure-databricks-with-microsoft-fabric-and-onelake?ft=All%3A) - This blog post provides details on the integration of Azure Databricks with Microsoft Fabric and OneLake. It explains how the two systems can work together.
+- [Fabric overview](./Library/crucible-microsoftfabric-overview.png) image.
+
+Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-Fabric) for more partner resources.
+
+
+![ ModernWorkSolutionArea.md ]( /PartnerCrucible/assets/images/2023-07-14-ModernWorkSolutionArea.md-image.png )
+
+# Modern Work Solution Area
+Added information about the Microsoft 365 Copilot Partner Community and Microsoft 365 Copilot Explained.
+- [Join the Microsoft 365 Copilot Partner Community](https://aka.ms/CopilotPartnerCommunity): This community is designed to be a resource for Microsoft Partners interested in Microsoft 365 Copilot. Fill out the form to join.
+- [Microsoft 365 Copilot Explained](https://youtu.be/B2-8wrF9Okc): Watch this video to get an inside look at how large language models (LLMs) work with your organization's data. Learn about the process and how it ensures data privacy and security with Microsoft 365 Copilot. (Source: Microsoft Mechanics)
+
 Visit the extended Partner Crucible page on this [Topic Page]](https://lagimik.github.io/PartnerCrucible/ModernWorkSolutionArea) for more partner resources.
-![ SecuritySolutionArea-Sentinel.md ]( /PartnerCrucible/assets/images/2023-07-14-SecuritySolutionArea-Sentinel.md-image.png )# Partner Crucible Updates - Security Solution Area## Summary:The Partner Crucible has introduced updates in the Security Solution Area to help Microsoft Partners build their technical practice. These updates include changes to the management and configuration of Microsoft Sentinel workspaces.## Changes:- [Centrally manage multiple Microsoft Sentinel workspaces with workspace manager](https://learn.microsoft.com/en-us/azure/sentinel/workspace-manager): This article provides guidance on how to provision and use workspace manager to centrally manage multiple Microsoft Sentinel workspaces. It is useful for global enterprises and Managed Security Services Providers (MSSPs) to operate efficiently at scale.## References:- [Manage Microsoft Sentinel workspaces at scale](https://learn.microsoft.com/en-us/azure/lighthouse/how-to/manage-sentinel-workspaces): This reference provides information on centrally monitoring, managing, and configuring multiple Microsoft Sentinel workspaces. It is beneficial for Managed Security Service Providers (MSSPs) and enterprises with multiple Azure AD tenants.
+
+![ SecuritySolutionArea-Sentinel.md ]( /PartnerCrucible/assets/images/2023-07-14-SecuritySolutionArea-Sentinel.md-image.png )
+# Partner Crucible Updates - Security Solution Area
+
+updates in the Security Solution Area to help Microsoft Partners build their technical practice. These updates include changes to the management and configuration of Microsoft Sentinel workspaces.
+
+- [Centrally manage multiple Microsoft Sentinel workspaces with workspace manager](https://learn.microsoft.com/en-us/azure/sentinel/workspace-manager): This article provides guidance on how to provision and use workspace manager to centrally manage multiple Microsoft Sentinel workspaces. It is useful for global enterprises and Managed Security Services Providers (MSSPs) to operate efficiently at scale.## References:
+- [Manage Microsoft Sentinel workspaces at scale](https://learn.microsoft.com/en-us/azure/lighthouse/how-to/manage-sentinel-workspaces): This reference provides information on centrally monitoring, managing, and configuring multiple Microsoft Sentinel workspaces. It is beneficial for Managed Security Service Providers (MSSPs) and enterprises with multiple Azure AD tenants.
+
 Visit the extended Partner Crucible page on this [Topic Page]](https://lagimik.github.io/PartnerCrucible/SecuritySolutionArea-Sentinel) for more partner resources.
-![ SecuritySolutionArea.md ]( /PartnerCrucible/assets/images/2023-07-14-SecuritySolutionArea.md-image.png )# Security Solution Area## Summary of Changes- Support matrices for Defender for Cloud have been added.- The support matrices describe Azure services and client operating systems that are supported by Microsoft Defender for Cloud.## Links- [Support matrices for Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/support-matrix-defender-for-cloud): Describes Azure services and client operating systems that are supported by Microsoft Defender for Cloud.
+
+![ SecuritySolutionArea.md ]( /PartnerCrucible/assets/images/2023-07-14-SecuritySolutionArea.md-image.png )
+
+# Security Solution Area
+Support matrices for Defender for Cloud have been added.
+
+- [Support matrices for Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/support-matrix-defender-for-cloud): Describes Azure services and client operating systems that are supported by Microsoft Defender for Cloud.
+
 Visit the extended Partner Crucible page on this [Topic Page]](https://lagimik.github.io/PartnerCrucible/SecuritySolutionArea) for more partner resources.
-![ SignaltoNoise.md ]( /PartnerCrucible/assets/images/2023-07-14-SignaltoNoise.md-image.png )# Solution Areas: Partner Crucible Updates## Summary of Changes:- The copy and layout of the Partner Crucible updates have been updated.- The Signal to Noise page has been renamed to "Why?".- The heading "Posts" has been modified.## Links:- [Why?](link) - This page provides information on the importance of the Partner Crucible updates.- [Posts](link) - This page contains posts related to the Partner Crucible updates and building technical practices.
-Visit the extended Partner Crucible page on this [Topic Page]](https://lagimik.github.io/PartnerCrucible/SignaltoNoise) for more partner resources.
-![ TheChangelog.md ]( /PartnerCrucible/assets/images/2023-07-14-TheChangelog.md-image.png )## Solution Areas### Modern Work Solution Area- Added Microsoft 365 Copilot Partner Community and Microsoft 365 Copilot Explained. - [See changes here](./ModernWorkSolutionArea)### Security Solution Area- Added Centrally manage multiple Microsoft Sentinel workspaces with workspace manager. - [See changes here](./SecuritySolutionArea-Sentinel)- Added Support matrices for Defender for Cloud. - [See changes here](./SecuritySolutionArea)### Data AI Solution Area- Added Using Azure Databricks with Microsoft Fabric and OneLake. - [See changes here](./DataAISolutionArea-Fabric)- Added Fabric overview. - [See changes here](./DataAISolutionArea-Fabric)## Summary of Changes- Added Microsoft 365 Copilot Community and explainer, Sentine workspace manager, Fabric with Databricks, and support matrices for Defender for Cloud.[Commit Details](commit 78a77311b3f8ada94865cce0e5c7d052321c37ea%0AAuthor%3A Marc-André Morisset %3Cmamoris@microsoft.com%3E%0ADate%3A Fri Jul 14 15%3A00%3A33 2023 -0400)
-Visit the extended Partner Crucible page on this [Topic Page]](https://lagimik.github.io/PartnerCrucible/TheChangelog) for more partner resources.
+
