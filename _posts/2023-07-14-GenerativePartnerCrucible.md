@@ -12,7 +12,7 @@ thumbnail: /PartnerCrucible/assets/images/2023-07-07-PowerPlatformSolutionArea.m
 Azure Databricks integration with Microsoft Fabric and OneLake has been announced.- A blog post explaining how Azure Databricks can work with Microsoft Fabric has been published.
 
 - [Using Azure Databricks with Microsoft Fabric and OneLake](https://blog.fabric.microsoft.com/en-us/blog/using-azure-databricks-with-microsoft-fabric-and-onelake?ft=All%3A) - This blog post provides details on the integration of Azure Databricks with Microsoft Fabric and OneLake. It explains how the two systems can work together.
-- [Fabric overview](./Library/crucible-microsoftfabric-overview.png) image.
+
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-Fabric) for more partner resources.
 
