@@ -9,6 +9,18 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+### Week ending July 14, 2023
+
+Additions this week include Microsoft 365 Copilot Community and explainer, Sentine workspace manager, Fabric with Databricks, and support matrices for Defender for Cloud 
+
+Date | Change | File
+:--- | :----- | ---:
+2023-07-13 | added Microsoft 365 Copilot Partner Community and Microsoft 365 Copilot Explained | [See changes here](./odernWorkSolutionArea)
+2023-07-11 | added Centrally manage multiple Microsoft Sentinel workspaces with workspace manager | [See changes here](./SecuritySolutionArea-Sentinel)
+2023-07-11 | Using Azure Databricks with Microsoft Fabric and OneLake | [See changes here](./DataAISolutionArea-Fabric)
+2023-07-10 | added Fabric overview | [See changes here](./DataAISolutionArea-Fabric)
+2023-07-10 | added Support matrices for Defender for Cloud | [See changes here](./SecuritySolutionArea)
+
 ### Week ending July 7, 2023
 
 Additions this week include Azure API Manager (APIM) and integration landing zone and monetization guidance, and logging and development guidance for Azure OpenAI.
