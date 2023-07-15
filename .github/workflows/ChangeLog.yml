@@ -102,8 +102,9 @@ jobs:
           SUMMARY: ${{ fromJson(steps.create-summary.outputs.response).choices[0].message.content }}
         run: |
           echo $SUMMARY
+          echo "\n\n" >> $MARKDOWN_FILENAME
           echo $SUMMARY >> $MARKDOWN_FILENAME
-          echo "Visit the extended Partner Crucible page on this [Topic Page]](https://lagimik.github.io/PartnerCrucible/${FILENAME%.md}) for more partner resources." >> $MARKDOWN_FILENAME
+          echo "\n\nVisit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/${FILENAME%.md}) for more partner resources." >> $MARKDOWN_FILENAME
 
 
       - name: Create Image Prompt
@@ -192,7 +193,7 @@ jobs:
           echo "date: $RUNDATE" >> $OUTPUTFILE
           echo "flag: GenerativePartnerCrucible" >> $OUTPUTFILE
           echo "layout: generativepartnercrucible" >> $OUTPUTFILE
-          echo "thumbnail: /assets/images/2023-07-07-PowerPlatformSolutionArea.md-image.png" >> $OUTPUTFILE
+          echo "thumbnail: /PartnerCrucible/assets/images/2023-07-07-PowerPlatformSolutionArea.md-image.png" >> $OUTPUTFILE
           echo "---" >> $OUTPUTFILE
 
           for file in *changelog.md; do
@@ -216,6 +217,12 @@ jobs:
 
     
     steps:
+
+      - name: Run Date
+        id: run-date
+        run: |
+          echo "rundate=`date +%Y-%m-%d`" >> $GITHUB_OUTPUT
+
       - name: Checkout
         id: checkout
         uses: actions/checkout@v3
