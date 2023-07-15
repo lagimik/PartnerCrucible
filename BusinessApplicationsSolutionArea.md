@@ -73,6 +73,13 @@ Source | Description | Notes
 [AI Innovations](https://dynamicspartners.transform.microsoft.com/cloud-conversations?tab=tab-custom3) | Generative AI in Dynamics  including Power Dynamics 365 Copilot, Copilot in ERP, Copilot in Customer Experience| Transform
 [Dynamics Copilot Pitch Deck](https://dynamicspartners.transform.microsoft.com/download/protected?assetname=protectedassets%2FDynamics%20365%20Copilot%20pitch%20deck.pptx&download=1&protected=1&src=https:%2F%2Fdynamicspartners.transform.microsoft.com%2Fcloud-conversations) | Partner Pitch Deck - History, overview, and deep dive into fusing Dynamics 365 with Generative AI| Transform
 
+
+## Field Service
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[Intelligent Field Service Solution Accelerators](https://github.com/microsoft/Intelligent-Field-Service-Solution-Accelerator) | This GitHub repository contains multiple solution accelerators. Each solution accelerator focuses on one area, such anomaly detection, predictive maintenance, or intelligence derived from IoT alert. | GitHub
+
 ## Developers
 
 Source | Description | Notes
