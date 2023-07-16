@@ -25,8 +25,11 @@ Source | Description | Notes
 
 ## Responsible AI
 
+Responsible AI is an approach to assessing, developing, and deploying AI systems in a safe, trustworthy, and ethical manner, and take responsible decisions and actions.
+
 Source | Description | Notes
 :----- | :-----  | :-----
+[Responsible AI Toolbox](https://responsibleaitoolbox.ai/) | Responsible AI Toolbox is a suite of tools providing a collection of model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems. | ResponsibleAIToolbox.ai
 [Microsoft’s AI Customer Commitments](https://blogs.microsoft.com/blog/2023/06/08/announcing-microsofts-ai-customer-commitments/) | AI Customer Commitments | Microsoft Blog
 [Governing AI: A Blueprint for the Future](https://aka.ms/May25Whitepaper) | A five-point blueprint for the public governance of A| Microsoft
 [Responsible AI Resources](https://www.microsoft.com/en-us/ai/responsible-ai-resources) | Explore resources designed to help you responsibly use AI at every stage of innovation - from concept to development, deployment, and beyond.|
