@@ -85,6 +85,15 @@ Source | Description | Notes
 [Azure Governance Visualizer](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting) | from the collected data AzGovViz provides visibility on your HierarchyMap, creates a TenantSummary, creates DefinitionInsights and builds granular ScopeInsights on Management Groups and Subscriptions. The technical requirements as well as the required permissions are minimal. | @JulianHayward Github
 [AzAdvertizer](https://www.azadvertizer.net/index.html)| AzAdvertizer helps you to keep up with the pace by providing overview and insights on new releases and changes/updates for Azure Governance capabilities such as Azure Policy's policy definitions, initiatives (set definitions), aliases, security & regulatory compliance controls and Azure RBAC's role definitions and resource provider operations. |
 
+
+## Azure Well-Architected Framework
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[Azure Well-Architected Review](https://learn.microsoft.com/en-us/assessments/azure-architecture-review) | Examine your workload through the lenses of reliability, cost management, operational excellence, security and performance efficiency.| Microsoft Learn
+[Azure Advisor documentation](https://learn.microsoft.com/en-us/azure/advisor/) | Azure Advisor scans your Azure configuration and recommends changes to optimize deployments, increase security, and save you money. | Microsoft Learn
+[Browse Azure Architectures](https://learn.microsoft.com/en-us/azure/architecture/browse/) | Architecture diagrams and technology descriptions for reference architectures, real world examples of cloud architectures, and solution ideas for common workloads on Azure | Microsoft Learn
+
 ## Azure Landing Zones (ALZ)
 
 Source | Description | Notes
