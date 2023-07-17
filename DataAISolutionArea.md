@@ -43,12 +43,6 @@ Source | Description | Notes
 ## Azure OpenAI
 This section has been regrouped here: [Data & AI > Azure OpenAI](./DataAISolutionArea-AzureOpenAI)
 
-## CosmosDB
-
-Source | Description | Notes
-:----- | :-----  | :-----
-[Azure Cosmos DB Developer](https://developer.azurecosmosdb.com/) | Links to architecture, tools, community, blog, conference, and Live TV |
-
 
 ## Synapse
 

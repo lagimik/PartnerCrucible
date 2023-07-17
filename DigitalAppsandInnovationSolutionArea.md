@@ -9,9 +9,7 @@ A Collection of resources for Microsoft practice building in the Digital App and
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
-## References
-
-### Industry
+## Industry
 
 Source | Description | Notes
 :----- | :---------- | :----
@@ -22,7 +20,7 @@ Source | Description | Notes
 [State of DevOps Report](https://www.puppet.com/resources/state-of-platform-engineering) | Platform Engineering is the DevOps Differentiator — Learn Why| Puppet 2023
 [Enterprise DevOps Report](https://clouddamcdnprodep.azureedge.net/gdc/gdcR61DoH/original) | n April of 2020, McKinsey, looking to find tangible ways to evaluate how key business metrics were improved through software development innovation, created the concept of the Developer Velocity Index (DVI)| 2021 Microsoft
 
-### Tools and Practices
+## Tools and Practices
 
 Source | Description | Notes
 :----- | :---------- | :----
@@ -33,7 +31,7 @@ Source | Description | Notes
 [Introducing Azure Deployment Environments](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/introducing-azure-deployment-environments/ba-p/3412095) | Azure Deployment Environments is a managed service that enables dev teams to quickly spin up app infrastructure with project-based templates to establish consistency and best practices while maximizing security, compliance, and cost-efficiency. | Tech Community
 [Microsoft Dev Box and Azure Deployment Environments for .NET Developers](https://www.bing.com/videos/search?q=Microsoft+Dev+Box+and+Azure+Deployment+Environments+for+.NET+Developer&&view=detail&mid=8F6E9E26681C552EDC5F8F6E9E26681C552EDC5F&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3DMicrosoft%2BDev%2BBox%2Band%2BAzure%2BDeployment%2BEnvironments%2Bfor%2B.NET%2BDeveloper%26FORM%3DHDRSC6) | Microsoft Dev Box and Azure Deployment Environments for .NET Developers | YouTube
 
-### Developers
+## Developers
 
 Source | Description | Notes
 :----- | :---------- | :----
@@ -43,14 +41,14 @@ Source | Description | Notes
 [Azure skills navigator - the new developer's "Guide to the Cloud"](https://github.com/MicrosoftDocs/devrampup) | This guide is looking to take you from "zero to hero". Jump into your learning journey where you are and learn to take your code to the cloud. | Github
 [Azure Skills Navigator - Developers](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-skills-navigator-for-developers/Azure%20Skills%20Navigator%20-%20Developer%20Edition%20-%20Microsoft%202022.pdf) | A guide to build your skills around knowing how to architect and deploy apps in the Cloud and how to maintain and instrument those apps once deployed. Our guide provides an overview of key concepts across Java, .NET, Node.js, and Python, crucial topics to establishing a strong foundation on Microsoft Azure. | Azure Skills Navigator
 
-### Hackathons
+## Hackathons
 
 Source | Description | Notes
 :----- | :---------- | :----
 [WhatTheHack on GitHub](https://github.com/microsoft/WhatTheHack) | Community driven openhack resources  | ,,,
 
 
-### GitHub
+## GitHub
 
 Source | Description | Notes
 :----- | :---------- | :----
@@ -59,7 +57,7 @@ Source | Description | Notes
 [GitHub Advanced Security](https://learn.microsoft.com/en-us/users/githubtraining/collections/rqymc6yw8q5rey) |  The following modules will walk you through GitHub's advanced security features and provide you with the skills needed to recognize, apply, and evaluate these features within your own GitHub environment. | Microsoft Learn
 [Microsoft Azure Immersion Workshop: DevOps with GitHub (MAIW)](https://partner.microsoft.com/en-us/asset/collection/aiw-devops-with-github#/) |  The workshop will go deep on the tooling and process required to implement a modern DevOps approach to improve your productivity and developer velocity. | Partner
 
-### DevOps
+## DevOps
 
 Source | Description | Notes
 :----- | :---------- | :----
@@ -80,21 +78,30 @@ Source | Description | Notes
 [Detect exposed secrets in code](https://learn.microsoft.com/en-us/azure/defender-for-cloud/detect-exposed-secrets) | Defender for Cloud offers a solution by using secret scanning to detect credentials, secrets, certificates, and other sensitive content in your source code and your build output.  | Microsoft Learn
 [Enable pull request annotations in GitHub and Azure DevOps](https://learn.microsoft.com/en-us/azure/defender-for-cloud/enable-pull-request-annotations) | With Microsoft Defender for Cloud, you can configure PR annotations in Azure DevOps. You can get PR annotations in GitHub if you're a GitHub Advanced Security customer.|  Microsoft Learn
 
-### API First
+## API First
 
+Source | Description | Notes
+:----- | :-----  | :-----
 [How API Management supports monetization](https://learn.microsoft.com/en-us/azure/api-management/monetization-support) | In this document, we focus on API Management features that enable the implementation of your monetization strategy| Microsoft Learn
 [Marketplace metered billing APIs](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-metering-service-apis) | The metered billing APIs should be used when the publisher creates custom metering dimensions for an offer to be published in Partner Center. Integration with the metered billing APIs is required for any purchased offer that has one or more plans with custom dimensions to emit usage events. | Microsoft Learn
 [Build REST APIs in three steps with API Management and Azure Functions](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-rest-apis-in-three-steps-with-api-management-and-azure/ba-p/1869627) |  A design-first approach allows you to  design your API in API Management and export it to an OpenAPI specification file, which could be used to bring organizational alignment and serve as a guidance for implementing backend services that support the API logic and client applications that consume the API. | Tech Community
 [Generate a new function app from an OpenAPI specification](https://azure.microsoft.com/en-au/updates/generate-a-new-function-app-from-an-openapi-specification/) | You can now generate function apps by importing an OpenAPI specification via the Azure Functions VS Code extension or command line. This new capability automatically generates all the necessary functions for your API, pre-configured based on the OpenAPI specification. Once generated, you add the business logic to each function/route as necessary.| Azure updates
 [Export API definition to Postman for API testing and monitoring](https://learn.microsoft.com/en-us/azure/api-management/export-api-postman) | Export an API definition from API Management as a Postman collection so that you can use Postman's tools to design, document, test, monitor, and collaborate on APIs.| Microsoft Learn
 
-### Containers
+## CosmosDB
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Azure Cosmos DB Partner Tech Connect](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR9aWEKTdeoxPpcB2ORTA2_1UNlU4NU1PWUJaTzFHRkwxVEdXUTQ2UkNOUi4u) | Reserve your spot for Azure Cosmos DB Partner Tech Connect - a community dedicated to partners | Form
+[Azure Cosmos DB Developer](https://developer.azurecosmosdb.com/) | Links to architecture, tools, community, blog, conference, and Live TV |
+
+## Containers
 
 Source | Description | Notes
 :----- | :---------- | :----
 [Container Service Options and Guidance in Azure](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/container-service-options-and-guidance-in-azure/ba-p/3732666) | The main scope of this blog is to evaluate and understand the capabilities and limitations of Azure container services to help you choose the optimal platform for your container deployments. | Tech Community
 
-### Java
+## Java
 
 Source | Description | Notes
 :----- | :---------- | :----
@@ -104,7 +111,7 @@ Source | Description | Notes
 [Code, deploy, and scale Java your way](https://developer.microsoft.com/en-us/java) | Microsoft supports your workload with abundant choices, whether you're working on a Java app, app server, or framework.|
 [Microsoft is committed to the success of Java developers](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/microsoft-is-committed-to-the-success-of-java-developers/ba-p/3612306) | Blog post by Julia Liuson | August 2022
 
-### IoT
+## IoT
 
 Source | Description | Notes
 :----- | :---------- | :----
