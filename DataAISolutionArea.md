@@ -20,7 +20,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[FY23 Data & AI Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy23-data-and-ai-azure-playbook-1.pdf) | Data & AI Practice playbook including partner programs and sales| Partner
+[AI Transformation Partner Playbook](https://aka.ms/aipartnerplaybook) | No matter where you are in your AI transformation journey, the AI Transformation Partner Playbook will empower you to accelerate innovation and grow your AI practice. | Partner
 [Azure Partner Enablement Guide](https://assetsprod.microsoft.com/mpn/en-us/azure-partner-enablement-guide.pdf)| Enablement guide for Azure partners... | updated ~monthly
 [Azure Data & AI Partner Sales Acceleration Program (PSAP)](https://partner.microsoft.com/en-us/training/assets/collection/azure-data-and-ai-partner-sales-acceleration-program-psap#/) | The Azure Data & AI Partner Sales Acceleration Program (PSAP) provides access to sales assets and video guidance on how best to use these in enterprise sales engagements. | Microsoft Partner
 [The data transformation game plan](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW11It9) |  Data democratization empowers employees at all levels with the necessary insights to expedite decision-making, allowing organizations to gain competitive advantage. | Microsoft
