@@ -66,6 +66,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Azure Depth Workshops](https://vshow.on24.com/vshow/FY24_AZDepth/registration/23172) | Looking to strengthen your skills with intermediate to advanced technical training? View content to deepen your skills through instructor-led training with technical experts. Uncover new insights, learn about architecture and implementation considerations, and find innovative ways to support your customer business challenges. | On-demand
 [Learning Pathways](https://learning-pathways.co.uk/) | A collection of self-guided learning journeys to help you with your ongoing professional development. | @MrPaulGriffiths
 [Detective Kusto](https://detective.kusto.io/) | Interactive Kusto Cases (KQL) | Detective Kusto
 [Azure Skills Navigator for System Administrators](https://aka.ms/SysAdminGuide) | A guide for deepening your knowledge of fundamental concepts of cloud computing and Azure core infrastructure services, management, monitoring, security, and compliance. | Azure Skills Navigator
