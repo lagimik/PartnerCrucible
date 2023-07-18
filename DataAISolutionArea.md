@@ -20,6 +20,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Microsoft AI Transformation for Partners](https://partner.microsoft.com/en-CA/explore/artificial-intelligence?wt.mc_id=6hlk8n4vgf) | Includes platforms, products, resources, tools, and offerings designed to help you deliver high-performing, customer-centric AI solutions, explains how responsible AI can benefit society with our legal and regulatory blueprint for the future, and in-depth understanding of Azure OpenAI Service and further guidance for partners| Partner
 [AI Transformation Partner Playbook](https://aka.ms/aipartnerplaybook) | No matter where you are in your AI transformation journey, the AI Transformation Partner Playbook will empower you to accelerate innovation and grow your AI practice. | Partner
 [Era of AI](https://partner.microsoft.com/en-us/asset/collection/era-of-ai#/) | With the Era of AI campaign, you can introduce your customers to the ways Microsoft integrates AI to help organizations become more productive, develop creative solutions, and drive exceptional value. As a partner, you’ll find the right information and guidance to become AI-savvy. | Partner
 [Azure Partner Enablement Guide](https://assetsprod.microsoft.com/mpn/en-us/azure-partner-enablement-guide.pdf)| Enablement guide for Azure partners... | updated ~monthly
