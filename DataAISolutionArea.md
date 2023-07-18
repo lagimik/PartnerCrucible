@@ -21,6 +21,7 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :-----  | :-----
 [AI Transformation Partner Playbook](https://aka.ms/aipartnerplaybook) | No matter where you are in your AI transformation journey, the AI Transformation Partner Playbook will empower you to accelerate innovation and grow your AI practice. | Partner
+[Era of AI](https://partner.microsoft.com/en-us/asset/collection/era-of-ai#/) | With the Era of AI campaign, you can introduce your customers to the ways Microsoft integrates AI to help organizations become more productive, develop creative solutions, and drive exceptional value. As a partner, you’ll find the right information and guidance to become AI-savvy. | Partner
 [Azure Partner Enablement Guide](https://assetsprod.microsoft.com/mpn/en-us/azure-partner-enablement-guide.pdf)| Enablement guide for Azure partners... | updated ~monthly
 [Azure Data & AI Partner Sales Acceleration Program (PSAP)](https://partner.microsoft.com/en-us/training/assets/collection/azure-data-and-ai-partner-sales-acceleration-program-psap#/) | The Azure Data & AI Partner Sales Acceleration Program (PSAP) provides access to sales assets and video guidance on how best to use these in enterprise sales engagements. | Microsoft Partner
 [The data transformation game plan](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW11It9) |  Data democratization empowers employees at all levels with the necessary insights to expedite decision-making, allowing organizations to gain competitive advantage. | Microsoft
