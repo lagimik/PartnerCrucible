@@ -32,6 +32,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Digital Marketing Content - On Demand](https://dmc.partner.microsoft.com/onboarding) | Digital Marketing Content OnDemand provides go-to-market content in fresh weekly campaigns at no cost to Microsoft partners. It not only enables partners to build and optimize their digital marketing strategy, but to capture and close leads through consistent online engagement. Utilize this resource to unlock expertise that can drive customer engagement and elevate your business. Please take the time to connect your social, email and blog accounts on the next series of screens. This will save you time later and improve your overall user experience. | DMC
 [Microsoft 365 & Security for Partners](https://cloudpartners.transform.microsoft.com)|Partner *Transform Portal* for M365 and Security|Accessible based on MCPP membership and competencies or solution partner standing)
 [Microsoft Dynamics 365 Partner portal](https://dynamicspartners.transform.microsoft.com)|Partner *Transform Portal* for Business Apps|Accessible based on MCPP membership and competencies or solution partner standing
 [Microsoft Power Platform Partner Portal](https://powerplatformpartners.transform.microsoft.com)|Partner *Transform Portal* for Power Platform|Accessible based on MCPP membership and competencies or solution partner standing
