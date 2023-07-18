@@ -82,6 +82,12 @@ Source | Description | Notes
 :----- | :---------- | :----
 [Azure Network Security Ninja Training](https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-network-security-ninja-training/ba-p/2356101) | In this blog post, we will walk you through basic to advanced scenarios for Azure network security. Ready to become an Azure NetSec ninja? Dive right in! | Tech Community 2022
 
+## Copilot
+
+Source | Description | Notes
+:----- | :---------- | :----
+[Microsoft Security Copilot - Partner Interest Form](http://aka.ms/securitycopilotpartner) | Learn more about how to engage customers and take advantage of Security Copilot. By signing up, you will receive updates and communications as they become available. | Form
+
 ## Sentinel
 
 * See the [Sentinel page](../PartnerCrucible/SecuritySolutionArea-Sentinel)
