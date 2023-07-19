@@ -111,7 +111,7 @@ jobs:
         id: create-image-prompt
         env:
           FILENAME: ${{ matrix.changes.file}}-changelog.md
-        run:
+        run: |
           echo "prompt=an abstract modern urban landscape, without words, inspired by the sentence - `head -c 64 $FILENAME`" >> $GITHUB_OUTPUT
 
       - name: Generate Image
