@@ -26,6 +26,7 @@ Source | Description | Notes
 [Azure Partner Enablement Guide](https://assetsprod.microsoft.com/mpn/en-us/azure-partner-enablement-guide.pdf)| Enablement guide for Azure partners... | updated ~monthly
 [Azure Data & AI Partner Sales Acceleration Program (PSAP)](https://partner.microsoft.com/en-us/training/assets/collection/azure-data-and-ai-partner-sales-acceleration-program-psap#/) | The Azure Data & AI Partner Sales Acceleration Program (PSAP) provides access to sales assets and video guidance on how best to use these in enterprise sales engagements. | Microsoft Partner
 [The data transformation game plan](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW11It9) |  Data democratization empowers employees at all levels with the necessary insights to expedite decision-making, allowing organizations to gain competitive advantage. | Microsoft
+[AI Platform Insiders Research Panel](https://ux.microsoft.com/Panel/AIPX3P?utm_campaign=Developers&utm_source=Build2023&utm_medium=Event) | Shape the future of machine learning platforms with Microsoft. Your insights and experiences will help us shape the future of AI Platform. Thank you for considering being a part of our research journey. | Microsoft UX
 
 ## Learning Journeys
 
