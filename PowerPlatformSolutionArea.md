@@ -59,6 +59,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Microsoft Power Platform Conference](https://powerplatformconf.com/#!/) | Be inspired by Microsoft senior thought leaders, the product experts, and engineers behind the Power Platform. You’ll also learn from Microsoft MVPs who are dedicated to bridging the gap between humanity and technology. MPPC is the perfect place to connect with folks from around the world who are eager to share their insights and knowledge on how the Power Platform & Dynamics 365 can transform your business. | 
 [Low Code Development & Fusion Teams](https://microsoft.github.io/Low-Code/) | From Power Platform To Cloud Integrations and Developer Tools! | GitHub
 [Power Platform Adoption](https://adoption.microsoft.com/en-us/powerplatform/) | Microsoft Power Platform adoption best practices and workbook | Microsoft Adoption
 [Tech Talks: Power Platform Partner Call Series](https://www.microsoftpartnercommunity.com/t5/Tech-Talks-Power-Platform/bd-p/PowerPlatformTechTalks) | Hear technical & program updates direct from MSFT engineering | ...
@@ -73,7 +74,7 @@ Source | Description | Notes
 :----- | :---------- | :-----
 [AI Innovations](https://dynamicspartners.transform.microsoft.com/cloud-conversations?tab=tab-custom3) | Generative AI in Power Platform including Power Apps, Power Virtual Agents, Power Pages| Transform
 [Power Platform Generative AI](https://dynamicspartners.transform.microsoft.com/download/protected?assetname=protectedassets%2FPower%20Platform%20generative%20pitch%20deck.pptx&download=1&protected=1&src=https:%2F%2Fdynamicspartners.transform.microsoft.com%2Fcloud-conversations) | Partner Pitch Deck - History, overview, and deep dive into fusing Power Platform with Generative AI | Transform
-
+[Power Platform is leading a new era of AI-generated low-code app development](https://cloudblogs.microsoft.com/powerplatform/2023/03/16/power-platform-is-leading-a-new-era-of-ai-generated-low-code-app-development/) | Microsoft Power Platform is announcing Copilot in Power Apps, Power Automate, and Power Virtual Agents further democratizing development and enabling even more people to create innovative solutions through natural language. | Blog
 ## Asset Lifecyle Management
 
 ALM techniques to be applied to move Power Platform solution to different environments.
@@ -102,9 +103,12 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Microsoft Power Automate Community](https://powerusers.microsoft.com/t5/Microsoft-Power-Automate/ct-p/MPACommunity ) | Connect with peers, share ideas, and learn from experts | Community
 [Microsoft Learn for Power Automate](https://learn.microsoft.com/en-us/training/powerplatform/power-automate) | Learn how to free your organization from mundane tasks with automated flows and robotic process automation (RPA).| Microsoft Learn
 [Flow-in-a-Day](https://aka.ms/flowinaday) | Hands-on labs. This is the Power Automate in a day v8 material | Github
 [RPA-in-day](https://aka.ms/RPAinaday) | Hands-on labs. | Zip archive download
+[Overview of process mining](https://learn.microsoft.com/en-us/power-automate/process-mining-overview) | Publicly generally available on August 1, 2023 - Process mining is a research area and technology that helps businesses understand their real processes, how they're operated, and identify opportunities for improvement, automation, and digitization | Microsoft Learn
+
 
 ## Power Virtual Agents (PVA)
 
