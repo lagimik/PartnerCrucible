@@ -2,22 +2,49 @@
 
 ![Practice Building](./Library/practicebuilding.png)
 
-## Purpose
+# Purpose
 
 A collection of partner resources related to practice building from profitability and growth, to skilling journeys, to ensuring recognition for your successes.
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
-## Industry References
+# Industry References
 
 Source | Description | Notes
 :----- | :-----  | :-----
 [Microsoft Ecosystem Value: Partner Paths to Profitability and Growth](https://assetsprod.microsoft.com/en-us/idc-report-microsoft-ecosystem-value.pdf) | IDC conducted a study of the Microsoft partner ecosystem globally to understand the various pathways to success and the economic value that can be achieved from engaging with Microsoft and its technology | IDC
 
-## Partner Practice Building References
+# Partner Practice Building References
+
+Pillar | Description | Why? | Next Step
+-----: | :---------- | :----- | :-----
+**Microsoft Cloud Partner Program (MCPP) membership** | [Partner Center](https://partner.microsoft.com/en-us/dashboard) is the main partner portal provides you access to the tools you need to get work done.| Membership includes [MCPP Benefits](https://learn.microsoft.com/en-us/partner-center/mpn-find-benefits#mpn-benefits) and [Investment and incentives](http://aka.ms/partnerincentives) | - [Become a partner](https://partner.microsoft.com/en-ca/membership) <br> - Obtain access to [Partner Center](https://partner.microsoft.com/en-us/dashboard), or [raise an issue](https://partner.microsoft.com/en-US/support/?stage=1) <br> - Ensure MCPP hierarchy of different locations or entities is correct so that all activity is recognized. <br> - Open a [Partner Center support request](https://partner.microsoft.com/en-US/support/?stage=1) to resolve problems.
+**Solution Partner Designation** | Eligibility for Solutions Partner designations is based on your [partner capability score](https://learn.microsoft.com/en-us/partner-center/partner-capability-score). |  Download the [Solutions Partner Benefits Guide](https://aka.ms/Solutionspartner.Benefits) | - Review your **Partner Capability Score (PCS)** in Partner Center. <br> - Use the [Partner Capability Score Simulator](https://docs.microsoft.com/en-us/partner-center/solutions-partner-insights#score-simulator)<br> - Target **Solution Partner Designations** that are most relevant to your organisation to unlock incentives. <br> - [Link employee Microsoft Certification profile IDs with Partner Center](https://learn.microsoft.com/en-us/partner-center/ms-learn-associate) to be recognized for skilling achievements. <br> - [Associate your customer deployments with Partner Center](https://aka.ms/Solutionspartner.Associationsplaybook) to be recognized for your performance and customer growth achievements.
+**Specialisation** | Microsoft specializations build on the related **Solutions Partner designations** in one of the [specialization areas](https://partner.microsoft.com/en-CA/partnership/specialization) |  See [Specialization Benefits Guide](https://aka.ms/Solutionspartner.Benefits) | Use *Partner Center* to [apply for and check the status of specializations](https://learn.microsoft.com/en-us/partner-center/advanced-specializations-apply)
+**Marketplace offer** | The Microsoft commercial marketplace is a catalog of solutions from our independent software vendor (ISV) partners and offers from Solution Integrators (SIs).| Accelerate your business in partnership with Microsoft, and to connect Microsoft customers with the best solutions that our partner ecosystem offers.| [Introduction to Listing Options](https://learn.microsoft.com/en-us/azure/marketplace/determine-your-listing-type)
+
+# Partner Practice Incentive Reinvestment
+
+Microsoft partner benefits, investments, and incentive programs are designed to reward partner when they delivery strategic solutions to exception results for customers.
+
+With the rate technology evolution the only way to stay ahead is to
+**reinvest** into your teams. The following are a set of Microsoft partnership incentive reinvestment ideas, and examples where available.
+
+Idea | Description 
+:----- | :-----  
+Marketing | Amplify **go-to-market activities** around new **partner designations, specialisations, or marketplace offers**
+Innovation / R&D Labs | Accelerate the development of intellectual property by funding **innovation labs**  
+Skilling | Invest in talent and drive skilling/certification through **learning labs and give-aways** (ie. Surface, Xbox etc.) 
+Internships | Investing in building workforce of the future by funding **student internships** 
+Customer Investment Fund | Support for **strategic customer deliveries** through a central pool of project funding 
+
+# Partner Practice Skilling and Certifications
+
+Source | Description | Notes
+:----- | :-----  | :-----
 [Enablement Guides](http://aka.ms/enablementguides)| These technical and sales guides cover Microsoft solution areas across Modern Work; Microsoft Dynamics 365; Microsoft Power Platform; Microsoft Azure; and Security, Compliance, and Identity. | Microsoft
 
-## Partner to Partner (P2P)
+# Partner to Partner (P2P)
 
 Source | Description | Notes
 :----- | :-----  | :-----
@@ -28,14 +55,14 @@ Source | Description | Notes
 [Independent Software Vendor (ISV) to Partner private offers FAQ](https://learn.microsoft.com/en-us/azure/marketplace/isv-csp-faq)| This article addresses frequently asked questions about Independent Software Vendor (ISV) to Partner private offers in Partner Center.| MS Learn
 
 
-## Partner Association
+# Partner Association
 
 Source | Description | Notes
 :----- | :-----  | :-----
 [Grow your partner capability score with partner associations](https://blogs.partner.microsoft.com/mpn/grow-your-partner-capability-score-with-partner-associations/) | Partner associations are how you give Microsoft visibility into the work partners are doing. | Blog
 [Partner Association Playbook](https://aka.ms/Solutionspartner.Associationsplaybook) | Associations are the sole mechanism by which customer success, performance, and skilling category points are acknowledged and calculated towards achieving solutions partner designations). | Presentation
 
-### Association Options
+## Association Options
 
 ![Partner Associations](./Library/partnerassociations.png)
 
@@ -48,21 +75,5 @@ Association Type | Description | Guidance
 **Digital Partner of Record (DPOR)**| Digital Partner of Record (DPOR) is an online capability for customers to attach a servicing partner to their Microsoft cloud subscription. To recognize the partner for that work, the customer adds the partner’s MCPP ID to the subscription via the customer’s service portal. **DPOR applies to Microsoft 365, Dynamics 365, and Azure.** | [Linking and Partner ID with DPOR](https://docs.microsoft.com/en-us/partner-center/link-partner-id-for-azure-performance-pal-dpor)
 **Cloud Solution Provider (CSP)** | When a partner sells through the Cloud Solution Provider program, the CSP association type is automatically applied. |
 
-## Partner incentive reinvestment
-
-Microsoft partner benefits, investments, and incentive programs are designed to reward partner when they delivery strategic solutions to exception results for customers.
-* For a full view of partner **benefits** see [Specialization Benefits Guide](https://aka.ms/Solutionspartner.Benefits)
-* For a full view of partner **incentives and investments** sign-in to [Investment and incentives](http://aka.ms/partnerincentives)
-
-With the rate technology evolution the only way to stay ahead is to
-**reinvest** into your teams. The following are a set of Microsoft partnership incentive reinvestment ideas, and examples where available.
-
-Idea | Description | Samples Sources
-:----- | :-----  | :-----
-Marketing | Amplify **go-to-market activities** around new **partner designations, specialisations, or marketplace offers**| *Revenue Incentives:* <br> - Modern work & security: 0.75% - 12% <br> - Core: 0.45% - 1.25%<br>  - Azure Consumed Revenue: 1%
-Innovation / R&D Labs | Accelerate the development of intellectual property by funding **innovation labs**  |*Benefits:*<br> - Azure Bulk Credits (Dev/Test) <br> - GitHub Enterprise Subscription <br> - Visual Studio Enterprise subscription <br>- Dynamics 365 Partner Sandbox <br> -Microsoft 365 E5 <br>- Viva
-Skilling | Invest in talent and drive skilling/certification through **learning labs and give-aways** (ie. Surface, Xbox etc.) | *Benefits:*<br> - Azure Bulk Credits (Dev/Test) <br> - GitHub Enterprise Subscription <br> - Visual Studio Enterprise subscription <br>- Dynamics 365 Partner Sandbox <br> -Microsoft 365 E5 <br>- Viva<br><br>*Revenue Incentives:* <br> - Modern work & security: 0.75% - 12% <br> - Core: 0.45% - 1.25%<br>  - Azure Consumed Revenue: 1%
-Internships | Investing in building workforce of the future by funding **student internships** | *Benefits:*<br> -Microsoft 365 E5<br><br> *Revenue Incentives:* <br> - Modern work & security: 0.75% - 12% <br> - Core: 0.45% - 1.25%<br>  - Azure Consumed Revenue: 1%
-Customer Investment Fund | Support for **strategic customer deliveries** through a central pool of project funding |*Revenue Incentives:* <br> - Modern work & security: 0.75% - 12% <br> - Core: 0.45% - 1.25%<br>  - Azure Consumed Revenue: 1%
 
 
