@@ -20,6 +20,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Microsoft Marketplace - Multiparty Private Offers (MPO)](https://www.youtube.com/watch?v=aAD_MhnYGOs) | Find out how Microsoft is making investments to help partners come together and sell custom solutions on the commercial marketplace with multiparty private offers (MPO) | YouTube
 [Marketplace Summit](https://marketplacesummit.microsoft.com/)| Session recordings are available for you to watch, learn and enjoy! | November 2022
 [Marketplace Office Hours](https://microsoftcloudpartner.eventbuilder.com/MarketplaceOverviewandQAforPartners) | Explore Live and On-Demand Marketplace Office Hours webinars sessions on business and technical topics; providing publishers with the information and resources to successfully publish their solutions to the Commercial Marketplace | Marketplace 
 [Mastering the Marketplace](https://microsoft.github.io/) | Mastering the Marketplace is an on-demand learning library for building transactable offers on the Microsoft commercial marketplace. The library contains self-paced videos, hands-on labs, and sample code designed to help you get your offers onto the marketplace in less time and with more understanding. | Github
