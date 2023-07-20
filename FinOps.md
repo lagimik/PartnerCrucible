@@ -19,6 +19,7 @@ Source | Description | Notes
 [FinOps Foundation](https://www.finops.org/about/) | The FinOps Foundation is a program of the The Linux Foundation (alongside organizations like Cloud Native Computing Foundation) dedicated to advancing people who practice the discipline of cloud financial management through best practices, education and standards. | FinOps Foundation
 [FinOps for Azure](https://info.microsoft.com/ww-ondemand-implement-finops-for-azure.html?lcid=en-us) | Watch this webinar to learn about FinOps principles as well as the Microsoft Azure solutions, offers and tools that can help you manage your cloud environment in a financially effective way. |...
 [Implement FinOps and Azure](https://on24static.akamaized.net/event/33/08/49/2/rt/1/documents/resourceList1626975656008/implementfinopsonazure1626975651629.pdf) | Cloud economics, FinOps, and how to implement on Azure | Slide from Webinar
+[FinOps with Azure](https://azure.microsoft.com/en-us/resources/finops-with-azure-bringing-finops-to-life-through-organizational-and-cultural-alignment/en-us/?cdn=disable) | Bringing FinOps to life through organizational and cultural alignment: this e-book will guide you through the FinOps principles to highlight Microsoft solutions that can support the cloud journey and help your organization to maximize the cloud business value. | Azure
 
 ## Tools
 

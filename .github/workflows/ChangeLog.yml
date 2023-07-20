@@ -102,9 +102,9 @@ jobs:
           SUMMARY: ${{ fromJson(steps.create-summary.outputs.response).choices[0].message.content }}
         run: |
           echo $SUMMARY
-          echo "\n\n" >> $MARKDOWN_FILENAME
+          echo "" >> $MARKDOWN_FILENAME
           echo $SUMMARY >> $MARKDOWN_FILENAME
-          echo "\n\nVisit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/${FILENAME%.md}) for more partner resources." >> $MARKDOWN_FILENAME
+          echo "Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/${FILENAME%.md}) for more partner resources." >> $MARKDOWN_FILENAME
 
 
       - name: Create Image Prompt
