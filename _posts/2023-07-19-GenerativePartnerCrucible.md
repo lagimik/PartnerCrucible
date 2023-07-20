@@ -6,7 +6,8 @@ layout: generativepartnercrucible
 thumbnail: /PartnerCrucible/assets/images/2023-07-19-CommercialMarketplaceOffers.md-image.png
 ---
 
-![ CommercialMarketplaceOffers.md ]( /PartnerCrucible/assets/images/2023-07-19-CommercialMarketplaceOffers.md-image.png )
+
+![ PartnerPortals.md ]( /PartnerCrucible/assets/images/2023-07-19-PartnerPortals.md-image.png )
 
 # Partner Portals
 
@@ -17,6 +18,8 @@ Digital Marketing Content - On Demand, which provides go-to-market content in we
 - [Digital Marketing Content - On Demand](https://dmc.partner.microsoft.com/onboarding): Offers go-to-market content in fresh weekly campaigns at no cost to Microsoft partners. This resource enables partners to build and optimize their digital marketing strategy, capture and close leads, and drive customer engagement. Connect your social, email, and blog accounts for an improved user experience.
   
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/PartnerPortals) for more partner resources.
+
+![ CommercialMarketplaceOffers.md ]( /PartnerCrucible/assets/images/2023-07-19-CommercialMarketplaceOffers.md-image.png )
 
 # Microsoft Commercial Marketplace
 
@@ -56,7 +59,6 @@ Added Intelligent Field Service Solution Accelerators to the Business Applicatio
 - [Intelligent Field Service Solution Accelerators](https://github.com/microsoft/Intelligent-Field-Service-Solution-Accelerator): This GitHub repository contains multiple solution accelerators focusing on various areas such as anomaly detection, predictive maintenance, and intelligence derived from IoT alerts. 
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/BusinessApplicationsSolutionArea) for more partner resources.
-
 
 
 ![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2023-07-19-DataAISolutionArea-AzureOpenAI.md-image.png )
@@ -110,6 +112,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 - [Investing in MXDR partner success](https://cloudpartners.transform.microsoft.com/mxdrpartners): Demand for MXDR services is growing rapidly, and Microsoft is investing in partners' ability to meet this demand.
 - [Microsoft Security Copilot - Partner Interest Form](http://aka.ms/securitycopilotpartner): Sign up to learn more about how to engage customers and take advantage of Security Copilot.
+- [Microsoft Sentinel Transformations Library](https://github.com/Azure/Azure-Sentinel/tree/master/Tools/Transformations-Library): Repository containing samples for scenarios enabled by Log Analytics Custom Logs v2 and pipeline transformation features.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/SecuritySolutionArea) for more partner resources.
 
@@ -127,10 +130,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 - [Microsoft 365 Copilot Explained](https://youtu.be/B2-8wrF9Okc): This video provides an inside look at how large language models (LLMs) work when connected to the data in your organization. It explains the process and emphasizes data privacy and security with Microsoft 365 Copilot.Please use the markdown format to view the links properly.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/ModernWorkSolutionArea) for more partner resources.
-
-![ PartnerPortals.md ]( /PartnerCrucible/assets/images/2023-07-19-PartnerPortals.md-image.png )
-
-
 
 ![ PowerPlatformSolutionArea.md ]( /PartnerCrucible/assets/images/2023-07-19-PowerPlatformSolutionArea.md-image.png )
 
@@ -154,8 +153,3 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 - [PL-900 Labs Francais](https://microsoftlearning.github.io/PL-900-Microsoft-Power-Platform-Fundamentals.fr-fr/): Hands-on labs for Microsoft Power Platform Fundamentals in French language.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/PowerPlatformSolutionArea) for more partner resources.
-
-![ SecuritySolutionArea-Sentinel.md ]( /PartnerCrucible/assets/images/2023-07-19-SecuritySolutionArea-Sentinel.md-image.png )
-
-# Security Solution Area: Sentinel## Summary of Changes:- Added **Azure Sentinel Tools** to enable easy integration, deployment, migration, and connection with Microsoft Sentinel and other products in Microsoft Sentinel.## Links:- [Azure Sentinel Tools](https://github.com/Azure/Azure-Sentinel/tree/master/Tools): Microsoft Sentinel API integrations, tools, and deployment templates for connecting solutions with Microsoft Sentinel, deploying in Microsoft Sentinel, migrating to Microsoft Sentinel, and working with different products in Microsoft Sentinel.- [Microsoft Sentinel and Microsoft 365 Defender](https://github.com/Azure/Azure-Sentinel): Repository containing out-of-the-box detections, exploration queries, hunting queries, workbooks, playbooks, and more to help ramp up with Microsoft Sentinel, secure environments, and hunt for threats.- [Overview of Advanced Hunting](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/advanced-hunting-overview?view=o365-worldwide): Query-based threat-hunting tool in Microsoft 365 Defender that allows exploration of up to 30 days of raw data.- [How to use Azure Sentinel for Incident Response Orchestration](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-use-azure-sentinel-for-incident-response-orchestration/ba-p/2242397): Microsoft Tech Community article on using Azure Sentinel for incident response orchestration.- [Azure Sentinel Playbook](https://github.com/Azure/Azure-Sentinel/tree/master/Playbooks): Repository containing sample security playbooks for security automation, orchestration, and response (SOAR) using Microsoft Sentinel trigger.- [Microsoft Sentinel Triage Assistant (STAT)](https://github.com/briandelmsft/SentinelAutomationModules): Logic Apps Custom Connector and library of Automation Modules for simplifying automation tasks in Microsoft Sentinel playbooks.- [Microsoft Sentinel Transformations Library](https://github.com/Azure/Azure-Sentinel/tree/master/Tools/Transformations-Library): Repository containing samples for scenarios enabled by Log Analytics Custom Logs v2 and pipeline transformation features.- [Microsoft Sentinel Black Belt](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-earn-your-microsoft-sentinel-black-belt-digital-badge/ba-p/3071558): Cloud Security Private Community Digital Badge program offering L5 Microsoft Sentinel Black Belt Digital Badge for recognized expertise and contribution to the product.- [Sentinel Ninja](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310): Training program for becoming a Microsoft Sentinel ninja with complete level 400 expertise.- [The Art and Science of Threat Hunting](https://www.microsoft.com/security/blog/2022/09/08/part-1-the-art-and-science-of-threat-hunting/): Insights from Microsoft Security Experts and Microsoft Detection and Response Team (DART) on threat hunting.- [Microsoft 365 Defender - Demo Hero Environment](#): Environment showcasing Microsoft 365 Defender's capabilities, including protection, detection, alerts, incident management, cloud security, threat vulnerability management, integration with Endpoint Management, automatic remediations, and playbooks from Microsoft Sentinel (read-only environment).- [Azure Sentinel To-Go (Part1)](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-to-go-part1-a-lab-w-prerecorded-data-amp-a-custom/ba-p/1260191): Lab with prerecorded data and custom logs pipeline via ARM templates.- [Cost Worthy Azure Sentinel Demo](https://azurecloudai.blog/2020/09/01/steps-to-create-a-cost-worthy-azure-sentinel-demo-testing-environment/): Steps for creating a cost-worthy Azure Sentinel demo/testing environment.- [Microsoft Sentinel Training Lab](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/learning-with-the-microsoft-sentinel-training-lab/ba-p/2953403): Solution for ingesting sample data into Microsoft Sentinel workspace that triggers incidents and allows exploration of features without additional effort.- [Integrate Azure Data Explorer for long-term log retention](https://learn.microsoft.com/en-us/azure/sentinel/store-logs-in-azure-data-explorer?tabs=adx-event-hub): Guide for storing logs in Azure Data Explorer to reduce costs and retain query capability as data grows.
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/SecuritySolutionArea-Sentinel) for more partner resources.
