@@ -9,11 +9,10 @@ thumbnail: /PartnerCrucible/assets/images/2023-07-19-CommercialMarketplaceOffers
 # Microsoft Inspire - July 18 - 29 2023
 The following is a summary of insights from this year's Microsoft Inspire.  See the [curated collections](https://inspire.microsoft.com/en-US/session-collections) for the session recordings.
 
-```
-"Moving forward, the capabilities of AI and the Cloud will be integrated and inseparable." 
-Nicole Dezen 
-Chief Partner Officer and Corporate Vice President, Global Partner Solutions
-```
+**"Moving forward, the capabilities of AI and the Cloud will be integrated and inseparable."**
+
+Nicole Dezen, Chief Partner Officer and Corporate Vice President, Global Partner Solutions
+
 
 ![ PartnerPortals.md ]( /PartnerCrucible/assets/images/2023-07-19-PartnerPortals.md-image.png )
 
@@ -53,9 +52,6 @@ Azure Innovate, a new specialisation, and ISV Success is GA.
 
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/AzureInfrastructureSolutionArea) for more partner resources.
-
-![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2023-07-19-DataAISolutionArea-AzureOpenAI.md-image.png )
-
 
 ![ DataAISolutionArea.md ]( /PartnerCrucible/assets/images/2023-07-19-DataAISolutionArea.md-image.png )
 
