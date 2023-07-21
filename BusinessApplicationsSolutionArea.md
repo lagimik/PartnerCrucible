@@ -70,6 +70,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Microsoft Sales Copilot](https://cloudblogs.microsoft.com/dynamics365/it/2023/07/18/improve-sales-productivity-and-close-more-deals-with-microsoft-sales-copilot/) | *Viva Sales in now Microsoft Sales Copilot*: Sales Copilot brings new capabilities to Microsoft Outlook, Teams, and Dynamics 365 Sales, helping sellers to increase their productivity and personalize every customer interaction. And it works out of the box—not just with Dynamics 365 Sales, but with Salesforce, too | Blog
 [AI Innovations](https://dynamicspartners.transform.microsoft.com/cloud-conversations?tab=tab-custom3) | Generative AI in Dynamics  including Power Dynamics 365 Copilot, Copilot in ERP, Copilot in Customer Experience| Transform
 [Dynamics Copilot Pitch Deck](https://dynamicspartners.transform.microsoft.com/download/protected?assetname=protectedassets%2FDynamics%20365%20Copilot%20pitch%20deck.pptx&download=1&protected=1&src=https:%2F%2Fdynamicspartners.transform.microsoft.com%2Fcloud-conversations) | Partner Pitch Deck - History, overview, and deep dive into fusing Dynamics 365 with Generative AI| Transform
 
