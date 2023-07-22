@@ -84,10 +84,17 @@ jobs:
         with:
           prompt: |
             "Use an professional tone to summarize the changes found below in the Partner Crucible updates to help Microsoft Partners Build their technical practice."
-            "Use the solution areas as a title heading,"
+            "Use the solution areas as a title heading"
             "Create a summary of all the changes."
-            "Next, provide a bullet list of links with a short summary.
+            "Next, provide a list of URL links with a short description.
             "Use markdown as the output format."
+            "##"
+            "# Modern Work Solution Area"
+            "## What's new"
+            "summary sentence of changes"
+            "## Quick links:"
+            "- [Microsoft 365](https://www.microsoft.com/microsoft-365): description"
+
             "${{ matrix.changes.change}}"
           max_tokens: 1000
         env:
@@ -104,7 +111,9 @@ jobs:
           echo $SUMMARY
           echo "" >> $MARKDOWN_FILENAME
           echo $SUMMARY >> $MARKDOWN_FILENAME
+          echo "" >> $MARKDOWN_FILENAME
           echo "Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/${FILENAME%.md}) for more partner resources." >> $MARKDOWN_FILENAME
+          echo "" >> $MARKDOWN_FILENAME
 
 
       - name: Create Image Prompt
@@ -134,8 +143,8 @@ jobs:
           curl -o $IMAGE_FILENAME $IMAGE_URL
           { echo -n $IMAGE_MARKDOWN; cat $MARKFDOWN_FILENAME; } > $MARKFDOWN_FILENAME.new
           mv $MARKFDOWN_FILENAME{.new,}
-          
-      
+
+
       - name: Image Resizer Action
         id: image-resizer
         uses: sharadcodes/img-resizer@v1.1
@@ -158,7 +167,7 @@ jobs:
     runs-on: ubuntu-latest
     name: newsletter
     needs: summary
-    
+
     steps:
 
       - name: Run Date
@@ -215,7 +224,7 @@ jobs:
     name: Pull request
     needs: newsletter
 
-    
+
     steps:
 
       - name: Run Date
@@ -244,7 +253,7 @@ jobs:
           commit-message: "Add Generative Partner Crucible for ${{ steps.run-date.outputs.rundate}}"
           title: "Add Generative Partner Crucible for ${{ steps.run-date.outputs.rundate}}"
           body: "This is an automated pull request to add the Generative Partner Crucible for ${{ steps.run-date.outputs.rundate}}"
-    
-        
-    
+
+
+
 
