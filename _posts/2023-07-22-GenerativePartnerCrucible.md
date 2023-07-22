@@ -102,18 +102,36 @@ Microsoft has released a new e-book called "FinOps with Azure" that aims to brin
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/FinOps) for more partner resources.
 
 ![ ModernWorkSolutionArea.md ]( /PartnerCrucible/assets/images/2023-07-22-ModernWorkSolutionArea.md-image.png )
-# Modern Work Solution Area## What's new- Partner Practice Building: Provides guidance on building technical practice for Microsoft Partners.## Deep links- [Co-Sell with Microsoft Series learning path](https://readiness.transform.microsoft.com/learning-path/334f847e-6590-4ff3-8d43-e2ab99ab71bc): FY24 - Go-to-market guidance across all Co-Sell with Microsoft priority sales plays. [Transform]- [Sell through CSP Kickoff Series learning path](https://readiness.transform.microsoft.com/learning-path/d8b8ec88-3af2-4824-bdb8-abfe1e85e9b6): FY24 - Go-to-market guidance across all our Sell through CSP priority sales plays. [Transform]
+
+# Modern Work Solution Area
+
+## What's new
+
+- Partner Practice Building: Provides guidance on building technical practice for Microsoft Partners.
+
+## Deep links
+- [Co-Sell with Microsoft Series learning path](https://readiness.transform.microsoft.com/learning-path/334f847e-6590-4ff3-8d43-e2ab99ab71bc): FY24 Go-to-market guidance across all Co-Sell with Microsoft priority sales plays. [Transform]
+- [Sell through CSP Kickoff Series learning path](https://readiness.transform.microsoft.com/learning-path/d8b8ec88-3af2-4824-bdb8-abfe1e85e9b6): FY24 - Go-to-market guidance across all our Sell through CSP priority sales plays. [Transform]
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/ModernWorkSolutionArea) for more partner resources.
 
 ![ PartnerPortals.md ]( /PartnerCrucible/assets/images/2023-07-22-PartnerPortals.md-image.png )
-# Partner Crucible Updates## Data and AI### What's new- Added Digital Marketing Content - On Demand### Deep links- [Digital Marketing Content - On Demand](https://dmc.partner.microsoft.com/onboarding): Digital Marketing Content OnDemand provides go-to-market content in fresh weekly campaigns at no cost to Microsoft partners. It enables partners to build and optimize their digital marketing strategy, capture and close leads through consistent online engagement. Connect your social, email, and blog accounts on the next series of screens to save time and improve user experience.---## Security and Compliance### What's new- No changes found.---## Modern Workplace### What's new- No changes found.---## Business Applications### What's new- No changes found.---## Azure### What's new- No changes found.---## Infrastructure### What's new- No changes found.
+
+# Partner Portals
+
+## What's new
+
+- Added Digital Marketing Content - On Demand#
+
+## Deep links
+
+- [Digital Marketing Content - On Demand](https://dmc.partner.microsoft.com/onboarding): Digital Marketing Content OnDemand provides go-to-market content in fresh weekly campaigns at no cost to Microsoft partners. It enables partners to build and optimize their digital marketing strategy, capture and close leads through consistent online engagement. Connect your social, email, and blog accounts on the next series of screens to save time and improve user experience.---## Security and Compliance### What's new- No changes found.---## Modern Workplace### What's new- No changes found.---## Business Applications### What's new- No changes found.---## Azure### What's new- No changes found.---## Infrastructure### What's new- No changes found.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/PartnerPortals) for more partner resources.
 
 ![ PowerPlatformSolutionArea.md ]( /PartnerCrucible/assets/images/2023-07-22-PowerPlatformSolutionArea.md-image.png )
 
-# Power Platform Solution Area#
+# Power Platform Solution Area
 
 # What's new
 
