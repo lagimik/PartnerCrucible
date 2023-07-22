@@ -89,11 +89,11 @@ jobs:
             "Next, provide a list of URL links with a short description.
             "Use markdown as the output format."
             "##"
-            "# Modern Work Solution Area"
+            "# Heading Solution Area"
             "## What's new"
             "summary sentence of changes"
-            "## Quick links:"
-            "- [Microsoft 365](https://www.microsoft.com/microsoft-365): description"
+            "## Deep links"
+            "- [link title](link url): description"
 
             "${{ matrix.changes.change}}"
           max_tokens: 1000
