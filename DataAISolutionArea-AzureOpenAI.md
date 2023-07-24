@@ -56,6 +56,7 @@ Source | Description | Notes
 [Azure OpenAI Service pricing](https://azure.microsoft.com/en-gb/pricing/details/cognitive-services/openai-service/) |  Optimise costs with a pay-as-you-go consumption model and a price per unit for each model.|
 [Request Access to Azure OpenAI Services](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu) | Azure OpenAI text and code models: Azure OpenAI Service requires registration and is currently only available to Microsoft managed customers and partners.| Customer Voice
 [Azure OpenAI GPT-4 Public Preview Waitlist](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xURjE4QlhVUERGQ1NXOTlNT0w1NldTWjJCMSQlQCN0PWcu) | This form is intended for existing Azure OpenAI customers to join the waitlist for access to the GPT-4 model (preview) in the Azure OpenAI Service.| Customer Voice
+[Azure OpenAI Landing Zone reference architecture](https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-openai-landing-zone-reference-architecture/ba-p/3882102) | In this article, we delve into the synergy of Azure Landing Zones and Azure OpenAI Service, building a secure and scalable AI environment. unpacking the Azure OpenAI Landing Zone architecture, which integrates numerous Azure services for optimal AI workloads. | Tech Community
 
 ## Azure OpenAI Learning Path
 
