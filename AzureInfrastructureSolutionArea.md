@@ -22,6 +22,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Cloud Infrastructure Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy24-cloud-infrastructure-partner-playbook.pdf) | Describes Microsoft GTM Strategy, Solution Plays, Partner Priorities, and Key Resources| Partner FY24
 [Azure Profitability Infographics](https://msazurepartners.blob.core.windows.net/media/Resources/Misc/AzureProfitability-Infographic_v2.pdf) | Through 14 partner interviews with various Microsoft Azure partners, Forrester concluded that building and scaling a Microsoft Azure practice has the following three-year financial impact. | Forrester
 [Azure Partner Enablement Guide](https://assetsprod.microsoft.com/mpn/en-us/azure-partner-enablement-guide.pdf)| Enablement guide for Azure partners... | updated ~monthly
 [Partner Resource Catalog - Well-Architected Framework](https://www.microsoft.com/azure/partners/resources?pr=well-architected-framework) | | Azure

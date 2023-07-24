@@ -13,7 +13,7 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[The Microsoft 365 Partner Opportunity](https://cloudpartners.transform.microsoft.com/download?assetname=assets/MSFT%20partner%20opportunity%20M365%20-%20FINAL%20rev%202.pdf&download=1) | A Total Economic Impact Partner Opportunity Analysis | Forrester 2020
+[The Microsoft 365 Partner Opportunity](https://aka.ms/W365PartnerTEI) | A Total Economic Impact Partner Opportunity Analysis | Forrester 2023
 [Analyst Studies](https://vc.transform.microsoft.com/analyststudies) | Comprehensive listing of Total Economic Impact (TEI) studies of Microsoft Modern Work solutions| Forrester
 [Total Economic Impact of Microsoft Viva](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE56D0e) |Microsoft commissioned Forrester Consulting to conduct a Total Economic Impact™ (TEI) study and examine the potential return on investment (ROI) enterprises may realize by deploying Viva | Forrester
 [Creating learn-it-alls at Microsoft with Viva Learning and LinkedIn Learning Hub](https://www.microsoft.com/insidetrack/blog/creating-learn-it-alls-at-microsoft-with-viva-learning-and-linkedin-learning-hub/?ocid=InsideTrack_Promotion_10440) | Microsoft has deployed Microsoft Viva Learning and LinkedIn Learning Hub internally at the company. | Microsoft Inside Track
@@ -22,6 +22,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Modern Work Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy24-modern-work-partner-playbook.pdf) | Describes Microsoft GTM Strategy, Solution Plays, Partner Priorities, and Key Resources | Partner FY24
 [Co-Sell with Microsoft Series learning path](https://readiness.transform.microsoft.com/learning-path/334f847e-6590-4ff3-8d43-e2ab99ab71bc) |  FY24 - Go-to-market guidance across all Co-Sell with Microsoft priority sales plays.  | Transform
 [Sell through CSP Kickoff Series learning path](https://readiness.transform.microsoft.com/learning-path/d8b8ec88-3af2-4824-bdb8-abfe1e85e9b6) | FY24 - Go-to-market  guidance across all our Sell through CSP priority sales plays. | Transform
 [Modern Work partner enablement guide](https://assetsprod.microsoft.com/mpn/en-us/modern-work-partner-enablement.pdf)| Top news, upcoming training, certifications and exams, and additional resources updated ~monthly | Requires MCPP login

@@ -20,6 +20,12 @@ Source | Description | Notes
 [State of DevOps Report](https://www.puppet.com/resources/state-of-platform-engineering) | Platform Engineering is the DevOps Differentiator — Learn Why| Puppet 2023
 [Enterprise DevOps Report](https://clouddamcdnprodep.azureedge.net/gdc/gdcR61DoH/original) | n April of 2020, McKinsey, looking to find tangible ways to evaluate how key business metrics were improved through software development innovation, created the concept of the Developer Velocity Index (DVI)| 2021 Microsoft
 
+## Practice Building
+
+Source | Description | Notes
+:----- | :---------- | :----
+[Digital and App Innovation Playbook](https://assetsprod.microsoft.com/en-ca/fy24-azure-digital-and-app-innovation-partner-playbook.pdf) | Strategy, Solution Plays, and Key Resources | Partners FY24
+
 ## Tools and Practices
 
 Source | Description | Notes

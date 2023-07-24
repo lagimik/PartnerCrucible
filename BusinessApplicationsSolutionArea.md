@@ -20,6 +20,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Business Applications Playbook](https://assetsprod.microsoft.com/en-ca/fy24-business-applications-partner-playbook.pdf) | Describes Microsoft GTM Strategy, Solution Plays, Partner Priorities, and Key Resources | Partner FY24
 [Customer Service Playbook](https://aka.ms/D365CSPartner)| This playbook is intended for current Microsoft Business Applications Partners, current Microsoft Partners in areas other than Business Apps, and new Microsoft partners that are launching a customer service practice built on Dynamics 365 Customer Service |  Transform
 [Field Service Playbook](https://aka.ms/D365FSPartner)| This playbook is intended for current Microsoft Business Applications Partners, current Microsoft Partners that specialize in solution areas other than Biz Apps, and new Microsoft partners who are launching a field service practice built on Dynamics 365 Field Service |  Transform
 [Customer Experience Platform Playbook](https://aka.ms/MCXPPartner)| The Microsoft Customer Experience Platform is a complete marketing stack that learns from every customer interaction to optimize and deliver meaningful experiences. The stack delivers unparalleled customer insights through the interconnected nature of the tools and services that make it up, which include Microsoft Dynamics 365 and Power Platform, Microsoft 365 and the Teams modern workplace environment, and Azure. |  Transform

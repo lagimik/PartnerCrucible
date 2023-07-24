@@ -25,4 +25,5 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[FinOps toolkit](https://github.com/microsoft/finops-toolkit/tree/main) | The FinOps toolkit is a collection of customizable ARM templates used to build and deploy various FinOps solutions that automate and extend native Microsoft Cost Management capabilities.| GitHUb
 [The Azure FinOps Guide](https://github.com/dolevshor/azure-finops-guide) | by @dolevshore This guide centralizes Azure FinOps information and tools to enabling a better understanding and optimization of cloud costs. | Github
