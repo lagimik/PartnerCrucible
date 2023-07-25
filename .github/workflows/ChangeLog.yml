@@ -18,18 +18,19 @@ jobs:
         name: Changed Files
         id: changed-files
         with:
-            since: "7 days"
+            since: env.CRUCIBLE_HISTORY
             files: |
               *.md
       - name: Get changes in files
         id: file-changes
+        env:
+          CRUCIBLE_HISTORY: env.CRUCIBLE_HISTORY
         run: |
-
           file_change=""
           json="{\"changes\":["
           for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
             echo "$file was changed"
-            file_change=$(git log --since="7 days" -p -U0 $file)
+            file_change=$(git log --since="$CRUCIBLE_HISTORY" -p -U0 $file)
 
             file_change="${file_change//'%'/'%25'}"
             file_change="${file_change//$'\n'/'%0A'}"
