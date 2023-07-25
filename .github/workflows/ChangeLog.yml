@@ -17,8 +17,10 @@ jobs:
       - uses: tj-actions/changed-files@v35
         name: Changed Files
         id: changed-files
+        env:
+          CRUCIBLE_HISTORY: vars.CRUCIBLE_HISTORY
         with:
-            since: vars.CRUCIBLE_HISTORY
+            since: $CRUCIBLE_HISTORY
             files: |
               *.md
 
