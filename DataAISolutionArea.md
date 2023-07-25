@@ -83,8 +83,9 @@ Source | Description | Notes
 [YouTube](https://lnkd.in/e5cRUCs7) | ADX YouTube Channel|
 
 
-## Demos
+## Tools and Demos
 
 Source | Description | Notes
 :----- | :-----  | :-----
 [Data & AI Industry DREAM Demos & DREAM Demo in a Box](https://partner.microsoft.com/en-us/asset/collection/industry-dream-demos-and-dream-demo-in-a-box#/) | Data & AI Industry DREAM Demos are realistic clickable demos based on actual customer engagements that cover a range of industry scenarios in story form. These can be used to help both BDMs and TDMs envision how to bring Data & AI to life in their organization. The walkthrough material offers step by step guidance on how land this with customers. DREAM Demos in a Box are packaged Industry Scenario DREAM Demos with ARM templates that can be deployed in a customer’s subscription using the CAPE tool in just a few hours, enabling customers to test out the demo scenarios. | Partner
+[The Full Guide to Packaging and Deploying ML Models to Production Using Azure: Step-by-Step Guide](https://techcommunity.microsoft.com/t5/educator-developer-blog/the-full-guide-to-packaging-and-deploying-ml-models-to/ba-p/3855628) | In this blog, we will go through a step-by-step coding guide, from converting our model to ONNX format until we use it in our Power Apps application.| Tech Community
