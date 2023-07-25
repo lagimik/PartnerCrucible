@@ -20,7 +20,6 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[Business Applications Playbook](https://assetsprod.microsoft.com/en-ca/fy24-business-applications-partner-playbook.pdf) | Describes Microsoft GTM Strategy, Solution Plays, Partner Priorities, and Key Resources | Partner FY24
 [Customer Service Playbook](https://aka.ms/D365CSPartner)| This playbook is intended for current Microsoft Business Applications Partners, current Microsoft Partners in areas other than Business Apps, and new Microsoft partners that are launching a customer service practice built on Dynamics 365 Customer Service |  Transform
 [Field Service Playbook](https://aka.ms/D365FSPartner)| This playbook is intended for current Microsoft Business Applications Partners, current Microsoft Partners that specialize in solution areas other than Biz Apps, and new Microsoft partners who are launching a field service practice built on Dynamics 365 Field Service |  Transform
 [Customer Experience Platform Playbook](https://aka.ms/MCXPPartner)| The Microsoft Customer Experience Platform is a complete marketing stack that learns from every customer interaction to optimize and deliver meaningful experiences. The stack delivers unparalleled customer insights through the interconnected nature of the tools and services that make it up, which include Microsoft Dynamics 365 and Power Platform, Microsoft 365 and the Teams modern workplace environment, and Azure. |  Transform
@@ -34,7 +33,9 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[Microsoft Dynamics 365 Partner portal](https://dynamicspartners.transform.microsoft.com)|Partner *Transform Portal* for Business Apps|Accessible based on MCPP membership and competencies or solution partner standing
+[Microsoft Dynamics 365 Partner portal](https://dynamicspartners.transform.microsoft.com)|Partner *Transform Portal* for Business Apps|Accessible based on MCPP membership and competencies or solution partner standing | Transform
+[Business Applications Playbook](https://assetsprod.microsoft.com/en-ca/fy24-business-applications-partner-playbook.pdf) | Describes Microsoft GTM Strategy, Solution Plays, Partner Priorities, and Key Resources | Partner FY24
+[Pre-Commit Business Applications Partner Activities](https://dynamicspartners.transform.microsoft.com/download/protected?assetname=protectedassets/FY24%20Pre-Commit%20Bus%20Apps%20Partner%20Activities%20Program%20Guide%20and%20Overview.pptx&download=1&protected=1) | Detailed program guide and overview of Partner-led Business Applications incentives program| Transform FY24
 [Catalyst Partner FAQ](https://pbapstorageprod.blob.core.windows.net/protectedassets/Catalyst%20Partner%20FAQ.pdf?sv=2019-07-07&sr=b&sig=6EKMfmcYH4mmfpH3Zdf9CsvsN4h8pvBUTVGsjT5KxpI%3D&se=2023-03-12T18%3A58%3A45Z&sp=r) | Catalyst Partner FAQ, November 3 2022| Transform
 [Business Applications Partner Sales Acceleration Program](https://partner.microsoft.com/en-us/training/assets/collection/business-applications-partner-sales-acceleration-program-psap#/) | Get best practices and presentation resources that will guide you in shaping a business-first sales model that's focused on the Business Applications solution area and its core sales plays—and resources specially for small business.​| Microsoft Partner
 [Business Applications ISV Connect](https://partner.microsoft.com/en-us/solutions/business-applications/isv-overview) | Grow your business faster by building unique, customer-centric line of business (LOB) apps with Dynamics 365 and Power Apps.|
