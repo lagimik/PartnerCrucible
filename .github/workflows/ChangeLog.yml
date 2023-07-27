@@ -14,22 +14,31 @@ jobs:
         with:
           fetch-depth: 0  # OR "2" -> To retrieve the preceding commit.
 
+      # pass vars.NUM_OF_DAYS to github action
+      - name: Set History
+        id: set-history
+        run: |
+          echo "CRUCIBLE_HISTORY=${{ vars.CRUCIBLE_HISTORY }}" >> $GITHUB_OUTPUT
+
       - uses: tj-actions/changed-files@v35
         name: Changed Files
         id: changed-files
+
         with:
-            since: "7 days"
+            since: ${{ steps.set-history.outputs.CRUCIBLE_HISTORY }}}
             files: |
               *.md
+
       - name: Get changes in files
         id: file-changes
+        env:
+          CRUCIBLE_HISTORY: ${{ steps.set-history.outputs.CRUCIBLE_HISTORY }}}
         run: |
-
           file_change=""
           json="{\"changes\":["
           for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
             echo "$file was changed"
-            file_change=$(git log --since="7 days" -p -U0 $file)
+            file_change=$(git log --since="$CRUCIBLE_HISTORY" -p -U0 $file)
 
             file_change="${file_change//'%'/'%25'}"
             file_change="${file_change//$'\n'/'%0A'}"
