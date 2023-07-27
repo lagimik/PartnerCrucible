@@ -188,6 +188,12 @@ Source | Description | Notes
 [Microsoft Purview Information Protection Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-microsoft-purview-information-protection-ninja-training-is/ba-p/2887478) |  Microsoft Purview Information Protection (formerly Microsoft Information Protection-MIP)  | Tech Community
 [Microsoft Purview Data Loss Prevention Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-microsoft-purview-data-loss-prevention-ninja-training-is/ba-p/3659015) |  Microsoft Purview Data Loss Prevention Ninja training  | Tech Community
 
+## Purview Data Lifecycle and Records Management
+
+Source | Description | Notes
+:----- | :---------- | :----
+[Purview Data Lifecycle and Records Management Ninja](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-a-microsoft-purview-data-lifecycle-and-records-management/ba-p/3874829)| Microsoft Purview Data Lifecycle Management and Microsoft Purview Records Management help to govern your Microsoft 365 data for compliance or regulatory requirements.| Tech Community
+
 ## Compliance Ninja
 
 Source | Description | Notes
