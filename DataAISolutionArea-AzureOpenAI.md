@@ -69,10 +69,16 @@ Source | Description | Notes
 [Azure OpenAI Workshop](https://github.com/Azure/azure-openai-workshop) | In this workshop, you will learn how to use the Azure OpenAI service to create AI powered solutions. You will get hands-on experience with the latest AI technologies and will learn how to use Azure OpenAI API.| GitHub
 [Azure OpenAI Service Playlist](https://www.youtube.com/watch?v=FJ0v3apQ2dM&list=PL8_VXqhvJI9CNF6Q409mSjh0InP6_GfBg) | | YouTube
 [ChatGPT & OpenAI powering your apps](https://www.youtube.com/watch?v=3t3qZu1Dy1k) | For your next application, leverage large-scale, generative AI models with a deep understanding of language and code, using Azure’s OpenAI service. Interact with models using natural language, prompts, and few-shot learning. Use the Azure OpenAI Studio to experiment and test your models before bringing them into your code to deliver differentiated app experiences, all with Azure’s enterprise-grade security built-in. | Microsoft Mechanics
-[Prompt Engineering 101 - Introduction and resources](https://www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain/) | By Xavier  (Xavi) Amatriain | LinkedIn
-[Prompt Engine](https://github.com/microsoft/prompt-engine) | This repo contains an NPM utility library for creating and maintaining prompts for Large Language Models (LLMs).| GitHub
 [The AI Show](https://aka.ms/AIShowsubscribe) | The AI Show Live showcases the amazing work happening in AI at Microsoft. Developers learn what's new in AI in a short amount of time and are directed to assets helping them get started and on the road to success right away. Seth Juarez and friends work on cool projects and highlight what's new in Azure AI and Machine Learning. | Microsoft Learn
 [Azure AI Bootcamp](https://vshow.on24.com/vshow/Azure_Depth/registration/22504) | On-demand - learn about Azure artificial intelligence (AI) services designed for developers and data scientists to acquire the knowledge to access and integrate high-quality vision, speech, language, and decision-making AI models through simple API calls in your apps and services and create your own machine learning models with tools like Jupyter Notebooks, Visual Studio Code, and open-source frameworks like TensorFlow and PyTorch.| Learning
+
+## Prompt Engineering
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[15 Tips to Become a Better Prompt Engineer for Generative AI](https://techcommunity.microsoft.com/t5/azure-ai-services-blog/15-tips-to-become-a-better-prompt-engineer-for-generative-ai/ba-p/3882935?WT.mc_id=academic-0000-abartolo) | this guide for developers, data scientists and curious newcomers alike to create effective prompts with confidence | Tech Community
+[Prompt Engineering 101 - Introduction and resources](https://www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain/) | By Xavier  (Xavi) Amatriain | LinkedIn
+[Prompt Engine](https://github.com/microsoft/prompt-engine) | This repo contains an NPM utility library for creating and maintaining prompts for Large Language Models (LLMs).| GitHub
 
 ## Content Safety
 
