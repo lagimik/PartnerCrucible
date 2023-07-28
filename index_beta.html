@@ -119,6 +119,52 @@
       text-align: center;
     }
 
+      /* The flip box container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
+    .flip-box {
+      background-color: black;
+      width: 300px;
+      height: 200px;
+      border: 1px solid black;
+      perspective: 1000px; /* Remove this if you don't want the 3D effect */
+    }
+
+    /* This container is needed to position the front and back side */
+    .flip-box-inner {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      text-align: center;
+      transition: transform 0.7s;
+      transform-style: preserve-3d;
+    }
+
+    /* Do an horizontal flip when you move the mouse over the flip box container */
+    .flip-box:hover .flip-box-inner {
+      transform: rotateY(180deg);
+    }
+
+    /* Position the front and back side */
+    .flip-box-front, .flip-box-back {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      -webkit-backface-visibility: hidden; /* Safari */
+      backface-visibility: hidden;
+    }
+
+    /* Style the front side */
+    .flip-box-front {
+      background-color: black;
+      color: white;
+    }
+
+    /* Style the back side */
+    .flip-box-back {
+      background-color:rgb(63, 47, 47);
+      color: white;
+      transform: rotateY(180deg);
+    }
+
     @media (max-width: 768px) {
       .navbar-menu {
         display: none;
@@ -171,8 +217,9 @@
     </div>
     <div class="navbar-menu" id="navbarMenu">
       <a href="#">Home</a>
-      <a href="#section1">Section 1</a>
-      <a href="#section2">Section 2</a>
+      <a href="#insight">Insight</a>
+      <a href="#practice">Practice</a>
+      <a href="#solutionarea">Solution Area</a>
     </div>
   </div>
 
@@ -184,17 +231,41 @@
     </div>
   </div>
 
-  <div id="section1" class="section">
-    <h2 class="section-title">Section 1</h2>
+  <div id="insight" class="section">
+    <h2 class="section-title">Insight, innovation, and industry</h2>
     <div class="section-content">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla hendrerit ultrices augue, at laoreet quam congue sed.</p>
+      <p>From a blog series presenting points of view from experts and practitioners, to a collection of resources for partner practice building around key industries, to examples of innovation across the partner ecosystem.</p>
+    </div>
+    <div style="flex:12%; background-color: black ;padding: 0 4px; vertical-align: middle; opacity: 0.7;">
+      <div class="flip-box" >
+        <div class="flip-box-inner">
+          <div class="flip-box-front">
+            <h2>Search</h2>
+            <img src="./Library/crucible-search-white.png" height="" width="100" />
+          </div>
+          <div class="flip-box-back">
+            <h2><a href="./Search">Partner Crucible Search</a></h2>
+            Full text search fueled by Lunr.
+          </div>
+        </div>
+
+      </div>
+
+  </div>
+
+  <div id="practice" class="section">
+    <h2 class="section-title">Partner practice building</h2>
+    <div class="section-content">
+      <p>A collection of partner resources related to practice building from profitability and growth, to skilling journeys, to ensuring recognition for your successes.</p>
+      <p>From ISV, SaaS and Marketplace, to CSP, FinOps and Support.</p>
     </div>
   </div>
 
-  <div id="section2" class="section">
-    <h2 class="section-title">Section 2</h2>
+  <div id="solutionarea" class="section">
+    <h2 class="section-title">Solution areas</h2>
     <div class="section-content">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla hendrerit ultrices augue, at laoreet quam congue sed.</p>
+      <p>The partner <i>designations and specialisations</i> span 6 distinct <i>solution areas.</i> Each of these includes a learning journeys align to specific Microsoft Cloud technologies and capabilities.</p>
+      <p>Learning resources than span all the solution areas are listed below:</p>
     </div>
   </div>
 
