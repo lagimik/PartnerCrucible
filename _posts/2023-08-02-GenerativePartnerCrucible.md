@@ -80,7 +80,9 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 ## What's new
 
 The Partner Crucible updates for the Data AI Solution Area include the following changes:
-- [Unleashing the Power of SynapseML and Microsoft Fabric: A Guide to Q&A on PDF Documents](https://blog.fabric.microsoft.com/en-us/blog/unleashing-the-power-of-synapseml-and-microsoft-fabric-a-guide-to-qa-on-pdf-documents-2/): This blog post explores the functionalities and features of Microsoft Fabric and SynapseML, demonstrating how to leverage LLMs to perform question and answer (Q&A) tasks on any PDF document.## Deep links
+
+ 
+## Deep links
 - [Unleashing the Power of SynapseML and Microsoft Fabric: A Guide to Q&A on PDF Documents](https://blog.fabric.microsoft.com/en-us/blog/unleashing-the-power-of-synapseml-and-microsoft-fabric-a-guide-to-qa-on-pdf-documents-2/): In this blog post, we delve into the exciting functionalities and features of Microsoft Fabric and SynapseML to demonstrate how to leverage LLMs to perform question and answer (Q&A) tasks on any PDF document.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-Fabric) for more partner resources.
