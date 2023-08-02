@@ -102,21 +102,32 @@
     .section {
       height: 500px;
       display: flex;
+      border: thin solid black;
       justify-content: center;
       align-items: center;
       flex-direction: column;
-      color: #333;
-      opacity: 0.7;
+      /* color: #333; */
+      background-color: black;
+      opacity: 0.9;
     }
 
     .section-title {
       font-size: 36px;
       margin-bottom: 20px;
       font-weight: bold;
+      color: white;
     }
 
     .section-content {
       text-align: center;
+      color: #fff
+    }
+
+    .section-tiles {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
     }
 
     @media (max-width: 768px) {
@@ -159,6 +170,53 @@
         margin: 15px 0;
       }
     }
+
+    /* The flip box container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
+    .flip-box {
+      background-color: black;
+      width: 300px;
+      height: 200px;
+      border: 1px solid black;
+      perspective: 1000px; /* Remove this if you don't want the 3D effect */
+    }
+
+    /* This container is needed to position the front and back side */
+    .flip-box-inner {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      text-align: center;
+      transition: transform 0.7s;
+      transform-style: preserve-3d;
+    }
+
+    /* Do an horizontal flip when you move the mouse over the flip box container */
+    .flip-box:hover .flip-box-inner {
+      transform: rotateY(180deg);
+    }
+
+    /* Position the front and back side */
+    .flip-box-front, .flip-box-back {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      -webkit-backface-visibility: hidden; /* Safari */
+      backface-visibility: hidden;
+    }
+
+    /* Style the front side */
+    .flip-box-front {
+      background-color: black;
+      color: white;
+    }
+
+    /* Style the back side */
+    .flip-box-back {
+      background-color:rgb(63, 47, 47);
+      color: white;
+      transform: rotateY(180deg);
+    }
+    
   </style>
 </head>
 <body>
@@ -171,31 +229,236 @@
     </div>
     <div class="navbar-menu" id="navbarMenu">
       <a href="#">Home</a>
-      <a href="#section1">Section 1</a>
-      <a href="#section2">Section 2</a>
+      <a href="#innovation">Innovation</a>
+      <a href="#partnerpractice">Partner Practice</a>
+      <a href="#solutionareas">Solution Areas</a>
     </div>
   </div>
 
   <div class="parallax">
     <div class="parallax-overlay"></div>
     <div class="parallax-content">
-      <h1 class="parallax-title">Welcome to the Crucble</h1>
+      <h1 class="parallax-title">Welcome to the Crucible</h1>
       <h3 class="parallax-subtitle">A forge for Microsoft Partners</h3>
     </div>
   </div>
 
-  <div id="section1" class="section">
-    <h2 class="section-title">Section 1</h2>
+  <div id="innovation" class="section">
+    <h2 class="section-title">Innovation</h2>
     <div class="section-content">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla hendrerit ultrices augue, at laoreet quam congue sed.</p>
+      <p>From a blog series presenting points of view from experts and practitioners, to a collection of resources for partner practice building around key industries, to examples of innovation across the partner ecosystem.</p>
+    </div>
+
+    <div class="section-tiles">
+      <div class="flip-box" >
+        <div class="flip-box-inner">
+          <div class="flip-box-front">
+            <h2>Signal:Noise</h2>
+            <img src="./Library/signaltonoise-title.png" height="" width="250" />
+          </div>
+          <div class="flip-box-back">
+            <h2><a href="./SignaltoNoise">Signal:Noise</a></h2>
+            <p>Signal:Analytics aims to provide points of view from experts and practitioners to help you identify the paths that carry the most signal and can accelerate your digital (or cloud) ambitions.</p>
+          </div>
+        </div>
+      </div>
+      <div class="flip-box" >
+        <div class="flip-box-inner">
+          <div class="flip-box-front">
+            <h2>Innovation</h2>
+            <img src="./Library/crucible-innovation.png" height="90" width="250" />
+          </div>
+          <div class="flip-box-back">
+            <h2>Innovation</h2>
+            A collection of resources for ideas stemming from research and innovation at Microsoft.
+            <ul style="text-align: left;">
+              <li><a href="./InnovationatMicrosoft">Innovation</a></li>
+              <li><a href="./MicrosoftAccessibility">Accessibility</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="flip-box" >
+        <div class="flip-box-inner">
+          <div class="flip-box-front">
+            <h2>Industry</h2>
+            <img src="./Library/multindustry.png" height="" width="250" />
+          </div>
+          <div class="flip-box-back">
+            <h2>Industry</h2>
+            <ul style="text-align: left;"">
+              <li><a href="./IndustryCloud">Industry Clouds</a></li>
+              <li><a href="./IndustrySustainability">Sustainability</a></li>
+              <li><a href="./IndustryCanadianPublicSector">Canadian Public Sector</a></li>
+              <li><a href="./IndustryFinancialServices">Financial SErvices</a></li>
+              <li><a href="./IndustryTelecom">Telecom</a></li>
+              <li><a href="./IndustryGeneral">Healthcare, Manufacturing, Public Safety, Farming </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 
-  <div id="section2" class="section">
-    <h2 class="section-title">Section 2</h2>
+  <div id="partnerpractice" class="section">
+    <h2 class="section-title">Partner practice</h2>
+    <div class="section-content">
+      <p>A collection of partner resources related to practice building from profitability and growth, to skilling journeys, to ensuring recognition for your successes.</p>
+      <p>From ISV, SaaS and Marketplace, to CSP, FinOps and Support.</p>
+    </div>
+
+    <div class="section-tiles">
+      <div class="flip-box" >
+        <div class="flip-box-inner">
+          <div class="flip-box-front">
+            <h2 >Partner Economics</h2>
+            <img src="./Library/crucible-commercialmarketplacepng.png" height="" width="250" />
+          </div>
+          <div class="flip-box-back">
+            <h2>Partner Economics</a></h2>
+            <ul style="text-align: left;"">
+              <li><a href="./Startups">Startups</a></li>
+              <li><a href="./ISV">ISV</a></li>
+              <li><a href="./CSP">Cloud Solution Provider</a></li>
+              <li><a href="./SaaS">Software as a Service</a></li>
+              <li><a href="./CommercialMarketplaceOffers.md">Commercial Marketplace Offers</a></li>
+              <li><a href="./FinOps.md">FinOps</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="flip-box">
+        <div class="flip-box-inner">
+          <div class="flip-box-front">
+            <h2>Partner Practice Building</h2>
+            <img src="./Library/crucible-practice.jpg" height="90" width="250" />
+          </div>
+          <div class="flip-box-back">
+            <h2>Partner Practice Building</h2>
+            <ul style="text-align: left;"">
+              <li><a href="./PracticeBuilding">Practice Building and Profitability</a></li>
+              <li><a href="./PracticeBuilding-Secure">Secure the practice</a></li>
+              <li><a href="./PartnerPortals">Partner Portals</a></li>
+              <li><a href="./PartnerSupport">Partner Support</a></li>
+              <li><a href="./LearningResources">Learning and Certification</a></li>
+              <li><a href="./SalesEnablement">Sales Enablement</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="solutionareas" class="section">
+    <h2 class="section-title">Solution areas</h2>
     <div class="section-content">
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla hendrerit ultrices augue, at laoreet quam congue sed.</p>
     </div>
+
+    <div class="section-tiles">
+      <div class="flip-box">
+        <div class="flip-box-inner">
+          <div class="flip-box-front">
+            <h2>Modern Work</h2>
+            <img src="./Library/crucible-mw-icon.png"   />
+          </div>
+          <div class="flip-box-back">
+            <h2><a href="./ModernWorkSolutionArea">Modern Work</a></h2>
+            <p>A collection of resources for Microsoft practice building in the Modern Work solution area</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="flip-box">
+        <div class="flip-box-inner">
+          <div class="flip-box-front">
+            <h2>Security</h2>
+            <img src="./Library/crucible-security-icon.png" />
+          </div>
+          <div class="flip-box-back">
+            <h2>Security</h2>
+            <ul style="text-align: left;"">
+              <li><a href="./SecuritySolutionArea">Security</a></li>
+              <li><a href="./SecuritySolutionArea-Sentinel">Sentinel</a></li>
+              <li><a href="./AzureDefenderIoT">Defender for IoT</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="flip-box">
+        <div class="flip-box-inner">
+          <div class="flip-box-front">
+            <h2>Azure Infrastructure</h2>
+            <img src="./Library/crucible-infra-icon.png"  />
+          </div>
+          <div class="flip-box-back">
+            <h2>Infrastructure</h2>
+            <ul style="text-align: left;"">
+              <li><a href="./AzureInfrastructureSolutionArea">Infrastructure</a></li>
+              <li><a href="./AzureInfrastructureSolutionArea-LandingZones">Landing Zones</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="section-tiles">
+      <div class="flip-box">
+        <div class="flip-box-inner">
+          <div class="flip-box-front">
+            <h2>Data and AI</h2>
+            <img src="./Library/crucible-ai-icon.png" />
+          </div>
+          <div class="flip-box-back">
+            <h2>Data & AI</h2>
+            <p>A collection of resources for Microsoft practice building in the Data and AI solution area.</p>
+            <ul style="text-align: left;"">
+              <li><a href="./DataAISolutionArea">Data and AI Solution Area</a></li>
+              <li><a href="./DataAISolutionArea-AzureOpenAI">Azure OpenAI</a></li>
+              <li><a href="./DataAISolutionArea-Fabric">Microsoft Fabric</a></li>
+            </ul>
+
+
+          </div>
+        </div>
+      </div>
+
+      <div class="flip-box">
+        <div class="flip-box-inner">
+          <div class="flip-box-front">
+            <h2>Digital and App Innovation</h2>
+            <img src="./Library/crucible-app-icon.png"  />
+          </div>
+          <div class="flip-box-back">
+            <h2>Digital and App Innovation</h2>
+            <ul style="text-align: left;"">
+              <li><a href="./DigitalAppsandInnovationSolutionArea">Digital and Applications Innovation Solution Area</a></li>
+              <li><a href="./AIIOTInsiderLab">AI and IoT Insider Lab</a></li>
+              <li><a href="./MixedReality">Mixed Reality</a></li>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="flip-box">
+        <div class="flip-box-inner">
+          <div class="flip-box-front">
+            <h2>Business Applications</h2>
+            <img src="./Library/crucible-ba-icon.png" />
+          </div>
+          <div class="flip-box-back">
+            <h2>Business Applications</h2>
+            <ul style="text-align: left;"">
+              <li><a href="./BusinessApplicationsSolutionArea">Business Applications Solution Area</a></li>
+              <li><a href="./PowerPlatformSolutionArea">Power Platform Solution Area</a></li>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
   </div>
 
   <script>
