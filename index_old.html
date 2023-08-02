@@ -1,273 +1,126 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Microsoft Partner Crucible</title>
-  <!-- favicon -->
-  <link rel="apple-touch-icon" sizes="180x180" href="/PartnerCrucible/Library/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/PartnerCrucible/Library/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/PartnerCrucible/Library/favicon-16x16.png">
-  <link rel="manifest" href="/PartnerCrucible/Library/site.webmanifest">
 
-  <!-- page analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-RYZGVB8WWM"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+<!-- favicon -->
+<link rel="apple-touch-icon" sizes="180x180" href="/PartnerCrucible/Library/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/PartnerCrucible/Library/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/PartnerCrucible/Library/favicon-16x16.png">
+<link rel="manifest" href="/PartnerCrucible/Library/site.webmanifest">
 
-    gtag('config', 'G-RYZGVB8WWM');
-  </script>
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+<!-- page analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RYZGVB8WWM"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
 
-    body {
-      font-family: Arial, sans-serif;
-    }
+	gtag('config', 'G-RYZGVB8WWM');
+</script>
 
-    .navbar {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      background-color: #333;
-      padding: 10px 20px;
-      z-index: 100;
-    }
+<style>
 
-    .navbar-brand {
-      color: #fff;
-      font-size: 24px;
-      font-weight: bold;
-    }
+.base {
+    font-family: Arial, Helvetica, sans-serif;
+  }
 
-    .navbar-toggle {
-      position: absolute;
-      top: 10px;
-      right: 20px;
-      display: none;
-      cursor: pointer;
-      z-index: 100;
-    }
+/* unvisited link */
+a:link {
+  color: #FF8B01;
+}
 
-    .navbar-toggle span {
-      display: block;
-      width: 30px;
-      height: 3px;
-      background-color: #fff;
-      margin-bottom: 5px;
-    }
+/* visited link */
+a:visited {
+  color: #FF8B01;
+}
 
-    .navbar-menu {
-      display: flex;
-      justify-content: flex-end;
-      align-items: center;
-      height: 100%;
-    }
+.parallax {
+    /* The image used */
+    background-image: url("Library/crucible-background.png");
 
-    .navbar-menu a {
-      color: #fff;
-      text-decoration: none;
-      margin-left: 15px;
-    }
+    /* Set a specific height */
+    min-height: 500px;
 
-    .parallax {
-      background-image: url('Library/crucible-background.png');
-      background-attachment: fixed;
-      background-position: center;
-      background-repeat: no-repeat;
-      background-size: cover;
-      height: 100vh;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      flex-direction: column;
-      color: #fff;
-    }
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
 
-    .parallax-overlay {
-      position: absolute;
-      top: 0;
-      bottom: 0;
-      left: 0;
-      right: 0;
-      background-color: rgba(0, 0, 0, 0.5);
-    }
+.row {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
 
-    .parallax-content {
-      z-index: 10;
-      text-align: center;
-    }
+/* The flip box container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
+.flip-box {
+  background-color: black;
+  width: 300px;
+  height: 200px;
+  border: 1px solid black;
+  perspective: 1000px; /* Remove this if you don't want the 3D effect */
+}
 
-    .parallax-title {
-      font-size: 48px;
-      margin-bottom: 20px;
-      font-weight: bold;
-    }
+/* This container is needed to position the front and back side */
+.flip-box-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.7s;
+  transform-style: preserve-3d;
+}
 
-    .parallax-subtitle {
-      font-size: 24px;
-      margin-bottom: 40px;
-    }
+/* Do an horizontal flip when you move the mouse over the flip box container */
+.flip-box:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
 
-    .section {
-      height: 500px;
-      display: flex;
-      border: thin solid black;
-      justify-content: center;
-      align-items: center;
-      flex-direction: column;
-      /* color: #333; */
-      background-color: black;
-      opacity: 0.9;
-    }
+/* Position the front and back side */
+.flip-box-front, .flip-box-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden; /* Safari */
+  backface-visibility: hidden;
+}
 
-    .section-title {
-      font-size: 36px;
-      margin-bottom: 20px;
-      font-weight: bold;
-      color: white;
-    }
+/* Style the front side */
+.flip-box-front {
+  background-color: black;
+  color: white;
+}
 
-    .section-content {
-      text-align: center;
-      color: #fff
-    }
+/* Style the back side */
+.flip-box-back {
+  background-color:rgb(63, 47, 47);
+  color: white;
+  transform: rotateY(180deg);
+}
+</style>
 
-    .section-tiles {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      flex-wrap: wrap;
-    }
 
-    @media (max-width: 768px) {
-      .navbar-menu {
-        display: none;
-      }
 
-      .navbar-toggle {
-        display: block;
-      }
+<body class="base">
+<!-- Start parallax -->
 
-      .navbar-toggle.active span:nth-child(2) {
-        opacity: 0;
-      }
+<div class="parallax">
 
-      .navbar-toggle.active span:nth-child(1) {
-        transform: rotate(45deg) translateY(8px);
-      }
+  <!-- Start intro and Search and ChangeLog -->
+  <div style="display: flex; flex-wrap: wrap; vertical-align: middle">
 
-      .navbar-toggle.active span:nth-child(3) {
-        transform: rotate(-45deg) translateY(-8px);
-      }
+    <div style="flex: 25%; padding: 0 4px; vertical-align: middle;  opacity: 0.7; background-color: black;font-size:24px; color: white">
+      <h1 style="color: #FF8B01; padding: 0; margin: 0" >Partner Crucible</h1>
+      <h2 style="color: #FF8B01; padding: 0; margin: 0">a forge for Microsoft Partners</h2>
+      <p>This project aims to serve as an <i>entry point</i> into the wealth of information and services available to Canadian Microsoft partners.</p>
+      <p>The <i><b>Partner Crucible</b></i> will curate links, models, and insights to ensure our partners have an overview and a quick path forward.</p>
 
-      .navbar-menu.active {
-        display: flex;
-        flex-direction: column;
-        position: fixed;
-        background-color: #333;
-        width: 100%;
-        height: 100vh;
-        top: 0;
-        left: 0;
-        justify-content: center;
-        align-items: center;
-        padding-top: 80px;
-        z-index: 99;
-      }
-
-      .navbar-menu.active a {
-        margin: 15px 0;
-      }
-    }
-
-    /* The flip box container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
-    .flip-box {
-      background-color: black;
-      width: 300px;
-      height: 200px;
-      border: 1px solid black;
-      perspective: 1000px; /* Remove this if you don't want the 3D effect */
-    }
-
-    /* This container is needed to position the front and back side */
-    .flip-box-inner {
-      position: relative;
-      width: 100%;
-      height: 100%;
-      text-align: center;
-      transition: transform 0.7s;
-      transform-style: preserve-3d;
-    }
-
-    /* Do an horizontal flip when you move the mouse over the flip box container */
-    .flip-box:hover .flip-box-inner {
-      transform: rotateY(180deg);
-    }
-
-    /* Position the front and back side */
-    .flip-box-front, .flip-box-back {
-      position: absolute;
-      width: 100%;
-      height: 100%;
-      -webkit-backface-visibility: hidden; /* Safari */
-      backface-visibility: hidden;
-    }
-
-    /* Style the front side */
-    .flip-box-front {
-      background-color: black;
-      color: white;
-    }
-
-    /* Style the back side */
-    .flip-box-back {
-      background-color:rgb(63, 47, 47);
-      color: white;
-      transform: rotateY(180deg);
-    }
-    
-  </style>
-</head>
-<body>
-  <div class="navbar">
-    <div class="navbar-brand">Microsoft Partner Crucible</div>
-    <div class="navbar-toggle" onclick="toggleNavbar()">
-      <span></span>
-      <span></span>
-      <span></span>
-    </div>
-    <div class="navbar-menu" id="navbarMenu">
-      <a href="#">Home</a>
-      <a href="#innovation">Innovation</a>
-      <a href="#partnerpractice">Partner Practice</a>
-      <a href="#solutionareas">Solution Areas</a>
-    </div>
-  </div>
-
-  <div class="parallax">
-    <div class="parallax-overlay"></div>
-    <div class="parallax-content">
-      <h1 class="parallax-title">Welcome to the Crucible</h1>
-      <h3 class="parallax-subtitle">A forge for Microsoft Partners</h3>
-    </div>
-  </div>
-
-  
-  <div id="intro" class="section">
-
-    <h2 class="section-title">Partner crucible</h2>
-    <div class="section-content">
-      <p>This project aims to serve as an <i>entry point</i> into the wealth of information and services available to Canadian Microsoft partners. The <i><b>Partner Crucible</b></i> will curate links, models, and insights to ensure our partners have an overview and a quick path forward.</p>
     </div>
 
-    <div class="section-tiles">
+    <div style="flex:25% ;padding: 0 4px; opacity: 0.7;">
       <div class="flip-box" >
         <div class="flip-box-inner">
           <div class="flip-box-front">
@@ -297,15 +150,19 @@
         </div>
       </div>
     </div>
-  </div>
 
-  <div id="innovation" class="section">
-    <h2 class="section-title">Innovation</h2>
-    <div class="section-content">
-      <p>From a blog series presenting points of view from experts and practitioners, to a collection of resources for partner practice building around key industries, to examples of innovation across the partner ecosystem.</p>
+  </div>
+  <!-- End Intro, Search and ChangeLog -->
+
+  <!-- Start signal:noise, innovation, and industry -->
+  <div style="display: flex; flex-wrap: wrap;">
+
+    <div style="flex: 25%; padding: 0 4px; vertical-align: middle;  opacity: 0.7; background-color: black;font-size:24px; color: white">
+      <h1 style="color: #FF8B01; padding: 0; margin: 0">signal:noise, innovation, and industry</h2>
+      <p>From a blog series presenting points of view from experts and practitioners, to a collection of resources for partner practice building around key industries, to examples of innovation across the partner ecosystem.
     </div>
 
-    <div class="section-tiles">
+    <div style="flex:25%;padding: 0 4px; opacity: 0.7;">
       <div class="flip-box" >
         <div class="flip-box-inner">
           <div class="flip-box-front">
@@ -356,15 +213,21 @@
       </div>
     </div>
   </div>
+  <!-- End intro -->
 
-  <div id="partnerpractice" class="section">
-    <h2 class="section-title">Partner practice</h2>
-    <div class="section-content">
+  <!-- Start partner practice-->
+
+  <div style="display: flex; flex-wrap: wrap; ">
+
+    <div style="flex: 25%; opacity: 0.7; background-color: black;font-size:24px; color: white">
+      <h1 style="color: #FF8B01">partner practice</h1>
       <p>A collection of partner resources related to practice building from profitability and growth, to skilling journeys, to ensuring recognition for your successes.</p>
       <p>From ISV, SaaS and Marketplace, to CSP, FinOps and Support.</p>
     </div>
 
-    <div class="section-tiles">
+
+
+    <div style="flex:25%;padding: 0 4px; opacity: 0.7;">
       <div class="flip-box" >
         <div class="flip-box-inner">
           <div class="flip-box-front">
@@ -405,22 +268,27 @@
         </div>
       </div>
     </div>
+
+
   </div>
 
-  <div id="solutionareas" class="section">
-    <h2 class="section-title">Solution areas</h2>
-    <div class="section-content">
-      <p>The partner <i>designations and specialisations</i> span 6 distinct <i>solution areas.</i> Each of these includes a learning journeys align to specific Microsoft Cloud technologies and capabilities.</p>
-      <p>Learning resources than span all the solution areas are listed below:</p>
-      <ul>
-        <li><a href="./LearningResources">Learning Resources</a></li>
-        <li><a href="./LearningResourcesFrenchDataAI">Ressources pour le perfectionnement (français)</a></li>
-        <li><a href="./Hackathon">Hackathons</a></li>
-        <li><a href="./SandboxEnvironments">Sandbox Environments</a></li>
-      </ul>
+  <!-- Start solution areas -->
+  <div style="display: flex; flex-wrap: wrap;">
+
+    <div style="flex:25% ; opacity: 0.7; background-color: black;font-size:24px; color: white">
+    <h1 style="color: #FF8B01">solution areas</h1>
+    <p>The partner <i>designations and specialisations</i> span 6 distinct <i>solution areas.</i> Each of these includes a learning journeys align to specific Microsoft Cloud technologies and capabilities.</p>
+    <p>Learning resources than span all the solution areas are listed below:</p>
+    <ul>
+      <li><a href="./LearningResources">Learning Resources</a></li>
+      <li><a href="./LearningResourcesFrenchDataAI">Ressources pour le perfectionnement (français)</a></li>
+      <li><a href="./Hackathon">Hackathons</a></li>
+      <li><a href="./SandboxEnvironments">Sandbox Environments</a></li>
+    </ul>
+
     </div>
 
-    <div class="section-tiles">
+    <div style="flex:12%; background-color: black ;padding: 0 4px; vertical-align: middle; opacity: 0.7;">
       <div class="flip-box">
         <div class="flip-box-inner">
           <div class="flip-box-front">
@@ -466,8 +334,8 @@
           </div>
         </div>
       </div>
-   
-
+    </div>
+    <div style="flex:12%; background-color: black ;padding: 0 4px; vertical-align: middle; opacity: 0.7;">
       <div class="flip-box">
         <div class="flip-box-inner">
           <div class="flip-box-front">
@@ -522,13 +390,10 @@
           </div>
         </div>
       </div>
+    </div>
   </div>
+</div>
+<!-- End parallax -->
 
-  <script>
-    function toggleNavbar() {
-      var navbarMenu = document.getElementById("navbarMenu");
-      navbarMenu.classList.toggle("active");
-    }
-  </script>
 </body>
-</html>
+</head>
