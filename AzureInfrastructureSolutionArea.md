@@ -136,6 +136,11 @@ Source | Description | Notes
 [Azure Network Security](https://github.com/Azure/Azure-Network-Security) | Deploy Azure NetSec resources programmatically using scripts and templates | GitHub
 [Azure Network Security Ninja Training](https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-network-security-ninja-training/ba-p/2356101) | In this blog post, we will walk you through basic to advanced scenarios for Azure network security. Ready to become an Azure NetSec ninja? Dive right in! | Tech Community 2022
 
+## Workload - Azure Virtual Desktop (AVD)
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[Apply Zero Trust principles to an Azure Virtual Desktop deployment](https://learn.microsoft.com/en-ca/security/zero-trust/azure-infrastructure-avd) | This article provides steps to apply the principles of Zero Trust to an Azure Virtual Desktop deployment| Microsoft Learn
 
 ## Workload - Azure Kubernetes Service (AKS)
 
