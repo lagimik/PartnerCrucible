@@ -57,7 +57,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 - Added 15 Tips to Become a Better Prompt Engineer for Generative AI
 - added Azure OpenAI Solution Accelerators
 - added Azure OpenAI Landing Zone reference architecture
-- Added Inside Microsoft's AI supercomputer | Featuring Mark Russinovich
+- Added Inside Microsoft's AI supercomputer  Featuring Mark Russinovich
 
 ## Deep links
 
@@ -69,7 +69,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 - [Business Process Automation Accelerator](https%3A//github.com/Azure/business-process-automation): This accelerator provides a no-code Studio for users to quickly build complex, multi-stage AI pipelines. (GitHub)
 - [Project Miyagi](https%3A//github.com/Azure-Samples/miyagi): Project Miyagi serves as the foundation for an envisioning workshop that reimagines the design, development, and deployment of intelligent applications. (GitHub)
 - [Azure OpenAI Landing Zone reference architecture](https%3A//techcommunity.microsoft.com/t5/azure-architecture-blog/azure-openai-landing-zone-reference-architecture/ba-p/3882102): In this article, we delve into the synergy of Azure Landing Zones and Azure OpenAI Service, building a secure and scalable AI environment. (Tech Community)
-- [Inside Microsoft's AI supercomputer | Featuring Mark Russinovich](https%3A//www.youtube.com/watch?v=Rk3nTUfRZmo): Get an inside look at the AI supercomputer infrastructure built to run ChatGPT and other large language models in Azure. (Microsoft Mechanics)
+- [Inside Microsoft's AI supercomputer Featuring Mark Russinovich](https%3A//www.youtube.com/watch?v=Rk3nTUfRZmo): Get an inside look at the AI supercomputer infrastructure built to run ChatGPT and other large language models in Azure. (Microsoft Mechanics)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-AzureOpenAI) for more partner resources.
 
