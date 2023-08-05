@@ -82,7 +82,7 @@
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
-      height: 100vh;
+      height: 75vh;
       display: flex;
       justify-content: center;
       align-items: center;
@@ -96,7 +96,7 @@
       bottom: 0;
       left: 0;
       right: 0;
-      background-color: rgba(0, 0, 0, 0.5);
+      background-color: rgba(0, 0, 0, 0.2);
     }
 
     .parallax-content {
@@ -116,14 +116,14 @@
     }
 
     .section {
-      
+      padding-top: 50px;
+      padding-bottom: 50px;
       display: flex;
       justify-content: center;
       align-items: center;
       flex-direction: column;
-      /* color: #333; */
       background-color: black;
-      opacity: 0.9;
+    
     }
 
     .section-title {
@@ -154,8 +154,24 @@
       color: #FF8B01
     }
 
+    .section-spacer {
+      height: 25px;
+      background-color: rgba(0, 0, 0, 0.7);
+      background-image: url('Library/crucible-background.png');
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 25vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      color: #fff;
+    }
 
-    @media (max-width: 768px) {
+
+    @media (max-width: 1024px) {
       .navbar-menu {
         display: none;
       }
@@ -181,13 +197,13 @@
         flex-direction: column;
         position: fixed;
         background-color: #333;
-        width: 100%;
-        height: 100vh;
+        width: 10%;
+        height: 30vh;
         top: 0;
-        left: 0;
-        justify-content: center;
+        right: 0;
+        justify-content: left;
         align-items: center;
-        padding-top: 80px;
+        padding-top: 25px;
         z-index: 99;
       }
 
@@ -276,20 +292,15 @@
   <div class="parallax">
     <div class="parallax-overlay"></div>
     <div class="parallax-content">
-      <h1 class="parallax-title">Welcome to the Crucible</h1>
-      <h3 class="parallax-subtitle">A forge for Microsoft Partners</h3>
-      <h2 class="parallax-subtitle">(scroll down)</h3>
+      <p class="parallax-title">Welcome to the Crucible</p>
+      <p class="parallax-subtitle">A forge for Microsoft Partners</p>
+      <p class="parallax-subtitle">(scroll down)</p>
+      <p class="section-content">This project aims to serve as an <i>entry point</i> into the wealth of information and services available to Canadian Microsoft partners. The <i><b>Partner Crucible</b></i> will curate links, models, and insights to ensure our partners have an overview and a quick path forward.</p>
     </div>
   </div>
 
-  
   <div id="intro" class="section">
-
-    <h2 class="section-title">Partner crucible</h2>
-    <div class="section-content">
-      <p>This project aims to serve as an <i>entry point</i> into the wealth of information and services available to Canadian Microsoft partners. The <i><b>Partner Crucible</b></i> will curate links, models, and insights to ensure our partners have an overview and a quick path forward.</p>
-    </div>
-
+    <div class="section-content">   </div>
     <div class="section-tiles">
       <div class="flip-box" >
         <div class="flip-box-inner">
@@ -299,7 +310,7 @@
           </div>
           <div class="flip-box-back">
             <h2 class="section-tiles-title"><a href="./Search">Partner Crucible Search</a></h2>
-            Full text search fueled by Lunr.
+            <p>Full text search fueled by Lunr.</p>
           </div>
         </div>
       </div>
@@ -321,6 +332,8 @@
       </div>
     </div>
   </div>
+ 
+  <div class="section-spacer"></div>
 
   <div id="innovation" class="section">
     <h2 class="section-title">Innovation</h2>
@@ -380,6 +393,8 @@
     </div>
   </div>
 
+  <div class="section-spacer"></div>
+  
   <div id="partnerpractice" class="section">
     <h2 class="section-title">Partner practice</h2>
     <div class="section-content">
@@ -420,7 +435,6 @@
               <li><a href="./PracticeBuilding-Secure">Secure the practice</a></li>
               <li><a href="./PartnerPortals">Partner Portals</a></li>
               <li><a href="./PartnerSupport">Partner Support</a></li>
-              <li><a href="./LearningResources">Learning and Certification</a></li>
               <li><a href="./SalesEnablement">Sales Enablement</a></li>
             </ul>
           </div>
@@ -429,16 +443,12 @@
     </div>
   </div>
 
+  <div class="section-spacer"></div>
+
   <div id="solutionareas" class="section">
     <h2 class="section-title">Solution areas</h2>
     <div class="section-content">
       <p>The partner <i>designations and specialisations</i> span 6 distinct <i>solution areas.</i> Each of these includes a learning journeys align to specific Microsoft Cloud technologies and capabilities. Learning resources than span all the solution areas are listed below:</p>
-      <ul>
-        <li><a href="./LearningResources">Learning Resources</a></li>
-        <li><a href="./LearningResourcesFrenchDataAI">Ressources pour le perfectionnement (français)</a></li>
-        <li><a href="./Hackathon">Hackathons</a></li>
-        <li><a href="./SandboxEnvironments">Sandbox Environments</a></li>
-      </ul>
     </div>
 
     <div class="section-tiles">
@@ -543,7 +553,28 @@
           </div>
         </div>
       </div>
+
+      <div class="flip-box">
+        <div class="flip-box-inner">
+          <div class="flip-box-front">
+            <h2 class="section-tiles-title">Common Resources</h2>
+            <img src="./Library/crucible-ba-icon.png" />
+          </div>
+          <div class="flip-box-back">
+            <h2 class="section-tiles-title">Common Resources</h2>
+            <ul style="text-align: left;"">
+              <li><a href="./LearningResources">Learning Resources</a></li>
+        <li><a href="./LearningResourcesFrenchDataAI">Ressources pour le perfectionnement (français)</a></li>
+        <li><a href="./Hackathon">Hackathons</a></li>
+        <li><a href="./SandboxEnvironments">Sandbox Environments</a></li>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
   </div>
+
+  <div class="section-spacer"></div>
 
   <script>
     function toggleNavbar() {
