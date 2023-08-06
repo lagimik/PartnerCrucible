@@ -19,6 +19,7 @@ Source | Description | Notes
 [Magic Quadrant™ for Integration Platform as a Service, Worldwide](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2023-gartner-magic-quadrant-for-integration-platform-as-a-service-worldwide/#:~:text=We%20are%20excited%20that%20for%20the%20fifth%20consecutive,integration%20needs.%20An%20integration%20solution%20for%20all%20developers) | Microsoft named a Leader in 2023 Gartner® Magic Quadrant™ for Integration Platform as a Service, Worldwide | Gartner 2023
 [State of DevOps Report](https://www.puppet.com/resources/state-of-platform-engineering) | Platform Engineering is the DevOps Differentiator — Learn Why| Puppet 2023
 [Enterprise DevOps Report](https://clouddamcdnprodep.azureedge.net/gdc/gdcR61DoH/original) | n April of 2020, McKinsey, looking to find tangible ways to evaluate how key business metrics were improved through software development innovation, created the concept of the Developer Velocity Index (DVI)| 2021 Microsoft
+[Microsoft named a Leader in the 2022 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2022-gartner-magic-quadrant-for-industrial-iot-platforms/) | As industrial Internet of Things (IoT) matures and transforms critical business functions, Microsoft continues to innovate and invest in this area and engage with a large ecosystem of solution partners.| Gartner
 
 ## Practice Building
 
@@ -122,7 +123,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
-[Microsoft named a Leader in the 2022 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2022-gartner-magic-quadrant-for-industrial-iot-platforms/) | As industrial Internet of Things (IoT) matures and transforms critical business functions, Microsoft continues to innovate and invest in this area and engage with a large ecosystem of solution partners.| Gartner
+[IoT for Beginners - A Curriculum](https://microsoft.github.io/IoT-For-Beginners/#/)| Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about IoT basics. | GitHub
 [Partner Innovation series: smarter buildings with Azure Digital Twins](https://blogs.partner.microsoft.com/mpn/partner-innovation-series-smarter-buildings-with-azure-digital-twins/?wt.mc_id=OCPM_AZU_OR_LI_CSO_GL_digital) | Willow is modernizing and transforming the real estate, infrastructure, and mining industries with WillowTwinTM — a SaaS platform built on Azure Digital Twins that makes buildings and spaces smart and more efficient.|...
 [Microsoft AI & IoT Insider Labs](https://aiotlabs.microsoft.com/p/apply)| Microsoft AI & IoT Insider Labs | ...
 
