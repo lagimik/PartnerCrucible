@@ -45,6 +45,15 @@ Source | Description | Notes
 [MySQL Developer Learning Journey](https://azure.microsoft.com/en-us/resources/mysql-developer-learning-journey/?OCID=mysql_dev_pdf_MySQL_page) | Learn more about Azure Database for MySQL and application development in Azure with videos, tutorials, and training modules curated for MySQL Developers. Use this 30-day learning path to grow your skills and develop and deploy applications faster in Azure.  | Azure Skills Navigator
 [Azure Database for MySQL Developer Guide](https://azure.microsoft.com/en-us/resources/azure-database-for-mysql-developer-guide/?OCID=mysql_dev_pdf_wk4_try_azd) | he Azure Database for MySQL Developer Guide is a comprehensive guide to developing MySQL-based applications in Azure. This guide contains actionable insights and proven best practices to successfully deploy cloud applications for MySQL in Azure. Towards the end of the guide, you can find links to tutorial jumpstarts, begin developing a sample PHP application, or select an evolved version utilizing a microservices architecture on AKS. | Azure Skills Navigator
 
+## Microsoft AI Learning Curriculum
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Artificial Intelligence for Beginners - A Curriculum](https://microsoft.github.io/AI-For-Beginners/?id=artificial-intelligence-for-beginners-a-curriculum) | Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about Artificial Intelligence. | GitHub
+[Machine Learning for Beginners - A Curriculum](https://microsoft.github.io/ML-For-Beginners/#/) | Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 26-lesson curriculum all about Machine Learning | GitHub
+[Data Science for Beginners - A Curriculum](https://microsoft.github.io/Data-Science-For-Beginners/#/) | Azure Cloud Advocates at Microsoft are pleased to offer a 10-week, 20-lesson curriculum all about Data Science. | GitHub
+
+
 ## Azure OpenAI
 This section has been regrouped here: [Data & AI > Azure OpenAI](./DataAISolutionArea-AzureOpenAI)
 
