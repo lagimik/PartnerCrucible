@@ -109,11 +109,11 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
+[Demystifying Microsoft's Entra Overhaul: Your Infographic Guide to End-to-End Updates, Capabilities & Additions](https://www.linkedin.com/posts/samehyounis_microsoftentra-idm-ciam-activity-7085231536018509824-YbSC?utm_source=share&utm_medium=member_desktop) |  Summary and infographic| LinkedIn @SamehYounis
 [Secure Identities and Access – Build Intent Workshop](https://partner.microsoft.com/en-CA/partnership/partner-incentives/build-intent-workshops-usage-secure-identities-and-access) | Secure Identities and Access Workshop is designed to help customers assess the maturity of their identity estates. By using Secure Score and application discovery tools, you can help your customers gain visibility into their current identity estates and work together with them to define clear next steps and the best ways to mitigate risks.  | Microsoft Partner
 [Days of the Defender: Identity & Access Management with Microsoft Entra](https://vshow.on24.com/vshow/Security_Depth/registration/22542) | PArtner On-demand : Days of Defender - Identity & Access Management with Microsoft Entra Deep Dive. These Security depth workshops are intermediate to advanced technical sessions |
 [Microsoft Entra sessions @ Build 2023](https://build.microsoft.com/en-US/sessions?search=entra&sortBy=relevance) | lagship event for developers, Microsoft Build is where industry disruptors, cutting-edge technologists, and the developer community come together to learn about new tech, share ideas, and get fueled with skills to build the future | Microsoft Build 2023
 [Microsoft Entra sessions @ Airlift 2022](https://airlift.microsoft.com/sessionscheduler?p1=eyJzcGVha2VyIjpbXSwidGltZXNsb3QiOltdLCJkYXkiOltdLCJyb29tIjpbXSwibG9jYXRpb24iOltdLCJkaWdpdGFsIjpbXSwibWVkaWEiOiIiLCJkaXNwbGF5bW9kZSI6Imxpc3QiLCJncm91cGJ5IjoiIiwiaW5wZXJzb24iOmZhbHNlLCJzY2hlZHVsZWQiOmZhbHNlLCJvbmRlbWFuZCI6ZmFsc2UsInVwY29taW5nIjpmYWxzZSwiaGFzc2xpZGVzIjpmYWxzZSwic3RhcnQiOiIiLCJmaW5pc2giOiIiLCJwYWdlbnVtYmVyIjoxLCJjYXRlZ29yaWVzIjp7fSwia2V5d29yZCI6Im1pY3Jvc29mdCBlbnRyYSJ9) | Airlifr is an engineering-led event for deep dive technical training.| Microsoft Airlift
-
 
 
 ## Microsoft Defender Threat Intelligence
@@ -122,10 +122,17 @@ Source | Description | Notes
 :----- | :---------- | :----
 [Microsoft Defender Threat Intelligence Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/become-a-microsoft-defender-threat-intelligence-ninja-the/ba-p/3656965) | This blog post will walk you through Microsoft Defender Threat Intelligence (Defender TI) level 400 training and help you become a Defender TI master.| Tech Community 2022
 
+## Defender External Attack Surface Management (EASM)
+
+Source | Description | Notes
+:----- | :---------- | :----
+[Unlocking a 360° Cybersecurity View with Microsoft Defender EASM](https://www.linkedin.com/posts/samehyounis_microsoft-cybersecurity-microsoftdefender-activity-7092474141190090755-4E_W?utm_source=share&utm_medium=member_desktop) | Summary and infographic| LinkedIn @SamehYounis
+
 ## Defender for Microsoft 365
 
 Source | Description | Notes
 :----- | :---------- | :----
+[Unlocking SIEM Capabilities: Microsoft 365 Defender Portal vs. Microsoft Sentinel - An In-Depth Comparison](https://www.linkedin.com/posts/samehyounis_microsoft365defender-microsoftsentinel-siem-activity-7095010832413052928-2GE1?utm_source=share&utm_medium=member_desktop) | Summary and infographic | LinkedIn @SamehYounis
 [Microsoft Sentinel and Microsoft 365 Defender](https://github.com/Azure/Azure-Sentinel) | This repository contains out of the box detections, exploration queries, hunting queries, workbooks, playbooks and much more to help you get ramped up with Microsoft Sentinel and provide you security content to secure your environment and hunt for threats. The hunting queries also include Microsoft 365 Defender hunting queries for advanced hunting scenarios in both Microsoft 365 Defender and Microsoft Sentinel.| GitHub
 [Microsoft 365 Defender Demo](https://cdx.transform.microsoft.com/experience-detail/d12fa95b-908d-4d74-bd3b-9549d9d562f4)| Using the integrated threat protection demo environment, this Microsoft 365 Defender Demo Guide walks field sellers through a content rich demo for customers showing the investigation of a simulated spear phishing attack and advanced hunting exercise.|..
 [Microsoft Defender for Business](https://learning.eventbuilder.com/M365MDBSeries)| WEbinar series|...
