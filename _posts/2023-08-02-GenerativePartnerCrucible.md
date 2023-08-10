@@ -53,7 +53,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 ## What's new
 
 - Added Azure OpenAI Examples by @jakeatmsf
-- Merge branch 'main' of https%3A//github.com/lagimik/PartnerCrucible
+- Merge branch 'main' of https://github.com/lagimik/PartnerCrucible
 - Added 15 Tips to Become a Better Prompt Engineer for Generative AI
 - added Azure OpenAI Solution Accelerators
 - added Azure OpenAI Landing Zone reference architecture
@@ -61,15 +61,15 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ## Deep links
 
-- [Azure OpenAI Examples](https%3A//github.com/jakeatmsft/AzureOpenAIExamples): This repository shares example code and example prompts for accomplishing common tasks with the Azure OpenAI API. (GitHub)
-- [15 Tips to Become a Better Prompt Engineer for Generative AI](https%3A//techcommunity.microsoft.com/t5/azure-ai-services-blog/15-tips-to-become-a-better-prompt-engineer-for-generative-ai/ba-p/3882935?WT.mc_id=academic-0000-abartolo): A guide for developers, data scientists, and curious newcomers alike to create effective prompts with confidence. (Tech Community)
-- [Prompt Engineering 101 - Introduction and resources](https%3A//www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain/): By Xavier (Xavi) Amatriain. (LinkedIn)- [Prompt Engine](https%3A//github.com/microsoft/prompt-engine): This repo contains an NPM utility library for creating and maintaining prompts for Large Language Models (LLMs). (GitHub)
-- [Azure OpenAI Embeddings QnA](https%3A//github.com/ruoccofabrizio/azure-open-ai-embeddings-qna): A simple web application for an OpenAI-enabled document search. (GitHub)
-- [Customer Service Conversational Insights with Azure OpenAI](https%3A//github.com/microsoft/Customer-Service-Conversational-Insights-with-Azure-OpenAI-Services): The Customer Service Conversational Insights is a solution accelerator that allows customers to quickly deploy an integrated platform and extract insights from customer conversations. (GitHub)
-- [Business Process Automation Accelerator](https%3A//github.com/Azure/business-process-automation): This accelerator provides a no-code Studio for users to quickly build complex, multi-stage AI pipelines. (GitHub)
-- [Project Miyagi](https%3A//github.com/Azure-Samples/miyagi): Project Miyagi serves as the foundation for an envisioning workshop that reimagines the design, development, and deployment of intelligent applications. (GitHub)
-- [Azure OpenAI Landing Zone reference architecture](https%3A//techcommunity.microsoft.com/t5/azure-architecture-blog/azure-openai-landing-zone-reference-architecture/ba-p/3882102): In this article, we delve into the synergy of Azure Landing Zones and Azure OpenAI Service, building a secure and scalable AI environment. (Tech Community)
-- [Inside Microsoft's AI supercomputer Featuring Mark Russinovich](https%3A//www.youtube.com/watch?v=Rk3nTUfRZmo): Get an inside look at the AI supercomputer infrastructure built to run ChatGPT and other large language models in Azure. (Microsoft Mechanics)
+- [Azure OpenAI Examples](https://github.com/jakeatmsft/AzureOpenAIExamples): This repository shares example code and example prompts for accomplishing common tasks with the Azure OpenAI API. (GitHub)
+- [15 Tips to Become a Better Prompt Engineer for Generative AI](https://techcommunity.microsoft.com/t5/azure-ai-services-blog/15-tips-to-become-a-better-prompt-engineer-for-generative-ai/ba-p/3882935?WT.mc_id=academic-0000-abartolo): A guide for developers, data scientists, and curious newcomers alike to create effective prompts with confidence. (Tech Community)
+- [Prompt Engineering 101 - Introduction and resources](https://www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain/): By Xavier (Xavi) Amatriain. (LinkedIn)- [Prompt Engine](https://github.com/microsoft/prompt-engine): This repo contains an NPM utility library for creating and maintaining prompts for Large Language Models (LLMs). (GitHub)
+- [Azure OpenAI Embeddings QnA](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna): A simple web application for an OpenAI-enabled document search. (GitHub)
+- [Customer Service Conversational Insights with Azure OpenAI](https://github.com/microsoft/Customer-Service-Conversational-Insights-with-Azure-OpenAI-Services): The Customer Service Conversational Insights is a solution accelerator that allows customers to quickly deploy an integrated platform and extract insights from customer conversations. (GitHub)
+- [Business Process Automation Accelerator](https://github.com/Azure/business-process-automation): This accelerator provides a no-code Studio for users to quickly build complex, multi-stage AI pipelines. (GitHub)
+- [Project Miyagi](https://github.com/Azure-Samples/miyagi): Project Miyagi serves as the foundation for an envisioning workshop that reimagines the design, development, and deployment of intelligent applications. (GitHub)
+- [Azure OpenAI Landing Zone reference architecture](https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-openai-landing-zone-reference-architecture/ba-p/3882102): In this article, we delve into the synergy of Azure Landing Zones and Azure OpenAI Service, building a secure and scalable AI environment. (Tech Community)
+- [Inside Microsoft's AI supercomputer Featuring Mark Russinovich](https://www.youtube.com/watch?v=Rk3nTUfRZmo): Get an inside look at the AI supercomputer infrastructure built to run ChatGPT and other large language models in Azure. (Microsoft Mechanics)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-AzureOpenAI) for more partner resources.
 
@@ -81,7 +81,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 The Partner Crucible updates for the Data AI Solution Area include the following changes:
 
- 
+
 ## Deep links
 - [Unleashing the Power of SynapseML and Microsoft Fabric: A Guide to Q&A on PDF Documents](https://blog.fabric.microsoft.com/en-us/blog/unleashing-the-power-of-synapseml-and-microsoft-fabric-a-guide-to-qa-on-pdf-documents-2/): In this blog post, we delve into the exciting functionalities and features of Microsoft Fabric and SynapseML to demonstrate how to leverage LLMs to perform question and answer (Q&A) tasks on any PDF document.
 
@@ -98,8 +98,8 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 - Discover "Tools and Demos"
 - Added "The Full Guide to Packaging and Deploying ML Models to Production Using Azure: Step-by-Step Guide" to the list of Tools and Demos
 
- 
 ## Deep links
+
 - [Data and AI Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy24-azure-data-and-ai-partner-playbook.pdf) – Describes Microsoft's go-to-market strategy, solution plays, partner priorities, and key resources for the Data & AI solution area.
 - [AI Learning and Community Hub](https://learn.microsoft.com/en-ca/ai/) – Microsoft Learn provides AI training and resources, including skill-building, community connections, credentials, expert insights, and upcoming events.
 - [Data & AI Industry DREAM Demos & DREAM Demo in a Box](https://partner.microsoft.com/en-us/asset/collection/industry-dream-demos-and-dream-demo-in-a-box#/): Collection of realistic clickable demos based on customer engagements that cover various industry scenarios, providing step-by-step guidance on how to implement them.
@@ -118,7 +118,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 - Added Azure draft: Draft is a tool made for users who are just getting started with Kubernetes, or users who want to simplify their experience with Kubernetes. This readme will give you a quick rundown on Draft’s commands and what they do.
 
 ## Deep links
-- [Digital and App Innovation Playbook](https://assetsprod.microsoft.com/en-ca/fy24-azure-digital-and-app-innovation-partner-playbook.pdf) | Strategy, Solution Plays, and Key Resources 
+- [Digital and App Innovation Playbook](https://assetsprod.microsoft.com/en-ca/fy24-azure-digital-and-app-innovation-partner-playbook.pdf) | Strategy, Solution Plays, and Key Resources
 - [Azure draft](https://github.com/Azure/draft): Draft is a tool made for users who are just getting started with Kubernetes, or users who want to simplify their experience with Kubernetes. This readme will give you a quick rundown on Draft’s commands and what they do. (GitHub)
 - [6 DevOps tips to help engineering leaders deliver software at scale](https://clouddamcdnprodep.azureedge.net/gdc/gdcHdGj7e/original?utm_medium=email&utm_source=announcement&utm_campaign=forrester-github-practitioner-nurture-emai2-refresh): DevOps is about speed: faster software development, faster updates, and faster shipments, all of.
 
@@ -147,7 +147,7 @@ The Modern Work Partner Playbook has been updated to include Microsoft GTM Strat
 
 ## Deep links
 
-- [Modern Work Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy24-modern-work-partner-playbook.pdf): Describes Microsoft GTM Strategy, Solution Plays, Partner Priorities, and Key Resources. (Partner FY24)## The Microsoft 365 Partner Opportunity### What's newThe Microsoft 365 Partner Opportunity now includes a Total Economic Impact Partner Opportunity Analysis conducted by Forrester in 2023. 
+- [Modern Work Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy24-modern-work-partner-playbook.pdf): Describes Microsoft GTM Strategy, Solution Plays, Partner Priorities, and Key Resources. (Partner FY24)## The Microsoft 365 Partner Opportunity### What's newThe Microsoft 365 Partner Opportunity now includes a Total Economic Impact Partner Opportunity Analysis conducted by Forrester in 2023.
 - [The Microsoft 365 Partner Opportunity](https://aka.ms/W365PartnerTEI): A Total Economic Impact Partner Opportunity Analysis conducted by Forrester in 2023.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/ModernWorkSolutionArea) for more partner resources.
@@ -184,7 +184,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ## What's new
 
- Review [Solution Area Playbooks](https://partner.microsoft.com/explore/solution-areas) that are most relevant to your organization to unlock incentives. 
+ Review [Solution Area Playbooks](https://partner.microsoft.com/explore/solution-areas) that are most relevant to your organization to unlock incentives.
 
 ## Deep links
 - [Solution Area Playbooks](https://partner.microsoft.com/explore/solution-areas): Review Solution Area Playbooks that are most relevant to your organization to unlock incentives.
