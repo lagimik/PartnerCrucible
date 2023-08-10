@@ -6,7 +6,7 @@
 
 <br>
 
-A Collection of resources for Microsoft Commercial Marketplace Offer development and publication. For a view of other solution areas, please see the [Taxonomy](./Taxonomy). 
+A Collection of resources for Microsoft Commercial Marketplace Offer development and publication. For a view of other solution areas, please see the [Taxonomy](./Taxonomy).
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
@@ -20,11 +20,21 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[Microsoft Marketplace - Multiparty Private Offers (MPO)](https://www.youtube.com/watch?v=aAD_MhnYGOs) | Find out how Microsoft is making investments to help partners come together and sell custom solutions on the commercial marketplace with multiparty private offers (MPO) | YouTube
 [Marketplace Summit](https://marketplacesummit.microsoft.com/)| Session recordings are available for you to watch, learn and enjoy! | November 2022
-[Marketplace Office Hours](https://microsoftcloudpartner.eventbuilder.com/MarketplaceOverviewandQAforPartners) | Explore Live and On-Demand Marketplace Office Hours webinars sessions on business and technical topics; providing publishers with the information and resources to successfully publish their solutions to the Commercial Marketplace | Marketplace 
+[Marketplace Office Hours](https://microsoftcloudpartner.eventbuilder.com/MarketplaceOverviewandQAforPartners) | Explore Live and On-Demand Marketplace Office Hours webinars sessions on business and technical topics; providing publishers with the information and resources to successfully publish their solutions to the Commercial Marketplace | Marketplace
 [Mastering the Marketplace](https://microsoft.github.io/) | Mastering the Marketplace is an on-demand learning library for building transactable offers on the Microsoft commercial marketplace. The library contains self-paced videos, hands-on labs, and sample code designed to help you get your offers onto the marketplace in less time and with more understanding. | Github
 [Co-sell opportunities](https://learn.microsoft.com/en-us/partner-center/co-sell-overview#co-sell-opportunities) | A co-sell opportunity is any type of collaboration with Microsoft sales teams, Microsoft partners, or both to sell products and solutions that meet customer needs | MS Learn
+
+## Multi-Party Private Offers (MPO)
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[On-demand webinar on multiparty private offers](https://msuspartners.eventbuilder.com/event/74764) | Get an overview of the new multiparty private offer (MPO) functionality coming to marketplace, including operational steps to onboard selling partners to the program. Multiparty party offers enables ISVs to collaborate with their customers’ preferred channel partners, creating personalized offers with custom payouts, while leveraging existing customer cloud commitments (MACC). Explore this highly anticipated functionality and its potential to transform your marketplace channel strategy and unlock incremental business growth. | Webinar
+[Multiparty private offer repository](https://aka.ms/MPOEnablementResources) | This collection contains resource materials related to multiparty private offers within the Microsoft commercial marketplace. | Partner
+[Multiparty private offers (for selling partners)](https://learn.microsoft.com/en-us/partner-center/marketplace/multiparty-private-offers-for-selling-partners) | Multiparty private offers empower partners to come together, create personalized offers with custom payouts, and sell directly to Microsoft customers with simplified selling through the marketplace. | Microsoft Learn
+[Mastering marketplace video series](https://microsoft.github.io/Mastering-the-Marketplace/partner-center/private-offers/) | Private offers in Partner Center | Mastering the Marketplace
+[Microsoft Marketplace - Multiparty Private Offers (MPO)](https://www.youtube.com/watch?v=aAD_MhnYGOs) | Find out how Microsoft is making investments to help partners come together and sell custom solutions on the commercial marketplace with multiparty private offers (MPO) | YouTube
+
 
 ## Consulting Offers
 
@@ -45,6 +55,3 @@ Source | Description | Notes
 [Step 4. Create Transactable Offer Microsoft commercial marketplace transact capabilities](https://learn.microsoft.com/en-us/azure/marketplace/marketplace-commercial-transaction-capabilities-and-considerations#transact-publishing-option)|  Choosing to sell through Microsoft takes advantage of Microsoft commerce capabilities and provides an end-to-end experience from discovery and evaluation to purchase and implementation.| Microsoft Learn
 [Step 5. Creating a private offer for the customer Private offers in Azure Marketplace - Microsoft marketplace](https://learn.microsoft.com/en-us/marketplace/private-offers-in-azure-marketplace?source=recommendations) | ogether with private plans, private offers allow ISVs to offer custom prices, terms, conditions, and pricing for a specific customer | Microsoft Learn
 [Step 6. Billing and invoicing for Azure Marketplace customers - Microsoft marketplace](https://learn.microsoft.com/en-us/marketplace/billing-invoicing?source=recommendations) | This article discusses billing and invoicing information for Azure Marketplace customers. | Microsoft Learn
-
-## Technical References
-
