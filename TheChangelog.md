@@ -9,9 +9,75 @@ This changelog reflects recent the Partner Crucible updates.
 
 ## Changelog
 
+### Week ending August 11, 2023
+
+Date | Change | File
+:--- | :----- | ---:
+2023-08-10 | added Getting ready for Microsoft AI and Microsoft 365 Copilot | [See changes here](./ModernWorkSolutionArea)
+2023-08-09 | consolidated references for Multi-party private offers in the commercial marketplace | [See changes here](./CommercialMarketplaceOffers)
+2023-08-09 | added Connecting to OneLake | [See changes here](./DataAISolutionArea-Fabric)
+2023-08-09 | added summary and infographics by @SamehYounis | [See changes here](./SecuritySolutionArea)
+2023-08-09 | added Clean up Inactive users with Microsoft 365 Lighthouse | [See changes here](./SecuritySolutionArea)
+2023-08-09 | added Optimizing endpoint security with Microsoft Defender for Endpoint's flexible licensing options | [See changes here](./SecuritySolutionArea)
+2023-08-06 | added Microsoft AI Learning Curriculum | [See changes here](./DataAISolutionArea)
+2023-08-06 | added IoT for Beginners - A Curriculum | [See changes here](./	DigitalAppsandInnovationSolutionArea)
+2023-08-05 | added SE Labs report, Microsoft Defender for Office 365 received the AAA Protection Award | [See changes here](./SecuritySolutionArea)
+2023-08-05 | added process mining practice building guides | [See changes here](./	PowerPlatformSolutionArea)
+2023-08-05 | added Automate tasks management to protect your organization against threats | [See changes here](./SecuritySolutionArea-Sentinel)
+2023-08-03 | added Azure Cost Optimization workbook | [See changes here](./FinOps)
+
+### Week ending August 4, 2023
+
+Date | Change | File
+:--- | :----- | ---:
+2023-08-03 | added Apply Zero Trust principles to an Azure Virtual Desktop deployment | [See changes here](./AzureInfrastructureSolutionArea)
+2023-08-02 | added Microsoft Azure ChatGPT Repo | [See changes here](./DataAISolutionArea-AzureOpenAI)
+2023-08-02 | added Unleashing the Power of SynapseML and Microsoft Fabric | [See changes here](./DataAISolutionArea-Fabric)
+2023-08-02 | added Azure OpenAI Examples by @jakeatmsf | [See changes here](./DataAISolutionArea-AzureOpenAI)
+
+### Week ending July 28, 2023
+
+Date | Change | File
+:--- | :----- | ---:
+2023-07-27 | added PAL and Low Code Application Development advanced specialization FAQ | [See changes here](./PowerPlatformSolutionArea)
+2023-07-26 | added [15 Tips to Become a Better Prompt Engineer for Generative AI | [See changes here](./DataAISolutionArea-AzureOpenAI)
+2023-07-26 | added Purview Data Lifecycle and Records Management | [See changes here](./SecuritySolutionArea)
+2023-07-26 | added Azure OpenAI Solution Accelerators | [See changes here](./DataAISolutionArea-AzureOpenAI)
+2023-07-25 | added Low Code Partner Opportunity | [See changes here](./PowerPlatformSolutionArea)
+2023-07-25 | added Business Applications Playbook | [See changes here](./BusinessApplicationsSolutionArea)
+2023-07-24 | added Azure draft | [See changes here](./DigitalAppsandInnovationSolutionArea)
+2023-07-24 | added The Full Guide to Packaging and Deploying ML Models to Production Using Azure: Step-by-Step Guide](https://techcommunity.microsoft.com/t5/educator-developer-blog/ | [See changes here](./DataAISolutionArea)
+2023-07-24 | added Azure OpenAI Landing Zone reference architecture | [See changes here](./AzureInfrastructureSolutionArea-LandingZones)
+2023-07-24 | The Microsoft 365 Partner Opportunity | [See changes here](./ModernWorkSolutionArea)
+2023-07-24 | added FinOps toolkit | [See changes here](./FinOps)
+2023-07-22 | added Become a Microsoft Priva Ninja | [See changes here](./SecuritySolutionArea)
+
+### Week ending July 21, 2023
+
+Date | Change | File
+:--- | :----- | ---:
+2023-07-21 | added Microsoft Defender for Cloud Apps open app connector platform | [See changes here](./SecuritySolutionArea)
+2023-07-21 | added AI learning and community hub | [See changes here](./DataAISolutionArea)
+2023-07-19 | added Microsoft Marketplace - Multiparty Private Offers (MPO) | [See changes here](./CommercialMarketplaceOffers)
+2023-07-19 | added AI Platform Insiders Research Panel | [See changes here](./DataAISolutionArea)
+2023-07-19 | added Azure Sentinel Tools | [See changes here](./SecuritySolutionArea-Sentinel)
+2023-07-18 | added Microsoft AI Transformation for Partners | [See changes here](./DataAISolutionArea)
+2023-07-18 | added Cosell and sell-through go-to-market  learning path | [See changes here](./ModernWorkSolutionArea)
+2023-07-18 | added Azure Depth Workshops | [See changes here](./AzureInfrastructureSolutionArea)
+2023-07-18 | added Investing in MXDR partner success | [See changes here](./SecuritySolutionArea)
+2023-07-18 | added Era of AI campaign assets | [See changes here](./DataAISolutionArea)
+2023-07-18 | added Digital Marketing Content - On Demand | [See changes here](./PartnerPortals)
+2023-07-18 | added Microsoft Security Copilot - Partner Interest Form | [See changes here](./SecuritySolutionArea)
+2023-07-18 | added AI Transformation Partner Playbook | [See changes here](./DataAISolutionArea)
+2023-07-17 | added Power PLatform online workshops | [See changes here](./PowerPlatformSolutionArea)
+2023-07-17 | added Business Value of Azure Enablement - Whitepaper and Partner Resource Catalog - Well-Architected Framework | [See changes here](./AzureInfrastructureSolutionArea)
+2023-07-16 | added responsible AI toolbox | [See changes here](./DataAISolutionArea-AzureOpenAI)
+2023-07-15 | added Intelligent Field Service Solution Accelerators | [See changes here](./BusinessApplicationsSolutionArea)
+
+
 ### Week ending July 14, 2023
 
-Additions this week include Microsoft 365 Copilot Community and explainer, Sentine workspace manager, Fabric with Databricks, and support matrices for Defender for Cloud 
+Additions this week include Microsoft 365 Copilot Community and explainer, Sentine workspace manager, Fabric with Databricks, and support matrices for Defender for Cloud
 
 Date | Change | File
 :--- | :----- | ---:
@@ -138,7 +204,7 @@ Date | Change | File
 
 
 ### Week ending May 19, 2023
-Changes this week includes "What every CEO should know about generative AI" (@McKinsey). Also included are strong guidance on securing, managing Azure costs, and sustainability as part of your partner practice. Finally, the crucible is now curating resources for startups. 
+Changes this week includes "What every CEO should know about generative AI" (@McKinsey). Also included are strong guidance on securing, managing Azure costs, and sustainability as part of your partner practice. Finally, the crucible is now curating resources for startups.
 
 Date | Change | File
 :--- | :----- | ---:
