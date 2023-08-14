@@ -184,6 +184,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
+[Implementing Zero Trust with Microsoft Purview](https://learn.microsoft.com/en-us/purview/zero-trust-microsoft-purview) | Microsoft Purview solutions can help you implement a Zero Trust security strategy | Microsoft Learn
 [Microsoft Purview One-Stop-Shop (OSS)](https://microsoft.github.io/ComplianceCxE/) | Deployment acceleration, notes from the field, jump starts, webinars from the Customer Acceleration Team (CAT)| GitHub
 [Data Governance and Compliance with Microsoft Purview - Tech Intensity Series](https://msuspartners.eventbuilder.com/EnablePurview) | Extending the Purview name and bringing together data governance capabilities from Data & AI and compliance and risk solutions from Security into one product family, and rebranding to Microsoft Purview | August 2022
 [Microsoft Purview Data Loss Prevention Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-microsoft-purview-data-loss-prevention-ninja-training-is/ba-p/3659015) | There are several videos and resources out there and the overall purpose of the Microsoft Purview Data Loss Prevention Ninja training is to help you master this realm. We aim to get you up-to-date links to the community blogs, training videos, Interactive Guides, learning paths, and any other relevant documentation. | Tech Community
