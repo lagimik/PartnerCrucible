@@ -181,6 +181,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Moving Workloads from Oracle Exadata to Azure: Top 5 Considerations](https://silk.us/resources/moving-workloads-from-oracle-exadata-to-azure-top-5-considerations/?utm_content=257726625&utm_medium=social&utm_source=linkedin&hss_channel=lcp-56412686) | This eBook looks at 5 considerations when moving workloads from Oracle Exadata to Azure.| Silk
 [Oracle Database Workloads](https://github.com/Azure/Oracle-Workloads-for-Azure) | This project documents the method of sizing on-prem Oracle Database workloads for initial migration into Azure | Github
 [Oracle on Azure IaaS](https://github.com/Azure/Oracle-Workloads-for-Azure/blob/main/Oracle%20on%20Azure%20IaaS%20Recommended%20Practices%20for%20Success.pdf) | Recommended Practices for Success | GitHub
 [Oracle RAC on Azure](https://techcommunity.microsoft.com/t5/data-architecture-blog/oracle-rac-on-azure/ba-p/1185410) | The goal of this post is to push past the idea that a lift and shift should always be a 1:1 move.  It's important when moving to the cloud to use the right tools, not just the tools you've always used, which is a very important lesson when it comes to Oracle Real Application Cluster, (RAC). | Tech Community
