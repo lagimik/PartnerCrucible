@@ -76,7 +76,9 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[The Basics of Prompt Engineering with Azure OpenAI Service](https://www.youtube.com/watch?v=e7w6QV1NX1c)| On this episode of the AI Show, we are excited to welcome Marco Casalaina for a demo on how you can program your own ChatGPT - with natural language. And how prompt engineering really works.| The AI Show
 [15 Tips to Become a Better Prompt Engineer for Generative AI](https://techcommunity.microsoft.com/t5/azure-ai-services-blog/15-tips-to-become-a-better-prompt-engineer-for-generative-ai/ba-p/3882935?WT.mc_id=academic-0000-abartolo) | this guide for developers, data scientists and curious newcomers alike to create effective prompts with confidence | Tech Community
+[Large Language Model Prompt Engineering for Complex Summarization](https://devblogs.microsoft.com/cse/2023/06/27/gpt-summary-prompt-engineering/) | In this post we’ll demonstrate some prompt engineering techniques to create summaries of medical research publications.  | DevBlogs
 [Prompt Engineering 101 - Introduction and resources](https://www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain/) | By Xavier  (Xavi) Amatriain | LinkedIn
 [Prompt Engine](https://github.com/microsoft/prompt-engine) | This repo contains an NPM utility library for creating and maintaining prompts for Large Language Models (LLMs).| GitHub
 
