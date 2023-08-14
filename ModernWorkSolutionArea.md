@@ -130,6 +130,8 @@ Source | Description | Notes
 [Microsoft 365 Copilot Technical Overview for Partners](https://transform.microsoft.com/modernwork/download?assetname=assets%2FMicrosoft%20365%20Copilot%20Technical%20Deck.pptx&download=1) | This is a library of Microsoft 365 Copilot slides for Microsoft partners to use as needed when talking to customers. These are designed to provide an overview of privacy, security, data residency, technical questions. | Microsoft Transform
 [Data, Privacy, and Security for Microsoft 365 Copilot](https://learn.microsoft.com/en-ca/DeployOffice/privacy/microsoft-365-copilot) | Provides an overview of Microsoft 365 Copilot data usage, privacy, residency, and sovereignty | Microsoft Learn
 [Microsoft 365 Copilot Explained](https://youtu.be/B2-8wrF9Okc) | Get an inside look at how large language models (LLMs) work when you connect them to the data in your organization. See what makes this possible and how the process respects your privacy to keep data safe with Microsoft 365 Copilot| Microsoft Mechanics
+[Getting ready for Microsoft AI and Microsoft 365 Copilot](https://learning.eventbuilder.com/event/76585) | As a partner, you have the opportunity to leverage the power of AI to enhance your solutions, services, and customer experiences. But how do you get started with AI and what does it mean to be AI-ready? Being AI-ready means that you have the skills and mindset to embrace AI as a strategic asset, the ability to identify the potential use cases for AI, and the know-how to help customers navigate the benefits, challenges, concerns, and expectations. | Events
+
 ## Syntex
 
 Source | Description | Notes
