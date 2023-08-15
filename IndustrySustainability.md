@@ -14,6 +14,7 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Microsoft Canada - Economic and Social Impact Report ](https://www.microsoft.com/cms/api/am/binary/RE4XblY) | p13. Committing to a Sustainable Future| March 20022 EY
 [2022 Environmental Sustainability Report](https://aka.ms/SustainabilityReport2022) | In 2020, we announced that Microsoft will be a carbon negative, water positive, zero waste company that protects ecosystems—all by 2030. Three years into this journey, we continue to make steady progress and remain steadfast in our commitment.| Microsoft
 [Microsoft Cloud for Sustainability: Catalyzing progress with our global partners](https://www.microsoft.com/en-us/industry/blog/sustainability/2023/02/28/microsoft-cloud-for-sustainability-catalyzing-progress-with-our-global-partners/#PartnersMakeMorePossible)| Example cloud for sustainability solutions from global partners| Partner Blog
 [Industry Resources](https://microsoft.github.io/PartnerResources/industry/)| Industry resources| Microsoft US
