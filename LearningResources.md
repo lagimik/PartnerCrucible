@@ -18,7 +18,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
-[Training and Certifications Poster](https://aka.ms/TrainCertPoster) | Fundemental and role-based certification overview | Microsoft
+[Training and Certifications Poster](https://aka.ms/TrainCertPoster) | Fundamental and role-based certification overview | Microsoft
 [Microsoft training and certification guides](https://aka.ms/traincertdeck) | These guides are designed to outline the training and certification options for each solution area that can help you achieve your personal and professional goals. Each guide includes resources such as certification portfolio, overview, journey and learning path to help you prepare for your learning experience | Microsoft
 [Microsoft Learn](https://learn.microsoft.com)| Discover new skills, find certifications, and advance your career in minutes with interactive, hands-on learning paths.| Open to All
 [Cloud Skills Challenge](https://www.microsoft.com/en-ca/sites/cloud-skills-challenge/)| Learn. Compete. Develop skills with this self-paced technical upskilling challenge | For teams or individuals
