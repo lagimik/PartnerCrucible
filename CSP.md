@@ -9,9 +9,14 @@
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
+## Practice Building
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[CSP Masters Technical Bootcamp](https://learning.eventbuilder.com/M365CSPMastersBootcamp) | September 13, 2023:  In the one-day sales bootcamp, we will share key sales and business development topics to help grow CSP partner capabilities to successfully sell Microsoft 365 to SMB customers. Leading with the value proposition, customer scenarios, and use cases, we will provide CSP partners guidance on how to manage common customer objections across productivity, security, and Cloud PC. Key partner incentives, tools, and go-to-market (GTM) programs for partners to leverage will also be featured. | FY24
+[CSP Masters Technical Bootcamp](https://learning.eventbuilder.com/M365CSPMastersBootcamp) | September 27-28 – Days 2-3: CSP Masters Technical Bootcamp : Over two days, Microsoft 365 Center of Excellence architects will go through a series of deployment scenarios, recommendations, and best practices across productivity, security, Cloud PC, and device management in a demo-heavy experience. You’ll also learn how to manage a multitude of customers using Microsoft 365 Lighthouse. | FY24
 
 ## Business References
-
 
 Source | Description | Notes
 :----- | :-----  | :-----
