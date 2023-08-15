@@ -80,6 +80,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Microsoft Datacenters Experience](https://datacenters.microsoft.com/globe/) | Explore the core elements of Azure’s global infrastructure | Microsoft Datacenters
 [Subscription Vending IaC Modules for Bicep & Terraform](https://techcommunity.microsoft.com/t5/azure-tools-blog/announcing-our-new-subscription-vending-iac-modules-for-bicep/ba-p/3770617?utm_content=buffer89d4a&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer) | These modules are designed to help you streamline and automate the process of provisioning Azure subscriptions, making it easier than ever to get started with Azure. | Tech Community
 [Cloud Adoption Framework (CAF) - Tools and Templates](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/resources/tools-templates) | he Cloud Adoption Framework has tools, templates, and assessments that can help you quickly implement technical changes. Use this framework to accelerate your cloud adoption. The following resources can help you in each phase of adoption. These tools, templates, and assessments can be used in multiple phases. | Microsoft Learn
 [Azure Design Review](https://github.com/Azure/review-checklists) | Checklists for LZ, AKS, AVS, Multitenancy, SEcurity, AVS, and SAP | Github
