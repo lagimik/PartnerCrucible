@@ -155,9 +155,6 @@ Source | Description | Notes
 [GitOps for Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/gitops-aks/gitops-blueprint-aks) | GitOps is a set of principles for operating and managing a software system. This article describes techniques for using GitOps principles to operate and manage an Azure Kubernetes Services (AKS) cluster.| Microsoft Learn
 
 
-
-
-
 ## Workload - Azure RedHat OpenShift (ARO)
 
 Source | Description | Notes
@@ -195,6 +192,7 @@ Source | Description | Notes
 [AVS Partner Learning Path (official)](https://aka.ms/AVSLearningPath)| Learn how Azure VMware Solution supports enterprise customers in their transition to the cloud. Evaluate key features and differentiators. Examine the use cases and customer stories. Understand the support structure and options. | Microsoft Learn
 [Azure VMware Solution landing zone accelerator](https://aka.ms/AVSEnterpriseScale) | The Microsoft Azure VMware Solution landing zone accelerator is an open-source collection of Azure Resource Manager and Bicep templates. It represents the strategic design path and target technical state for an Azure VMware Solution deployment. | Microsoft Learn
 [Landing zone considerations for Azure VMware Solution](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-vmware-solution-foundation-landing-zone) | Azure VMware Solution can be deployed as part of either a new landing zone or an existing landing zone environment. Well-designed landing zones help you avoid operational overhead and reduce costs by promoting segregated Azure environments and the use of shared services. | Microsoft Learn
+[Azure Well-Architected Azure VMware Solution workload](https://learn.microsoft.com/en-us/assessments/2d85e883-bdc4-4854-aaf0-df72c4bcee15/) | xamine the readiness of your Azure VMware Solution for production. Methodically check how your workload aligns with best practices for resiliency, security, efficiency, and cost optimization.| Microsoft Learn
 [AVS Enterprise-Scale(GitHub repository)](https://aka.ms/AVSEnterpriseScaleRepo)| Enterprise-scale for AVS represents the strategic design path and target technical state for an Azure VMware Solution (AVS) deployment | GitHub
 [AVS TechZone](https://aka.ms/AVSTechZone)| Azure VMWare Solution page| VMWare Site
 [AVS Overview Video Series](https://aka.ms/AVSTechOverview) | The Azure VMware Solution (AVS) Technical Overview Series provides viewers with a basic understanding of the solution. VMware's Jeremiah Megie and Steve Pantol will lead you through nine modules | YouTube
