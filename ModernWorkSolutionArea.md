@@ -15,7 +15,6 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [The Microsoft 365 Partner Opportunity](https://aka.ms/W365PartnerTEI) | A Total Economic Impact Partner Opportunity Analysis | Forrester 2023
 [Analyst Studies](https://vc.transform.microsoft.com/analyststudies) | Comprehensive listing of Total Economic Impact (TEI) studies of Microsoft Modern Work solutions| Forrester
-[Total Economic Impact of Microsoft Viva](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE56D0e) |Microsoft commissioned Forrester Consulting to conduct a Total Economic Impact™ (TEI) study and examine the potential return on investment (ROI) enterprises may realize by deploying Viva | Forrester
 [Creating learn-it-alls at Microsoft with Viva Learning and LinkedIn Learning Hub](https://www.microsoft.com/insidetrack/blog/creating-learn-it-alls-at-microsoft-with-viva-learning-and-linkedin-learning-hub/?ocid=InsideTrack_Promotion_10440) | Microsoft has deployed Microsoft Viva Learning and LinkedIn Learning Hub internally at the company. | Microsoft Inside Track
 
 ## Partner Practice Building
@@ -54,8 +53,8 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[M365 Roadmap](http://aka.ms/M365Roadmap) | Get the latest updates on our best-in-class productivity apps and intelligent cloud services. Rethink productivity, streamline business processes, and protect your business with Microsoft 365. | M365 Roadmap
 [Microsoft Customer Digital Experiences](https://cdx.transform.microsoft.com)|Microsoft Customer Digital Experiences (CDX), is a portfolio of immersed digital experiences to demonstrate Microsoft technology and product with hands-on interaction, orchestrated by Microsoft sellers, partners or marketers. |There are three major types of experiences:<br>-Demos<br>-Interactive guide<br>-Customer Immersion Experience
-[M365 Roadmap](http://aka.ms/M365Roadmap) | Get the latest updates on our best-in-class productivity apps and intelligent cloud services. Rethink productivity, streamline business processes, and protect your business with Microsoft 365. | |
 [Project Orland](https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/project-orland-for-microsoft-365-heads-for-public-preview/ba-p/3571517) | Proactive Customer Lifecycle Management (CLM) increases the lifetime value of your customers by expanding your customer engagements beyond transaction and renewal. By anticipating and responding to your customers' needs, you can improve customer satisfaction, retain subscribers, and grow your business through additional managed services. | July 2022
 [Office 365 / E3 Office 365 E3](https://go.microsoft.com/fwlink/p/?LinkID=403802&clcid=0x1009&culture=en-ca&country=CA)| Microsoft (Free Trial) | .
 
