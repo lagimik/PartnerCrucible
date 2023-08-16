@@ -30,9 +30,9 @@ Source | Description | Notes
 [Microsoft 365 adoption tools](https://adoption.microsoft.com/en-us/) | Drive value with Microsoft 365 adoption tools. Use our resources to go from inspiration to execution with our productivity cloud. Get started, experiment with our services, and onboard employees at scale while being confident that you are improving the employee experience.| Microsoft Adoption
 [Partner Learning](https://readiness.transform.microsoft.com/)| Partner training starting point| Requires MCPP login
 [M365 Readiness Calendar](https://cloudpartners.transform.microsoft.com/readiness/calendar) | Partner training calendar | Requires MCPP login
-[Microsoft 365 & Security for Partners](https://cloudpartners.transform.microsoft.com)|Transform for M365 and Security with resources on products, practice development, pre-sales workshops, readiness, events, news, and community | Accessible based on partner competency / PCS
-[M365 Partner Community](https://www.yammer.com/office365partners/#/home)|The M365 Partner Yammer Group is dedicated to a community that focuses on partner engagement, both in connecting partners to partners, as well as connecting partners within the M365 team at Microsoft. Join this community to learn the latest M365 updates, industry trends, and how you can easily connect with your fellow partners.| Yammer
-[M365 Partner Community Groups](https://www.yammer.com/office365partners/#/groups/suggested) | Include M365 Lighthouse, Microsoft Desktop Partner, CSP PArtner Community, etc...
+[Microsoft 365 & Security for Partners](https://cloudpartners.transform.microsoft.com)| **Transform for M365 and Security Partners** with resources on products, practice development, pre-sales workshops, readiness, events, news, and community | Transform
+[M365 Partner Community](https://www.yammer.com/office365partners/#/home)|The M365 Partner Yammer Group is dedicated to a community that focuses on partner engagement, both in connecting partners to partners, as well as connecting partners within the M365 team at Microsoft. Join this community to learn the latest M365 updates, industry trends, and how you can easily connect with your fellow partners.| Viva Engage / Yammer
+[M365 Partner Community Groups](https://www.yammer.com/office365partners/#/groups/suggested) | Include M365 Lighthouse, Microsoft Desktop Partner, CSP PArtner Community, etc...| Viva Engage / Yammer
 
 ## Microsoft 365 Certifications
 
