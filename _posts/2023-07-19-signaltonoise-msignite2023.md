@@ -1,5 +1,5 @@
 ---
-title: "Signal:Noise - Generative AI with Azure OpenAI Service"
+title: "Signal:Noise - Microsoft Inspire 2023"
 date: 2023-04-18
 flag: "SignalNoise"
 layout: "signalnoise"
