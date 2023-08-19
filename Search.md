@@ -2,7 +2,7 @@
 
 ## Query
 <form>
-	<input type="search" name="q" id="search-input" placeholder="🔍 Search the Crucible"  style="margin-top:5px" autofocus>
+	<input type="search" name="q" id="search-input" placeholder="🔍 Search the Crucible"  style="margin-top:5px; font-size: 40px" autofocus>
 </form>
 
 <p><span id="search-process">Loading</span> results <span id="search-query-container" style="display: none;">for "<strong id="search-query"></strong>"</span></p>
