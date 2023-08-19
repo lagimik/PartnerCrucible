@@ -39,7 +39,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/CommercialMarketplaceOffers) for more partner resources.
 
-![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2023-08-19-DataAISolutionArea-AzureOpenAI.md-image.png )
 
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2023-08-19-AzureInfrastructureSolutionArea.md-image.png )
 
@@ -56,6 +55,8 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 - [Moving Workloads from Oracle Exadata to Azure: Top 5 Considerations](https://silk.us/resources/moving-workloads-from-oracle-exadata-to-azure-top-5-considerations/?utm_content=257726625&utm_medium=social&utm_source=linkedin&hss_channel=lcp-56412686): This eBook looks at 5 considerations when moving workloads from Oracle Exadata to Azure. (Silk)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/AzureInfrastructureSolutionArea) for more partner resources.
+
+![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2023-08-19-DataAISolutionArea-AzureOpenAI.md-image.png )
 
 # Data AI Solution Area - Azure OpenAI
 
@@ -108,22 +109,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/PowerPlatformSolutionArea) for more partner resources.
 
-![ SandboxEnvironments.md ]( /PartnerCrucible/assets/images/2023-08-19-SandboxEnvironments.md-image.png )
-
-# Sandbox Environment
-
-## What's new
-
-- Added Office 365 trials and Dynamics and Power Platform resoureces for Microsoft Partners to use as a free trial.
-
-## Deep links
-- [Office 365 / E3 Office 365 E3](https://go.microsoft.com/fwlink/p/?LinkID=403802&clcid=0x1009&culture=en-ca&country=CA): Microsoft (Free Trial)# PowerApps Developer Plan## What's newAdded PowerApps Developer Plan for building and testing Power Apps without writing code.## Deep links
-- [PowerApps Developer Plan to build and test Power Apps for free](https://powerapps.microsoft.com/en-ca/developerplan/): Create apps and flows without writing code with full-featured Power Apps and Power Automate development tools. Easily share and collaborate with others.# Dynamics 365 Sandbox Environment## What's newAdded Dynamics 365 Sandbox Environment SKU for partners to learn, test, and deliver end-to-end customer demos.## Deep links
-- [Dynamics 365 Sandbox Environment](https://aka.ms/partnersandbox): Dynamics Sandbox Environment SKU# Dynamics 365 Discounted SKU## What's newAdded Dynamics 365 Discounted SKU for SI/ISV Connect partners to obtain free or discounted non-production environment licenses.## Deep links
-- [Dynamics 365 Discounted SKU](https://experience.dynamics.com/requestlicense/): This portal is used for SI/ISV Connect partners to obtain free or discounted non-production environment licenses with Biz Apps and Power Platform products to learn, test, and deliver end-to-end customer demos with their own solutions. These offers are to be used only on partner tenants, never on customer tenants.# Dynamics 365 Free Trial## What's newAdded Dynamics 365 Free Trial option to try intelligent business applications.
-
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/SandboxEnvironments) for more partner resources.
-
 ![ SecuritySolutionArea.md ]( /PartnerCrucible/assets/images/2023-08-19-SecuritySolutionArea.md-image.png )
 
 # Security Solution Area
@@ -144,5 +129,21 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 - [Optimizing endpoint security with Microsoft Defender for Endpoint's flexible licensing options](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/optimizing-endpoint-security-with-microsoft-defender-for/ba-p/3893746): explore the available mixed licensing scenarios and provide a step-by-step guide on how to try them out in your environment 
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/SecuritySolutionArea) for more partner resources.
+
+![ SandboxEnvironments.md ]( /PartnerCrucible/assets/images/2023-08-19-SandboxEnvironments.md-image.png )
+
+# Sandbox Environment
+
+## What's new
+
+- Added Office 365 trials and Dynamics and Power Platform resoureces for Microsoft Partners to use as a free trial.
+
+## Deep links
+- [Office 365 / E3 Office 365 E3](https://go.microsoft.com/fwlink/p/?LinkID=403802&clcid=0x1009&culture=en-ca&country=CA): Microsoft (Free Trial)# PowerApps Developer Plan## What's newAdded PowerApps Developer Plan for building and testing Power Apps without writing code.## Deep links
+- [PowerApps Developer Plan to build and test Power Apps for free](https://powerapps.microsoft.com/en-ca/developerplan/): Create apps and flows without writing code with full-featured Power Apps and Power Automate development tools. Easily share and collaborate with others.# Dynamics 365 Sandbox Environment## What's newAdded Dynamics 365 Sandbox Environment SKU for partners to learn, test, and deliver end-to-end customer demos.## Deep links
+- [Dynamics 365 Sandbox Environment](https://aka.ms/partnersandbox): Dynamics Sandbox Environment SKU# Dynamics 365 Discounted SKU## What's newAdded Dynamics 365 Discounted SKU for SI/ISV Connect partners to obtain free or discounted non-production environment licenses.## Deep links
+- [Dynamics 365 Discounted SKU](https://experience.dynamics.com/requestlicense/): This portal is used for SI/ISV Connect partners to obtain free or discounted non-production environment licenses with Biz Apps and Power Platform products to learn, test, and deliver end-to-end customer demos with their own solutions. These offers are to be used only on partner tenants, never on customer tenants.# Dynamics 365 Free Trial## What's newAdded Dynamics 365 Free Trial option to try intelligent business applications.
+
+Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/SandboxEnvironments) for more partner resources.
 
 
