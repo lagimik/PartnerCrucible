@@ -3,7 +3,7 @@ title: 'Generative Partner Crucible - for the week ending 2023-08-11'
 date: 2023-08-11
 flag: GenerativePartnerCrucible
 layout: generativepartnercrucible
-thumbnail: /PartnerCrucible/assets/images/2023-07-07-PowerPlatformSolutionArea.md-image.png
+thumbnail: /PartnerCrucible/assets/images/2023-08-11-PowerPlatformSolutionArea.md-image.png
 ---
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2023-08-11-AzureInfrastructureSolutionArea.md-image.png )
 
@@ -30,7 +30,9 @@ This update consolidates references for Multi-party private offers in the commer
 ## Deep links
 - [Microsoft Marketplace - Multiparty Private Offers (MPO)](https://www.youtube.com/watch?v=aAD_MhnYGOs): Find out how Microsoft is making investments to help partners come together and sell custom solutions on the commercial marketplace with multiparty private offers (MPO). (YouTube)
 - [Marketplace Office Hours](https://microsoftcloudpartner.eventbuilder.com/MarketplaceOverviewandQAforPartners): Explore Live and On-Demand Marketplace Office Hours webinars sessions on business and technical topics; providing publishers with the information and resources to successfully publish their solutions to the Commercial Marketplace. (Marketplace)## Multi-Party Private Offers (MPO)### What's newThis update provides resources and information on multiparty private offers in the Microsoft commercial marketplace.### Deep links
-- - [On-demand webinar on multiparty private offers](https://msuspartners.eventbuilder.com/event/74764): Get an overview of the new multiparty private offer (MPO) functionality coming to marketplace, including operational steps to onboard selling partners to the program. Explore this highly anticipated functionality and its potential to transform your marketplace channel strategy and unlock incremental business growth. (Webinar)- [Multiparty private offer repository](https://aka.ms/MPOEnablementResources): This collection contains resource materials related to multiparty private offers within the Microsoft commercial marketplace. (Partner)- [Multiparty private offers (for selling partners)](https://learn.microsoft.com/en-us/partner-center/marketplace/multiparty-private-offers-for-selling-partners): Multiparty private offers empower partners to come together, create personalized offers with custom payouts, and sell directly to Microsoft customers with simplified selling through the marketplace. (Microsoft Learn)
+- [On-demand webinar on multiparty private offers](https://msuspartners.eventbuilder.com/event/74764): Get an overview of the new multiparty private offer (MPO) functionality coming to marketplace, including operational steps to onboard selling partners to the program. Explore this highly anticipated functionality and its potential to transform your marketplace channel strategy and unlock incremental business growth. (Webinar)
+- [Multiparty private offer repository](https://aka.ms/MPOEnablementResources): This collection contains resource materials related to multiparty private offers within the Microsoft commercial marketplace. (Partner)
+- [Multiparty private offers (for selling partners)](https://learn.microsoft.com/en-us/partner-center/marketplace/multiparty-private-offers-for-selling-partners): Multiparty private offers empower partners to come together, create personalized offers with custom payouts, and sell directly to Microsoft customers with simplified selling through the marketplace. (Microsoft Learn)
 - [Mastering marketplace video series](https://microsoft.github.io/Mastering-the-Marketplace/partner-center/private-offers/): Private offers in Partner Center. (Mastering the Marketplace)
 - [Microsoft Marketplace - Multiparty Private Offers (MPO)](https://www.youtube.com/watch?v=aAD_MhnYGOs): Find out how Microsoft is making investments to help partners come together and sell custom solutions on the commercial marketplace with multiparty private offers (MPO). (YouTube)
 

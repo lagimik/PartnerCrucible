@@ -1,9 +1,9 @@
 ---
-title: 'Generative Partner Crucible - for the week ending 2023-08-19'
+title: 'Generative Partner Crucible - for the week ending 2023-08-18'
 date: 2023-08-19
 flag: GenerativePartnerCrucible
 layout: generativepartnercrucible
-thumbnail: /PartnerCrucible/assets/images/2023-07-07-PowerPlatformSolutionArea.md-image.png
+thumbnail: /PartnerCrucible/assets/images/2023-08-19-PowerPlatformSolutionArea.md-image.png
 ---
 
 ![ CSP.md ]( /PartnerCrucible/assets/images/2023-08-19-CSP.md-image.png )
