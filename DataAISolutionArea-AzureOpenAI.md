@@ -63,7 +63,8 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[AI Learning Companion](https://learning-pathways.co.uk/wp-content/uploads/2023/05/AI-Learning-Companion.pdf) | Collection of Microsoft AI learning resouorces by @PaulGriffiths | Learning Pathways
+[AI Learning Companion](https://learning-pathways.co.uk/wp-content/uploads/2023/08/AI-Learning-Companion.pdf) | Collection of Microsoft AI learning resources  | Learning Pathways by @PaulGriffiths
+[Azure AI Engineer](https://learning-pathways.co.uk/wp-content/uploads/2023/05/Azure-AI-Engineer-Learning-Pathway.pdf) | Collection of Microsoft AI learning resources  | Learning Pathways by @PaulGriffiths
 [Partner Learning Plan Resources for Azure OpenAI](https://microsoft.github.io/PartnerResources/azure/data-analytics-ai/openai) | This document is under active development. Please check regularly for updates | Microsoft US
 [OpenAI Learning Collection](https://sway.office.com/YLu2lOkCjvtNCHZC?ref=Link) | From Quickstarts to L100, L200, L300, and L400 content| Microsoft GPS Canada
 [Introduction to Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/) | Understand how you can use Azure OpenAI to build solutions against AI models within Azure.| Microsoft Learn
