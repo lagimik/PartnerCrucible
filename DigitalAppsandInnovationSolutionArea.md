@@ -62,6 +62,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
+[How GitHub compares to other DevOps platforms](https://assets.ctfassets.net/wfutmusr1t3h/1uXup5mE9ImWc5j8lB4Ddn/5f2b3b3d65e26b18f8ed3713d57a6714/GitHub_vs._Competitors.pdf) | There are dozens of alternative DevOps tools from best-in-breed point solutions to full platforms. So how does GitHub compare? There are plenty of analyst reports that answer that question--but here's an overview to help you get started. | GitHub
 [GitHub Roadmap](https://github.com/orgs/github/projects/4247/views/1) | GitHub public roadmap] | GitHub
 [GitHub Partner Certifications](https://examregistration.github.com/overview) | GitHub certifications are an industry-endorsed approach to demonstrating proficiency with GitHub technologies. These certifications complement Microsoft’s existing role-based certifications, which 'validate knowledge of foundational DevOps and cloud development concepts. GitHub certifications are designed to validate your expertise on applying these concepts with specific GitHub products | GitHub
 [GitHub Advanced Security](https://learn.microsoft.com/en-us/users/githubtraining/collections/rqymc6yw8q5rey) |  The following modules will walk you through GitHub's advanced security features and provide you with the skills needed to recognize, apply, and evaluate these features within your own GitHub environment. | Microsoft Learn
