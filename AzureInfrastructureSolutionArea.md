@@ -165,6 +165,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[SAP on Azure Deployment Automation Framework](https://learn.microsoft.com/en-us/azure/sap/automation/deployment-framework) | The SAP on Azure Deployment Automation Framework is an open-source orchestration tool for deploying, installing and maintaining SAP environments. You can create infrastructure for SAP landscapes based on SAP HANA and NetWeaver with AnyDB using Terraform, and Ansible for the operating system and application configuration. The systems can be deployed on any of the SAP-supported operating system versions and deployed into any Azure region.| Microsoft Learn
 [Azure Center for SAP solutions (GA)](https://aka.ms/AzureCenterforSAPSolutionsGA) | GA Announcement Blog| Tech Community
 [Azure Center for SAP Solutions (ACSS)](https://www.microsoft.com/en-us/us-partner-blog/2022/11/09/kickstart-your-sap-deployment-with-azure-center-for-sap-solutions-acss-part-i/) | Frameworks and automations that current cloud providers are offering to deploy, manage and optimize their SAP workloads | US Partner Blog
 [Azure Monitor for SAP solutions (GA)](https://aka.ms/AzureMonitorforSAPsolutionsGA) | GA Announcement Blog| Tech Community
