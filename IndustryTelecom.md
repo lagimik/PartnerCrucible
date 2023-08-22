@@ -7,6 +7,12 @@ A Collection of resources for Microsoft practice building around 5G. For a view 
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
+## AIOps
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[AI's impact on telecom networks](https://smtgis.powerappsportals.com/AIOpsforTelecom/) | Whitepaper covers: Where does AI for Operations (AIOps) fit in the future of cloud and the rise of AI. How AIOps is changing the industry with use case examples of importance to Operators. Why AIOps is a key element of enabling network modernization. How to access the benefits of the new AI co-reasoning paradigm | 
+
 ## Azure 5G References
 
 Source | Description | Notes
