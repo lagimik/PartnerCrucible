@@ -136,18 +136,22 @@ Source | Description | Notes
 [Business Process Automation Accelerator](https://github.com/Azure/business-process-automation) | This accelerator provides a no code Studio for users to quickly build complex, multi-stage AI pipelines across multiple Azure AI and ML Services. Users can select, and stack, AI/ML Services from across Azure Cognitive Services (OpenAI, Speech, Language, Form Recognizer, ReadAPI), Azure Machine Learning into a single, fully integrated pipeline. | GitHub
 [Project Miyagi](https://github.com/Azure-Samples/miyagi) | Project Miyagi serves as the foundation for an envisioning workshop that reimagines the design, development, and deployment of intelligent applications using Microsoft's Copilot stack | GitHub
 
-## Examples and Demos
+## Demos
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[Data & AI Industry Partner Activation Kit](https://partner.microsoft.com/en-us/asset/collection/data-and-ai-industry-partner-activation-kit#/) | This collection presents a set of Industry Kits containing key Azure Data & AI Use Cases. Each use case comes with critical resources and information designed to help Partners articulate Microsoft’s Data & AI Industry value proposition and accelerate Azure Data & AI Services growth| Partner
 [Data & AI Industry DREAM Demos & DREAM Demo in a Box](https://partner.microsoft.com/en-us/asset/collection/industry-dream-demos-and-dream-demo-in-a-box#/) | Data & AI Industry DREAM Demos are realistic clickable demos based on actual customer engagements that cover a range of industry scenarios in story form. | Partner
 [Azure OpenAI Service Generative AI Customer Demo](https://assetsprod.microsoft.com/mpn/en-us/azure-openai-service-chatgpt-tdm-customer-demo.mp4) | Customer-ready customer technical decision maker demo | Partner
-[Azure OpenAI Service ChatGPT Customer Demo](https://assetsprod.microsoft.com/mpn/en-us/azure-openai-service-generative-ai-tdm-customer-demo.mp4) | Customer-ready customer technical decision maker demo| Partner
-[Azure OpenAI Samples](https://github.com/Azure/openai-samples) | This repo is a compilation of useful Azure OpenAI Service resources and code samples to help you get started and accelerate your technology adoption journey. | GitHub
-[Unleash the Power of Azure Open AI](https://github.com/microsoft/azurechatgpt)| Microsoft Azure ChatGPT Repo | GitHub
+
+
+
+## Code Samples
+
+Source | Description | Notes
+:----- | :-----  | :-----
 [Azure Cosmos DB + OpenAI ChatGPT](https://github.com/Azure-Samples/cosmosdb-chatgpt) | This sample application combines Azure Cosmos DB with OpenAI ChatGPT with a Blazor Server front-end for an intelligent chat bot application that shows off how you can build a simple chat application with OpenAi ChatGPT and Azure Cosmos DB.| GitHub
 [Document Analysis demo using Azure Form Recognizer and Azure OpenAI](https://microsoft.sharepoint.com/teams/AIEngagements/_layouts/15/stream.aspx?id=%2Fteams%2FAIEngagements%2FShared%20Documents%2FDemos%2FDocument%20Analysis%20demo%20using%20Azure%20Form%20Recognizer%20and%20Azure%20OpenAI%2Emp4) | Document Analysis demo using Azure Form Recognizer and Azure OpenAI|
 [Azure OpenAI Examples](https://github.com/jakeatmsft/AzureOpenAIExamples)| @jakeatmsf - This repository shares example code and example prompts for accomplishing common tasks with the Azure OpenAI API. | GitHub
 [Customer Service Conversational Insights with Azure OpenAI](https://github.com/microsoft/Customer-Service-Conversational-Insights-with-Azure-OpenAI-Services) | The Customer Service Conversational Insights is a solution accelerator built on top of Azure Cognitive Search, Bot Framework, Azure Speech Services and Azure OpenAI that allows customers to quickly deploy an integrated platform and immediately start extracting insights from customer conversations.| GitHub
 [Podcast Copilot](https://github.com/microsoft/PodcastCopilot) | This code was demonstrated at the Build 2023 keynote by Microsoft CTO Kevin Scott, illustrating the architecture of a Copilot. | GitHub
+[Azure OpenAI Samples](https://github.com/Azure/openai-samples) | This repo is a compilation of useful Azure OpenAI Service resources and code samples to help you get started and accelerate your technology adoption journey. | GitHub
