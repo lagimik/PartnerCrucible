@@ -36,6 +36,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
+[Microsoft Mesh Technology Adoption Program](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRyAJpgrP_R1NrtdbborOob5UQUpFVURSRDVYRjNXNzY2VlU1SEVZV0YzNiQlQCN0PWcu&ctx=%7B%22Event%22%3A%22Build%22%7D) | Complete this form to be considered for the Microsoft Mesh Technology Adoption Program (TAP) for building custom solutions and environments in Private Preview. | MTAP
 [Mesh Innovation blog: Innovation Stories blog](https://aka.ms/aaaxf16) | |
 [Mesh home](https://Microsoft.com/mesh) | |
 [Video: Microsoft Mesh – Ignite Session](https://www.microsoft.com/en-ca/p/microsoft-mesh-app-preview/9p64lj74ngw0?rtc=1&activetab=pivot:overviewtab)| Mesh Ignite Featured session |
@@ -46,5 +47,5 @@ Source | Description | Notes
 [Preview Mesh app](https://www.microsoft.com/en-ca/p/microsoft-mesh-app-preview/9p64lj74ngw0?rtc=1&activetab=pivot:overviewtab) | |
 [Tech Community Blog](https://aka.ms/Ignite21-MRTechBlog) | |
 [Microsoft Mechanics Mesh episode](https://aka.ms/mesh-mechanics) | |
-[AltspaceVR](https://account.altvr.com/users/sign_up) | Sign up for the AltspaceVR  |
+
 
