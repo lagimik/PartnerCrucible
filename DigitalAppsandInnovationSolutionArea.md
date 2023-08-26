@@ -26,12 +26,13 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :---------- | :----
 [Digital and App Innovation Playbook](https://assetsprod.microsoft.com/en-ca/fy24-azure-digital-and-app-innovation-partner-playbook.pdf) | Strategy, Solution Plays, and Key Resources | Partners FY24
+[Microsoft Assessments](https://learn.microsoft.com/en-us/assessments/) | Microsoft Assessments help customers work through a scenario of questions and recommendations that result in a curated guidance report that is actionable and informative. Assessments take time, but is time well-spent. | Microsoft Learn
 
 ## Tools and Practices
 
 Source | Description | Notes
 :----- | :---------- | :----
-[Microsoft Assessments](https://learn.microsoft.com/en-us/assessments/) | Microsoft Assessments help customers work through a scenario of questions and recommendations that result in a curated guidance report that is actionable and informative. Assessments take time, but is time well-spent. | Microsoft Learn
+[Azure draft](https://github.com/Azure/draft) | Draft is a tool made for users who are just getting started with Kubernetes, or users who want to simplify their experience with Kubernetes. This readme will give you a quick run down on Draft’s commands and what they do.| GitHub
 [Migration of multiple ASP.NET web apps at-scale](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/assess-asp-net-web-apps-at-scale-to-accelerate-your-app/ba-p/3718361) | Assess ASP.NET web apps at scale to accelerate your app migration strategy on Azure | Tech Community
 [ASP. NET web app migration to Azure App Service using PowerShell Scripts](https://azure.microsoft.com/en-us/updates/general-availability-asp-net-web-app-migration-to-azure-app-service-using-powershell-scripts/) | General availability of ASP. Net web app Migration to Azure App Service using PowerShell Scripts is now available. | Azure
 [Use chaos engineering to test Azure applications](https://learn.microsoft.com/en-us/azure/well-architected/resiliency/chaos-engineering) | Chaos engineering is a methodology that helps developers attain consistent reliability by hardening services against production failures. | Microsoft Learn
@@ -40,23 +41,16 @@ Source | Description | Notes
 [Introducing Azure Deployment Environments](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/introducing-azure-deployment-environments/ba-p/3412095) | Azure Deployment Environments is a managed service that enables dev teams to quickly spin up app infrastructure with project-based templates to establish consistency and best practices while maximizing security, compliance, and cost-efficiency. | Tech Community
 [Microsoft Dev Box and Azure Deployment Environments for .NET Developers](https://www.bing.com/videos/search?q=Microsoft+Dev+Box+and+Azure+Deployment+Environments+for+.NET+Developer&&view=detail&mid=8F6E9E26681C552EDC5F8F6E9E26681C552EDC5F&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3DMicrosoft%2BDev%2BBox%2Band%2BAzure%2BDeployment%2BEnvironments%2Bfor%2B.NET%2BDeveloper%26FORM%3DHDRSC6) | Microsoft Dev Box and Azure Deployment Environments for .NET Developers | YouTube
 
-## Developers
+## Roles and Skills
 
 Source | Description | Notes
 :----- | :---------- | :----
-[Azure draft](https://github.com/Azure/draft) | Draft is a tool made for users who are just getting started with Kubernetes, or users who want to simplify their experience with Kubernetes. This readme will give you a quick run down on Draft’s commands and what they do.| GitHub
 [Cloud Native](https://azure.github.io/Cloud-Native/)| Cloud-Native technologies and techniques enable loosely coupled systems that are resilient, manageable, and observable. Use containers, microservices, APIs and more to build and run scalable applications in modern hybrid cloud environments.| GitHub
 [Build applications with Azure](https://azure.microsoft.com/en-ca/resources/developers/?utm_source=developermscom#featured-resources) | Build apps with best-in-class tools, your favorite open-source frameworks and languages, and a platform that supports a range of services and continuous collaboration and delivery |
 [Build applications with Azure](https://azure.microsoft.com/en-ca/resources/developers/?utm_source=developermscom#featured-resources) | Build apps with best-in-class tools, your favorite open-source frameworks and languages, and a platform that supports a range of services and continuous collaboration and delivery |
 [Azure skills navigator - the new developer's "Guide to the Cloud"](https://github.com/MicrosoftDocs/devrampup) | This guide is looking to take you from "zero to hero". Jump into your learning journey where you are and learn to take your code to the cloud. | Github
 [Azure Skills Navigator - Developers](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-skills-navigator-for-developers/Azure%20Skills%20Navigator%20-%20Developer%20Edition%20-%20Microsoft%202022.pdf) | A guide to build your skills around knowing how to architect and deploy apps in the Cloud and how to maintain and instrument those apps once deployed. Our guide provides an overview of key concepts across Java, .NET, Node.js, and Python, crucial topics to establishing a strong foundation on Microsoft Azure. | Azure Skills Navigator
-
-## Hackathons
-
-Source | Description | Notes
-:----- | :---------- | :----
-[WhatTheHack on GitHub](https://github.com/microsoft/WhatTheHack) | Community driven openhack resources  | ,,,
-
+[WhatTheHack - Application Development](https://github.com/microsoft/WhatTheHack#application-development) | What The Hack is designed to be a collaborative learning experience. Attendees "learn from" and "share with" each other. Without step-by-step instructions given for the challenges, attendees have to "figure it out" together as a team. This results in greater knowledge retention for the attendees. | WhattheHack
 
 ## GitHub
 

@@ -79,6 +79,7 @@ Source | Description | Notes
 [Power Platform in a Day](https://powerplatform.microsoft.com/en-us/training-workshops/) |Experience how Microsoft Power Platform can meet your business challenges quickly and effectively by attending a virtual, one-day training workshop. |...
 [Fusion development approach to building apps using PowerApps](https://learn.microsoft.com/en-ca/power-apps/guidance/fusion-dev-ebook/) | The purpose of this guide is to summarize the way in which citizen and professional developers can work together, following a fusion development approach. As you progress through this guide, you'll play the role of the different participants in this process to build a complex, fully functional solution that combines Power Apps with Azure services.  | Microsoft
 [Fusion development ebook API](https://github.com/microsoft/fusion-dev-ebook) | This API supports the the fusion development approach to building power apps.| Github
+[WhatTheHack - Power Platform](https://github.com/microsoft/WhatTheHack#power-platform) | What The Hack is designed to be a collaborative learning experience. Attendees "learn from" and "share with" each other. Without step-by-step instructions given for the challenges, attendees have to "figure it out" together as a team. This results in greater knowledge retention for the attendees. | WhattheHack
 
 ## Power Platform Copilot
 

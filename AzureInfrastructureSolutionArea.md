@@ -74,7 +74,7 @@ Source | Description | Notes
 [Azure Skills Navigator for Solution Architects](https://aka.ms/SolArchGuide) | A guide for deepening your knowledge of fundamental concepts of Microsoft Azure, core solutions, solution design principles, including security and compliance, and deployment tools and methods to help bring your solution architectures to life. | Azure Skills Navigator
 [Azure Skills Navigator for Network Engineers](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-skills-navigator-for-network-engineers-/Azure%20Skills%20Navigator-%20Network%20EngineerOct10(learn.microsoft).pdf) | This Azure learning journey is designed for network engineering professionals needing to recommend, plan, and implement Azure networking solutions, including hybrid networking, connectivity, routing, security, and private access to Azure services | Azure Skills Navigator
 [Azure Citadel](https://www.azurecitadel.com/) | Azure Citadel is a community driven site devoted to getting hands on & learning Azure. Explore technical labs & videos across a range of Azure topics. Many labs are pitched towards the needs of the Azure partner community, but are freely available for all.| Azure Citadel
-
+[WhatTheHack - Infrastructure](https://github.com/microsoft/WhatTheHack#infrastructure) | What The Hack is designed to be a collaborative learning experience. Attendees "learn from" and "share with" each other. Without step-by-step instructions given for the challenges, attendees have to "figure it out" together as a team. This results in greater knowledge retention for the attendees. | WhattheHack
 
 ## Azure Tools
 
@@ -165,6 +165,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[WhatTheHack - SAP on Azure](https://github.com/microsoft/WhatTheHack#sap-on-azure) | What The Hack is designed to be a collaborative learning experience. Attendees "learn from" and "share with" each other. Without step-by-step instructions given for the challenges, attendees have to "figure it out" together as a team. This results in greater knowledge retention for the attendees. | WhattheHack
 [SAP on Azure Deployment Automation Framework](https://learn.microsoft.com/en-us/azure/sap/automation/deployment-framework) | The SAP on Azure Deployment Automation Framework is an open-source orchestration tool for deploying, installing and maintaining SAP environments. You can create infrastructure for SAP landscapes based on SAP HANA and NetWeaver with AnyDB using Terraform, and Ansible for the operating system and application configuration. The systems can be deployed on any of the SAP-supported operating system versions and deployed into any Azure region.| Microsoft Learn
 [Azure Center for SAP solutions (GA)](https://aka.ms/AzureCenterforSAPSolutionsGA) | GA Announcement Blog| Tech Community
 [Azure Center for SAP Solutions (ACSS)](https://www.microsoft.com/en-us/us-partner-blog/2022/11/09/kickstart-your-sap-deployment-with-azure-center-for-sap-solutions-acss-part-i/) | Frameworks and automations that current cloud providers are offering to deploy, manage and optimize their SAP workloads | US Partner Blog
