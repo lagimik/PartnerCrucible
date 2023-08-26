@@ -100,6 +100,16 @@ Source | Description | Notes
 [Generate a new function app from an OpenAPI specification](https://azure.microsoft.com/en-au/updates/generate-a-new-function-app-from-an-openapi-specification/) | You can now generate function apps by importing an OpenAPI specification via the Azure Functions VS Code extension or command line. This new capability automatically generates all the necessary functions for your API, pre-configured based on the OpenAPI specification. Once generated, you add the business logic to each function/route as necessary.| Azure updates
 [Export API definition to Postman for API testing and monitoring](https://learn.microsoft.com/en-us/azure/api-management/export-api-postman) | Export an API definition from API Management as a Postman collection so that you can use Postman's tools to design, document, test, monitor, and collaborate on APIs.| Microsoft Learn
 
+## Azure Integration Services
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Azure Integration Services - Whitepaper](https://azure.microsoft.com/en-us/resources/azure-integration-services/) | Application Integration often requires connecting multiple independent systems, often in complex ways. This whitepaper explains how you can use Azure Integration Services, comprising of API Management, Logic Apps, Service Bus, and Event Grid, to integrate both cloud and on-premises applications. | Microsoft Azure
+[Azure Integration Services Blog](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/bg-p/IntegrationsonAzureBlog) | Azure Integration Services Blog | Tech Community
+[BizTalk Server Migration to Azure Integration Services Architecture Guidance](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/announcement-biztalk-server-migration-to-azure-integration/ba-p/3697413)| In this content, we focus on educating customers on the differences between BizTalk Server and Azure Integration Services, provide guidance on what Azure services to use when and provide recommendations on how you setup and execute a BizTalk Migration project. | Tech Community
+[BizTalk Server to Azure Integration Services](https://learn.microsoft.com/en-us/azure/logic-apps/biztalk-server-to-azure-integration-services-overview) | his guide provides an overview about the reasons and benefits, product comparisons, capabilities, and other information to help you start migrating from on-premises BizTalk Server to cloud-based Azure Integration Services. | Microsoft Learn
+[Azure Integration Services landing zone accelerator](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/app-platform/integration-services/landing-zone-accelerator) | Azure Integration Services landing zone accelerator is intended for an application team that's building and deploying an integration platform in a typical enterprise landing zone design.| Microsoft Learn
+
 ## CosmosDB
 
 Source | Description | Notes
