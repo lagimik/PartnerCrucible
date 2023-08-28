@@ -32,7 +32,7 @@ Source | Description | Notes
 [Get Security Done (GSD)](https://dcaddick.github.io/gsd_public/) | Looking to collaborate on helping Customers and Partners uplift Security via the Microsoft Defender Suite | from @dcaddick
 [My Faber Security](https://myfabersecurity.com/) | Security, Compliance, and Identity blogs, focusing on Microsoft Security offerings. | from @AngelicaFaber
 
-## Partner Practice
+## Partner Practice Building
 
 Source | Description | Notes
 :----- | :---------- | :----
@@ -65,6 +65,7 @@ Source | Description | Notes
 [Microsoft XDR Partners (MXDR)](https://cloudpartners.transform.microsoft.com/mxdrpartners)|...|Update May 2022
 [DevSecOps](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/devsecops-in-azure?ocid=AID3045641)| From the Azure Architecture Centre > Solution Ideas |
 [Demystifying Service Provider's Access Methods](https://info.microsoft.com/CA-NoGEP-VDEO-FY23-01Jan-19-Demystifying-Service-Providers-Access-Methods-SRDEM133344_LP02-Thank-You---Standard-Hero.html) | Recommended practices for service providers | Webinar
+[Conditional Access gap analyzer workbook](https://learn.microsoft.com/en-us/azure/active-directory/reports-monitoring/workbook-conditional-access-gap-analyzer) | With the Conditional Access gap analyzer workbook, you can detect gaps in your Conditional Access implementation. | Microsoft Learn
 
 
 ## Zero Trust
@@ -72,13 +73,6 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :---------- | :----
 [Learn How to Implement Zero Trust in Your Public Sector Organization](https://docs.microsoft.com/en-us/users/mlg62022/collections/xkmgiy1oe25qmd) | In this collection, learn more about the importance of a Zero Trust strategy and how to implement it. | Microsoft Learn Collection
-
-## Azure Active Directory
-
-Source | Description | Notes
-:----- | :---------- | :----
-[Woodgrove Groceries](https://woodgrovedemo.com/) | WoodGrove Groceries is a live web application created by Microsoft to demonstrate several Azure AD B2C features. | |
-[Woodgrove Employee](https://woodgroveemployee.azurewebsites.net/landing) | Azure AD demo|
 
 
 ## Azure
@@ -117,6 +111,13 @@ Source | Description | Notes
 [Days of the Defender: Identity & Access Management with Microsoft Entra](https://vshow.on24.com/vshow/Security_Depth/registration/22542) | PArtner On-demand : Days of Defender - Identity & Access Management with Microsoft Entra Deep Dive. These Security depth workshops are intermediate to advanced technical sessions |
 [Microsoft Entra sessions @ Build 2023](https://build.microsoft.com/en-US/sessions?search=entra&sortBy=relevance) | Flagship event for developers, Microsoft Build is where industry disruptors, cutting-edge technologists, and the developer community come together to learn about new tech, share ideas, and get fueled with skills to build the future | Microsoft Build 2023
 [Microsoft Entra sessions @ Airlift 2022](https://airlift.microsoft.com/sessionscheduler?p1=eyJzcGVha2VyIjpbXSwidGltZXNsb3QiOltdLCJkYXkiOltdLCJyb29tIjpbXSwibG9jYXRpb24iOltdLCJkaWdpdGFsIjpbXSwibWVkaWEiOiIiLCJkaXNwbGF5bW9kZSI6Imxpc3QiLCJncm91cGJ5IjoiIiwiaW5wZXJzb24iOmZhbHNlLCJzY2hlZHVsZWQiOmZhbHNlLCJvbmRlbWFuZCI6ZmFsc2UsInVwY29taW5nIjpmYWxzZSwiaGFzc2xpZGVzIjpmYWxzZSwic3RhcnQiOiIiLCJmaW5pc2giOiIiLCJwYWdlbnVtYmVyIjoxLCJjYXRlZ29yaWVzIjp7fSwia2V5d29yZCI6Im1pY3Jvc29mdCBlbnRyYSJ9) | Airlift is an engineering-led event for deep dive technical training.| Microsoft Airlift
+
+## Demos and Lab
+
+Source | Description | Notes
+:----- | :---------- | :----
+[Woodgrove Groceries](https://woodgrovedemo.com/) | WoodGrove Groceries is a live web application created by Microsoft to demonstrate several Azure AD B2C features. | |
+[Woodgrove Employee](https://woodgroveemployee.azurewebsites.net/landing) | Azure AD demo|
 
 
 ## Microsoft Defender Threat Intelligence
