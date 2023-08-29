@@ -104,6 +104,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
+[Microsoft Entra Private Access](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-private-access-an-identity-centric-zero-trust/ba-p/3905451)| In this blog, we take a deeper look into Microsoft Entra Private Access| Tech Community
 [Demystifying Microsoft's Entra Overhaul: Your Infographic Guide to End-to-End Updates, Capabilities & Additions](https://www.linkedin.com/posts/samehyounis_microsoftentra-idm-ciam-activity-7085231536018509824-YbSC?utm_source=share&utm_medium=member_desktop) |  Summary and infographic| LinkedIn @SamehYounis
 [Reimagine secure access with Microsoft Entra](https://info.microsoft.com/ww-reimagine-secure-access-with-microsoft-entra-on-demand.html?lcid=en-us) | On-demand : Learn how to secure access for any identity to any resource, from anywhere. Hear announcements about Microsoft Entra innovations that redefine how to think about secure access. See demonstrations of the latest Microsoft Entra products and capabilities. Listen to deep-dive conversations between security leaders about preparing your identity and access strategy for what’s next | Info
 [Microsoft Entra Tech Accelerator: Part 1 of 2](https://techcommunity.microsoft.com/t5/tech-community-live/microsoft-entra-tech-accelerator-part-1-of-2/ev-p/3842483) |  Entra ID Governance, Entra External ID. | Tech Community
