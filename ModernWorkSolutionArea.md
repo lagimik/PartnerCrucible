@@ -97,6 +97,7 @@ Source | Description | Notes
 [Microsoft Teams Blog](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/bg-p/MicrosoftTeamsBlog)| Welcome to the Microsoft Teams Blog! Learn best practices, news, and trends directly from the team behind Microsoft Teams. | Microsoft blog
 [Teams Calling Community](https://aka.ms/teamscallingmeetingsYAM)| This group is designed for partners building their Teamwork practice with Calling, Meetings and Teams Devices | Yammer
 [Microsoft Teams Rooms Partner Bootcamp](https://learning.eventbuilder.com/MSTeamsRoomsBootcamp)| Microsoft Teams Rooms Partner Bootcamp. This 4-day event| Recorded April 2022
+[A deep dive into intelligent cameras Multi-Stream and Cloud IntelliFrame for Teams Rooms](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/a-deep-dive-into-intelligent-cameras-multi-stream-and-cloud/ba-p/3915387) | Multi-stream IntelliFrame technology delivers on the promise and excitement around intelligent cameras: high-resolution IntelliFrame video tiles, people recognition, active speaker tracking, and a room view. | Tech Community
 
 ## Developers
 
