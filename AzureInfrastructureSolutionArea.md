@@ -144,6 +144,7 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :---------- | :-----
 [Apply Zero Trust principles to an Azure Virtual Desktop deployment](https://learn.microsoft.com/en-ca/security/zero-trust/azure-infrastructure-avd) | This article provides steps to apply the principles of Zero Trust to an Azure Virtual Desktop deployment| Microsoft Learn
+[Use cases for Azure Virtual Desktop Insights](https://learn.microsoft.com/en-us/azure/virtual-desktop/insights-use-cases)| Using Azure Virtual Desktop Insights can help you understand your deployments of Azure Virtual Desktop. It can help with checks such as which client versions are connecting, opportunities for cost saving, or knowing if you have resource limitations or connectivity issues. | Microsoft Learn
 
 ## Workload - Azure Kubernetes Service (AKS)
 
