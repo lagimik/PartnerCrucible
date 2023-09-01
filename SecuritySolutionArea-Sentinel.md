@@ -15,6 +15,7 @@ Source | Description | Notes
 [Magic Quadrant for Security Information and Event Management](https://www.gartner.com/doc/reprints?id=1-2AHCXAHG&ct=220701&st=sb) | Gatner Magic Quadrant for SIEM | October 2022
 [Microsoft named a Leader in the 2022 Gartner® Magic Quadrant™ for Security Information and Event Management](https://www.microsoft.com/en-us/security/blog/2022/10/13/microsoft-named-a-leader-in-the-2022-gartner-magic-quadrant-for-security-information-and-event-management/) | We’re delighted to announce that Microsoft is named a Leader in the 2022 Gartner® Magic QuadrantTM for Security Information and Event Management and is positioned highest on the measure of Ability to Execute axis.| Microsoft
 [Forrester names Microsoft a Leader in Q4 2022 Security Analytics Platforms Wave report](https://www.microsoft.com/en-us/security/blog/2022/12/19/forrester-names-microsoft-a-leader-in-q4-2022-security-analytics-platforms-wave-report/) | Microsoft achieved the highest possible score in 17 different criteria, including partner ecosystem, innovation roadmap, product security, case management, and architecture. | Forrester Wave
+[The Total Economic Impact Of Microsoft Azure Sentinel](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4IgFh) | Microsoft commissioned Forrester Consulting to conduct a Total Economic Impact™ (TEI) study and examine the potential return on investment (ROI) enterprises may realize by deploying Azure Sentinel. | Forrester 2020
 
 # Practices and Tools
 
