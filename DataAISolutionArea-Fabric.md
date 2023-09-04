@@ -20,16 +20,23 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [Data analytics for the era of AI](https://build.microsoft.com/en-US/sessions/852ccf38-b07d-4ddc-a9fe-2e57bdaeb613?source=sessions) | From data integration and engineering to data science and business intelligence, find out how next-generation services can transform your data into intelligence and innovation. Also, see how the new AI-infused Copilot experiences accelerate developer productivity while building in security and compliance for your data. | Microsoft Build 2023
 [Accelerate your data potential with Microsoft Fabric](https://build.microsoft.com/en-US/sessions/423f41d4-815f-4744-bac0-53d121321cfb?source=sessions) | Bring your data engineers, scientists, and analysts together in new ways and unleash innovation in your organization with a class-leading open and governed solution that truly allows you to do more, with less. | Microsoft Build 2023
-[Unlocking Transformative Data Value with Microsoft Fabric](https://info.microsoft.com/ww-landing-unlocking-transformative-data-value-with-microsoft-fabric.html) | ebook - Learn why accessing and managing real-time data in the cloud is key to long-term business success—and see how to get started with a modern analytics solution. | Microsoft 
+[Unlocking Transformative Data Value with Microsoft Fabric](https://info.microsoft.com/ww-landing-unlocking-transformative-data-value-with-microsoft-fabric.html) | ebook - Learn why accessing and managing real-time data in the cloud is key to long-term business success—and see how to get started with a modern analytics solution. | Microsoft
 [Using Azure Databricks with Microsoft Fabric and OneLake](https://blog.fabric.microsoft.com/en-us/blog/using-azure-databricks-with-microsoft-fabric-and-onelake?ft=All:) | How does Azure Databricks work with Microsoft Fabric? With the recent announcement of Microsoft Fabric, this question might have appeared in your social media feed. This blog post will answer that question and more details on how the two systems can work together.| Blog
 [Microsoft Fabric licenses](https://lnkd.in/dJZiSA2N)| A Microsoft Fabric subscription consists of tenants, capacities, and workspaces and can be organized in various ways according to your organizational needs | Microsoft Learn
 [Microsoft Fabric Guided Tour](https://guidedtour.microsoft.com/en-us/guidedtour/microsoft-fabric/microsoft-fabric/1/1) | Guided tour for Microsoft Fabric | Microsoft Guided Tour
-[Microsoft Fabric - Free Trial](https://app.fabric.microsoft.com/singleSignOn?ru=https%3A%2F%2Fapp.fabric.microsoft.com%2F%3FnoSignUpCheck%3D1) | Free Trial| Microsoft 
+
+## Access Fabric
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Accessing Microsoft Fabric for developers, startups and enterprises](https://blog.fabric.microsoft.com/en-us/blog/accessing-microsoft-fabric-for-developers-startups-and-enterprises?ft=All) | Enabling Microsoft Fabric as a developer, as a startup or as an enterprise has different steps. In this blog, I am covering those steps for all different users. | Blog
+[Microsoft Fabric - Free Trial](https://learn.microsoft.com/en-us/fabric/get-started/fabric-trial) | Free Trial| Microsoft
 
 ## Skilling
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Learn Live: Get started with Microsoft Fabric](https://developer.microsoft.com/en-us/reactor/series/S-1188/) | Whether you're building your career or the next great idea, Microsoft Reactor connects you with the developers and startups that share your goals. Learn new skills, meet new peers, and find career mentorship. Virtual events are running around the clock so join us anytime, anywhere! | Microsoft Reactor
 [Introduction to Microsoft Fabric - Webinar series](https://videos.microsoft.com/microsoft-fabric) | Webinar Series | Microsoft Videos
 [Get started with Microsoft Fabric](https://lnkd.in/dza3b8ru) | Microsoft Learning path for Microsoft Fabric (9𝐡) | Microsoft Learn
 [End-to-end tutorials in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/get-started/end-to-end-tutorials)  | hese tutorials guide you through a scenario that covers the entire process, from data acquisition to data consumption. Includes: lakehouse, data science, real-time analytics, data warehouse tutorials | Microsoft Learn
@@ -54,6 +61,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Fabric Blog](https://blog.fabric.microsoft.com/en-US/blog/) | Microsoft Fabric Blog | Fabric Blog
 [Fabric Community](https://community.fabric.microsoft.com/)| Fabric Community is the place for you to ask questions, provide solutions, and build your knowledge.| Microsoft Community
 [Introducing Fabric](https://lnkd.in/duxVTQtq) | | BI Polar Blog
 [Overcoming the Fear: Exploring Microsoft Fabric from a Power BI Angle](https://lnkd.in/d5D_dnVg) | | Data Marc Blog
@@ -74,7 +82,7 @@ Source | Description | Notes
 [Introducing Synapse Data Science in Microsoft Fabricc](https://aka.ms/Fabric-DS-Blog) | Microsoft Fabric, the open Delta Lake support allows data science users to version datasets to create reproducible machine learning code. Additionally, data science users have access to a wide range of easy-to-use getting started experiences, low-code tools and code authoring experiences with Notebooks and Visual Studio Code. Synapse Data Science in Microsoft Fabric also provides a rich set of built-in ML tools. For example, MLFlow model and experiment tracking, powered by Azure machine learning, is built in. The SynapseML Spark library provides scalable ML tools and users can serve predictions swiftly to Power BI with the new PBI Direct Lake capability.| Fabric Blog 
 [Introducing Synapse Data Warehouse in Microsoft Fabric](https://aka.ms/Fabric-DW-Blog) | Synapse Data Warehouse is the next generation of data warehousing in Microsoft Fabric that is the first transactional data warehouse to natively support an open data format enabling IT teams, data engineers and business users to collaborate seamlessly and extract actionable insights from their data, all without compromising enterprise security or governance. Just like the previous data warehouse generation, SQL provides multi-table ACID transactional guarantees| Fabric Blog 
 [Sense, analyze, and generate insights with Synapse Real-Time Analytics in Microsoft Fabric](https://aka.ms/Fabric-RTA-Blog) |  Real-Time Analytics enables quick access to data insights through automatic data streaming, indexing, and partitioning, and employs auto-generated queries and visualizations, all while preserving powerful analytical capabilities. The platform is optimized for streaming, time-series data, and utilizes a query language and engine with exceptional performance for searching structured, semi-structured, and unstructured data. | Fabric Blog
-[Introducing Microsoft Fabric and Copilot in Microsoft Power BI](https://powerbi.microsoft.com/en-gb/blog/introducing-microsoft-fabric-and-copilot-in-microsoft-power-bi/) | Announcement Microsoft Fabric and Copilot in Microsoft 
+[Introducing Microsoft Fabric and Copilot in Microsoft Power BI](https://powerbi.microsoft.com/en-gb/blog/introducing-microsoft-fabric-and-copilot-in-microsoft-power-bi/) | Announcement Microsoft Fabric and Copilot in Microsoft
 [Driving actions from your data with Data Activator ](https://aka.ms/Fabric-DA-Blog) |  Data Activator is a no-code Microsoft Fabric experience that empowers the business analyst to drive actions automatically from your data | blog 
 [Microsoft OneLake in Fabric, the OneDrive for data](https://aka.ms/Fabric-OneLake-Blog) |  OneLake is a complete, rich, ready-to-go enterprise-wide data lake provided as a SaaS service.  | Fabric Blog
 [Microsoft 365 data integration in Fabric](https://aka.ms/buil2023-m365-fabric-blog) | icrsoft 365 in the Microsoft Graph for enterprise analytics, we use Microsoft Graph Data Connect which a secure, scalable solution that enables you to copy relevant Microsoft 365 datasets into Microsoft Fabric.| Fabric blog
