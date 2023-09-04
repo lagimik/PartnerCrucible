@@ -37,14 +37,16 @@ Source | Description | Notes
 [Azure Blog](https://azure.microsoft.com/en-us/blog/)|Azure Blog | Azure
 [Azure Updates](https://azure.microsoft.com/en-us/updates/)|Get the latest updates on Azure products and features to meet your cloud investment needs. Subscribe to notifications to stay informed.|
 
-## Partner Admin Link (PAL)
+## Partner Attributes
 
 Source | Description | Notes
 :----- | :---------- | :-----
 [Get Recognized for Driving Azure Consumption](https://aka.ms/PALWebcast) | Video Track impact across your customer engagements with Microsoft Partner Admin Link (PAL) |  MS US
-[Partner Admin Link (PAL) Everything](https://partner.microsoft.com/en-ca/training/assets/detail/partner-admin-link-pal-everything-mp4)|Video - Learn the details of Partner Admin Link (PAL), and measure your influence automatically and precisely on Microsoft Azure services that are consumed by customers.| Requires MCPP Login
-[Partner Admin Link (PAL) FAQ](https://partner.microsoft.com/en-us/resources/detail/pal-partner-faq-docx)| Frequently Asked Questions| Requires MCPP Login
-[Partner Admin Link (PAL)](https://partner.microsoft.com/en-us/asset/collection/partner-admin-link#/)|Partner Admin Link (PAL) enables Microsoft to identify and recognize partners who drive Azure customer success. Optimized for managed services where your organization is acting on behalf of the customer, PAL allows you to associate your MCPP ID with the credentials that you use to deliver services within the customer's Azure tenant.| Required MCPP Login
+[Partner Association Playbook](https://aka.ms/Solutionspartner.Associationsplaybook) | See pages 41-45 for Power Platform. Associations are the sole mechanism by which customer success, performance, and skilling category points are acknowledged and calculated towards achieving solutions partner designations). | Presentation
+[Link a partner ID to your account that’s used to manage customers](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/link-partner-id) | Microsoft can attribute influence and Azure consumed revenue to your organization based on the account's permissions (Azure role) and scope (subscription, resource group, resource). If a group has Azure RBAC access, then PAL is recognized for all the users in the group. | MS Learn
+[Roles and permissions required to receive partner earned credit](https://learn.microsoft.com/en-us/partner-center/azure-roles-perms-pec) | The following roles map to permissions levels that determine whether a partner is eligible for partner earned credit (PEC). | Microsoft Learn
+[Use PowerShell to link to a new partner ID](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/link-partner-id#use-powershell-to-link-to-a-new-partner-id) | Use PowerShell to link to a new partner ID
+| Microsoft Learn
 
 
 
@@ -142,6 +144,7 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :---------- | :-----
 [Apply Zero Trust principles to an Azure Virtual Desktop deployment](https://learn.microsoft.com/en-ca/security/zero-trust/azure-infrastructure-avd) | This article provides steps to apply the principles of Zero Trust to an Azure Virtual Desktop deployment| Microsoft Learn
+[Use cases for Azure Virtual Desktop Insights](https://learn.microsoft.com/en-us/azure/virtual-desktop/insights-use-cases)| Using Azure Virtual Desktop Insights can help you understand your deployments of Azure Virtual Desktop. It can help with checks such as which client versions are connecting, opportunities for cost saving, or knowing if you have resource limitations or connectivity issues. | Microsoft Learn
 
 ## Workload - Azure Kubernetes Service (AKS)
 

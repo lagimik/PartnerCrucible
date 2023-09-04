@@ -7,6 +7,12 @@ A Collection of resources for Microsoft practice building around 5G. For a view 
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
+## Industry
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[Launch into satellite applications with Microsoft Azure](https://www.infoworld.com/article/3705670/launch-into-satellite-applications-with-microsoft-azure.html) |Microsoft’s Azure Space platform and Azure Orbital Space SDK are taking edge computing to the final frontier, starting with satellite image processing, geospatial, and communications applications.| InfoWorld
+
 ## AIOps
 
 Source | Description | Notes
