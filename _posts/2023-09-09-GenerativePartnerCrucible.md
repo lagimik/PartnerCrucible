@@ -6,37 +6,89 @@ layout: generativepartnercrucible
 thumbnail: /PartnerCrucible/assets/images/2023-09-09-PowerPlatformSolutionArea.md-image.png
 ---
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2023-09-09-AzureInfrastructureSolutionArea.md-image.png )
-# Azure Infrastructure Solution Area## What's newThe following changes have been made to support Microsoft Partners in building their technical practice in the Azure Infrastructure Solution Area:- Added AKS cluster with Azure Managed Prometheus and Azure Managed Grafana, providing instructions on deploying an Azure Kubernetes Service (AKS) cluster with Azure Monitor managed service for Prometheus and Azure Managed Grafana to monitor performance and health status. (Source: [Tech Community](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-to-create-an-aks-cluster-with-azure-managed-prometheus-and/ba-p/3918527))- Updated CI/CD for AKS apps with Azure Pipelines, showcasing the use of Azure Pipelines for deploying AKS applications. (Source: [Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/guide/aks/aks-cicd-azure-pipelines))- Updated SAP on Azure Resources, providing documentation and learning resources, including case studies. (Source: [Microsoft Learn](https://aka.ms/SAPonAzureResources))- Updated AVS Partner Bootcamp, offering a three half-day Azure VMware Solution (AVS) Partner Boot Camp to enhance technical abilities through interactive presentations. (Source: [AVS Partner Bootcamp](https://msuspartners.eventbuilder.com/GPSAzureVMwareSolutionBootCamp))## Deep links- [AKS cluster with Azure Managed Prometheus and Azure Managed Grafana](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-to-create-an-aks-cluster-with-azure-managed-prometheus-and/ba-p/3918527): This article provides instructions on deploying an AKS cluster with Azure Monitor managed service for Prometheus and Azure Managed Grafana for monitoring purposes. (Source: Tech Community)- [CI/CD for AKS apps with Azure Pipelines](https://learn.microsoft.com/en-us/azure/architecture/guide/aks/aks-cicd-azure-pipelines): This resource demonstrates the utilization of Azure Pipelines for deploying AKS applications. (Source: Microsoft Learn)- [SAP on Azure Resources](https://aka.ms/SAPonAzureResources): Access documentation, learning resources, and case studies related to SAP on Azure. (Source: Microsoft Learn)- [AVS Partner Bootcamp](https://msuspartners.eventbuilder.com/GPSAzureVMwareSolutionBootCamp): Participate in a three half-day Azure VMware Solution (AVS) Partner Boot Camp to enhance technical abilities in AVS through interactive presentations. (Source: AVS Partner Bootcamp)
+
+# Azure Infrastructure Solution Area
+
+## What's new
+
+- Added AKS cluster with Azure Managed Prometheus and Azure Managed Grafana, providing instructions on deploying an Azure Kubernetes Service (AKS) cluster with Azure Monitor managed service for Prometheus and Azure Managed Grafana to monitor performance and health status. 
+
+## Deep links
+
+- [AKS cluster with Azure Managed Prometheus and Azure Managed Grafana](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-to-create-an-aks-cluster-with-azure-managed-prometheus-and/ba-p/3918527): This article provides instructions on deploying an AKS cluster with Azure Monitor managed service for Prometheus and Azure Managed Grafana for monitoring purposes. (Source: Tech Community)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/AzureInfrastructureSolutionArea) for more partner resources.
 
+## Data AI Solution Area
+
+## What's new
+
+- The Total Economic Impact™ Of Microsoft Azure AI" study by Forrester Consulting. 
+  
+## Deep links
+
+- [The Total Economic Impact™ Of Microsoft Azure AI](https://tools.totaleconomicimpact.com/go/microsoft/azureai/index.html?lang=en-us): Microsoft commissioned Forrester Consulting to conduct a study on the potential ROI of deploying Azure AI. This link provides access to the study, which offers insights for evaluating the financial impact of Azure AI on organizations. (Forrester, April 2023)
+
+Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea) for more partner resources.
+
 ![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2023-09-09-DataAISolutionArea-AzureOpenAI.md-image.png )
-# Data AI Solution Area## What's new- Microsoft is providing a straightforward answer to whether customers can use Microsoft's Copilot services and the output they generate without worrying about copyright claims. Microsoft will assume responsibility for any potential legal risks involved. [Copilot Copyright Commitment](https://blogs.microsoft.com/on-the-issues/2023/09/07/copilot-copyright-commitment-ai-legal-concerns/) (Blog)## Deep links- [Conversational Azure OpenAI (ChatGPT) Accelerator](https://github.com/MSUSAzureAccelerators/Conversational-Azure-OpenAI-Accelerator): Rapid Custom Demo tailored to customer use case, focused on top two use cases of generating conversation and summarization. Systems Integrator (SI) partners are welcome. POC is white-labeled. (GitHub)- [Information Assistant accelerator](https://forms.microsoft.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6o4NZzd2WJFhMOsgKclOl9UOFVXWEMyVERTVkxZTU9SUk5PVTkyUzdDRiQlQCN0PWcu): Please fill out this form to set up a discussion about the Information Assistant accelerator, powered by Azure OpenAI. (%0A)- [Azure OpenAI Accelerators and Demo Assets](https://github.com/Azure/ai-solution-accelerators-list/blob/main/OpenAIDemos/README.md): A list of Repeatable IP and learning resources to quickly build an initial Azure OpenAI solution, developed by different individuals and teams at Microsoft. (GitHub)
+
+# Data AI Solution Area - OpenAI
+
+## What's new
+
+- Microsoft Copilot Copyright Commitment
+- Microsoft OpenAI Acceleratos and Demos   
+
+## Deep links
+
+- [Copilot Copyright Commitment](https://blogs.microsoft.com/on-the-issues/2023/09/07/copilot-copyright-commitment-ai-legal-concerns/) (Blog): Microsoft is providing a straightforward answer to whether customers can use Microsoft's Copilot services and the output they generate without worrying about copyright claims. Microsoft will assume responsibility for any potential legal risks involved.
+- [Conversational Azure OpenAI (ChatGPT) Accelerator](https://github.com/MSUSAzureAccelerators/Conversational-Azure-OpenAI-Accelerator): Rapid Custom Demo tailored to customer use case, focused on top two use cases of generating conversation and summarization. Systems Integrator (SI) partners are welcome. POC is white-labeled. (GitHub)
+- [Information Assistant accelerator](https://forms.microsoft.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6o4NZzd2WJFhMOsgKclOl9UOFVXWEMyVERTVkxZTU9SUk5PVTkyUzdDRiQlQCN0PWcu): Please fill out this form to set up a discussion about the Information Assistant accelerator, powered by Azure OpenAI. (%0A)
+- [Azure OpenAI Accelerators and Demo Assets](https://github.com/Azure/ai-solution-accelerators-list/blob/main/OpenAIDemos/README.md): A list of Repeatable IP and learning resources to quickly build an initial Azure OpenAI solution, developed by different individuals and teams at Microsoft. (GitHub)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-AzureOpenAI) for more partner resources.
 
 ![ DataAISolutionArea-Fabric.md ]( /PartnerCrucible/assets/images/2023-09-09-DataAISolutionArea-Fabric.md-image.png )
-# Data AI Solution Area## What's new- Added items.## Deep links- [Unlocking Transformative Data Value with Microsoft Fabric](https://info.microsoft.com/ww-landing-unlocking-transformative-data-value-with-microsoft-fabric.html): An ebook that explains the importance of accessing and managing real-time data in the cloud for business success and provides guidance on starting with a modern analytics solution.- [Microsoft Fabric - Free Trial](https://learn.microsoft.com/en-us/fabric/get-started/fabric-trial): A free trial for Microsoft Fabric.- [Accessing Microsoft Fabric for developers, startups and enterprises](https://blog.fabric.microsoft.com/en-us/blog/accessing-microsoft-fabric-for-developers-startups-and-enterprises?ft=All): A blog that covers the steps to enable Microsoft Fabric for developers, startups, and enterprises.- [Learn Live: Get started with Microsoft Fabric](https://developer.microsoft.com/en-us/reactor/series/S-1188/): Microsoft Reactor offers virtual events and resources for developers to learn new skills and connect with peers and mentors.- [Fabric Blog](https://blog.fabric.microsoft.com/en-US/blog/): The official Microsoft Fabric blog.- [Introducing Microsoft Fabric and Copilot in Microsoft Power BI](https://powerbi.microsoft.com/en-gb/blog/introducing-microsoft-fabric-and-copilot-in-microsoft-power-bi/): An announcement about the introduction of Microsoft Fabric and Copilot in Microsoft Power BI.Please note that these changes have been made to help Microsoft Partners build their technical practice in the Data AI Solution Area.
+
+# Data AI Solution Area - Fabric
+
+## What's new
+
+- Added Microsoft Fabric Learn Live and the different ways to get access to Microsoft Fabric for developments, startups, and enterprises
+  
+## Deep links
+  
+- [Accessing Microsoft Fabric for developers, startups and enterprises](https://blog.fabric.microsoft.com/en-us/blog/accessing-microsoft-fabric-for-developers-startups-and-enterprises?ft=All): A blog that covers the steps to enable Microsoft Fabric for developers, startups, and enterprises.
+- [Learn Live: Get started with Microsoft Fabric](https://developer.microsoft.com/en-us/reactor/series/S-1188/): Microsoft Reactor offers virtual events and resources for developers to learn new skills and connect with peers and mentors.- [Fabric Blog](https://blog.fabric.microsoft.com/en-US/blog/): The official Microsoft Fabric blog.- [Introducing Microsoft Fabric and Copilot in Microsoft Power BI](https://powerbi.microsoft.com/en-gb/blog/introducing-microsoft-fabric-and-copilot-in-microsoft-power-bi/): An announcement about the introduction of Microsoft Fabric and Copilot in Microsoft Power BI.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-Fabric) for more partner resources.
 
 ![ DataAISolutionArea.md ]( /PartnerCrucible/assets/images/2023-09-09-DataAISolutionArea.md-image.png )
-## Data AI Solution Area### What's newThe Partner Crucible updates for the Data AI solution area include the addition of "The Total Economic Impact™ Of Microsoft Azure AI" study by Forrester Consulting. This study examines the potential return on investment (ROI) that enterprises may realize by deploying Azure AI. It provides a framework for evaluating the financial impact of Azure AI on organizations.### Deep links- [The Total Economic Impact™ Of Microsoft Azure AI](https://tools.totaleconomicimpact.com/go/microsoft/azureai/index.html?lang=en-us): Microsoft commissioned Forrester Consulting to conduct a study on the potential ROI of deploying Azure AI. This link provides access to the study, which offers insights for evaluating the financial impact of Azure AI on organizations. (Forrester, April 2023)
 
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea) for more partner resources.
 
 ![ DigitalAppsandInnovationSolutionArea.md ]( /PartnerCrucible/assets/images/2023-09-09-DigitalAppsandInnovationSolutionArea.md-image.png )
-# Digital Apps and Innovation Solution Area## What's newMicrosoft has been named a Leader in the Forrester Wave™: Integration Platforms As A Service, Q3 2023. This recognition highlights Microsoft's strong understanding of customer needs, successful customer engagement, and ongoing investment in integration solutions.## Deep links- [Microsoft named a Leader in the Forrester Wave™: Integration Platforms As A Service, Q3 2023](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/microsoft-named-a-leader-in-the-forrester-wave-integration/ba-p/3914400): This link provides more information about Microsoft being recognized as a Leader in the Forrester Wave™: Integration Platforms As A Service, Q3 2023. It highlights Microsoft's understanding of customer needs and their investment in integration solutions.
+
+# Digital Apps and Innovation Solution Area
+
+## What's new
+
+Microsoft has been named a Leader in the Forrester Wave™: Integration Platforms As A Service, Q3 2023. 
+
+## Deep links
+
+- [Microsoft named a Leader in the Forrester Wave™: Integration Platforms As A Service, Q3 2023](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/microsoft-named-a-leader-in-the-forrester-wave-integration/ba-p/3914400): This link provides more information about Microsoft being recognized as a Leader in the Forrester Wave™: Integration Platforms As A Service, Q3 2023. It highlights Microsoft's understanding of customer needs and their investment in integration solutions.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DigitalAppsandInnovationSolutionArea) for more partner resources.
 
 ![ IndustryTelecom.md ]( /PartnerCrucible/assets/images/2023-09-09-IndustryTelecom.md-image.png )
-# Industry Telecom## What's newSummary sentence of changes: Microsoft’s Azure Space platform and Azure Orbital Space SDK are taking edge computing to the final frontier, starting with satellite image processing, geospatial, and communications applications.## Deep links- [Launch into satellite applications with Microsoft Azure](https://www.infoworld.com/article/3705670/launch-into-satellite-applications-with-microsoft-azure.html): Microsoft’s Azure Space platform and Azure Orbital Space SDK are taking edge computing to the final frontier, starting with satellite image processing, geospatial, and communications applications. (InfoWorld)
 
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/IndustryTelecom) for more partner resources.
+# Industry Telecom
 
-![ PracticeBuilding.md ]( /PartnerCrucible/assets/images/2023-09-09-PracticeBuilding.md-image.png )
-# Solution Areas## What's new- The Partner Crucible updates have made changes to the Solution Areas section.- Now, partners can explore solution plays and curated resources to help develop competitive solutions, serve customers, and grow their business.## Deep links- [Solution Area Playbooks](https://partner.microsoft.com/explore/solution-areas): Explore solution plays and curated resources to help develop competitive solutions, serve customers, and grow your business.- [Partner Capability Score](https://learn.microsoft.com/en-us/partner-center/partner-capability-score): Eligibility for Solutions Partner designations is based on your partner capability score.- [Solutions Partner Benefits Guide](https://aka.ms/Solutionspartner.Benefits): Download the guide to learn about the benefits of Solutions Partner designations.- [Partner Capability Score Simulator](https://docs.microsoft.com/en-us/partner-center/solutions-partner-insights#score-simulator): Use the simulator to review your Partner Capability Score in Partner Center.- [Connect employee Microsoft Certification profile IDs with Partner Center](https://learn.microsoft.com/en-us/partner-center/ms-learn-associate): Link employee Microsoft Certification profile IDs with Partner Center to be recognized for skilling achievements.- [Associate your customer deployments with Partner Center](https://aka.ms/Solutionspartner.Associationsplaybook): Associate your customer deployments with Partner Center to be recognized for your performance and customer growth achievements.- [Specialization areas](https://partner.microsoft.com/en-CA/partnership/specialization): Microsoft specializations build on the related Solutions Partner designations in one of the specialization areas.- [Specialization Benefits Guide](https://aka.ms/Solutionspartner.Benefits): See the guide to learn about the benefits of specializations.- [Apply for and check the status of specializations](https://learn.microsoft.com/en-us/partner-center/advanced-specializations-apply): Use Partner Center to apply for and check the status of specializations.
+## What's new
 
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/PracticeBuilding) for more partner resources.
+- Microsoft’s Azure Space platform and Azure Orbital Space SDK 
 
+## Deep links
+
+- [Launch into satellite applications with Microsoft Azure](https://www.infoworld.com/article/3705670/launch-into-satellite-applications-with-microsoft-azure.html): Microsoft’s Azure Space platform and Azure Orbital Space SDK are taking edge computing to the final frontier, starting with satellite image processing, geospatial, and communications applications. (InfoWorld)
