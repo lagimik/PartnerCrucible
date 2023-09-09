@@ -58,9 +58,11 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 - Added Microsoft Fabric Learn Live and the different ways to get access to Microsoft Fabric for developments, startups, and enterprises
   
 ## Deep links
-  
+
+- [Fabric Blog](https://blog.fabric.microsoft.com/en-US/blog/): The official Microsoft Fabric blog.
 - [Accessing Microsoft Fabric for developers, startups and enterprises](https://blog.fabric.microsoft.com/en-us/blog/accessing-microsoft-fabric-for-developers-startups-and-enterprises?ft=All): A blog that covers the steps to enable Microsoft Fabric for developers, startups, and enterprises.
-- [Learn Live: Get started with Microsoft Fabric](https://developer.microsoft.com/en-us/reactor/series/S-1188/): Microsoft Reactor offers virtual events and resources for developers to learn new skills and connect with peers and mentors.- [Fabric Blog](https://blog.fabric.microsoft.com/en-US/blog/): The official Microsoft Fabric blog.- [Introducing Microsoft Fabric and Copilot in Microsoft Power BI](https://powerbi.microsoft.com/en-gb/blog/introducing-microsoft-fabric-and-copilot-in-microsoft-power-bi/): An announcement about the introduction of Microsoft Fabric and Copilot in Microsoft Power BI.
+- [Learn Live: Get started with Microsoft Fabric](https://developer.microsoft.com/en-us/reactor/series/S-1188/): Microsoft Reactor offers virtual events and resources for developers to learn new skills and connect with peers and mentors.
+- [Introducing Microsoft Fabric and Copilot in Microsoft Power BI](https://powerbi.microsoft.com/en-gb/blog/introducing-microsoft-fabric-and-copilot-in-microsoft-power-bi/): An announcement about the introduction of Microsoft Fabric and Copilot in Microsoft Power BI.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-Fabric) for more partner resources.
 
