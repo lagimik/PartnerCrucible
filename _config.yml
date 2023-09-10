@@ -1,4 +1,6 @@
 
+plugins:
+  - jekyll-feed
 title: Partner Crucible
 email: mamoris@microsoft.com
 description: >- # this means to ignore newlines until "baseurl:"
