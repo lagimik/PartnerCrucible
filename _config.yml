@@ -6,7 +6,7 @@ email: mamoris@microsoft.com
 description: >- # this means to ignore newlines until "baseurl:"
   This project aims to serve as an entry point into the wealth of information and services available to Canadian Microsoft partners.
   The Partner Crucible will curate links, models, and insights to ensure our partners have an overview and a quick path forward.</p>
-  
+
 baseurl: "/PartnerCrucible/" # the subpath of your site, e.g. /blog
 url: "https://lagimik.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lagimik
