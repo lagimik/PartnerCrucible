@@ -1,3 +1,9 @@
+---
+title: "Partner Crucible - Data & AI Solution Area - Microsoft Fabric"
+layout: "default"
+categories: "Data and AI"
+---
+
 # Data & AI > Microsoft Fabric
 
 ## Purpose

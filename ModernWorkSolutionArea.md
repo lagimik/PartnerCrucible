@@ -1,5 +1,10 @@
-# Modern Work Solution Area
+---
+title: "Partner Crucible - Modern Work Solution Area"
+layout: "default"
+categories: "Modern Work"
+---
 
+# Modern Work Solution Area
 
 ## Purpose
 

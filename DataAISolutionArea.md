@@ -1,5 +1,10 @@
-# Data and AI
+---
+title: "Partner Crucible - Data & AI Solution Area"
+layout: "default"
+categories: "Data and AI"
+---
 
+# Data and AI
 
 ## Purpose
 

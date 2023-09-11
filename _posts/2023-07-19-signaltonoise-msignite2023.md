@@ -3,6 +3,7 @@ title: "Signal:Noise - Microsoft Inspire 2023"
 date: 2023-04-18
 flag: "SignalNoise"
 layout: "signalnoise"
+categories: "Signal:Noise"
 ---
 
 # Microsoft Inspire - July 18 - 29 2023

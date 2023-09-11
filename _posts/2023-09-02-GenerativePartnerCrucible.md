@@ -4,6 +4,7 @@ date: 2023-09-02
 flag: GenerativePartnerCrucible
 layout: generativepartnercrucible
 thumbnail: /PartnerCrucible/assets/images/2023-09-02-PowerPlatformSolutionArea.md-image.png
+categories: "Generative Crucible"
 ---
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2023-09-02-AzureInfrastructureSolutionArea.md-image.png )
 
@@ -56,7 +57,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 # Digital Apps and Innovation Solution Area
 
 ## What's new
-- Azure Load Testing references and samples 
+- Azure Load Testing references and samples
 - Azure Integration services reference and BizTalk transitions
 
 ## Deep links
@@ -108,7 +109,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 - The **Microsoft Entra Private Access** blog has been added, providing a deeper look into Microsoft Entra Private Access, an identity-centric zero-trust solution. (Tech Community)
 - The **Conditional Access gap analyzer workbook** has been added, which allows the detection of gaps in Conditional Access implementation. (Microsoft Learn)
 
- 
+
 ## Deep links
 
 - [Microsoft Entra Private Access](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-private-access-an-identity-centric-zero-trust/ba-p/3905451): Blog providing a deeper look into Microsoft Entra Private Access. (Tech Community)

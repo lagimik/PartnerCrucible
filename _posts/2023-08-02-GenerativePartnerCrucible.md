@@ -4,6 +4,7 @@ date: 2023-08-02
 flag: GenerativePartnerCrucible
 layout: generativepartnercrucible
 thumbnail: /PartnerCrucible/assets/images/2023-08-02-PowerPlatformSolutionArea.md-image.png
+categories: "Generative Crucible"
 ---
 ![ AzureInfrastructureSolutionArea-LandingZones.md ]( /PartnerCrucible/assets/images/2023-08-02-AzureInfrastructureSolutionArea-LandingZones.md-image.png )
 

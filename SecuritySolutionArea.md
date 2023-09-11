@@ -1,3 +1,9 @@
+---
+title: "Partner Crucible - Security Solution Area "
+layout: "default"
+categories: "Security"
+---
+
 # Security Solution Area
 
 ![Sentinel](./Library/crucible-security-title.png)

@@ -4,6 +4,7 @@ date: 2023-08-19
 flag: GenerativePartnerCrucible
 layout: generativepartnercrucible
 thumbnail: /PartnerCrucible/assets/images/2023-08-19-PowerPlatformSolutionArea.md-image.png
+categories: "Generative Crucible"
 ---
 
 ![ CSP.md ]( /PartnerCrucible/assets/images/2023-08-19-CSP.md-image.png )
@@ -48,7 +49,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 - Added Azure Well-Architected Azure VMware Solution workload
 - Added Oracle Exadata references
-  
+
 ## Deep links
 - [Azure Well-Architected Azure VMware Solution workload](https://learn.microsoft.com/en-us/assessments/2d85e883-bdc4-4854-aaf0-df72c4bcee15/): Examine the readiness of your Azure VMware Solution for production. Methodically check how your workload aligns with best practices for resiliency, security, efficiency, and cost optimization. (Microsoft Learn)
 - [Microsoft Datacenters Experience](https://datacenters.microsoft.com/globe/): Explore the core elements of Azure's global infrastructure. (Microsoft Datacenters)
@@ -65,9 +66,9 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 - The AI Transformation Partner Playbook has been added to the Data AI Solution Area - Azure OpenAI section.
 - The AI Show episode featuring prompt engineering with Azure OpenAI Service has been added.
 - The DevBlogs post on prompt engineering techniques for complex summarization has been added.
-  
+
 ## Deep link
-  
+
 - [AI Transformation Partner Playbook](https://aka.ms/aipartnerplaybook): Empowers partners to accelerate innovation and grow their AI practice
 - [The Basics of Prompt Engineering with Azure OpenAI Service](https://www.youtube.com/watch?v=e7w6QV1NX1c): A demo on programming your own ChatGPT with natural language and understanding prompt engineering.
 - [Large Language Model Prompt Engineering for Complex Summarization](https://devblogs.microsoft.com/cse/2023/06/27/gpt-summary-prompt-engineering/): Demonstrates prompt engineering techniques for creating summaries of medical research publications.
@@ -126,7 +127,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 - [Unlocking a 360° Cybersecurity View with Microsoft Defender EASM](https://www.linkedin.com/posts/samehyounis_microsoft-cybersecurity-microsoftdefender-activity-7092474141190090755-4E_W?utm_source=share&utm_medium=member_desktop): Summary and infographic. (LinkedIn @SamehYounis)
 - [Unlocking SIEM Capabilities: Microsoft 365 Defender Portal vs. Microsoft Sentinel - An In-Depth Comparison](https://www.linkedin.com/posts/samehyounis_microsoft365defender-microsoftsentinel-siem-activity-7095010832413052928-2GE1?utm_source=share&utm_medium=member_desktop): Summary and infographic. (LinkedIn @SamehYounis)
 - [Clean up Inactive users with Microsoft 365 Lighthouse](https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/clean-up-inactive-users-with-microsoft-365-lighthouse/ba-p/3892891): Microsoft 365 Lighthouse makes it faster and easier than ever before for Managed Service Providers (MSPs) to manage users across customer tenants. This includes managing inactive users. (Tech Community)
-- [Optimizing endpoint security with Microsoft Defender for Endpoint's flexible licensing options](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/optimizing-endpoint-security-with-microsoft-defender-for/ba-p/3893746): explore the available mixed licensing scenarios and provide a step-by-step guide on how to try them out in your environment 
+- [Optimizing endpoint security with Microsoft Defender for Endpoint's flexible licensing options](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/optimizing-endpoint-security-with-microsoft-defender-for/ba-p/3893746): explore the available mixed licensing scenarios and provide a step-by-step guide on how to try them out in your environment
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/SecuritySolutionArea) for more partner resources.
 

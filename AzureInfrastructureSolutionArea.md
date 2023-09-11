@@ -1,3 +1,9 @@
+---
+title: "Partner Crucible - Infrastructure Solution Area"
+layout: "default"
+categories: "Infrastructure"
+---
+
 # Azure Infrastructure Solution Area
 
 ## Purpose

@@ -1,6 +1,7 @@
 
 plugins:
   - jekyll-feed
+
 title: Partner Crucible
 email: mamoris@microsoft.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -11,6 +12,18 @@ baseurl: "/PartnerCrucible/" # the subpath of your site, e.g. /blog
 url: "https://lagimik.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lagimik
 github_username:  lagimik
+
+feed:
+  categories:
+    - "Data and AI"
+    - "Security"
+    - "Modern Work"
+    - "Business Applications"
+    - "Infrastructure"
+    - "Digital and App Innovation"
+    - "Signal:Noise"
+    - "GenerativeCrucible"
+
 
 # Google Anaytics
 measurement_id: G-RYZGVB8WWM

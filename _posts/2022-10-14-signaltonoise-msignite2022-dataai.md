@@ -3,6 +3,7 @@ title: "Signal:Noise - Microsoft Ignite 2022 - Data and AI for partners"
 date: 2022-09-12
 flag: "SignalNoise"
 layout: "signalnoise"
+categories: "Signal:Noise"
 ---
 
 # Azure# Microsoft Ignite 2022 - Data & AI for Partners

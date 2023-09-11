@@ -1,3 +1,9 @@
+---
+title: "Partner Crucible - Business Applications Solution Area - Power Platform"
+layout: "default"
+categories: "Business Applications"
+---
+
 # Power Platform Solution Area
 
 ![PowerApps](./Library/PowerApps_256x256.png)

@@ -1,5 +1,10 @@
-# Data & AI > Azure OpenAI
+---
+title: "Partner Crucible - Data & AI Solution Area - Azure OpenAI"
+layout: "default"
+categories: "Data and AI"
+---
 
+# Data & AI > Azure OpenAI
 
 ## Purpose
 
@@ -59,7 +64,7 @@ Source | Description | Notes
 [Request Access to Azure OpenAI Services](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu) | Azure OpenAI text and code models: Azure OpenAI Service requires registration and is currently only available to Microsoft managed customers and partners.| Customer Voice
 [Azure OpenAI GPT-4 Public Preview Waitlist](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xURjE4QlhVUERGQ1NXOTlNT0w1NldTWjJCMSQlQCN0PWcu) | This form is intended for existing Azure OpenAI customers to join the waitlist for access to the GPT-4 model (preview) in the Azure OpenAI Service.| Customer Voice
 [Azure OpenAI Landing Zone reference architecture](https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-openai-landing-zone-reference-architecture/ba-p/3882102) | In this article, we delve into the synergy of Azure Landing Zones and Azure OpenAI Service, building a secure and scalable AI environment. unpacking the Azure OpenAI Landing Zone architecture, which integrates numerous Azure services for optimal AI workloads. | Tech Community
-[Back to Blog Newer ArticleOlder Article 
+[Back to Blog Newer ArticleOlder Article
 [Building and Deploying Azure AI Landing Zones with Terraform](https://techcommunity.microsoft.com/t5/azure-architecture-blog/empowering-ai-building-and-deploying-azure-ai-landing-zones-with/ba-p/3891249) | In this article, we delve into leveraging Terraform to deploy the Azure OpenAI Landing Zone architecture concentrating on the connectivity and application aspects. By integrating various Azure services and implementing features like Azure Firewall, Virtual Networks, and Private Endpoints, Private DNS Zones, organizations can create a secure and scalable AI environment.| Tech Community
 
 ## Azure OpenAI Learning Path
@@ -134,7 +139,7 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :-----  | :-----
 [Conversational Azure OpenAI (ChatGPT) Accelerator](https://github.com/MSUSAzureAccelerators/Conversational-Azure-OpenAI-Accelerator) | Rapid Custom Demo tailored to customer use case, focused on top two use cases of generating conversation and summarization. Systems Integrator (SI) partners welcome. POC is white-labeled.| GitHub
-[Information Assistant accelerator](https://forms.microsoft.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6o4NZzd2WJFhMOsgKclOl9UOFVXWEMyVERTVkxZTU9SUk5PVTkyUzdDRiQlQCN0PWcu) | Please fill out this form to set up a discussion about the Information Assistant accelerator, powered by Azure OpenAI. | 
+[Information Assistant accelerator](https://forms.microsoft.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6o4NZzd2WJFhMOsgKclOl9UOFVXWEMyVERTVkxZTU9SUk5PVTkyUzdDRiQlQCN0PWcu) | Please fill out this form to set up a discussion about the Information Assistant accelerator, powered by Azure OpenAI. |
 [Azure OpenAI Embeddings QnA](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna) | A simple web application for a OpenAI-enabled document search. This repo uses Azure OpenAI Service for creating embeddings vectors from documents. For answering the question of a user, it retrieves the most relevant document and then uses GPT-3 to extract the matching answer for the question. |  GitHub
 [Customer Service Conversational Insights with Azure OpenA](https://github.com/microsoft/Customer-Service-Conversational-Insights-with-Azure-OpenAI-Services) | The Customer Service Conversational Insights is a solution accelerator built on top of Azure Cognitive Search, Bot Framework, Azure Speech Services and Azure OpenAI that allows customers to quickly deploy an integrated platform and immediately start extracting insights from customer conversations. | GitHub
 [Business Process Automation Accelerator](https://github.com/Azure/business-process-automation) | This accelerator provides a no code Studio for users to quickly build complex, multi-stage AI pipelines across multiple Azure AI and ML Services. Users can select, and stack, AI/ML Services from across Azure Cognitive Services (OpenAI, Speech, Language, Form Recognizer, ReadAPI), Azure Machine Learning into a single, fully integrated pipeline. | GitHub

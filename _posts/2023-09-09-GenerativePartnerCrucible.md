@@ -4,6 +4,7 @@ date: 2023-09-09
 flag: GenerativePartnerCrucible
 layout: generativepartnercrucible
 thumbnail: /PartnerCrucible/assets/images/2023-09-09-PowerPlatformSolutionArea.md-image.png
+categories: "Generative Crucible"
 ---
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2023-09-09-AzureInfrastructureSolutionArea.md-image.png )
 
@@ -11,7 +12,7 @@ thumbnail: /PartnerCrucible/assets/images/2023-09-09-PowerPlatformSolutionArea.m
 
 ## What's new
 
-- Added AKS cluster with Azure Managed Prometheus and Azure Managed Grafana, providing instructions on deploying an Azure Kubernetes Service (AKS) cluster with Azure Monitor managed service for Prometheus and Azure Managed Grafana to monitor performance and health status. 
+- Added AKS cluster with Azure Managed Prometheus and Azure Managed Grafana, providing instructions on deploying an Azure Kubernetes Service (AKS) cluster with Azure Monitor managed service for Prometheus and Azure Managed Grafana to monitor performance and health status.
 
 ## Deep links
 
@@ -23,8 +24,8 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ## What's new
 
-- The Total Economic Impact™ Of Microsoft Azure AI" study by Forrester Consulting. 
-  
+- The Total Economic Impact™ Of Microsoft Azure AI" study by Forrester Consulting.
+
 ## Deep links
 
 - [The Total Economic Impact™ Of Microsoft Azure AI](https://tools.totaleconomicimpact.com/go/microsoft/azureai/index.html?lang=en-us): Microsoft commissioned Forrester Consulting to conduct a study on the potential ROI of deploying Azure AI. This link provides access to the study, which offers insights for evaluating the financial impact of Azure AI on organizations. (Forrester, April 2023)
@@ -38,7 +39,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 ## What's new
 
 - Microsoft Copilot Copyright Commitment
-- Microsoft OpenAI Acceleratos and Demos   
+- Microsoft OpenAI Acceleratos and Demos
 
 ## Deep links
 
@@ -56,7 +57,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 ## What's new
 
 - Added Microsoft Fabric Learn Live and the different ways to get access to Microsoft Fabric for developments, startups, and enterprises
-  
+
 ## Deep links
 
 - [Fabric Blog](https://blog.fabric.microsoft.com/en-US/blog/): The official Microsoft Fabric blog.
@@ -75,7 +76,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ## What's new
 
-Microsoft has been named a Leader in the Forrester Wave™: Integration Platforms As A Service, Q3 2023. 
+Microsoft has been named a Leader in the Forrester Wave™: Integration Platforms As A Service, Q3 2023.
 
 ## Deep links
 
@@ -89,7 +90,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ## What's new
 
-- Microsoft’s Azure Space platform and Azure Orbital Space SDK 
+- Microsoft’s Azure Space platform and Azure Orbital Space SDK
 
 ## Deep links
 

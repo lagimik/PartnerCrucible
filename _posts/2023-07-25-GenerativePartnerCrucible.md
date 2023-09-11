@@ -4,6 +4,7 @@ date: 2023-07-25
 flag: GenerativePartnerCrucible
 layout: generativepartnercrucible
 thumbnail: /PartnerCrucible/assets/images/2023-07-25-DigitalAppsandInnovationSolutionArea.md-image.png
+categories: "Generative Crucible"
 ---
 
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2023-07-25-AzureInfrastructureSolutionArea.md-image.png )
@@ -37,10 +38,10 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ## What's new
 - Added "The Full Guide to Packaging and Deploying ML Models to Production Using Azure: Step-by-Step Guide" to the Tools and Demos section.- Updated with FY24 solution area playbooks.
-  
+
 ## Deep links
 - [Data and AI Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy24-azure-data-and-ai-partner-playbook.pdf): Describes Microsoft's GTM strategy, solution plays, partner priorities, and key resources for the Data and AI solution area.
-- [AI Transformation Partner Playbook](https://aka.ms/aipartnerplaybook): No matter where you are in your AI transformation journey, the AI Transformation Partner Playbook will empower you to accelerate innovation and grow your AI practice. 
+- [AI Transformation Partner Playbook](https://aka.ms/aipartnerplaybook): No matter where you are in your AI transformation journey, the AI Transformation Partner Playbook will empower you to accelerate innovation and grow your AI practice.
 - [Data & AI Industry DREAM Demos & DREAM Demo in a Box](https://partner.microsoft.com/en-us/asset/collection/industry-dream-demos-and-dream-demo-in-a-box#/):Realistic clickable demos based on actual customer engagements that cover a range of industry scenarios. Includes step-by-step guidance on how to bring Data & AI to life in an organization. DREAM Demos in a Box are packaged demos with ARM templates that can be deployed in a customer's subscription.
 - [Azure OpenAI Landing Zone reference architecture](https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-openai-landing-zone-reference-architecture/ba-p/3882102): In this article, we delve into the synergy of Azure Landing Zones and Azure OpenAI Service, building a secure and scalable AI environment. unpacking the Azure OpenAI Landing Zone architecture, which integrates numerous Azure services for optimal AI workloads.
 - [The Full Guide to Packaging and Deploying ML Models to Production Using Azure: Step-by-Step Guide](https://techcommunity.microsoft.com/t5/educator-developer-blog/the-full-guide-to-packaging-and-deploying-ml-models-to/ba-p/3855628) - Step-by-step guide on converting ML models to ONNX format and using them in Power Apps applications.
@@ -54,10 +55,10 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 ## What's new
 
 Updated with FY24 solution area playbooks.
-   
+
 ## Deep links
 - [Digital and App Innovation Playbook](https://assetsprod.microsoft.com/en-ca/fy24-azure-digital-and-app-innovation-partner-playbook.pdf) | Strategy, Solution Plays, and Key Resources | Partners FY24
-  
+
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DigitalAppsandInnovationSolutionArea) for more partner resources.
 
@@ -69,7 +70,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 # What's new
 -  Added [Security Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy24-security-partner-playbook.pdf): Describes Microsoft GTM Strategy, Solution Plays, Partner Priorities, and Key Resources for FY24.
 -  Added [The Partner Opportunity For Microsoft Security](https://aka.ms/ForresterMSSecurityTEI2023): Provides insights from a Total Economic Impact™ (TEI) study conducted by Forrester Consulting on the benefits of investing in and expanding Microsoft security practices for SMBs and enterprise customers.
-  
+
 ## Deep links
 
 -  [Security Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy24-security-partner-playbook.pdf): Describes Microsoft GTM Strategy, Solution Plays, Partner Priorities, and Key Resources for FY24.

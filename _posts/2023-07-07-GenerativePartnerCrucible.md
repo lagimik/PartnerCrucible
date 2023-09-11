@@ -4,6 +4,7 @@ date: 2023-07-07
 flag: "GenerativePartnerCrucible"
 layout: "generativepartnercrucible"
 thumbnail: /PartnerCrucible/assets/images/2023-07-07-PowerPlatformSolutionArea.md-image.png
+categories: "Generative Crucible"
 ---
 
 ![ BusinessApplicationsSolutionArea.md ]( /PartnerCrucible/assets/images/2023-07-07-BusinessApplicationsSolutionArea.md-image.png )
@@ -34,7 +35,7 @@ Visit the [Partner Crucible Data & AI - Azure OpenAI](https://lagimik.github.io/
 
 # Digital and Application Innovation
 
-Changes include improvements to the APIM monetization feature and the introduction of marketplace metered billing APIs. 
+Changes include improvements to the APIM monetization feature and the introduction of marketplace metered billing APIs.
 
 - [APIM Monetization Link](https://learn.microsoft.com/en-us/azure/api-management/monetization-support): This document provides a comprehensive overview of the API Management features that can help you implement your monetization strategy effectively.Additionally
 - [Marketplace Metered Billing APIs Link](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-metering-service-apis): These APIs are essential when you want to create custom metering dimensions for an offer to be published in Partner Center. Integrating with the metered billing APIs is necessary for any purchased offer with plans that emit usage events.

@@ -4,6 +4,7 @@ date: 2023-08-26
 flag: GenerativePartnerCrucible
 layout: generativepartnercrucible
 thumbnail: /PartnerCrucible/assets/images/2023-08-26-PowerPlatformSolutionArea.md-image.png
+categories: "Generative Crucible"
 ---
 ![ AzureInfrastructureSolutionArea-LandingZones.md ]( /PartnerCrucible/assets/images/2023-08-26-AzureInfrastructureSolutionArea-LandingZones.md-image.png )
 
@@ -12,8 +13,8 @@ thumbnail: /PartnerCrucible/assets/images/2023-08-26-PowerPlatformSolutionArea.m
 ## What's new
 
 - Added Landing Zone Accelerator for Spring Apps
-- Added Building and Deploying Azure AI Landing Zones with Terraform 
-  
+- Added Building and Deploying Azure AI Landing Zones with Terraform
+
 ## Deep links
 - [Landing Zone Accelerator for Spring Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-right-and-fast-landing-zone-accelerator-for-spring-apps/ba-p/3903517): Azure Spring Apps (ASA) landing zone accelerator. You can start deploying your spring applications to Azure Spring Apps at scale using the built-with industry-proven practices. (Tech Community)
 - [Building and Deploying Azure AI Landing Zones with Terraform](https://techcommunity.microsoft.com/t5/azure-architecture-blog/empowering-ai-building-and-deploying-azure-ai-landing-zones-with/ba-p/3891249): In this article, we delve into leveraging Terraform to deploy the Azure OpenAI Landing Zone architecture concentrating on the connectivity and application aspects. By integrating various Azure services and implementing features like Azure Firewall, Virtual Networks, and Private Endpoints, Private DNS Zones, organizations can create a secure and scalable AI environment. (Tech Community)
@@ -57,9 +58,9 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 ## What's new
 
  - a new resource called "WhatTheHack - Data and AI" has been added to the Solution Area.
- 
+
  ## Deep links
- 
+
  - [WhatTheHack - Data and AI](https://github.com/microsoft/WhatTheHack#data--ai): What The Hack is a collaborative learning experience where attendees learn from and share with each other. It provides challenges without step-by-step instructions, encouraging teamwork and enhancing knowledge retention.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea) for more partner resources.
@@ -72,7 +73,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 - Microsoft Assessments
 - Azure draft
 - WhatTheHack - Application Development
- 
+
 ## Deep links
 - [Microsoft Assessments](https://learn.microsoft.com/en-us/assessments/): Microsoft Assessments help customers work through a scenario of questions and recommendations that result in a curated guidance report that is actionable and informative. Assessments take time, but is time well-spent. (Microsoft Learn)
 - [Azure draft](https://github.com/Azure/draft): Draft is a tool made for users who are just getting started with Kubernetes, or users who want to simplify their experience with Kubernetes. This readme will give you a quick run down on Draft’s commands and what they do. (GitHub
@@ -142,12 +143,12 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ MixedReality.md ]( /PartnerCrucible/assets/images/2023-08-26-MixedReality.md-image.png )
 
-# Partner Crucible Updates 
+# Partner Crucible Updates
 
 - Microsoft Mesh Technology Adoption Program## What's newAdded Microsoft Mesh Technology Adoption Program, allowing partners to apply for the program to build custom solutions and environments in Private Preview.
-  
+
 ## Deep links
-  
+
 -  [Microsoft Mesh Technology Adoption Program](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRyAJpgrP_R1NrtdbborOob5UQUpFVURSRDVYRjNXNzY2VlU1SEVZV0YzNiQlQCN0PWcu&ctx=%257B%2522Event%2522%253A%2522Build%2522%257D): Complete this form to be considered for the Microsoft Mesh Technology Adoption Program (TAP) for building custom solutions and environments in Private Preview. (MTAP)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/MixedReality) for more partner resources.

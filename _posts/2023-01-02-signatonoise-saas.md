@@ -3,6 +3,7 @@ title: "Signal:Noise - Journey to SaaS - a hitchhiker's guide"
 date: 2023-01-02
 flag: "SignalNoise"
 layout: "signalnoise"
+categories: "Signal:Noise"
 ---
 
 # Journey to SaaS - a hitchhiker's guide

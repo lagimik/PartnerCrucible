@@ -1,3 +1,9 @@
+---
+title: "Partner Crucible - Security Solution Area - Sentinel"
+layout: "default"
+categories: "Security"
+---
+
 # Security Solution Area - Sentinel
 
 ![Sentinel](./Library/sentinel-logo.png)
@@ -8,7 +14,7 @@ A Collection of resources for building Sentinel and SOC demos. For a view of oth
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
-# Industry 
+# Industry
 
 Source | Description | Notes
 :----- | :-----  | :-----
@@ -24,7 +30,7 @@ Source | Description | Notes
 [Azure Sentinel Technical Playbook for MSSPs](http://aka.ms/azsentinelmssp)| How to deploy Azure Sentinel as a managed security services provider | March 2021
 [Microsoft Sentinel for MSSPs](https://learn.microsoft.com/en-us/azure/sentinel/multiple-tenants-service-providers) | If you're a managed security service provider (MSSP) and you're using Azure Lighthouse to offer security operations center (SOC) services to your customers, you can manage your customers' Microsoft Sentinel resources directly from your own Azure tenant, without having to connect to the customer's tenant | Microsoft Learn
 [Sentinel POC – Architecture and Recommendations for MSSPs ](https://myfabersecurity.com/2023/03/31/sentinel-poc-architecture-and-recommendations-for-mssps-part-1/) | This post is a part of series that covers various topics from the very basics, to ensure partners that may be familiar with other SIEMs, but that are not yet familiar with Azure can get all the information they need to be successful.| My Faber Security
-[Centrally manage multiple Microsoft Sentinel workspaces with workspace manager](https://learn.microsoft.com/en-us/azure/sentinel/workspace-manager) | This article takes you through provisioning and usage of workspace manager. Whether you're a global enterprise or a Managed Security Services Provider (MSSP), workspace manager helps you operate at scale efficiently. | Microsoft Learn 
+[Centrally manage multiple Microsoft Sentinel workspaces with workspace manager](https://learn.microsoft.com/en-us/azure/sentinel/workspace-manager) | This article takes you through provisioning and usage of workspace manager. Whether you're a global enterprise or a Managed Security Services Provider (MSSP), workspace manager helps you operate at scale efficiently. | Microsoft Learn
 [Protecting MSSP intellectual property in Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/mssp-protect-intellectual-property) | This article describes the methods that managed security service providers (MSSPs) can use to protect intellectual property they've developed in Microsoft Sentinel, such as Microsoft Sentinel analytics rules, hunting queries, playbooks, and workbooks | Microsoft Learn
 [Sentinel Migration Guides](https://docs.microsoft.com/en-us/azure/sentinel/migration)| These are detailed guides to migrate from ArcSight, QRadar and Splunk; migrate historical data, convert dashboards to workbooks and update SOC processes.| Microsoft Learn
 [Azure Sentinel Tools](https://github.com/Azure/Azure-Sentinel/tree/master/Tools) | Microsoft Sentinel API integrations, tools and deployment templates that can enable you to easily: connect your solutions with Microsoft Sentinel, deploy in Microsoft Sentinel, migrate to Microsoft Sentinel, work easily and connect to different products in Microsoft Sentinel| GitHub

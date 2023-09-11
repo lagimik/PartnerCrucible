@@ -1,3 +1,9 @@
+---
+title: "Partner Crucible - Data & AI Solution Area - Azure OpenAI"
+layout: "default"
+categories: "Digital and App Innovation"
+---
+
 # Digital Apps and Innovation
 
 ![OpenHack](./Library/crucible-digitalapp.png)

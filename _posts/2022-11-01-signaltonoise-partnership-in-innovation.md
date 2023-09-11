@@ -3,6 +3,7 @@ title: "Signal:Noise - Partnership in innovation"
 date: 2022-10-30
 flag: "SignalNoise"
 layout: "signalnoise"
+categories: "Signal:Noise"
 ---
 
 # Partnership in innovation

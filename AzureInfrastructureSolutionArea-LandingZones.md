@@ -1,6 +1,10 @@
+---
+title: "Partner Crucible - Infrastructure Solution Area - Landing Zones"
+layout: "default"
+categories: "Infrastructure"
+---
+
 # Azure Infrastructure - Landing Zones
-
-
 
 ![Azure Infrastructure](./Library/Azure-LandingZone.png)
 

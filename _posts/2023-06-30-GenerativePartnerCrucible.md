@@ -4,6 +4,7 @@ date: 2023-06-30
 flag: "GenerativePartnerCrucible"
 layout: "generativepartnercrucible"
 thumbnail: /PartnerCrucible/assets/images/2023-06-30-PowerPlatformSolutionArea.md-image.png
+categories: "Generative Crucible"
 ---
 
 ![ PowerPlatformSolutionArea.md ]( /PartnerCrucible/assets/images/2023-06-30-PowerPlatformSolutionArea.md-image.png )
@@ -12,9 +13,9 @@ thumbnail: /PartnerCrucible/assets/images/2023-06-30-PowerPlatformSolutionArea.m
 
 The Forrester report acknowledges Microsoft’s “best-in-class features for AI development”, track record of innovation, and unique approach to unifying across professional and citizen development as key advantages, saying, “the vision for the platform as the universal development toolset for the whole spectrum of professional and citizen developers working together is credible and without equal.
 
-- [AI Innovations](https://dynamicspartners.transform.microsoft.com/cloud-conversations?tab=tab-custom3): Generative AI in Power Platform including Power Apps, Power Virtual Agents, Power Pages. 
--  [Power Platform Generative AI](https://dynamicspartners.transform.microsoft.com/download/protected?assetname=protectedassets%252FPower%2520Platform%2520generative%2520pitch%2520deck.pptx&download=1&protected=1&src=https%3A%252F%252Fdynamicspartners.transform.microsoft.com%252Fcloud-conversations): Partner Pitch Deck - History, overview, and deep dive into fusing Power Platform with Generative AI. 
-- [2023 Forrester Wave Low-Code Platforms for Professional Developers](https://dynamicspartners.transform.microsoft.com/download/protected?assetname=protectedassets%252FPower%2520Platform%2520generative%2520pitch%2520deck.pptx&download=1&protected=1&src=https%3A%252F%252Fdynamicspartners.transform.microsoft.com%252Fcloud-conversations) 
+- [AI Innovations](https://dynamicspartners.transform.microsoft.com/cloud-conversations?tab=tab-custom3): Generative AI in Power Platform including Power Apps, Power Virtual Agents, Power Pages.
+-  [Power Platform Generative AI](https://dynamicspartners.transform.microsoft.com/download/protected?assetname=protectedassets%252FPower%2520Platform%2520generative%2520pitch%2520deck.pptx&download=1&protected=1&src=https%3A%252F%252Fdynamicspartners.transform.microsoft.com%252Fcloud-conversations): Partner Pitch Deck - History, overview, and deep dive into fusing Power Platform with Generative AI.
+- [2023 Forrester Wave Low-Code Platforms for Professional Developers](https://dynamicspartners.transform.microsoft.com/download/protected?assetname=protectedassets%252FPower%2520Platform%2520generative%2520pitch%2520deck.pptx&download=1&protected=1&src=https%3A%252F%252Fdynamicspartners.transform.microsoft.com%252Fcloud-conversations)
 
 Visit the [Partner Crucible Power Platform](https://lagimik.github.io/PartnerCrucible/PowerPlatformSolutionArea) topic page for more partner resources.
 
@@ -43,12 +44,12 @@ Visit the [Partner Crucible Data & AI](https://lagimik.github.io/PartnerCrucible
 ![ ModernWorkSolutionArea.md ]( /PartnerCrucible/assets/images/2023-06-30-ModernWorkSolutionArea.md-image.png )
 
 # Microsoft 365 Copilot
-- [How to prepare for Microsoft 365 Copilot](https://techcommunity.microsoft.com/t5/microsoft-365-copilot/how-to-prepare-for-microsoft-365-copilot/ba-p/3851566): Provides an overview of Copilot and offers technical details on how to prepare for it, including best practices for setting permissions policies, admin controls, change management, adoption, security, privacy, compliance, and data residency. 
+- [How to prepare for Microsoft 365 Copilot](https://techcommunity.microsoft.com/t5/microsoft-365-copilot/how-to-prepare-for-microsoft-365-copilot/ba-p/3851566): Provides an overview of Copilot and offers technical details on how to prepare for it, including best practices for setting permissions policies, admin controls, change management, adoption, security, privacy, compliance, and data residency.
 
 - [Microsoft 365 Copilot Technical Overview for Partners](https://transform.microsoft.com/modernwork/download?assetname=assets%252FMicrosoft%2520365%2520Copilot%2520Technical%2520Deck.pptx&download=1): A library of Microsoft 365 Copilot slides for Microsoft partners to use when engaging customers. These slides provide an overview of privacy, security, data residency, and answers to common technical questions. Access the overview [here](https://transform.microsoft.com/modernwork/download?assetname=assets%252FMicrosoft%2520365%2520Copilot%2520Technical%2520Deck.pptx&download=1).
 - [Data, Privacy, and Security for Microsoft 365 Copilot](https://learn.microsoft.com/en-ca/DeployOffice/privacy/microsoft-365-copilot): An overview of Microsoft 365 Copilot's data usage, privacy, residency, and sovereignty features. Read more about it [here](https://learn.microsoft.com/en-ca/DeployOffice/privacy/microsoft-365-copilot).
 - [Microsoft 365 Copilot: The AI-Powered Future of Work](https://aka.ms/M365CopilotPartner): A partner resource landing page that provides information on Microsoft 365 Copilot. Explore more [here](https://aka.ms/M365CopilotPartner).
-- [Microsoft 365 Copilot Partner Guide](https://cloudpartners.transform.microsoft.com/download?assetname=assets%252FMicrosoft365-Copilot-Partner-Guide.pptx&download=1): A comprehensive guide for partner readiness and customer adoption of Microsoft 365 Copilot. 
+- [Microsoft 365 Copilot Partner Guide](https://cloudpartners.transform.microsoft.com/download?assetname=assets%252FMicrosoft365-Copilot-Partner-Guide.pptx&download=1): A comprehensive guide for partner readiness and customer adoption of Microsoft 365 Copilot.
 
 Visit the [Partner Crucible Modern Work](https://lagimik.github.io/PartnerCrucible/ModernWorkSolutionArea) topic page for more partner resources.
 

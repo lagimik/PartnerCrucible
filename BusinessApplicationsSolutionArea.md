@@ -1,5 +1,10 @@
-# Business Applications Solution Area
+---
+title: "Partner Crucible - Business Applications Solution Area"
+layout: "default"
+categories: "Business Applications"
+---
 
+# Business Applications Solution Area
 
 ## Purpose
 
