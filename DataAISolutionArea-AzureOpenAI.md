@@ -55,7 +55,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[What runs ChatGPT?](https://www.youtube.com/watch?v=Rk3nTUfRZmo) | Inside Microsoft's AI supercomputer | Featuring Mark Russinovich - Get an inside look at the AI supercomputer infrastructure built to run ChatGPT and other large language models, and see how to leverage it for your workloads in Azure, at any scale. | Microsoft Mechanics
+[What runs ChatGPT?](https://www.youtube.com/watch?v=Rk3nTUfRZmo) | Inside Microsoft's AI supercomputer Featuring Mark Russinovich - Get an inside look at the AI supercomputer infrastructure built to run ChatGPT and other large language models, and see how to leverage it for your workloads in Azure, at any scale. | Microsoft Mechanics
 [Data, privacy, and security for Azure OpenAI Service](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy) |This article provides details regarding how data provided by you to the Azure OpenAI service is processed, used, and stored. | Microsoft Learn
 [Azure OpenAI Service Documentation](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/) | Learn how to use Azure OpenAI's powerful language models including the GPT-3, Codex and Embeddings model series for content generation, summarization, semantic search, and natural language to code translation. | Microsoft Learn
 [Implement logging and monitoring for Azure OpenAI models](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/log-monitor-azure-openai) | This solution provides comprehensive logging and monitoring and enhanced security for enterprise deployments of the Azure OpenAI Service API. | ARchitecture Center
