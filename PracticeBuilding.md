@@ -19,7 +19,7 @@ Source | Description | Notes
 Pillar | Description | Why? | Next Step
 -----: | :---------- | :----- | :-----
 **Microsoft Cloud Partner Program (MCPP) membership** | [Partner Center](https://partner.microsoft.com/en-us/dashboard) is the main partner portal provides you access to the tools you need to get work done.| Membership includes [MCPP Benefits](https://learn.microsoft.com/en-us/partner-center/mpn-find-benefits#mpn-benefits) and [Investment and incentives](http://aka.ms/partnerincentives) | - [Become a partner](https://partner.microsoft.com/en-ca/membership) <br> - Obtain access to [Partner Center](https://partner.microsoft.com/en-us/dashboard), or [raise an issue](https://partner.microsoft.com/en-US/support/?stage=1) <br> - Ensure MCPP hierarchy of different locations or entities is correct so that all activity is recognized. <br> - Open a [Partner Center support request](https://partner.microsoft.com/en-US/support/?stage=1) to resolve problems.
-**Solution Areas** | [Solution Area Playbooks](https://partner.microsoft.com/explore/solution-areas) | Explore solution plays and curated resources to help develop competitive solutions, serve customers, and grow your business. | - Review [Solution Area Playbooks](https://partner.microsoft.com/explore/solution-areas) that are most relevant to your organisation to unlock incentives. 
+**Solution Areas** | [Solution Area Playbooks](https://partner.microsoft.com/explore/solution-areas) | Explore solution plays and curated resources to help develop competitive solutions, serve customers, and grow your business. | - Review [Solution Area Playbooks](https://partner.microsoft.com/explore/solution-areas) that are most relevant to your organisation to unlock incentives.
 **Achieve Solution Partner Designation** | Eligibility for Solutions Partner designations is based on your [partner capability score](https://learn.microsoft.com/en-us/partner-center/partner-capability-score). |  Download the [Solutions Partner Benefits Guide](https://aka.ms/Solutionspartner.Benefits) | - Review your **Partner Capability Score (PCS)** in Partner Center. <br> - Use the [Partner Capability Score Simulator](https://docs.microsoft.com/en-us/partner-center/solutions-partner-insights#score-simulator) <br> - [Link employee Microsoft Certification profile IDs with Partner Center](https://learn.microsoft.com/en-us/partner-center/ms-learn-associate) to be recognized for skilling achievements. <br> - [Associate your customer deployments with Partner Center](https://aka.ms/Solutionspartner.Associationsplaybook) to be recognized for your performance and customer growth achievements.
 **Achieve Specialisation** | Microsoft specializations build on the related **Solutions Partner designations** in one of the [specialization areas](https://partner.microsoft.com/en-CA/partnership/specialization) |  See [Specialization Benefits Guide](https://aka.ms/Solutionspartner.Benefits) | Use *Partner Center* to [apply for and check the status of specializations](https://learn.microsoft.com/en-us/partner-center/advanced-specializations-apply)
 **Marketplace offer** | The Microsoft commercial marketplace is a catalog of solutions from our independent software vendor (ISV) partners and offers from Solution Integrators (SIs).| Accelerate your business in partnership with Microsoft, and to connect Microsoft customers with the best solutions that our partner ecosystem offers.| [Introduction to Listing Options](https://learn.microsoft.com/en-us/azure/marketplace/determine-your-listing-type)
@@ -31,18 +31,19 @@ Microsoft partner benefits, investments, and incentive programs are designed to 
 With the rate technology evolution the only way to stay ahead is to
 **reinvest** into your teams. The following are a set of Microsoft partnership incentive reinvestment ideas, and examples where available.
 
-Idea | Description 
-:----- | :-----  
+Idea | Description
+:----- | :-----
 Marketing | Amplify **go-to-market activities** around new **partner designations, specialisations, or marketplace offers**
-Innovation / R&D Labs | Accelerate the development of intellectual property by funding **innovation labs**  
-Skilling | Invest in talent and drive skilling/certification through **learning labs and give-aways** (ie. Surface, Xbox etc.) 
-Internships | Investing in building workforce of the future by funding **student internships** 
-Customer Investment Fund | Support for **strategic customer deliveries** through a central pool of project funding 
+Innovation / R&D Labs | Accelerate the development of intellectual property by funding **innovation labs**
+Skilling | Invest in talent and drive skilling/certification through **learning labs and give-aways** (ie. Surface, Xbox etc.)
+Internships | Investing in building workforce of the future by funding **student internships**
+Customer Investment Fund | Support for **strategic customer deliveries** through a central pool of project funding
 
 # Partner Practice Skilling and Certifications
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Partner Skilling Playbook](https://assetsprod.microsoft.com/mpn/en-ca/partner-skilling-playbook.pdf) | The Partner Skilling Playbook is a guide for understanding the enablement offerings available to help skill up partner organizations, wherever you are in your learning journey.| Partner
 [Enablement Guides](http://aka.ms/enablementguides)| These technical and sales guides cover Microsoft solution areas across Modern Work; Microsoft Dynamics 365; Microsoft Power Platform; Microsoft Azure; and Security, Compliance, and Identity. | Microsoft
 
 # Partner to Partner (P2P)
