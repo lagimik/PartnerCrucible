@@ -192,6 +192,8 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Migration and modernization for Oracle workloads](https://azure.microsoft.com/en-us/solutions/oracle/) | Run your Oracle database and applications on the Oracle-authorized cloud environment in Azure and support high-performing apps by modernizing with fully managed cloud-native databases. | Azure
+[Oracle workload best practices](https://learn.microsoft.com/en-ca/azure/well-architected/oracle-iaas/overview) | The section about Oracle workloads on Azure provides guidance that applies the Azure Well-Architected best practices as the technical foundation for building and operating a highly reliable solution on Azure at-scale.| Microsoft Learn
 [Moving Workloads from Oracle Exadata to Azure: Top 5 Considerations](https://silk.us/resources/moving-workloads-from-oracle-exadata-to-azure-top-5-considerations/?utm_content=257726625&utm_medium=social&utm_source=linkedin&hss_channel=lcp-56412686) | This eBook looks at 5 considerations when moving workloads from Oracle Exadata to Azure.| Silk
 [Oracle Database Workloads](https://github.com/Azure/Oracle-Workloads-for-Azure) | This project documents the method of sizing on-prem Oracle Database workloads for initial migration into Azure | Github
 [Oracle on Azure IaaS](https://github.com/Azure/Oracle-Workloads-for-Azure/blob/main/Oracle%20on%20Azure%20IaaS%20Recommended%20Practices%20for%20Success.pdf) | Recommended Practices for Success | GitHub
