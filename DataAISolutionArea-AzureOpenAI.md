@@ -121,6 +121,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[An Introduction to LLMOps](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/an-introduction-to-llmops-operationalizing-and-managing-large/ba-p/3910996) | Operationalizing and Managing Large Language Models using Azure ML: Operationalizing and Managing Large Language Models using Azure ML  | Tech Community
 [Azure OpenAI client library for .NET - version 1.0.0-beta.5](https://learn.microsoft.com/en-us/dotnet/api/overview/azure/ai.openai-readme?view=azure-dotnet-preview) | The Azure OpenAI client library for .NET is an adaptation of OpenAI's REST APIs that provides an idiomatic interface and rich integration with the rest of the Azure SDK ecosystem | Microsoft Learn
 [Azure OpenAI Service REST API reference](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/reference)| This article provides details on the inference REST API endpoints for Azure OpenAI.| Microsoft Learn
 
