@@ -27,9 +27,24 @@ Source | Description | Notes
 [Data analytics for the era of AI](https://build.microsoft.com/en-US/sessions/852ccf38-b07d-4ddc-a9fe-2e57bdaeb613?source=sessions) | From data integration and engineering to data science and business intelligence, find out how next-generation services can transform your data into intelligence and innovation. Also, see how the new AI-infused Copilot experiences accelerate developer productivity while building in security and compliance for your data. | Microsoft Build 2023
 [Accelerate your data potential with Microsoft Fabric](https://build.microsoft.com/en-US/sessions/423f41d4-815f-4744-bac0-53d121321cfb?source=sessions) | Bring your data engineers, scientists, and analysts together in new ways and unleash innovation in your organization with a class-leading open and governed solution that truly allows you to do more, with less. | Microsoft Build 2023
 [Unlocking Transformative Data Value with Microsoft Fabric](https://info.microsoft.com/ww-landing-unlocking-transformative-data-value-with-microsoft-fabric.html) | ebook - Learn why accessing and managing real-time data in the cloud is key to long-term business success—and see how to get started with a modern analytics solution. | Microsoft
-[Using Azure Databricks with Microsoft Fabric and OneLake](https://blog.fabric.microsoft.com/en-us/blog/using-azure-databricks-with-microsoft-fabric-and-onelake?ft=All:) | How does Azure Databricks work with Microsoft Fabric? With the recent announcement of Microsoft Fabric, this question might have appeared in your social media feed. This blog post will answer that question and more details on how the two systems can work together.| Blog
 [Microsoft Fabric licenses](https://lnkd.in/dJZiSA2N)| A Microsoft Fabric subscription consists of tenants, capacities, and workspaces and can be organized in various ways according to your organizational needs | Microsoft Learn
 [Microsoft Fabric Guided Tour](https://guidedtour.microsoft.com/en-us/guidedtour/microsoft-fabric/microsoft-fabric/1/1) | Guided tour for Microsoft Fabric | Microsoft Guided Tour
+
+## Architecture and best practices
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Fabric Readiness](https://github.com/microsoft/Fabric-Readiness/) | The Fabric Readiness repo is designed to enable communities interested in topics and concepts related to Microsoft Fabric. This repository currently provides a collection of presentation decks that are intended to be reused in user groups, online presentations, in-person conferences, and customer conversations.| GitHub
+[Microsoft Fabric decision guide: choose a data store](https://learn.microsoft.com/en-us/fabric/get-started/decision-guide-data-store) | Use this reference guide and the example scenarios to help you choose a data store for your Microsoft Fabric workloads. |  Microsoft Learn
+[Microsoft Fabric decision guide: copy activity, dataflow, or Spark](https://learn.microsoft.com/en-us/fabric/get-started/decision-guide-pipeline-dataflow-spark) | se this reference guide and the example scenarios to help you in deciding whether you need a copy activity, a dataflow, or Spark for your Microsoft Fabric workloads.| Microsoft Learn
+[Create Metadata Driven Data Pipelines in Microsoft Fabric](https://blog.fabric.microsoft.com/en-us/blog/create-metadata-driven-data-pipelines-in-microsoft-fabric?ft=All) | Metadata-driven pipelines in Azure Data Factory and Synapse Pipelines, and now, Microsoft Fabric, give you the capability to ingest and transform data with less code, reduced maintenance and greater scalability than writing code or pipelines for every data source that needs to be ingested and transformed.  | Blog
+[Microsoft Fabric: Lakehouse & Medallion Architecture](https://www.youtube.com/watch?v=x_CvCwSbRZI&t=373s) | 
+Lakehouses have become a common foundational design pattern for modern data platforms, and have risen in popularity over the last few years after tools like #Databricks, and now #MicrosoftFabric, have standardized on the design. The Medallion Architecture refers to a three-tiered architectural blueprint, with data moving through different stages of state, each stage serving different purposes | YouTube
+[Data Factory end-to-end scenario: introduction and architecture](https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-end-to-end-introduction) | This tutorial helps you accelerate the evaluation process for Data Factory in Microsoft Fabric by providing a step-by-step guidance for a full data integration scenario within one hour.| Microsoft Learn
+[Using Azure Databricks with Microsoft Fabric and OneLake](https://blog.fabric.microsoft.com/en-us/blog/using-azure-databricks-with-microsoft-fabric-and-onelake?ft=All:) | How does Azure Databricks work with Microsoft Fabric? With the recent announcement of Microsoft Fabric, this question might have appeared in your social media feed. This blog post will answer that question and more details on how the two systems can work together.| Blog
+
+
+
 
 ## Access Fabric
 
@@ -37,6 +52,7 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [Accessing Microsoft Fabric for developers, startups and enterprises](https://blog.fabric.microsoft.com/en-us/blog/accessing-microsoft-fabric-for-developers-startups-and-enterprises?ft=All) | Enabling Microsoft Fabric as a developer, as a startup or as an enterprise has different steps. In this blog, I am covering those steps for all different users. | Blog
 [Microsoft Fabric - Free Trial](https://learn.microsoft.com/en-us/fabric/get-started/fabric-trial) | Free Trial| Microsoft
+
 
 ## Skilling
 
