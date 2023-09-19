@@ -66,6 +66,13 @@ Source | Description | Notes
 [Azure OpenAI Landing Zone reference architecture](https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-openai-landing-zone-reference-architecture/ba-p/3882102) | In this article, we delve into the synergy of Azure Landing Zones and Azure OpenAI Service, building a secure and scalable AI environment. unpacking the Azure OpenAI Landing Zone architecture, which integrates numerous Azure services for optimal AI workloads. | Tech Community
 [Building and Deploying Azure AI Landing Zones with Terraform](https://techcommunity.microsoft.com/t5/azure-architecture-blog/empowering-ai-building-and-deploying-azure-ai-landing-zones-with/ba-p/3891249) | In this article, we delve into leveraging Terraform to deploy the Azure OpenAI Landing Zone architecture concentrating on the connectivity and application aspects. By integrating various Azure services and implementing features like Azure Firewall, Virtual Networks, and Private Endpoints, Private DNS Zones, organizations can create a secure and scalable AI environment.| Tech Community
 
+## Azure OpenAI Models
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Llama 2 on Azure](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/introducing-llama-2-on-azure/ba-p/3881233) | Llama 2 is the next generation of large language model (LLM) developed and released by Meta. It is pretrained on 2 trillion tokens of public data and is designed to enable developers and organizations to build generative AI-powered tools and experiences. | Tech Community
+[Preview of OpenAI Whisper in Azure OpenAI service and Azure AI Speech](https://techcommunity.microsoft.com/t5/azure-ai-services-blog/announcing-the-preview-of-openai-whisper-in-azure-openai-service/ba-p/3928388?WT.mc_id=academic-0000-abartolo) | The OpenAI Whisper model is an encoder-decoder Transformer that can transcribe audio into text in 57 languages. Additionally, it offers translation services from those languages to English, producing English-only output. Furthermore, it creates transcripts with enhanced readability. | Tech Community
+
 ## Azure OpenAI Learning Path
 
 Source | Description | Notes
