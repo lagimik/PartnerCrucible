@@ -129,6 +129,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Microsoft 365 Copilot General Availability FAQ for Partners](https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FMicrosoft365-Copilot-GA-Partner-FAQ.pdf&download=1) |  This FAQ document covers the timing and details of general availability of Microsoft 365 Copilot along with updated guidance on partner readiness and GTM| Transform
 [Microsoft 365 Copilot: The AI-Powered Future of Work](https://aka.ms/M365CopilotPartner) | Partner resource landing page | Transform
 [Microsoft 365 Copilot Partner Guide](https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FMicrosoft365-Copilot-Partner-Guide.pptx&download=1) | This deck provides comprehensive guidance for partner readiness and customer adoption  | Transform
 [Join the Microsoft 365 Copilot Partner Community](https://aka.ms/CopilotPartnerCommunity) | Thank you for your interest in joining the new Copilot Partner Community! This is a community designed to be a resource for Microsoft Partners with interest in Microsoft 365 Copilot. | Form
