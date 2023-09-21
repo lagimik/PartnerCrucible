@@ -102,7 +102,7 @@ Source | Description | Notes
 ## Microsoft Lighthouse
 
 Source | Description | Notes
-:----- | :---------- | :----
+:----- | :---------- | :----ti
 [Clean up Inactive users with Microsoft 365 Lighthouse](https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/clean-up-inactive-users-with-microsoft-365-lighthouse/ba-p/3892891) | Microsoft 365 Lighthouse makes it faster and easier than ever before for Managed Service Providers (MSPs) to manage users across customer tenants. This includes managing inactive users| Tech Community
 [Microsoft 365 Lighthouse for SMB Managed Services Providers (MSPs)](https://www.youtube.com/watch?v=p0kd4bsd_wI) | Introducing a new portal that will enable multi-tenant management of Microsoft 365 services by IT Partners – especially Managed Service Providers (MSPs) who serve small & medium-sized businesses (SMBs).| Nov 2020
 [Microsoft 365 Lighthouse Demo](https://www.youtube.com/watch?v=oSlh2-MeFL0) | Microsoft 365 Lighthouse is an admin portal that helps Managed Service Providers (MSPs) secure and manage devices, data, and users at scale for small- and medium-sized business (SMB) customers who are using Microsoft 365 Business Premium | 2021
@@ -150,6 +150,7 @@ Source | Description | Notes
 [Microsoft 365 Defender Demo](https://cdx.transform.microsoft.com/experience-detail/d12fa95b-908d-4d74-bd3b-9549d9d562f4)| Using the integrated threat protection demo environment, this Microsoft 365 Defender Demo Guide walks field sellers through a content rich demo for customers showing the investigation of a simulated spear phishing attack and advanced hunting exercise.|..
 [Microsoft Defender for Business](https://learning.eventbuilder.com/M365MDBSeries)| WEbinar series|...
 [Microsoft 365 Defender Ninja](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/become-a-microsoft-365-defender-ninja/ba-p/1789376) | his Ninja blog covers the features and functions of Microsoft 365 Defender – everything that goes across the workloads, but not the individual workloads themselves. The content is structured into three different knowledge levels, with multiple modules: Fundamentals, Intermediate, and Expert. | August 2022
+[Microsoft 365 Defender multi-tenant support](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/respond-to-threats-across-tenants-more-effectively-with/ba-p/3901174) | Public preview for multi-tenant environments in Microsoft 365 Defender, which provides large organizations with the much-needed visibility and ease of use across their distributed environments | Tech Community
 
 
 ## Defender for Cloud
