@@ -61,6 +61,14 @@ Source | Description | Notes
 [Azure Skills Navigator - Developers](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-skills-navigator-for-developers/Azure%20Skills%20Navigator%20-%20Developer%20Edition%20-%20Microsoft%202022.pdf) | A guide to build your skills around knowing how to architect and deploy apps in the Cloud and how to maintain and instrument those apps once deployed. Our guide provides an overview of key concepts across Java, .NET, Node.js, and Python, crucial topics to establishing a strong foundation on Microsoft Azure. | Azure Skills Navigator
 [WhatTheHack - Application Development](https://github.com/microsoft/WhatTheHack#application-development) | What The Hack is designed to be a collaborative learning experience. Attendees "learn from" and "share with" each other. Without step-by-step instructions given for the challenges, attendees have to "figure it out" together as a team. This results in greater knowledge retention for the attendees. | WhattheHack
 
+## Intelligent Apps
+
+
+Source | Description | Notes
+:----- | :---------- | :----
+[Build Intelligent Apps On Azure](https://azure.github.io/Cloud-Native/) | Combine the power of AI, cloud-scale data, and cloud-native app development to create highly differentiated digital experiences. Develop adaptive, responsive, and personalized experiences by building and modernizing intelligent applications with Azure.| GitHub
+[30 Days of AI](https://azure.github.io/Cloud-Native/30DaysOfIA) | This Fall focus on building intelligent apps using AI and cloud-native technologies. #FallForIntelligentApps brings to you a learning journey to build your skills on creating differentiated experiences while modernizing your applications. It’s time to learn it all. | GitHub
+
 ## GitHub
 
 Source | Description | Notes
