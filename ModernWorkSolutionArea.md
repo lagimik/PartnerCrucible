@@ -21,6 +21,7 @@ Source | Description | Notes
 [The Microsoft 365 Partner Opportunity](https://aka.ms/W365PartnerTEI) | A Total Economic Impact Partner Opportunity Analysis | Forrester 2023
 [Analyst Studies](https://vc.transform.microsoft.com/analyststudies) | Comprehensive listing of Total Economic Impact (TEI) studies of Microsoft Modern Work solutions| Forrester
 [Creating learn-it-alls at Microsoft with Viva Learning and LinkedIn Learning Hub](https://www.microsoft.com/insidetrack/blog/creating-learn-it-alls-at-microsoft-with-viva-learning-and-linkedin-learning-hub/?ocid=InsideTrack_Promotion_10440) | Microsoft has deployed Microsoft Viva Learning and LinkedIn Learning Hub internally at the company. | Microsoft Inside Track
+[Work Trend Index](https://www.microsoft.com/en-us/worklab/work-trend-index/) | Research and data on the trends reshaping the world of work | Microsoft 
 
 ## Partner Practice Building
 
@@ -129,6 +130,8 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Partner Opportunities](https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FMicrosoft365-Copilot-Services-Solution-Partner-Opportunities.pptx&download=1)| M365 Copilot Partner opportunities - guidance on advisory, deployment, selling, adopting, and extending M365 Copilot | Transform
+[Licensing and Technical Requirements](https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FMicrosoft365-Copilot-Customer-Licensing-and-Technical-Requirements.pptx&download=1) | Accelerate customer AI readiness before deploying Copilot| Transform
 [Microsoft 365 Copilot General Availability FAQ for Partners](https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FMicrosoft365-Copilot-GA-Partner-FAQ.pdf&download=1) |  This FAQ document covers the timing and details of general availability of Microsoft 365 Copilot along with updated guidance on partner readiness and GTM| Transform
 [Microsoft 365 Copilot: The AI-Powered Future of Work](https://aka.ms/M365CopilotPartner) | Partner resource landing page | Transform
 [Microsoft 365 Copilot Partner Guide](https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FMicrosoft365-Copilot-Partner-Guide.pptx&download=1) | This deck provides comprehensive guidance for partner readiness and customer adoption  | Transform
