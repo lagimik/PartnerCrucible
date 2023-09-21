@@ -66,8 +66,9 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
-[Build Intelligent Apps On Azure](https://azure.github.io/Cloud-Native/) | Combine the power of AI, cloud-scale data, and cloud-native app development to create highly differentiated digital experiences. Develop adaptive, responsive, and personalized experiences by building and modernizing intelligent applications with Azure.| GitHub
+[Build Intelligent Apps On Azure](https://azure.github.io/Cloud-Native/) | Combine the power of AI, cloud-scale data, and cloud-native app development to create highly differentiated digital experiences. Develop adaptive, responsive, and personalized experiences by building and modernizing intelligent applications with Azure.| Fall 2023 GitHub
 [30 Days of AI](https://azure.github.io/Cloud-Native/30DaysOfIA) | This Fall focus on building intelligent apps using AI and cloud-native technologies. #FallForIntelligentApps brings to you a learning journey to build your skills on creating differentiated experiences while modernizing your applications. It’s time to learn it all. | GitHub
+[30 Days of Serverless](https://azure.github.io/Cloud-Native/blog/01-kickoff) | A full month of content and activities to skill you up on all things Serverless on Azure with content, events, and community interactions! Read on to learn about what we have planned | Fall 2022 - GitHub
 
 ## GitHub
 
