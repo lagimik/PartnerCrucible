@@ -55,6 +55,7 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :---------- | :----
 [Cloud Native](https://azure.github.io/Cloud-Native/)| Cloud-Native technologies and techniques enable loosely coupled systems that are resilient, manageable, and observable. Use containers, microservices, APIs and more to build and run scalable applications in modern hybrid cloud environments.| GitHub
+[30 Days Of Cloud Native](https://azure.github.io/Cloud-Native/cnny-2023) | from fundamentals to functional usage of Cloud-native technologies, one blog post at a time |  GitHub
 [Build applications with Azure](https://azure.microsoft.com/en-ca/resources/developers/?utm_source=developermscom#featured-resources) | Build apps with best-in-class tools, your favorite open-source frameworks and languages, and a platform that supports a range of services and continuous collaboration and delivery |
 [Build applications with Azure](https://azure.microsoft.com/en-ca/resources/developers/?utm_source=developermscom#featured-resources) | Build apps with best-in-class tools, your favorite open-source frameworks and languages, and a platform that supports a range of services and continuous collaboration and delivery |
 [Azure skills navigator - the new developer's "Guide to the Cloud"](https://github.com/MicrosoftDocs/devrampup) | This guide is looking to take you from "zero to hero". Jump into your learning journey where you are and learn to take your code to the cloud. | Github
