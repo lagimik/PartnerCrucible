@@ -13,7 +13,7 @@ thumbnail: /PartnerCrucible/assets/images/2023-09-23-SecuritySolutionArea.md-ima
 ## What's new
 
 - Added M365 Copilot resources for Partners
-- Adsed Work Trend Index
+- Added Work Trend Index
   
 ## Deep links
 - [M365 Copilot - Partner Opportunities](https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FMicrosoft365-Copilot-Services-Solution-Partner-Opportunities.pptx&download=1): M365 Copilot Partner opportunities - guidance on advisory, deployment, selling, adopting, and extending M365 Copilot. (Transform)
