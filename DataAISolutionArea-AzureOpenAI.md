@@ -159,7 +159,7 @@ Source | Description | Notes
 [Azure OpenAI Accelerators and Demo Assets](https://github.com/Azure/ai-solution-accelerators-list/blob/main/OpenAIDemos/README.md) | The following is a list of Repeatable IP and learning resources to quickly build an initial Azure OpenAI solution, developed by different individuals and teams at Microsoft. | GitHub
 [Data & AI Industry DREAM Demos & DREAM Demo in a Box](https://partner.microsoft.com/en-us/asset/collection/industry-dream-demos-and-dream-demo-in-a-box#/) | Data & AI Industry DREAM Demos are realistic clickable demos based on actual customer engagements that cover a range of industry scenarios in story form. | Partner
 [Azure OpenAI Service Generative AI Customer Demo](https://assetsprod.microsoft.com/mpn/en-us/azure-openai-service-chatgpt-tdm-customer-demo.mp4) | Customer-ready customer technical decision maker demo | Partner
-
+[Azure Open AI Demos](https://github.com/retkowsky/Azure-OpenAI-demos) | Azure OpenAI Demos by Serge Retkowsky serge.retkowsky@microsoft.com https://www.linkedin.com/in/serger/ | @retkowsky GitHub
 
 
 ## Code Samples
