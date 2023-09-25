@@ -122,7 +122,6 @@ Source | Description | Notes
 [Power BI adoption roadmap](https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-adoption-roadmap-overview) | The goal of this series of articles is to provide a roadmap. The roadmap presents a series of strategic and tactical considerations and action items that directly lead to successful Power BI adoption, and help build a data culture in your organization. | Microsoft Learn
 [Copilot in Power BI Demo](https://www.youtube.com/watch?v=wr__6tM5U6I) | With Copilot in Power BI, we are infusing the power of large language models into Power BI at every layer to help users get more done and create more value from their data. Using Copilot, you can simply describe the visuals and insights you’re looking for and Copilot will do the rest. Users can create and tailor reports in seconds, generate and edit DAX calculations, create narrative summaries, and ask questions about their data, all in conversational language. With the ability to easily tailor the tone, scope and style of narratives and add them seamlessly within reports, Power BI can also deliver data insights even more impactfully through easy-to-understand text summaries.| YouTube
 
-
 ## Power Automate
 
 Source | Description | Notes

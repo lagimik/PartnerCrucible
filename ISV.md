@@ -20,3 +20,10 @@ Source | Description | Notes
 [ISV and CSP Margin Sharing](https://azure.microsoft.com/en-us/blog/scaling-cloud-solutions-to-new-heights-with-microsoft-s-partner-ecosystem/?culture=en-us&country=us) | Blog post and video describing ISV and CSP margin sharing in Marketplace | March 2022
 [Margin Sharing](https://learn.microsoft.com/en-ca/partner-center/csp-commercial-marketplace-margins) | A private offer enables the ISV publisher to provide a margin on their published solution to incentivize you to sell that solution to their customers. | Microsoft Learn
 [Independent software vendor (ISV) considerations for Azure landing zones](https://learn.microsoft.com/en-ca/azure/cloud-adoption-framework/ready/landing-zone/isv-landing-zone?tabs=mg-env-no%2Cminimal) |The landing zones describe how to build an Azure environment with multiple subscriptions. Each landing zone accounts for scale, security, governance, networking, and identity, and is based on feedback and lessons learned from many customers. | Microsoft Lean
+
+## Power BI Embedded
+Source | Description | Notes
+:----- | :---------- | :----
+[Power BI Embedded Analytics Playground](https://playground.powerbi.com/en-us/) | Learn and explore how you can use embedded analytics in your applications| Power BI
+[Power BI Developer Samples](https://github.com/Microsoft/PowerBI-Developer-Samples)| This repository contains Power BI Embedded solutions in 5 different frameworks to suit different scenarios as per requirements. In addition, it has samples for calling the Power BI REST APIs using PowerShell. | GitHub
+[Embedding Setup](https://app.powerbi.com/embedsetup) | Choose whether you’d like to embed Power BI in an application for your customers or in an application, website, or portal for your organization's internal users | POwerBI
