@@ -5,38 +5,80 @@ flag: GenerativePartnerCrucible
 layout: generativepartnercrucible
 thumbnail: /PartnerCrucible/assets/images/2023-09-30-PowerPlatformSolutionArea.md-image.png
 ---
+
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2023-09-30-AzureInfrastructureSolutionArea.md-image.png )
-# Azure Infrastructure Solution Area## What's newIn the Partner Crucible updates, there have been changes made to the Azure Infrastructure Solution Area. These changes include the addition of Oracle Database@Azure. Oracle and Microsoft have expanded their partnership to deliver Oracle database services on Oracle Cloud Infrastructure in Microsoft Azure.## Deep links- [Oracle Database@Azure](https://www.oracle.com/cloud/azure/oracle-database-at-azure/): Oracle and Microsoft expand partnership to deliver Oracle database services on Oracle Cloud Infrastructure in Microsoft Azure.
+
+# Azure Infrastructure Solution Area
+
+## What's new
+
+- changes include the addition of Oracle Database@Azure. 
+
+## Deep links
+
+- [Oracle Database@Azure](https://www.oracle.com/cloud/azure/oracle-database-at-azure/): Oracle and Microsoft expand partnership to deliver Oracle database services on Oracle Cloud Infrastructure in Microsoft Azure.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/AzureInfrastructureSolutionArea) for more partner resources.
 
 ![ BusinessApplicationsSolutionArea.md ]( /PartnerCrucible/assets/images/2023-09-30-BusinessApplicationsSolutionArea.md-image.png )
-# Business Applications Solution Area## What's newMicrosoft has been recognized as a Leader within the 2023 Gartner Magic Quadrant for B2B Marketing Automation Platforms* for the second consecutive year. In this year’s report, Microsoft is positioned highest in Ability to Execute.## Deep links- [Microsoft is named a Leader in 2023 Gartner Magic Quadrant for B2B Marketing Automation Platform](https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/25/microsoft-is-named-a-leader-in-2023-gartner-magic-quadrant-for-b2b-marketing-automation-platform/): Microsoft has been recognized as a Leader within the 2023 Gartner Magic Quadrant for B2B Marketing Automation Platforms* for the second consecutive year. In this year’s report, Microsoft is positioned highest in Ability to Execute.
+
+# Business Applications Solution Area
+
+## What's new
+
+- 2023 Gartner Magic Quadrant for B2B Marketing Automation Platforms
+
+## Deep links
+
+- [Microsoft is named a Leader in 2023 Gartner Magic Quadrant for B2B Marketing Automation Platform](https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/25/microsoft-is-named-a-leader-in-2023-gartner-magic-quadrant-for-b2b-marketing-automation-platform/): Microsoft has been recognized as a Leader within the 2023 Gartner Magic Quadrant for B2B Marketing Automation Platforms* for the second consecutive year. In this year’s report, Microsoft is positioned highest in Ability to Execute.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/BusinessApplicationsSolutionArea) for more partner resources.
 
 ![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2023-09-30-DataAISolutionArea-AzureOpenAI.md-image.png )
-# Heading Solution Area## What's new- Added Prompts for Education: Enhancing Productivity & Learning. The Prompts for Education repository aims to transform the way students, educators, and staff in K-12 and higher education institutions interact with generative AI technology like ChatGPT and Bing Chat.## Deep links- [Prompts for Education: Enhancing Productivity & Learning](https://github.com/microsoft/prompts-for-edu): The Prompts for Education repository's mission is to transform the way students, educators, and staff in K-12 and higher education institutions interact with generative AI technology like ChatGPT and Bing Chat. (GitHub)- [ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search](https://github.com/Azure-Samples/azure-search-openai-demo): This sample demonstrates a few approaches for creating ChatGPT-like experiences over your own data using the Retrieval Augmented Generation pattern. It uses Azure OpenAI Service to access the ChatGPT model (gpt-35-turbo), and Azure Cognitive Search for data indexing and retrieval. (GitHub)- [Azure OpenAI Embeddings QnA](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna): A simple web application for an OpenAI-enabled document search. This repository uses Azure OpenAI Service for creating embedd
+
+# Data and AI Solution Area
+
+## What's new
+- Added Prompts for Education: Enhancing Productivity & Learning.
+- Added Retrieval Augmented Generation (RAG) examples and Embeddings search examples.
+
+## Deep links
+
+- [Prompts for Education: Enhancing Productivity & Learning](https://github.com/microsoft/prompts-for-edu): The Prompts for Education repository's mission is to transform the way students, educators, and staff in K-12 and higher education institutions interact with generative AI technology like ChatGPT and Bing Chat. (GitHub)
+- [ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search](https://github.com/Azure-Samples/azure-search-openai-demo): This sample demonstrates a few approaches for creating ChatGPT-like experiences over your own data using the Retrieval Augmented Generation pattern. It uses Azure OpenAI Service to access the ChatGPT model (gpt-35-turbo), and Azure Cognitive Search for data indexing and retrieval. (GitHub)
+- [Azure OpenAI Embeddings QnA](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna): A simple web application for an OpenAI-enabled document search. This repository uses Azure OpenAI Service for creating embedd
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-AzureOpenAI) for more partner resources.
 
 ![ DigitalAppsandInnovationSolutionArea.md ]( /PartnerCrucible/assets/images/2023-09-30-DigitalAppsandInnovationSolutionArea.md-image.png )
-# Digital Apps and Innovation Solution Area## What's new- Added Realtime Vehicle Tracking with Azure Maps demo solution.- Format changes.## Deep links- [Realtime Vehicle Tracking with Azure Maps](https://github.com/tbecks/Realtime-Vehicle-Tracking): Demo - This solution simulates a vehicle tracking solution in real-time over a web-based mapping application. Includes IoT Hub, Azure Functions, SignalR, App Service, Azure Maps, Power BI. (From @tbecks GitHub)- [Build applications with Azure](https://azure.microsoft.com/en-ca/resources/developers/?utm_source=developermscom#featured-resources): Build apps with best-in-class tools, open-source frameworks, and languages using a platform that supports a range of services and continuous collaboration and delivery. (Azure)- [6 DevOps tips to help engineering leaders deliver software at scale](https://clouddamcdnprodep.azureedge.net/gdc/gdcHdGj7e/original?utm_medium=email&utm_source=announcement&utm_campaign=forrester-github-practitioner-nurture-emai2-refresh): DevOps is about speed: faster software development, updates, and shipments that lead to shortened systems development lifecycles. (Github)- [30 Days Of Cloud Native](https://azure.github.io/Cloud-Native/cnny-2023): Learn about Cloud-native technologies from fundamentals to functional usage through a blog post series. (GitHub)
+
+# Digital Apps and Innovation Solution Area
+
+## What's new
+
+- Added Realtime Vehicle Tracking with Azure Maps demo solution.
+
+## Deep links
+
+- [Realtime Vehicle Tracking with Azure Maps](https://github.com/tbecks/Realtime-Vehicle-Tracking): Demo - This solution simulates a vehicle tracking solution in real-time over a web-based mapping application. Includes IoT Hub, Azure Functions, SignalR, App Service, Azure Maps, Power BI. (From @tbecks GitHub)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DigitalAppsandInnovationSolutionArea) for more partner resources.
 
 ![ ISV.md ]( /PartnerCrucible/assets/images/2023-09-30-ISV.md-image.png )
-# Partner Crucible Updates - Build Your Technical Practice## Power BI Embedded- **What's new:** Added references for Power BI Embedded.- **Deep links:** - [Power BI Embedded Analytics Playground](https://playground.powerbi.com/en-us/): Learn and explore how you can use embedded analytics in your applications. (Power BI) - [Power BI Developer Samples](https://github.com/Microsoft/PowerBI-Developer-Samples): This repository contains Power BI Embedded solutions in 5 different frameworks to suit different scenarios as per requirements. In addition, it has samples for calling the Power BI REST APIs using PowerShell. (GitHub) - [Embedding Setup](https://app.powerbi.com/embedsetup): Choose whether you’d like to embed Power BI in an application for your customers or in an application, website, or portal for your organization's internal users. (Power BI)
+
+# Independent Software Vendors (ISV)
+
+## What's new?
+
+- Added references for Power BI Embedded. 
+  
+## Deep links: 
+
+- [Power BI Embedded Analytics Playground](https://playground.powerbi.com/en-us/): Learn and explore how you can use embedded analytics in your applications. (Power BI) 
+- [Power BI Developer Samples](https://github.com/Microsoft/PowerBI-Developer-Samples): This repository contains Power BI Embedded solutions in 5 different frameworks to suit different scenarios as per requirements. In addition, it has samples for calling the Power BI REST APIs using PowerShell. (GitHub) 
+- [Embedding Setup](https://app.powerbi.com/embedsetup): Choose whether you’d like to embed Power BI in an application for your customers or in an application, website, or portal for your organization's internal users. (Power BI)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/ISV) for more partner resources.
 
-![ ModernWorkSolutionArea.md ]( /PartnerCrucible/assets/images/2023-09-30-ModernWorkSolutionArea.md-image.png )
-# Modern Work Solution Area## What's newA summary sentence of changes goes here.## Deep links- [Microsoft Copilot Partner Bootcamp](https://vshow.on24.com/vshow/FY24_SBcamp/registration/23189): Partner Sales Enablement Hub- [Microsoft 365 Copilot - Partner Opportunities](https://cloudpartners.transform.microsoft.com/download?assetname=assets%252FMicrosoft365-Copilot-Services-Solution-Partner-Opportunities.pptx&download=1): M365 Copilot Partner opportunities - guidance on advisory, deployment, selling, adopting, and extending M365 Copilot- [Microsoft 365 Copilot - Offer Development Guide](https://cloudpartners.transform.microsoft.com/download?assetname=assets%252FFY24-M365-Copilot-Partner-Offer-Development-Guidance.pptx&download=1): Guidance for partner development and publishing of new AI consulting services offers- [Microsoft 365 Copilot - Licensing and Technical Requirements](https://cloudpartners.transform.microsoft.com/download?assetname=assets%252FMicrosoft365-Copilot-Customer-Licensing-and-Technical-Requirements.pptx&download=1): Accelerate customer AI readiness before deploying Copilot- [Microsoft 365 Copilot - General Availability FAQ for Partners](https://cloudpartners.transform.microsoft.com/download?assetname=assets%252FMicrosoft365-Copilot-GA-Partner-FAQ.pdf&download=1): This FAQ document covers the timing and details of general availability of Microsoft 365 Copilot along with updated guidance on partner readiness and GTM- [Microsoft 365 Copilot - Partner Guide](https://cloudpartners.transform.microsoft.com/download?assetname=assets%252FMicrosoft365-Copilot-Partner-Guide.pptx&download=1): This deck provides comprehensive guidance for partner readiness and customer adoption.Note: All links are from the Transform website.
 
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/ModernWorkSolutionArea) for more partner resources.
-
-![ PowerPlatformSolutionArea.md ]( /PartnerCrucible/assets/images/2023-09-30-PowerPlatformSolutionArea.md-image.png )
-# Power Platform Solution Area## What's new- Added power bi embedded references.## Deep links- [Power BI Embedded](link url): This link provides resources and information on Power BI Embedded, a cloud-based service that allows developers to embed interactive Power BI reports and dashboards into their applications.
-
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/PowerPlatformSolutionArea) for more partner resources.
 
