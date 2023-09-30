@@ -20,6 +20,7 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 Source | Description | Notes
 :----- | :-----  | :-----
 [The Partner Opportunity For Microsoft Business Applications](https://pbapstorageprod.blob.core.windows.net/protectedassets/The%20Partner%20Business%20Opportunity%20For%20Microsoft%20Business%20Applications.pdf?sv=2019-07-07&sr=b&sig=7jkdDSjog%2FjE4v4c5%2BPgkbYNkJ9FZ8%2FaZH%2FimFVJIYA%3D&se=2023-02-10T14%3A35%3A05Z&sp=r) | A Total Economic Impact™ Partner Opportunity Analysis | Forrester 2022
+[Microsoft is named a Leader in 2023 Gartner® Magic Quadrant™ for B2B Marketing Automation Platform](https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/25/microsoft-is-named-a-leader-in-2023-gartner-magic-quadrant-for-b2b-marketing-automation-platform/) | Microsoft has been recognized as a Leader within the 2023 Gartner Magic Quadrant for B2B Marketing Automation Platforms* for the second consecutive year. In this year’s report, Microsoft is positioned highest in Ability to Execute. | Blog
 
 ## Partner Practice Playbooks
 
