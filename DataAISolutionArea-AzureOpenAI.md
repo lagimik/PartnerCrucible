@@ -97,6 +97,7 @@ Source | Description | Notes
 [Large Language Model Prompt Engineering for Complex Summarization](https://devblogs.microsoft.com/cse/2023/06/27/gpt-summary-prompt-engineering/) | In this post we’ll demonstrate some prompt engineering techniques to create summaries of medical research publications.  | DevBlogs
 [Prompt Engineering 101 - Introduction and resources](https://www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain/) | By Xavier  (Xavi) Amatriain | LinkedIn
 [Prompt Engine](https://github.com/microsoft/prompt-engine) | This repo contains an NPM utility library for creating and maintaining prompts for Large Language Models (LLMs).| GitHub
+[Prompts for Education: Enhancing Productivity & Learning](https://github.com/microsoft/prompts-for-edu) | The Prompts for Education repository's mission is to transform the way students, educators, and staff in K-12 and higher education institutions interact with generative AI technology like ChatGPT and Bing Chat. | GitHub
 
 ## Content Safety
 
