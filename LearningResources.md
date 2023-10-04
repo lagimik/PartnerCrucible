@@ -20,8 +20,16 @@ Source | Description | Notes
 :----- | :---------- | :----
 [Training and Certifications Poster](https://aka.ms/TrainCertPoster) | Fundamental and role-based certification overview | Microsoft
 [Microsoft training and certification guides](https://aka.ms/traincertdeck) | These guides are designed to outline the training and certification options for each solution area that can help you achieve your personal and professional goals. Each guide includes resources such as certification portfolio, overview, journey and learning path to help you prepare for your learning experience | Microsoft
+
+
+## Microsoft Learning Resouorces
+
+Source | Description | Notes
+:----- | :---------- | :----
 [Microsoft Learn](https://learn.microsoft.com)| Discover new skills, find certifications, and advance your career in minutes with interactive, hands-on learning paths.| Open to All
-[Cloud Skills Challenge](https://www.microsoft.com/en-ca/sites/cloud-skills-challenge/)| Learn. Compete. Develop skills with this self-paced technical upskilling challenge | For teams or individuals
+[Microsoft Learn Cloud Games](https://learn.microsoft.com/en-ca/training/cloud-games) | Play. Solve. Learn. You’re invited to be a cybersecurity pro or a data expert with Who Hacked? and Data Feeds. Immersive role-playing games from Cloud Games, created by and for technical professionals. Both games are available to play on-demand in single-player mode, each with two episodes that can be played in any order.| Microsoft Learn
+[Cloud Skills Challenge](https://www.microsoft.com/en-ca/sites/cloud-skills-challenge/)| Learn. Compete. Develop skills with this self-paced technical upskilling challenge. For teams or individuals | Microsoft Learn
+[30 Days to Learn It](https://developer.microsoft.com/en-US/offers/30-days-to-learn-it) | Cloud Skills Challenge > 30 Days to Learn It :  Days to Learn It can help you build skills and start your preparation for Microsoft Certifications for AI, DevOps, Microsoft 365, low code, IoT, data science, cloud development, and more. Select your challenge below, work through learning modules, and exchange ideas with peers through a global community forum. | Developer
 
 
 ## Microsoft References

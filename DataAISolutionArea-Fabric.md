@@ -18,13 +18,14 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Microsoft named a Leader in The Forrester Wave™: Augmented BI Platforms, Q2 2023](https://powerbi.microsoft.com/en-us/blog/2023forresterwave/) | Forrester has recognized Microsoft as a Leader in The Forrester Wave™: Augmented BI Platforms, Q2 2023. Microsoft received the highest score of any vendor in the strategy category. | Forrester
 [Introducing Microsoft Fabric: Data analytics for the era of AI](https://azure.microsoft.com/en-us/blog/introducing-microsoft-fabric-data-analytics-for-the-era-of-ai/) | Announcement - By Arun Ulagaratchagan Corporate Vice President, Azure Data | Azure
 
 ## Practice Building
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[Microsoft named a Leader in The Forrester Wave™: Augmented BI Platforms, Q2 2023](https://powerbi.microsoft.com/en-us/blog/2023forresterwave/) | Forrester has recognized Microsoft as a Leader in The Forrester Wave™: Augmented BI Platforms, Q2 2023. Microsoft received the highest score of any vendor in the strategy category. | Forrester
+[Fabric Partner Community ](https://aka.ms/JoinFabricPartnerCommunity) |  The Fabric Partner Community is a diverse and inclusive Teams channel created for all Microsoft partners interested in building and growing their Microsoft Fabric, Power BI, and analytics practices. | Fabric Community
 [Data analytics for the era of AI](https://build.microsoft.com/en-US/sessions/852ccf38-b07d-4ddc-a9fe-2e57bdaeb613?source=sessions) | From data integration and engineering to data science and business intelligence, find out how next-generation services can transform your data into intelligence and innovation. Also, see how the new AI-infused Copilot experiences accelerate developer productivity while building in security and compliance for your data. | Microsoft Build 2023
 [Accelerate your data potential with Microsoft Fabric](https://build.microsoft.com/en-US/sessions/423f41d4-815f-4744-bac0-53d121321cfb?source=sessions) | Bring your data engineers, scientists, and analysts together in new ways and unleash innovation in your organization with a class-leading open and governed solution that truly allows you to do more, with less. | Microsoft Build 2023
 [Unlocking Transformative Data Value with Microsoft Fabric](https://info.microsoft.com/ww-landing-unlocking-transformative-data-value-with-microsoft-fabric.html) | ebook - Learn why accessing and managing real-time data in the cloud is key to long-term business success—and see how to get started with a modern analytics solution. | Microsoft

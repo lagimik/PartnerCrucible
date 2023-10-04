@@ -176,6 +176,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[SAP on Microsoft Azure Partner Forum](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3cJywzl5fZLnWbpWAR5cJZUNkVEVFZGUEExTUFLRkxUODUzQjE2NUxYUC4u) | Our goal with this forum is to help accelerate our partners’ Azure SAP practices by providing a venue for direct engagement with Microsoft product and business teams. | PArtner Forum
 [WhatTheHack - SAP on Azure](https://github.com/microsoft/WhatTheHack#sap-on-azure) | What The Hack is designed to be a collaborative learning experience. Attendees "learn from" and "share with" each other. Without step-by-step instructions given for the challenges, attendees have to "figure it out" together as a team. This results in greater knowledge retention for the attendees. | WhattheHack
 [SAP on Azure Deployment Automation Framework](https://learn.microsoft.com/en-us/azure/sap/automation/deployment-framework) | The SAP on Azure Deployment Automation Framework is an open-source orchestration tool for deploying, installing and maintaining SAP environments. You can create infrastructure for SAP landscapes based on SAP HANA and NetWeaver with AnyDB using Terraform, and Ansible for the operating system and application configuration. The systems can be deployed on any of the SAP-supported operating system versions and deployed into any Azure region.| Microsoft Learn
 [Azure Center for SAP solutions (GA)](https://aka.ms/AzureCenterforSAPSolutionsGA) | GA Announcement Blog| Tech Community
