@@ -78,6 +78,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Microsoft Fabric release plan](https://learn.microsoft.com/en-us/fabric/release-plan/) | he Microsoft Fabric release plan documentation announces the latest updates and timelines to customers as features are prepared for future releases. Includes: OnleLAke, Synapse, Power BI, Data Activator| Microsoft Learn
 [Microsoft Fabric documentation](https://learn.microsoft.com/en-gb/fabric/) | Microsoft Fabric is a unified platform that can meet your organization's data and analytics needs. Discover the capabilities Fabric has to offer, understand how it works, and how to use it.| Microsoft Learn
 [Connecting to OneLake](https://blog.fabric.microsoft.com/en-us/blog/connecting-to-onelake) | In this blog, we’ll dive into how to connect and interact with OneLake, including how OneLake achieves its compatibility with any tool used over ADLS Gen2| Blog
 
