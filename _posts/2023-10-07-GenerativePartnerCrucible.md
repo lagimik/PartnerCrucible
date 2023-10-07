@@ -6,42 +6,74 @@ layout: generativepartnercrucible
 thumbnail: /PartnerCrucible/assets/images/2023-10-07-PowerPlatformSolutionArea.md-image.png
 ---
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2023-10-07-AzureInfrastructureSolutionArea.md-image.png )
-# Azure Infrastructure Solution Area## What's new- SAP on Microsoft Azure Partner Forum has been added. The forum aims to accelerate partners' Azure SAP practices by providing direct engagement with Microsoft teams.## Deep links- [SAP on Microsoft Azure Partner Forum](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3cJywzl5fZLnWbpWAR5cJZUNkVEVFZGUEExTUFLRkxUODUzQjE2NUxYUC4u): Our goal with this forum is to help accelerate our partners’ Azure SAP practices by providing a venue for direct engagement with Microsoft product and business teams. (Partner Forum)- [Oracle Database@Azure](https://www.oracle.com/cloud/azure/oracle-database-at-azure/): Oracle and Microsoft expand partnership to deliver Oracle database services on Oracle Cloud Infrastructure in Microsoft Azure.
 
+# Azure Infrastructure Solution Area
+
+## What's new
+- SAP on Microsoft Azure Partner Forum has been added. 
+ 
+## Deep links
+- [SAP on Microsoft Azure Partner Forum](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3cJywzl5fZLnWbpWAR5cJZUNkVEVFZGUEExTUFLRkxUODUzQjE2NUxYUC4u): Our goal with this forum is to help accelerate our partners’ Azure SAP practices by providing a venue for direct engagement with Microsoft product and business teams. (Partner Forum)
+   
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/AzureInfrastructureSolutionArea) for more partner resources.
 
-![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2023-10-07-DataAISolutionArea-AzureOpenAI.md-image.png )
-## Data AI Solution Area### What's newThe Partner Crucible updates for the Data AI solution area include the following changes:- Added Prompts for Education: Enhancing Productivity & Learning. This repository aims to transform the way students, educators, and staff in K-12 and higher education institutions interact with generative AI technology like ChatGPT and Bing Chat.### Deep links- [Prompts for Education: Enhancing Productivity & Learning](https://github.com/microsoft/prompts-for-edu): The repository's mission is to transform the way students, educators, and staff in K-12 and higher education institutions interact with generative AI technology like ChatGPT and Bing Chat. (GitHub)- [ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search](https://github.com/Azure-Samples/azure-search-openai-demo): This sample demonstrates different approaches for creating ChatGPT-like experiences with your own data using the Retrieval Augmented Generation pattern. It utilizes Azure OpenAI Service to access the ChatGPT model (gpt-35-turbo) and Azure Cognitive Search for data indexing and retrieval. (GitHub)- [Azure OpenAI Embeddings QnA](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna): A simple web application for OpenAI-enabled document search. This repository uses Azure OpenAI Service to create embeddings vectors from documents. It retrieves the most relevant document to answer user questions and utilizes GPT-3 to extract the matching answer. (GitHub)
-
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-AzureOpenAI) for more partner resources.
-
 ![ DataAISolutionArea-Fabric.md ]( /PartnerCrucible/assets/images/2023-10-07-DataAISolutionArea-Fabric.md-image.png )
-# Data & AI Solution Area## What's new- Added Microsoft Fabric release plan documentation. The release plan announces the latest updates and timelines for features preparing for future releases.- Added SAP on Microsoft Azure Partner Forum.## Deep links- [Microsoft Fabric release plan](https://learn.microsoft.com/en-us/fabric/release-plan/): The Microsoft Fabric release plan documentation announces the latest updates and timelines to customers as features are prepared for future releases.- [Microsoft named a Leader in The Forrester Wave™: Augmented BI Platforms, Q2 2023](https://powerbi.microsoft.com/en-us/blog/2023forresterwave/): Forrester has recognized Microsoft as a Leader in The Forrester Wave™: Augmented BI Platforms, Q2 2023. Microsoft received the highest score of any vendor in the strategy category.- [Fabric Partner Community](https://aka.ms/JoinFabricPartnerCommunity): The Fabric Partner Community is a diverse and inclusive Teams channel created for all Microsoft partners interested in building and growing their Microsoft Fabric, Power BI, and analytics practices.
+
+# Data & AI Solution Area - Microsoft Fabric
+
+## What's new
+
+- Added The Forrester Wave™: Augmented BI Platforms, Q2 2023
+- Added Microsoft Fabric release plan documentation. 
+- Added Microsoft Fabric partner community
+ 
+## Deep links
+- [Microsoft Fabric release plan](https://learn.microsoft.com/en-us/fabric/release-plan/): The Microsoft Fabric release plan documentation announces the latest updates and timelines to customers as features are prepared for future releases.
+- [Microsoft named a Leader in The Forrester Wave™: Augmented BI Platforms, Q2 2023](https://powerbi.microsoft.com/en-us/blog/2023forresterwave/): Forrester has recognized Microsoft as a Leader in The Forrester Wave™: Augmented BI Platforms, Q2 2023. Microsoft received the highest score of any vendor in the strategy category.
+- [Fabric Partner Community](https://aka.ms/JoinFabricPartnerCommunity): The Fabric Partner Community is a diverse and inclusive Teams channel created for all Microsoft partners interested in building and growing their Microsoft Fabric, Power BI, and analytics practices.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-Fabric) for more partner resources.
 
 ![ DataAISolutionArea.md ]( /PartnerCrucible/assets/images/2023-10-07-DataAISolutionArea.md-image.png )
-# Data & AI Solution Area## What's newSummary sentence of changes: The addition of a landing page for partners to get started with Microsoft AI.## Deep links- [AI for Partner](https://aka.ms/AIforPartners): Landing page - Get started with Microsoft AI today.
+
+# Data & AI Solution Area
+
+## What's new
+
+- The addition of a landing page for partners to get started with Microsoft AI.
+
+## Deep links
+
+- [AI for Partner](https://aka.ms/AIforPartners): Landing page - Get started with Microsoft AI today.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea) for more partner resources.
 
-![ DigitalAppsandInnovationSolutionArea.md ]( /PartnerCrucible/assets/images/2023-10-07-DigitalAppsandInnovationSolutionArea.md-image.png )
-# Digital Apps and Innovation Solution Area## What's newA solution called "Realtime Vehicle Tracking with Azure Maps" has been added. This solution allows for the simulation of a vehicle tracking system in real-time using a web-based mapping application. It involves streaming GPS coordinate data into Azure and visualizing it on a web application using Azure Maps. This solution can be applied to any streaming data that needs to be visualized on a map. It utilizes various technologies such as IoT Hub, Azure Functions, SignalR, App Service, Azure Maps, and Power BI.## Deep links- [Realtime Vehicle Tracking with Azure Maps](https://github.com/tbecks/Realtime-Vehicle-Tracking): This solution demonstrates a vehicle tracking system in real-time. It uses a web-based mapping application and streaming GPS coordinate data into Azure. It incorporates IoT Hub, Azure Functions, SignalR, App Service, Azure Maps, and Power BI. (Source: @tbecks GitHub)
-
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DigitalAppsandInnovationSolutionArea) for more partner resources.
-
-![ LearningResources.md ]( /PartnerCrucible/assets/images/2023-10-07-LearningResources.md-image.png )
-# Partner Crucible Updates## Azure Solutions### What's newThe Partner Crucible updates for Azure Solutions include the following changes:- Enhanced support for building technical practices in Microsoft Partners- New resources and learning opportunities specifically tailored for Azure Solutions- Improved accessibility and usability features for the Partner Crucible platform## Deep links- [Azure Solutions Partner Crucible](https://www.microsoft.com/en-us/partner-crucible/azure-solutions): Access the Azure Solutions Partner Crucible platform to learn, explore, and build your technical practice.- [Azure Learning Path](https://azure.microsoft.com/en-us/learn/paths/): Discover the learning path for Azure Solutions, offering comprehensive training and certifications.- [Azure Solution Templates](https://azure.microsoft.com/en-us/resources/templates/): Explore a collection of pre-built Azure solution templates to jumpstart your projects and accelerate time-to-market.- [Azure Partner Center](https://partner.microsoft.com/en-us/marketing/assets): Access marketing assets, co-selling opportunities, and go-to-market resources for Azure Solutions in the Azure Partner Center.- [Azure Technical Community](https://techcommunity.microsoft.com/t5/azure/bd-p/azure): Engage with the Azure technical community to ask questions, share knowledge, and stay updated on the latest developments in Azure Solutions.## Security Solutions### What's newThe Partner Crucible updates for Security Solutions include the following changes:- Enhanced support for building technical practices in Microsoft Partners- New resources and learning opportunities specifically tailored for Security Solutions- Improved accessibility and usability features for the Partner Crucible platform## Deep links- [Microsoft Security Learning Path](https://www.microsoft.com/en-us/security/learning-path): Discover the learning path for Microsoft Security Solutions, offering comprehensive training and certifications.- [Microsoft Security Documentation](https://docs.microsoft.com/en-us/security/): Access the official documentation for Microsoft Security Solutions, including implementation guides, best practices, and troubleshooting tips.- [Microsoft Security Blog](https://www.microsoft.com/security/blog/): Stay updated on the latest news, trends, and insights in the field of cybersecurity through the Microsoft Security Blog.- [Microsoft Security Technology Community](https://techcommunity.microsoft.com/t5/security/bd-p/Security): Engage with the Microsoft Security Technology Community to connect with industry experts, share knowledge, and discuss security-related topics.- [Microsoft Security Partner Center](https://partner.microsoft.com/en-us/marketing/assets): Access marketing assets, co-selling opportunities, and go-to-market resources for Microsoft Security Solutions in the Microsoft Security Partner Center.## AI Solutions### What's newThe Partner Crucible updates for AI Solutions include the following changes:- Enhanced support for building technical practices in Microsoft Partners- New resources and learning opportunities specifically tailored for AI Solutions- Improved accessibility and usability features for the Partner Crucible platform## Deep links- [Azure AI Learning Path](https://azure.microsoft.com/en-us/learn/paths/ai-fundamentals/): Discover the learning path for Azure AI Solutions, offering comprehensive training and certifications.- [Azure AI Gallery](https://gallery.azure.ai/): Explore a gallery of pre-built AI models, solutions, and services to accelerate your AI projects.- [Microsoft AI Blog](https://blogs.microsoft.com/ai/): Stay updated on the latest advancements, research, and applications of artificial intelligence through the Microsoft AI Blog.- [Azure AI Community](https://techcommunity.microsoft.com/t5/ai/ct-p/AI): Engage with the Azure AI Community to connect with AI enthusiasts, share ideas, and collaborate on AI projects.- [Microsoft AI Partner Center](https://partner.microsoft.com/en-us/marketing/assets): Access marketing assets, co-selling opportunities, and go-to-market resources for Microsoft AI Solutions in the Microsoft AI Partner Center.
-
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/LearningResources) for more partner resources.
-
 ![ PowerPlatformSolutionArea.md ]( /PartnerCrucible/assets/images/2023-10-07-PowerPlatformSolutionArea.md-image.png )
-# Partner Crucible Update - Power Platform Solution Area## What's newThe following changes have been made to the Power Platform solution area in the Partner Crucible updates:- Added Microsoft Power Platform Conference announcement, which includes updates on Copilot, Flow designer, and automation in Managed Environments.## Deep links- [Microsoft Power Platform Conference](https://cloudblogs.microsoft.com/powerplatform/2023/10/03/the-ai-revolution-supercharging-low-code-with-the-power-platform-community/): Microsoft Blog post announcing #MPPC23 with updates on Copilot, Flow designer, and automation in Managed Environments.
+
+# Power Platform Solution Area
+
+## What's new
+
+- Added Microsoft Power Platform Conference announcements
+ 
+## Deep links
+
+- [Microsoft Power Platform Conference](https://cloudblogs.microsoft.com/powerplatform/2023/10/03/the-ai-revolution-supercharging-low-code-with-the-power-platform-community/): Microsoft Blog post announcing #MPPC23 with updates on Copilot, Flow designer, and automation in Managed Environments.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/PowerPlatformSolutionArea) for more partner resources.
 
 ![ SecuritySolutionArea.md ]( /PartnerCrucible/assets/images/2023-10-07-SecuritySolutionArea.md-image.png )
-# Security Solution Area## What's newThe Partner Crucible updates in the Security Solution Area include the addition of the Microsoft Digital Defense Report 2023. This report highlights that while previous attacks focused on destruction or financial gain with ransomware, the primary motivation has shifted towards stealing information, covert monitoring of communication, and manipulating content.## Deep links- [Microsoft Digital Defense Report 2023](https://blogs.microsoft.com/on-the-issues/2023/10/05/microsoft-digital-defense-report-2023-global-cyberattacks/): This link provides access to the Microsoft Digital Defense Report 2023, which offers insights into the evolving digital threat landscape and actions that can be taken to improve ecosystem security.- [Microsoft Digital Defense Report](http://www.microsoft.com/en-us/security/security-insider/microsoft-digital-defense-report-2023): This link leads to the Microsoft Digital Defense Report webpage, providing additional information about the report.- [Microsoft Digital Defense Report 2022](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5bUvv?culture=en-us&country=us): Although this report is from the previous year, it contains valuable insights into the evolving digital threat landscape and actions to enhance security.
+
+# Security Solution Area
+
+## What's new
+
+- Added Microsoft Digital Defense Report 2023. 
+ 
+## Deep links
+
+- [Blog post - Microsoft Digital Defense Report 2023](https://blogs.microsoft.com/on-the-issues/2023/10/05/microsoft-digital-defense-report-2023-global-cyberattacks/): This link provides access to the Microsoft Digital Defense Report 2023, which offers insights into the evolving digital threat landscape and actions that can be taken to improve ecosystem security.
+- [Microsoft Digital Defense Report 2022](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5bUvv?culture=en-us&country=us): Full report
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/SecuritySolutionArea) for more partner resources.
 
