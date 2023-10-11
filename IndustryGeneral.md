@@ -8,6 +8,20 @@ A Collection of resources for Microsoft practice building around the Microsoft k
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
+## Microsoft Industry Partner Community
+
+The objective of these communities is to provide an open forum and encourage two-way communication and collaboration with key Microsoft subject matter experts, as well as fellow partners alike.
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Education Community](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzZDvYmlXT5PsU642IZ8m31UNVZRQUM2WkE3TzE3Sk9TM1FaNEEySlNKTCQlQCN0PWcu) | The community will act as a central hub for resources and exclusive content related to the Education industry, as well as tailored solutions to help you and your team drive and close deals.| Microsoft Community
+[Health and Life Sciences Community](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzZDvYmlXT5PsU642IZ8m31URTNMQUk0M1AxOVZMM0xLQzRRVzdQRkQ2RyQlQCN0PWcu) | The community will act as a central hub for resources and exclusive content related to the Health & Life Sciences industry, as well as tailored solutions to help you and your team drive and close deals. | Microsoft Community
+[State and Local Government Community](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzZDvYmlXT5PsU642IZ8m31URFRNSk1VVE5aN09FOUcwMEVMRDdOQjRLQSQlQCN0PWcu)| The community will act as a central hub for resources and exclusive content related to the State and Local Government industry, as well as tailored solutions to help you and your team drive and close deals.| Microsoft Community
+[Energy and Resources](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzZDvYmlXT5PsU642IZ8m31UODdJTUw1SDFNNEQwTFM4TE5TWFBGQVU1OSQlQCN0PWcu) | The community will act as a central hub for resources and exclusive content related to the Energy & Resources industry, as well as tailored solutions to help you and your team drive and close deals.| Microsoft Community
+[Manufacturing Community](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzZDvYmlXT5PsU642IZ8m31URUZOTEcwMDlVS0JZNDJEN0NWVjNPV1JJUyQlQCN0PWcu) | The community will act as a central hub for resources and exclusive content related to the Manufacturing industry, as well as tailored solutions to help you and your team drive and close deals.| Microsoft Community
+[Retail and Consumer Goods](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzZDvYmlXT5PsU642IZ8m31UQ1FYUEFLMlRKTUhSWkRNWEhVNzhNSENDNiQlQCN0PWcu) | The community will act as a central hub for resources and exclusive content related to the Retail and Consumer Goods industry, as well as tailored solutions to help you and your team drive and close deals.| Microsoft Community
+
+
 ## Industry References
 
 Source | Description | Notes
