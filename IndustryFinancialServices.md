@@ -9,6 +9,12 @@ A Collection of resources for Microsoft practice building around the Financial S
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
 
+## Microsoft Community
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Financial Services Community](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzZDvYmlXT5PsU642IZ8m31UQjlMRTU1RzRDV1NLSFExRUtFRU9PMVZONiQlQCN0PWcu) | The objective of this community is to provide an open forum and encourage two-way communication and collaboration with key Microsoft subject matter experts, as well as fellow partners alike. The community will act as a central hub for resources and exclusive content related to the Financial Services industry, as well as tailored solutions to help you and your team drive and close deals. | Community
+
 ## Industry References
 
 Source | Description | Notes
