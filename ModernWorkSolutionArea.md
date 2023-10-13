@@ -130,6 +130,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[M365 Copilot Public Product Roadmap](https://aka.ms/M365CopilotRoadmap) | M365 Copilot Roadmap includes, launched, rolling out, and in development features. | M365
 [Microsoft Copilot Partner Bootcamp](https://vshow.on24.com/vshow/FY24_SBcamp/registration/23189) | Partner Sales Enablement Hub| Partner Sales Enablement Hub
 [Microsoft 365 Copilot - Partner Opportunities](https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FMicrosoft365-Copilot-Services-Solution-Partner-Opportunities.pptx&download=1)| M365 Copilot Partner opportunities - guidance on advisory, deployment, selling, adopting, and extending M365 Copilot | Transform
 [Microsoft 365 Copilot - Offer Development Guide](https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FFY24-M365-Copilot-Partner-Offer-Development-Guidance.pptx&download=1) | Guidance for partner development and publishing of new AI consulting services offers | Transform
