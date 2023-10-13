@@ -41,13 +41,15 @@ Source | Description | Notes
 [Responsible AI Resources](https://www.microsoft.com/en-us/ai/responsible-ai-resources) | Explore resources designed to help you responsibly use AI at every stage of innovation - from concept to development, deployment, and beyond.|
 [AI-powered content safety](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-ai-content-safety-ebook/Azure%20Content%20Safety%20eBook.pdf) | An eBook to Build a leading content moderation strategy with AI | Microsoft
 [AI for Good Research Lab]([https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/) | Microsoft’s AI for Good Lab is an applied research and data visualization lab that harnesses the power of big data, and Microsoft’s cloud technology. | Microsoft Research
+[Responsible AI Tracker](https://github.com/microsoft/responsible-ai-toolbox-tracker) | Responsible AI Tracker is a JupyterLab Extension for managing, tracking, and comparing results of machine learning experiments for model improvement.  | GitHub
+[Responsible AI Mitigations](https://github.com/microsoft/responsible-ai-toolbox-mitigations) | This Responsible-AI-Toolbox-Mitigations repo consists of a python library that aims to empower data scientists and ML developers to measure their dataset balance and representation of different dataset cohorts, while having access to mitigation techniques they could incorporate to mitigate errors and fairness issues in their datasets. | GitHub
 
 ## Azure OpenAI Practice Building
 
 Source | Description | Notes
 :----- | :-----  | :-----
 [AI Transformation Partner Playbook](https://aka.ms/aipartnerplaybook) | No matter where you are in your AI transformation journey, the AI Transformation Partner Playbook will empower you to accelerate innovation and grow your AI practice. | Partner
-[Partner Data and AI Solution Area Landing](https://partner.microsoft.com/en-us/explore/solution-areas#tab-2) | Lanfin page for partner resources | Partner
+[Partner Data and AI Solution Area Landing](https://partner.microsoft.com/en-us/explore/solution-areas#tab-2) | Landing page for partner resources | Partner
 [Azure OpenAI Sales Acceleration](https://partner.microsoft.com/en-us/asset/collection/azure-openai-service-sales-acceleration-content#/) | Sales Acceleration content| Partner
 
 
