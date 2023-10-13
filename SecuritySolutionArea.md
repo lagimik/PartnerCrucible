@@ -93,7 +93,14 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
-[Microsoft Security Copilot - Partner Interest Form](http://aka.ms/securitycopilotpartner) | Learn more about how to engage customers and take advantage of Security Copilot. By signing up, you will receive updates and communications as they become available. | Form
+[Microsoft Security Copilot - Partner Interest Form](http://aka.ms/securitycopilotpartner) | Learn more about how to engage customers  
+[What is Microsoft Security Copilot](https://learn.microsoft.com/en-us/security-copilot/microsoft-security-copilot?view=o365-worldwide) | Microsoft Security Copilot (Security Copilot) is a generative AI-powered security solution that helps increase the efficiency and capabilities of defenders to improve security outcomes at machine speed and scale, while remaining compliant to responsible AI principles. | Microsoft Learn 
+[Prompting and promptbooks](https://learn.microsoft.com/en-us/security-copilot/prompting-security-copilot?view=o365-worldwide) | Promptbooks are a collection of prompts that have been put together to accomplish specific security-related tasks. Each promptbook requires a specific input (for example, a code snippet or a threat actor name) and then runs a series of prompts in sequence, with one prompt building on the one before it. | Microsoft Learn
+[Triage alerts](https://learn.microsoft.com/en-us/security-copilot/triage-alert-with-enriched-threat-intel?view=o365-worldwide) | riage incidents based on enrichment from threat intelligence | Microsoft Learn
+[Integration & Investigate in #M365D](https://learn.microsoft.com/en-us/security-copilot/investigate-incident-malicious-script?view=o365-worldwide) | Investigate an incident and associated suspicious entities | Microsoft Learn
+[Plugins](https://learn.microsoft.com/en-us/security-copilot/manage-plugins?view=o365-worldwide&tabs=securitycopilotplugin) | Manage plugins in Microsoft Security Copilot : Entra, #Intune, #M365Defender, #Sentinel, #DefenderThreatIntelligence, #ServiceNow, #NaturalLanguageToKQL | Microsoft Learn
+[Privacy and data security](https://learn.microsoft.com/en-us/security-copilot/privacy-data-security?view=o365-worldwide) |  Privacy and data security in Microsoft Security Copilot | Microsoft Learn
+[FAQ](https://learn.microsoft.com/en-us/security-copilot/faq-security-copilot?view=o365-worldwide) | Microsoft Security Copilot Early Access Program Frequently Asked Questions | Microsoft Learn
 
 ## Sentinel
 
@@ -103,7 +110,7 @@ Source | Description | Notes
 ## Microsoft Lighthouse
 
 Source | Description | Notes
-:----- | :---------- | :----ti
+:----- | :---------- | :----
 [Clean up Inactive users with Microsoft 365 Lighthouse](https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/clean-up-inactive-users-with-microsoft-365-lighthouse/ba-p/3892891) | Microsoft 365 Lighthouse makes it faster and easier than ever before for Managed Service Providers (MSPs) to manage users across customer tenants. This includes managing inactive users| Tech Community
 [Microsoft 365 Lighthouse for SMB Managed Services Providers (MSPs)](https://www.youtube.com/watch?v=p0kd4bsd_wI) | Introducing a new portal that will enable multi-tenant management of Microsoft 365 services by IT Partners – especially Managed Service Providers (MSPs) who serve small & medium-sized businesses (SMBs).| Nov 2020
 [Microsoft 365 Lighthouse Demo](https://www.youtube.com/watch?v=oSlh2-MeFL0) | Microsoft 365 Lighthouse is an admin portal that helps Managed Service Providers (MSPs) secure and manage devices, data, and users at scale for small- and medium-sized business (SMB) customers who are using Microsoft 365 Business Premium | 2021
