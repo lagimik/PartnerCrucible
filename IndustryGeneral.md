@@ -46,13 +46,13 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :-----  | :-----
 [Microsoft Cloud for Healthcare Partner Assets](https://partner.microsoft.com/en-us/asset/collection/microsoft-cloud-for-healthcare-partner-assets#/)|Partner readiness and overview assets for Microsoft Cloud for Healthcare.
-[Microsoft Cloud for Healthcare - SI Playbook](https://assetsprod.microsoft.com/mpn/en-us/microsoft-cloud-for-healthcare-systems-integrator-playbook.pdf) |This document is Specifically intended to help enable systems integrator (SI) partner readiness for the Microsoft Cloud for Healthcare by answering pressing questions and dispelling common misconceptions|
 [Explore Microsoft Cloud for Healthcare](https://aka.ms/cloudforhealthcare) | |
 [Microsoft Cloud for Healthcare in a Day training](https://learn.microsoft.com/en-us/training/paths/healthcare-in-a-day/) | |
 [Microsoft Cloud for Healthcare Trial](https://aka.ms/Cloudforhealthcaretrial) | Microsoft Cloud for Healthcare offers a free limited trial for 30 days | Solutions Center
 [GPS Industry Cloud - MC4H](https://github.com/microsoft/GPSIndustryCloud-MC4H) | Presentations and labs | Github
 [Healthcare landing zone guidance](https://github.com/Azure/CanadaPubSecALZ/blob/main/docs/archetypes/healthcare.md)| Landing zone for healthcare data platform| Github
 [Azure Health Data Services in Microsoft Fabric (Preview)](https://www.microsoft.com/en-us/industry/blog/healthcare/2023/10/10/unlock-data-value-with-healthcare-data-solutions-in-microsoft-fabric/) | This preview delivers data solutions that leverage Microsoft Fabric Lakehouse architecture to support the ingestion, unification, harmonization, and transformation of multi-modal healthcare data from disparate sources. | Blog
+[De-identification service for Health and Life Sciences](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/announcing-a-de-identification-service-for-health-and-life/ba-p/3949712) | The new de-identification service in Azure Health Data Services so organizations can de-identify clinical data such that the resulting data retains its clinical relevance and distribution while also adhering to the HIPAA privacy rule| Tech Community
 
 ### Manufacturing
 
