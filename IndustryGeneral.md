@@ -52,6 +52,7 @@ Source | Description | Notes
 [Microsoft Cloud for Healthcare Trial](https://aka.ms/Cloudforhealthcaretrial) | Microsoft Cloud for Healthcare offers a free limited trial for 30 days | Solutions Center
 [GPS Industry Cloud - MC4H](https://github.com/microsoft/GPSIndustryCloud-MC4H) | Presentations and labs | Github
 [Healthcare landing zone guidance](https://github.com/Azure/CanadaPubSecALZ/blob/main/docs/archetypes/healthcare.md)| Landing zone for healthcare data platform| Github
+[Azure Health Data Services in Microsoft Fabric (Preview)](https://www.microsoft.com/en-us/industry/blog/healthcare/2023/10/10/unlock-data-value-with-healthcare-data-solutions-in-microsoft-fabric/) | This preview delivers data solutions that leverage Microsoft Fabric Lakehouse architecture to support the ingestion, unification, harmonization, and transformation of multi-modal healthcare data from disparate sources. | Blog
 
 ### Manufacturing
 
