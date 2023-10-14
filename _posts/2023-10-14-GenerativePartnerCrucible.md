@@ -51,10 +51,10 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 - Azure Health Data Services in Microsoft Fabric (Preview)
 - De-identification service for Health and Life Science
 
-## Depp links
+## Deep links
 
-- [Azure Health Data Services in Microsoft Fabric (Preview)](https://www.microsoft.com/en-us/industry/blog/healthcare/2023/10/10/unlock-data-value-with-healthcare-data-solutions-in-microsoft-fabric/)## De-identification service for Health and Life Sciences- The new de-identification service in Azure Health Data Services allows organizations to de-identify clinical data while retaining its clinical relevance and adhering to the HIPAA privacy rule.
-- [De-identification service for Health and Life Sciences](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/announcing-a-de-identification-service-for-health-and-life/ba-p/3949712)## Microsoft Industry Partner Community- The objective of these communities is to provide an open forum and encourage two-way communication and collaboration with key Microsoft subject matter experts and fellow partners.
+- [Azure Health Data Services in Microsoft Fabric (Preview)](https://www.microsoft.com/en-us/industry/blog/healthcare/2023/10/10/unlock-data-value-with-healthcare-data-solutions-in-microsoft-fabric/): This preview delivers data solutions that leverage Microsoft Fabric Lakehouse architecture to support the ingestion, unification, harmonization, and transformation of multi-modal healthcare data from disparate sources. Combining data from previously siloed sources across their organization, such as electronic health records (EHRs), Picture Archiving and Communication Systems (PACS), labs systems, claims systems, and medical devices enables organizations to bring structured, unstructured, imaging, and medical device data into one common architecture.
+- [De-identification service for Health and Life Sciences](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/announcing-a-de-identification-service-for-health-and-life/ba-p/3949712): The new de-identification service in Azure Health Data Services allows organizations to de-identify clinical data while retaining its clinical relevance and adhering to the HIPAA privacy rule.
 
 
 ![ ModernWorkSolutionArea.md ]( /PartnerCrucible/assets/images/2023-10-14-ModernWorkSolutionArea.md-image.png )
@@ -94,7 +94,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 -  includes the addition of new Microsoft Security Copilot documentation and examples
 
 ## Deep links
-- [Entra Private Access Preview](https://aka.ms/PrivateAccessPreview) | Activate the Global Secure Access preview, which includes Microsoft Entra Internet Access and Microsoft Entra Private Access
+- [Entra Private Access Preview](https://aka.ms/PrivateAccessPreview):  Activate the Global Secure Access preview, which includes Microsoft Entra Internet Access and Microsoft Entra Private Access
 - [Microsoft Security Copilot - Partner Interest Form](http://aka.ms/securitycopilotpartner): Learn more about how to engage customers and take advantage of Security Copilot.
 - [What is Microsoft Security Copilot](https://learn.microsoft.com/en-us/security-copilot/microsoft-security-copilot?view=o365-worldwide): Microsoft Security Copilot is a generative AI-powered security solution that helps improve security outcomes at machine speed and scale.
 - [Prompting and promptbooks](https://learn.microsoft.com/en-us/security-copilot/prompting-security-copilot?view=o365-worldwide): Promptbooks are a collection of prompts that help accomplish specific security-related tasks.
