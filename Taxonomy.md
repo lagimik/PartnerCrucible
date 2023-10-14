@@ -1,4 +1,4 @@
-# FY23 Solution Area Taxonomy
+# Solution Area Taxonomy
 
 ## Purpose
 
