@@ -45,6 +45,12 @@ Source | Description | Notes
 [Catalyst Partner FAQ](https://pbapstorageprod.blob.core.windows.net/protectedassets/Catalyst%20Partner%20FAQ.pdf?sv=2019-07-07&sr=b&sig=6EKMfmcYH4mmfpH3Zdf9CsvsN4h8pvBUTVGsjT5KxpI%3D&se=2023-03-12T18%3A58%3A45Z&sp=r) | Catalyst Partner FAQ, November 3 2022| Transform
 [Business Applications Partner Sales Acceleration Program](https://partner.microsoft.com/en-us/training/assets/collection/business-applications-partner-sales-acceleration-program-psap#/) | Get best practices and presentation resources that will guide you in shaping a business-first sales model that's focused on the Business Applications solution area and its core sales plays—and resources specially for small business.​| Microsoft Partner
 [Business Applications ISV Connect](https://partner.microsoft.com/en-us/solutions/business-applications/isv-overview) | Grow your business faster by building unique, customer-centric line of business (LOB) apps with Dynamics 365 and Power Apps.|
+[Dynamics 365 Developers: Start here](https://learn.microsoft.com/en-ca/dynamics365/get-started/developers?wt.mc_id=sitertzn_dynamics365_content_developermscom)| Developers and ISVs can use the underlying platform to build or extend apps, depending on the app's type | Microsoft Lean
+[Dynamics 365 General](https://community.dynamics.com/365) | | Community
+[Microsoft Customer Digital Experiences](https://cdx.transform.microsoft.com)|Microsoft Customer Digital Experiences (CDX), is a portfolio of immersed digital experiences to demonstrate Microsoft technology and product with hands-on interaction, orchestrated by Microsoft sellers, partners or marketers. |There are three major types of experiences:<br>-Demos<br>-Interactive guide<br>-Customer Immersion Experience
+[Dynamics 365 Sandbox Environment](https://aka.ms/partnersandbox)| Dynamics Sandbox Environment SKU| ...
+[Dynamics 365 Discounted SKU](https://experience.dynamics.com/requestlicense/)| This portal is used for SI/ISV Connect partners to obtain free or discounted non-production environment licenses with Biz Apps and Power Platform products to learn, test, and deliver end-to-end customer demos with their own solutions. These offers are to be used only on partner tenants, never on customer tenants.| ...
+[Dynamics 365 Free Trial](https://dynamics.microsoft.com/en-us/dynamics-365-free-trial/)| Try it free and learn how these intelligent business applications go beyond traditional CRM and ERP to help you adapt, innovate, and delight every customer.| ...
 
 ## Dynamics Certifications
 
@@ -95,8 +101,5 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :-----  | :-----
 [Dynamics 365 Developers: Start here](https://learn.microsoft.com/en-ca/dynamics365/get-started/developers?wt.mc_id=sitertzn_dynamics365_content_developermscom)| Developers and ISVs can use the underlying platform to build or extend apps, depending on the app's type | Microsoft Lean
-[Dynamics 365 General](https://community.dynamics.com/365) | | Community
-[Dynamics 365 Sandbox Environment](https://aka.ms/partnersandbox)| Dynamics Sandbox Environment SKU| ...
-[Dynamics 365 Discounted SKU](https://experience.dynamics.com/requestlicense/)| This portal is used for SI/ISV Connect partners to obtain free or discounted non-production environment licenses with Biz Apps and Power Platform products to learn, test, and deliver end-to-end customer demos with their own solutions. These offers are to be used only on partner tenants, never on customer tenants.| ...
-[Dynamics 365 Free Trial](https://dynamics.microsoft.com/en-us/dynamics-365-free-trial/)| Try it free and learn how these intelligent business applications go beyond traditional CRM and ERP to help you adapt, innovate, and delight every customer.| ...
+
 
