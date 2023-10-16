@@ -40,6 +40,7 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :---------- | :----
 [Azure draft](https://github.com/Azure/draft) | Draft is a tool made for users who are just getting started with Kubernetes, or users who want to simplify their experience with Kubernetes. This readme will give you a quick run down on Draft’s commands and what they do.| GitHub
+[App Service migration tools](https://azure.microsoft.com/en-us/products/app-service/migration-tools/) | Assess your web apps and migrate them to Azure with free, easy-to-use tools. Includes compatibility report. | Azure
 [Migration of multiple ASP.NET web apps at-scale](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/assess-asp-net-web-apps-at-scale-to-accelerate-your-app/ba-p/3718361) | Assess ASP.NET web apps at scale to accelerate your app migration strategy on Azure | Tech Community
 [ASP. NET web app migration to Azure App Service using PowerShell Scripts](https://azure.microsoft.com/en-us/updates/general-availability-asp-net-web-app-migration-to-azure-app-service-using-powershell-scripts/) | General availability of ASP. Net web app Migration to Azure App Service using PowerShell Scripts is now available. | Azure
 [Use chaos engineering to test Azure applications](https://learn.microsoft.com/en-us/azure/well-architected/resiliency/chaos-engineering) | Chaos engineering is a methodology that helps developers attain consistent reliability by hardening services against production failures. | Microsoft Learn
