@@ -25,6 +25,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Copilot in Microsoft Cost Management](https://www.youtube.com/watch?v=KuGkXGE4eWc) | Reduce unpredictability of operational costs with visibility into workload-related spend using AI chat in Microsoft Cost Management. See spending patterns and anomalies that drive up costs, set budgets, share workload costs across teams and business units, and identify opportunities for optimization.  | Microsoft Mechanics
 [Cost Optimization workbook](https://learn.microsoft.com/en-us/azure/advisor/advisor-cost-optimization-workbook) | The Azure Cost Optimization workbook is designed to provide an overview and help you optimize costs of your Azure environment. It offers a set of cost-relevant insights and recommendations aligned with the WAF Cost Optimization pillar. | Microsoft Learn
 [FinOps toolkit](https://github.com/microsoft/finops-toolkit/tree/main) | The FinOps toolkit is a collection of customizable ARM templates used to build and deploy various FinOps solutions that automate and extend native Microsoft Cost Management capabilities.| GitHUb
 [The Azure FinOps Guide](https://github.com/dolevshor/azure-finops-guide) | by @dolevshore This guide centralizes Azure FinOps information and tools to enabling a better understanding and optimization of cloud costs. | Github
