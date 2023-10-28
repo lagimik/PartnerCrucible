@@ -1,0 +1,27 @@
+---
+title: 'Generative Partner Crucible - for the week ending 2023-10-28'
+date: 2023-10-28
+flag: GenerativePartnerCrucible
+layout: generativepartnercrucible
+thumbnail: /PartnerCrucible/assets/images/2023-10-28-PowerPlatformSolutionArea.md-image.png
+---
+![ CSP.md ]( /PartnerCrucible/assets/images/2023-10-28-CSP.md-image.png )
+# Partner Crucible Updates## CSP.md### What's newA new community called MSP Partner Community has been added for Managed Service Provider partners. This community aims to help partners expand their service offerings with Microsoft and address the challenges faced by SMB customers. The community provides support in dealing with factors such as an unpredictable economy, cyber threats, compliance requirements, competitive pressures, and emerging technologies.### Deep links- [MSP Partner Community](https://www.microsoft.com/en-us/americas-partner-blog/2023/10/18/join-the-msp-partner-community-and-expand-your-service-offerings-with-microsoft/): A new community for Managed Service Provider partners to expand their service offerings with Microsoft. Offers support in addressing challenges faced by SMB customers.
+
+Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/CSP) for more partner resources.
+
+![ ISV.md ]( /PartnerCrucible/assets/images/2023-10-28-ISV.md-image.png )
+# Partner Crucible Updates## Independent Software Vendor (ISV) to Partner private offers FAQThis update includes an article addressing frequently asked questions about Independent Software Vendor (ISV) to Partner private offers in Partner Center. It provides valuable information for Microsoft Partners looking to enhance their technical practice.### Deep links- [ISV FAQ](https://learn.microsoft.com/en-us/partner-center/marketplace/isv-csp-faq): This article addresses frequently asked questions about Independent Software Vendor (ISV) to Partner private offers in Partner Center. It is available on Microsoft Learn.## ISV Channel Readiness and ScaleThis update offers an opportunity to get Channel Ready and scale monetized apps with Microsoft Partners. Building relationships with Cloud Solution Providers (CSPs) and achieving transactions require investment in compelling offers, marketing materials, and established sales and technical support. This update aims to assist Microsoft Partners in fast-tracking their Channel Readiness.### Deep links- [ISV Channel Readiness and Scale](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR1SFCIzNe21CsbfwhNualy5UMFNaSzJKRkE0VkhVR0wyRk9WUVNWUU5BNS4u): This form helps Microsoft Partners establish relationships with CSPs, define margins, and create marketing materials to capture the attention of CSPs. It also helps partners provide marketing materials that CSPs can use to sell their apps. Building sales and technical support is emphasized for becoming Channel Ready.
+
+Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/ISV) for more partner resources.
+
+![ IndustryFinancialServices.md ]( /PartnerCrucible/assets/images/2023-10-28-IndustryFinancialServices.md-image.png )
+# Partner Crucible Updates for Building Technical Practice## Industry Financial Services### What's new- Added "How Microsoft and generative AI are transforming financial service contact centers" blog post.- Added "Insurance in the era of generative AI: Use cases that transform the industry" blog post.### Deep links- [How Microsoft and generative AI are transforming financial service contact centers](https://www.microsoft.com/en-us/industry/blog/financial-services/2023/10/17/how-microsoft-and-generative-ai-are-transforming-financial-service-contact-centers/): Generative AI is redefining the very notion of a contact center for insurance companies, banks, and other capital markets firms. (Microsoft Industry Blog)- [Insurance in the era of generative AI: Use cases that transform the industry](https://www.microsoft.com/en-us/industry/blog/financial-services/2023/10/23/insurance-in-the-era-of-generative-ai-use-cases-that-transform-the-industry/): Innovative insurers are moving quickly to use the power of generative AI, and in this post, we’d like to share a few of the most important classes of use cases that our insurance customers are excited about today. (Microsoft Industry Blog)
+
+Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/IndustryFinancialServices) for more partner resources.
+
+![ PowerPlatformSolutionArea.md ]( /PartnerCrucible/assets/images/2023-10-28-PowerPlatformSolutionArea.md-image.png )
+# Power Platform Solution Area## What's new- Added Power BI Project (PBIP) and Azure DevOps build pipelines for continuous integration.## Deep links- [Power BI Project (PBIP) and Azure DevOps build pipelines for continuous integration](https://learn.microsoft.com/en-us/power-bi/developer/projects/projects-build-pipelines): Integrating the PBIP format with Azure DevOps lets you use Azure Pipelines to automate Continuous Integration/Continuous Deployment (CI/CD) pipelines. These pipelines process the PBIP metadata files and apply a series of quality checks to your development before deploying it to the production system.
+
+Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/PowerPlatformSolutionArea) for more partner resources.
+
