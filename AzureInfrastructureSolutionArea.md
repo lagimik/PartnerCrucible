@@ -205,6 +205,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[AVS Hub](https://www.avshub.io/) | a collection of resources for the AVS community | AVS Hub
 [AVS Documentation (official)](https://aka.ms/AVSDocs)| Learn how to use Azure VMware Solution to deploy a VMware Software-Defined Data Center (SDDC) private cloud to Azure. | Microsoft Learn
 [AVS Partner Learning Path (official)](https://aka.ms/AVSLearningPath)| Learn how Azure VMware Solution supports enterprise customers in their transition to the cloud. Evaluate key features and differentiators. Examine the use cases and customer stories. Understand the support structure and options. | Microsoft Learn
 [Azure VMware Solution Learning Companion](https://learning-pathways.co.uk/wp-content/uploads/2023/09/Azure-VMware-Solution-Learning-Companion.pdf)| Azure VMware Solution Learning Companion | Learning Pathways
