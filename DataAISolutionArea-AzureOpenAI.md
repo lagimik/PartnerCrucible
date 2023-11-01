@@ -28,6 +28,7 @@ Source | Description | Notes
 [AI Anthology](https://unlocked.microsoft.com/ai-anthology/a) | we invited 20 experts, with specialties encompassing a broad spectrum—spanning the fields of business, economics, education, engineering, health, history, law, mathematics, medicine, psychology, and the sciences—to explore the capabilities of GPT-4 and provide their insightful reflections in the form of essays. | Microsoft Unlocked
 [AI Business School](https://www.microsoft.com/en-us/ai/ai-business-school) | Online leadership series and learn how to drive business impact by creating an effective AI strategy, enabling an AI-ready culture, innovating responsibly, and more| Microsoft
 
+
 ## Responsible AI
 
 Responsible AI is an approach to assessing, developing, and deploying AI systems in a safe, trustworthy, and ethical manner, and take responsible decisions and actions.
@@ -51,6 +52,7 @@ Source | Description | Notes
 [AI Transformation Partner Playbook](https://aka.ms/aipartnerplaybook) | No matter where you are in your AI transformation journey, the AI Transformation Partner Playbook will empower you to accelerate innovation and grow your AI practice. | Partner
 [Partner Data and AI Solution Area Landing](https://partner.microsoft.com/en-us/explore/solution-areas#tab-2) | Landing page for partner resources | Partner
 [Azure OpenAI Sales Acceleration](https://partner.microsoft.com/en-us/asset/collection/azure-openai-service-sales-acceleration-content#/) | Sales Acceleration content| Partner
+[Generative AI for Beginners - A Course](https://aka.ms/genai-beginners) | Learn the fundamentals of building Generative AI applications with our 12-lesson comprehensive course by Microsoft Cloud Advocates. Each lesson covers a key aspect of Generative AI principles and application development. Throughout this course, we will be building our own Generative AI startup so you can get an understanding of what it takes to launch your ideas. | GitHub
 
 
 ## Azure OpenAI Services
