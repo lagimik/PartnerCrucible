@@ -22,6 +22,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[SaaS Lab](https://github.com/microsoft/saaslab#session-1---the-isv-modernization-journey) | SaaS Lab is a series of sessions that will help you modernize your application to make use of multi-tenant SaaS architecture patterns and technologies in Azure. | GitHub
 [Independent software vendor (ISV) considerations for Azure landing zones](https://learn.microsoft.com/en-ca/azure/cloud-adoption-framework/ready/landing-zone/isv-landing-zone?tabs=mg-env-no%2Cminimal) |The landing zones describe how to build an Azure environment with multiple subscriptions. Each landing zone accounts for scale, security, governance, networking, and identity, and is based on feedback and lessons learned from many customers. | Microsoft Lean
 [Tenancy models to consider for a multitenant solution](https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/tenancy-models) | Guidance for technical decision-makers about the tenancy models you can consider and their tradeoffs | MS Learn
 [Azure SaaS Development Kit (ASDK)](https://github.com/Azure/azure-saas) | he Azure SaaS Development Kit is a deployable reference implementation of pre-built modules designed to help you launch your SaaS offering faster | Github
