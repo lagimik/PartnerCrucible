@@ -22,6 +22,18 @@ Source | Description | Notes
 [ISV Channel Readiness and Scale](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR1SFCIzNe21CsbfwhNualy5UMFNaSzJKRkE0VkhVR0wyRk9WUVNWUU5BNS4u) | Get Channel Ready and scale your monetized apps with Microsoft Partners: Establishing relationships with CSPs that lead to transactions requires investment in a compelling offer including defined margins, marketing materials to capture the attention of CSPs, marketing materials that CSPs can use to sell your apps, and established sales and technical support.  We call this "Channel Ready" and we are here to help you get there fast. | Form
 [Independent software vendor (ISV) considerations for Azure landing zones](https://learn.microsoft.com/en-ca/azure/cloud-adoption-framework/ready/landing-zone/isv-landing-zone?tabs=mg-env-no%2Cminimal) |The landing zones describe how to build an Azure environment with multiple subscriptions. Each landing zone accounts for scale, security, governance, networking, and identity, and is based on feedback and lessons learned from many customers. | Microsoft Lean
 
+## Startups
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Founders Hub](https://www.microsoft.com/en-us/startups/) | Microsoft for Startups Founders Hub brings people, knowledge, and technology together to help founders at every stage solve startup challenges. Sign up in minutes with no funding required. | Microsoft for Startups
+[Pegasus Program](https://www.microsoft.com/en-us/startups/pegasus) | The Pegasus Program is currently invite-only. To be considered for this program you must be actively engaged in Microsoft for Startups Founders Hub and building with Microsoft technology.  | Microsoft for Startups
+[M12](https://m12.vc​)| M12 is Microsoft’s corporate venture capital fund. We invest across key focus areas in the most promising early-stage companies that are disrupting markets in the business of today and tomorrow. | M12
+[Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/) | Join Microsoft Reactor and engage with startups and developers live| Reactor
+[Microsoft Reactor](https://www.youtube.com/c/MicrosoftReactor1)| Our Microsoft Reactor community is here with workshops and events aimed at expanding your skills across a range of technologies and topics. | YouTube Channel
+[Microsoft SaaS Day for Startups](https://info.microsoft.com/WE-ISV-CATALOG-FY23-05May-09-Microsoft-SaaS-Academy-for-Startups-SREVM9822_Catalog-Display-Page.html?wt.mc_id=AID3058359_QSG_BLOG_640895) | On-demand - This conference is an opportunity for SaaS startups to learn from experienced professionals and gain valuable insights into the latest trends and technologies in the industry.  | 
+[Microsoft AI & IoT Insider Labs](https://aiotlabs.microsoft.com/p/apply)| Microsoft AI & IoT Insider Labs
+
 ## Power BI Embedded
 Source | Description | Notes
 :----- | :---------- | :----
