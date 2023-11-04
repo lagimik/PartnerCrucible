@@ -22,10 +22,11 @@ Source | Description | Notes
 [Microsoft training and certification guides](https://aka.ms/traincertdeck) | These guides are designed to outline the training and certification options for each solution area that can help you achieve your personal and professional goals. Each guide includes resources such as certification portfolio, overview, journey and learning path to help you prepare for your learning experience | Microsoft
 
 
-## Microsoft Learning Resouorces
+## Microsoft Learning Resources
 
 Source | Description | Notes
 :----- | :---------- | :----
+[Microsoft Applied Skills](https://learn.microsoft.com/en-ca/credentials/) | From role-based certifications to new, scenario-specific applied skills, showcasing your proficiency with industry-trusted and verified credentials from Microsoft helps make you essential at your current workplace—and the next one.| Microsoft Learn
 [Microsoft Learn](https://learn.microsoft.com)| Discover new skills, find certifications, and advance your career in minutes with interactive, hands-on learning paths.| Open to All
 [Microsoft Learn Cloud Games](https://learn.microsoft.com/en-ca/training/cloud-games) | Play. Solve. Learn. You’re invited to be a cybersecurity pro or a data expert with Who Hacked? and Data Feeds. Immersive role-playing games from Cloud Games, created by and for technical professionals. Both games are available to play on-demand in single-player mode, each with two episodes that can be played in any order.| Microsoft Learn
 [Cloud Skills Challenge](https://www.microsoft.com/en-ca/sites/cloud-skills-challenge/)| Learn. Compete. Develop skills with this self-paced technical upskilling challenge. For teams or individuals | Microsoft Learn
