@@ -24,8 +24,6 @@ thumbnail: /PartnerCrucible/assets/images/2023-11-04-ModernWorkSolutionArea.md-i
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/ModernWorkSolutionArea) for more partner resources.
 
-![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2023-11-04-AzureInfrastructureSolutionArea.md-image.png )
-
 
 ![ SecuritySolutionArea.md ]( /PartnerCrucible/assets/images/2023-11-04-SecuritySolutionArea.md-image.png )
 
@@ -44,6 +42,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/SecuritySolutionArea) for more partner resources.
 
+![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2023-11-04-AzureInfrastructureSolutionArea.md-image.png )
 
 # Azure Infrastructure Solution Area
 
