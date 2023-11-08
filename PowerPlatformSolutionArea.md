@@ -51,8 +51,7 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :---------- | :-----
 [Partner Association Playbook](https://aka.ms/Solutionspartner.Associationsplaybook) | See pages 41-45 for Power Platform. Associations are the sole mechanism by which customer success, performance, and skilling category points are acknowledged and calculated towards achieving solutions partner designations). | Presentation
-[Power Platform PAL Association](https://partner.microsoft.com/en-us/training/assets/detail/associate-your-power-apps-customer-deployments-to-your-partner-org-video-mp4) | Video to Learn how to associate your Power Apps customer deployments to your partner organization MCPP ID and get closer to attaining the Low Code Application Development Advanced specialization. | Questions and Answers starts at 25 minute mark.<br> Association in non-production environments is discussed at 32 minute mark | Partner
-[PAL and Low Code Application Development advanced specialization FAQ](https://pbapstorageprod.blob.core.windows.net/protectedassets/PAL%20and%20Low%20Code%20FAQ.pdf?sv=2019-07-07&sr=b&sig=eTzJc3UQ53aDKGXi5Z0%2FyctO5LZr%2B%2F%2Fxc%2FYu3RqEFYQ%3D&se=2023-07-27T12%3A50%3A02Z&sp=r)| This FAQ is a guide to help Power Apps partners fully leverage and optimize their Microsoft partnership through the Partner Admin Link (PAL) and advanced specializations.| Transform
+[Link a partner ID to your Power Platform and Dynamics Customer Insights accounts](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/link-partner-id-power-apps-accounts) | PAL allows Microsoft to identify and recognize partners that have Power Platform and Customer Insights customers. Microsoft attributes usage to a partner's organization based on the account's permissions (user role) and scope (tenant, resource, and so on). The attribution is used for Specializations | Microsoft Learn
 
 ## Power Platform Certifications
 
