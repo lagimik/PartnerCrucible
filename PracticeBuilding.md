@@ -45,6 +45,7 @@ Customer Investment Fund | Support for **strategic customer deliveries** through
 Source | Description | Notes
 :----- | :-----  | :-----
 [Partner Skilling Playbook](https://assetsprod.microsoft.com/mpn/en-ca/partner-skilling-playbook.pdf) | The Partner Skilling Playbook is a guide for understanding the enablement offerings available to help skill up partner organizations, wherever you are in your learning journey.| Partner
+[Partner Enablement Newsletter](https://assetsprod.microsoft.com/mpn/en-ca/partner-enablement-newsletter.pdf)| Updated regularly with the partner skilling and enablement live and on-demand events for Microsoft partners. Includes certification preparation and depth enablement sessions across all Microsoft solution areas and Industry Clouds | Partner
 [Enablement Guides](http://aka.ms/enablementguides)| These technical and sales guides cover Microsoft solution areas across Modern Work; Microsoft Dynamics 365; Microsoft Power Platform; Microsoft Azure; and Security, Compliance, and Identity. | Microsoft
 
 # Partner to Partner (P2P)
