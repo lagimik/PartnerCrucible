@@ -18,7 +18,7 @@ Source | Description | Notes
 [2022 Environmental Sustainability Report](https://aka.ms/SustainabilityReport2022) | In 2020, we announced that Microsoft will be a carbon negative, water positive, zero waste company that protects ecosystems—all by 2030. Three years into this journey, we continue to make steady progress and remain steadfast in our commitment.| Microsoft
 [Microsoft Cloud for Sustainability: Catalyzing progress with our global partners](https://www.microsoft.com/en-us/industry/blog/sustainability/2023/02/28/microsoft-cloud-for-sustainability-catalyzing-progress-with-our-global-partners/#PartnersMakeMorePossible)| Example cloud for sustainability solutions from global partners| Partner Blog
 [Industry Resources](https://microsoft.github.io/PartnerResources/industry/)| Industry resources| Microsoft US
-
+[Water replenishment: Our learnings on the journey to water positive](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1eAAY) | This paper shares our learnings as we developed our global corporate water replenishment program. | Microsoft 
 
 ## Skilling
 
