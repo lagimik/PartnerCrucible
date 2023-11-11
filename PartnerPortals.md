@@ -28,6 +28,7 @@ Source | Description | Notes
 [Microsoft Partner Blog](https://blogs.partner.microsoft.com/mpn/)|...|[Rss Feed](https://blogs.partner.microsoft.com/mpn/mpnfeed)<br>[Twitter](https://twitter.com/msPartner)<br>[LinkedIn](https://www.linkedin.com/showcase/microsoft-partner-network/)
 [Partner Community Webinar Series](https://aka.ms/partnercall)|Join us monthly for important product and program updates, including tutorials that will help both you and our customers down the road| Microsoft Partners
 [International Association of Microsoft Channel Partners](https://www.iamcp.org/) | World's largest community of Microsoft partners - Connect locally and internationally with Microsoft partners, learn from best practices and grow your profits – with the IAMCP | IAMCP
+[Microsoft Learn Career Connected Talent Coalition](https://learn.microsoft.com/en-us/training/career-paths/programoverview) | Microsoft Learn Career Connected brings together skilling organizations, newly skilled job-seekers, and employers in need of talent. This Talent Coalition creates community of connection where people can discover opportunity, further develop their skills, build relationships, and hire the right people for the right roles. | Microsoft Learn Career Connected Talent Coalition Application for Employers
 
 ## Solution Area Portals
 
