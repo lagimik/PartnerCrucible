@@ -16,6 +16,7 @@ Source | Description | Notes
 [Microsoft Channel Incentives](https://channelincentives.microsoft.com/) | LSP, Software Assurance and Solution Assessment Program management portal| Channel Incentives
 [Microsoft for Startups](https://startups.microsoft.com/)|icrosoft for Startups Founders Hub brings together the technology, guidance, and support you need to hit your next milestone.|
 [Partner University](https://partner.microsoft.com/en-us/training/assets/collection/faqs-partner-university#/)| These resources will help answer questions that you might have to help you navigate Partner University and make the connection to Partner CenterThese resources will help answer questions that you might have to help you navigate Partner University and make the connection to Partner Center. |...
+[Partner Academy](https://info.microsoft.com/WE-NoGEP-CATALOG-FY23-09Sep-06-EMEA001-Uncover-new-sales-opportunities-with-Partner-Academy-SRDEM121670_Catalog-Display-Page.html) | Partner Academy is here to connect the dots between those programs, help you navigate through multiple resources and allow you to have richer conversations with your customers! The Academy will focus on simplifying the complexity of key programs, streamline go-to-market opportunities and accelerate sales engagement and support from Microsoft.| Partner Academy
 
 ## Communities
 
