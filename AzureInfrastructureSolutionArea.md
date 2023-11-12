@@ -188,6 +188,7 @@ Source | Description | Notes
 [SAP on Azure Resources](https://aka.ms/SAPonAzureResources) | Documentation and learning resources including case studies | Microsoft Learn
 [SAP on Azure Advanced Specialization](https://aka.ms/SAPonAzureAdvancedSpec) | An SAP on Azure Specialization assures potential customers that a partner meets the highest standards for service delivery and support and increases partner visibility through prioritized ranking in searches and referrals via solution provider.| Microsoft Partners
 [SAP on Azure Video Podcast](https://www.youtube.com/playlist?list=PLvqyDwoCkBXYCm7_CNLavXHmdZD6rEvNn) | Videos covering a wide range of SAP on Azure scenarios | YouTube
+[How to Drive Digital Transformation: RISE with SAP on Azure](https://info.microsoft.com/ww-ondemand-how-to-drive-digital-transformation-rise-with-sap-on-azure.html) | Watch this on-demand webinar and learn about the advantages of choosing Azure for your RISE with SAP deployments.  | Microsoft
 
 ##  Workload - Oracle on Azure
 
