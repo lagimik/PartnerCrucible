@@ -22,6 +22,21 @@ thumbnail: /PartnerCrucible/assets/images/2023-11-11-PowerPlatformSolutionArea.m
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/PracticeBuilding) for more partner resources.
 
+![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2023-11-12-AzureInfrastructureSolutionArea.md-image.png )
+
+## Azure Infrastructure Solution Area
+
+## What's new
+
+- Microsoft recognized as a Leader in 2023 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure
+ 
+## Deep links
+  
+- [Microsoft recognized as a Leader in 2023 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-2023-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/?utm_source=dlvr.it&utm_medium=LinkedIn): Gartner has positioned Microsoft as a Leader in this new category that includes offerings that deliver cloud-native infrastructure attributes, which can be deployed and operated where the customer prefers.
+
+Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/AzureInfrastructureSolutionArea) for more partner resources.
+
+
 ![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2023-11-11-DataAISolutionArea-AzureOpenAI.md-image.png )
 
 # Data AI Solution Area
