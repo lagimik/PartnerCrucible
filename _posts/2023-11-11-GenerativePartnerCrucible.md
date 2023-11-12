@@ -14,6 +14,8 @@ thumbnail: /PartnerCrucible/assets/images/2023-11-11-PowerPlatformSolutionArea.m
 
 ## What's new
 
+- Added the Partner Enablement Newsletter - updated regularly
+
 ## Deep links
 
 - [Partner Enablement Newsletter](https://assetsprod.microsoft.com/mpn/en-ca/partner-enablement-newsletter.pdf): Updated regularly with the partner skilling and enablement live and on-demand events for Microsoft partners. Includes certification preparation and depth enablement sessions across all Microsoft solution areas and Industry Clouds (Partner)
