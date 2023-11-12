@@ -5,6 +5,21 @@ flag: GenerativePartnerCrucible
 layout: generativepartnercrucible
 thumbnail: /PartnerCrucible/assets/images/2023-11-11-PowerPlatformSolutionArea.md-image.png
 ---
+
+![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2023-11-11-DataAISolutionArea-AzureOpenAI.md-image.png )
+
+![ Practice Building ]( /PartnerCrucible/assets/images/2023-11-11-SecuritySolutionArea.md-image.png )
+
+# Partner Practice Building
+
+## What's new
+
+## Deep links
+
+- [Partner Enablement Newsletter](https://assetsprod.microsoft.com/mpn/en-ca/partner-enablement-newsletter.pdf): Updated regularly with the partner skilling and enablement live and on-demand events for Microsoft partners. Includes certification preparation and depth enablement sessions across all Microsoft solution areas and Industry Clouds (Partner)
+
+Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/PracticeBuilding) for more partner resources.
+
 ![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2023-11-11-DataAISolutionArea-AzureOpenAI.md-image.png )
 
 # Data AI Solution Area
@@ -13,6 +28,8 @@ thumbnail: /PartnerCrucible/assets/images/2023-11-11-PowerPlatformSolutionArea.m
 
 - Added Microsoft Azure OpenAI: Learning guide for partners
 - Added AutoGen - Getting Started
+
+Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-AzureOpenAI) for more partner resources.
 
 ## Deep links
 
