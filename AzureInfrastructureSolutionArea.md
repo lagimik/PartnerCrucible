@@ -224,5 +224,6 @@ Source | Description | Notes
 [AVS TechZone](https://aka.ms/AVSTechZone)| Azure VMWare Solution page| VMWare Site
 [AVS Micro-hack](https://aka.ms/AVSMicroHack) | Handling Azure vMware Solution (AVS) network connectivity and migration scenario from on-premises to Azure | Github
 [Migrate VMware Workloads to Azure ](https://partner.microsoft.com/en-us/asset/collection/migrate-azure-vmware-solution#/) | Collection - To help partners capitalize on this tremendous opportunity this go-to-market campaign in a box provides a series of ready-to-use co-marketing assets to help you connect with your customers in a variety of ways, from thought leadership to a LinkedIn campaign. | Partner
+[AVS Integration with Azure Ecosystem](https://www.linkedin.com/posts/husamhilal_azure-vmware-avs-activity-7125499787801456642-X51O?utm_source=share&utm_medium=member_desktop) | @HusamHilal demonstrates the integrations that an organization can initiate between Azure #Mware Solution AVS private cloud and Azure services for modernizing 🚀 the service as well as ⚙️ the workloads running on it| LinkedIn
 
 
