@@ -122,6 +122,7 @@ Source | Description | Notes
 [AI apps and copilot framework](https://news.microsoft.com/source/features/ai/microsoft-outlines-framework-for-building-ai-apps-and-copilots-expands-ai-plugin-ecosystem/) | A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task | Microsoft News
 [Semantic Kernel: A Lightweight SDK for LLMs](https://techcommunity.microsoft.com/t5/educator-developer-blog/unlock-the-potential-of-ai-in-your-apps-with-semantic-kernel-a/ba-p/3773847) | Semantic Kernel (SK) is an innovative and lightweight Software Development Kit (SDK) designed to integrate Artificial Intelligence (AI) Large Language Models (LLMs) with conventional programming languages| Tech Community
 [Building AI solutions with Semantic Kernel](https://build.microsoft.com/en-US/sessions/31e11443-70d3-4020-8c8c-0a654bccd233?source=sessions) | During this session, learn why we created Semantic Kernel (SK) and how it requires a new kind of developer mindset.  Discover how SK has evolved alongside OpenAI’s GPT-4 trajectory and what plugins will mean. We also discuss early signals we have gathered around SK use for copilots. | Build 2023
+[The Developer's Cantina](https://www.developerscantina.com/) | @qmatteoq Blog on Semantic Kernel| Developer's Cantina
 
 ## Plugins
 
