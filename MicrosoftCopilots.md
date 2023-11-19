@@ -1,4 +1,22 @@
+---
+title: "Partner Crucible - Copilot"
+layout: "default"
+categories: "Copilot"
+---
 
+# Copilot
+
+## Purpose
+
+A Collection of resources for Microsoft practice adopting, extending and building Copilot experiences. For a view of other solution areas, please see the [Taxonomy](./Taxonomy).
+
+To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
+
+## Practice Building
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Adopt, extend and build Copilot experiences across the Microsoft Cloud](https://learn.microsoft.com/en-ca/microsoft-cloud/dev/copilot/overview) | Adopt, extend and build Copilot experiences across the Microsoft Cloud: Copilot is an AI assistant powered by Large Language Models (LLMs) that offer innovative solutions across the Microsoft Cloud. They aim to enhance productivity, creativity, and data accessibility while providing enterprise-grade data security and privacy features.| Microsoft Learn 
 
 
 
