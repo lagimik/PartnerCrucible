@@ -44,6 +44,7 @@ Source | Description | Notes
 [Azure Blog](https://azure.microsoft.com/en-us/blog/)|Azure Blog | Azure
 [Azure Updates](https://azure.microsoft.com/en-us/updates/)|Get the latest updates on Azure products and features to meet your cloud investment needs. Subscribe to notifications to stay informed.|
 
+
 ## Partner Attributes
 
 Source | Description | Notes
@@ -54,6 +55,7 @@ Source | Description | Notes
 [Roles and permissions required to receive partner earned credit](https://learn.microsoft.com/en-us/partner-center/azure-roles-perms-pec) | The following roles map to permissions levels that determine whether a partner is eligible for partner earned credit (PEC). | Microsoft Learn
 [Use PowerShell to link to a new partner ID](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/link-partner-id#use-powershell-to-link-to-a-new-partner-id) | Use PowerShell to link to a new partner ID
 | Microsoft Learn
+[Platform engineering guide](https://learn.microsoft.com/en-us/platform-engineering/) | Learn how platform engineering teams can use building blocks from Microsoft and other vendors to create deeply personalized, optimized, and secure developer experiences.| Microsoft Learn
 
 
 
