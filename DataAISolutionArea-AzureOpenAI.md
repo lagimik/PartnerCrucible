@@ -54,6 +54,7 @@ Source | Description | Notes
 [Azure OpenAI Sales Acceleration](https://partner.microsoft.com/en-us/asset/collection/azure-openai-service-sales-acceleration-content#/) | Sales Acceleration content| Partner
 [Microsoft Azure OpenAI: Learning guide for partners](https://assetsprod.microsoft.com/mpn/en-ca/azure-openai-learning-guide-for-partners.pdf) | Azure OpenAI - Learning Guide for Partners to understand, get access, and learn about Azure OpenAI| PArtner 
 [Generative AI for Beginners - A Course](https://aka.ms/genai-beginners) | Learn the fundamentals of building Generative AI applications with our 12-lesson comprehensive course by Microsoft Cloud Advocates. Each lesson covers a key aspect of Generative AI principles and application development. Throughout this course, we will be building our own Generative AI startup so you can get an understanding of what it takes to launch your ideas. | GitHub
+[Understanding the Difference in Using Different Large Language Models: Step-by-Step Guide](https://techcommunity.microsoft.com/t5/educator-developer-blog/understanding-the-difference-in-using-different-large-language/ba-p/3919444)| In this blog, you will learn how to leverage different Large Language Models available on Azure Machine Learning and provided by Hugging Face, Azure ML, OpenAI, and Meta. Also, you will learn how to integrate them into your Web Application or Power App.| Tech Community
 
 
 ## Azure OpenAI Services
