@@ -16,7 +16,7 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[Adopt, extend and build Copilot experiences across the Microsoft Cloud](https://learn.microsoft.com/en-ca/microsoft-cloud/dev/copilot/overview) | Adopt, extend and build Copilot experiences across the Microsoft Cloud: Copilot is an AI assistant powered by Large Language Models (LLMs) that offer innovative solutions across the Microsoft Cloud. They aim to enhance productivity, creativity, and data accessibility while providing enterprise-grade data security and privacy features.| Microsoft Learn 
+[Adopt, extend and build Copilot experiences across the Microsoft Cloud](https://learn.microsoft.com/en-ca/microsoft-cloud/dev/copilot/overview) | Adopt, extend and build Copilot experiences across the Microsoft Cloud: Copilot is an AI assistant powered by Large Language Models (LLMs) that offer innovative solutions across the Microsoft Cloud. They aim to enhance productivity, creativity, and data accessibility while providing enterprise-grade data security and privacy features.| Microsoft Learn
 
 
 
@@ -73,24 +73,155 @@ Source | Description | Notes
 
 # Demos
 
-Copilot | Availability | Annoucenment | Demo
-:----- | :-----  | :----- | :-----
-Microsoft 365 Copilot |  GA: Nov. 1, 2023 |  [Info](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK) |  [Demo](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK) <br>   Outlook: [LINK](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK)<br> Teams: [LINK](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK) <br>  PowerPoint: [LINK](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK) <br>Word: [LINK](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK) <br>Excel: [LINK](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK)
-Bing Chat Enterprise | Public Preview |  [Info](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK) |  [Demo](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK)
-Windows Copilot |  9/26: Rolling out in preview | [Info](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK) | [Demo](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK)
-Copilot in Power Apps | Public Preview | [Info](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK) | [Demo](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK)
-Copilot in Power Automate | Public Preview | [Info](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK) | [Demo](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK)
-Copilot in Power Virtual Agents | Generally Available | [Info](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK) | [Demo](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK)
-Copilot in Power Pages | Private Preview | | |
-Microsoft Sales Copilot | Public Preview |[Info](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK)| [Demo](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK) <br> [Guided](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK)
-Copilot in Dynamics 365 Customer Service | Public Preview | [Info](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK) | [Demo](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK)
-Copilot in Dynamics 365 Field Service | Public Preview | [Info](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK) | [Demo](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK) <br> [Guided](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK)
- Copilot in Dynamics 365 Customer Insights | Public Preview | [Info](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK) | [Guided 1](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK) <br> [Guided 2](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK)
-Copilot in Dynamics 365 Business Central | Public Preview | [Info](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK) | [Demo](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK)
-Copilot in Dynamics 365 Supply Chain Center | Public Preview | [Info](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK) | [Demo](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK)
-GitHub Copilot |  Generally Available | [Info](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK) | [Demo](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK)
-GitHub Copilot X |  Private Preview | [Info](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK)| [Demo](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK)
-Copilot stack with Azure AI |   Generally Available | [Info](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK) | [Demo](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK)
-Copilot in Power BI | Private Preview (sign up) |  [Info](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK) | [Demo](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK)
-Copilot in Microsoft Fabric | Private Preview | [Info](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK) | [Demo](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK)
-Security Copilot |  Private Preview | [Info](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK) | [Demo](https://fa000000128.resources.office.net/f7024bdc-7caf-4ca8-807d-2908f09640d6/1.0.2311.10023/en-us_web/LINK)
+<table>
+<thead>
+<tr class="header">
+<th><strong>Copilot</strong></th>
+<th><strong>Availability</strong></th>
+<th><strong>Info</strong></th>
+<th><strong>Demo</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Microsoft 365 Copilot</td>
+<td><p>Early Access Program</p>
+<p>GA: Nov. 1, 2023</p></td>
+<td><p><a href="https://blogs.microsoft.com/blog/2023/05/09/introducing-the-microsoft-365-copilot-early-access-program-and-2023-microsoft-work-trend-index/?ocid=FY23_soc_omc_br_tw_M365Copilot">LINK</a></p>
+<p><a href="https://blogs.microsoft.com/blog/2023/09/21/announcing-microsoft-copilot-your-everyday-ai-companion/">LINK</a></p></td>
+<td>Outlook: <a href="https://www.youtube.com/watch?v=uI5mQjTp1fI">LINK</a></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td>Teams: <a href="https://www.youtube.com/watch?v=rLC2frnUasw">LINK</a></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td>PowerPoint: <a href="https://www.youtube.com/watch?v=fzoZ_f7ji5Q">LINK</a></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td>Word: <a href="https://www.youtube.com/watch?v=C8WDGKaOt2s">LINK</a></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td>Excel: <a href="https://www.youtube.com/watch?v=I-waFp6rLc0">LINK</a></td>
+</tr>
+<tr class="even">
+<td>Bing Chat Enterprise</td>
+<td>Public Preview</td>
+<td><a href="https://www.microsoft.com/en-us/edge/bing/chat-enterprise?form=MA13FJ">LINK</a></td>
+<td><a href="https://www.youtube.com/watch?v=8tN4Y5JV8NI">LINK</a></td>
+</tr>
+<tr class="odd">
+<td>Windows Copilot</td>
+<td>9/26: Rolling out in preview</td>
+<td><a href="https://blogs.microsoft.com/blog/2023/09/21/announcing-microsoft-copilot-your-everyday-ai-companion/">LINK</a></td>
+<td><a href="https://www.youtube.com/watch?v=FCfwc-NNo30">LINK</a></td>
+</tr>
+<tr class="even">
+<td>Copilot in Power Apps</td>
+<td>Public Preview</td>
+<td><a href="https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/ai-overview">LINK</a></td>
+<td><a href="https://www.microsoft.com/en-us/videoplayer/embed/RWZW4A">LINK</a></td>
+</tr>
+<tr class="odd">
+<td>Copilot in Power Automate</td>
+<td>Public Preview</td>
+<td><a href="https://learn.microsoft.com/en-us/ai-builder/prebuilt-azure-openai">LINK</a></td>
+<td><a href="https://www.youtube.com/watch?v=Qvv2X3DGIDM">LINK</a></td>
+</tr>
+<tr class="even">
+<td>Copilot in Power Virtual Agents</td>
+<td>Generally Available</td>
+<td><a href="https://powervirtualagents.microsoft.com/en-us/blog/copilot-in-power-virtual-agents-next-generation-ai-assists-bot-building-with-natural-language/">LINK</a></td>
+<td><a href="https://www.youtube.com/watch?v=dh-LeowOV-E">LINK</a></td>
+</tr>
+<tr class="odd">
+<td>Copilot in Power Pages</td>
+<td>Private Preview</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Microsoft Sales Copilot</td>
+<td>Public Preview</td>
+<td><a href="https://cloudblogs.microsoft.com/dynamics365/it/2023/07/18/improve-sales-productivity-and-close-more-deals-with-microsoft-sales-copilot/">LINK</a></td>
+<td><a href="https://www.microsoft.com/en-us/videoplayer/embed/RW17tcG">LINK</a>; Guided: <a href="https://app.getreprise.com/launch/dyRwvL6/">LINK</a></td>
+</tr>
+<tr class="odd">
+<td>Copilot in Dynamics 365 Customer Service</td>
+<td>Public Preview</td>
+<td><a href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/06/introducing-microsoft-dynamics-365-copilot-bringing-next-generation-ai-to-every-line-of-business/">LINK</a></td>
+<td><a href="https://www.microsoft.com/en-us/videoplayer/embed/RWZ8m4">LINK</a></td>
+</tr>
+<tr class="even">
+<td>Copilot in Dynamics 365 Field Service</td>
+<td>Public Preview</td>
+<td><a href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/08/09/introducing-copilot-in-dynamics-365-field-service-helping-your-frontline-deliver-exceptional-service-with-next-generation-ai/">LINK</a></td>
+<td><a href="https://aka.ms/fsdemovideo">LINK</a>; Guided: <a href="https://app.getreprise.com/launch/D6z8GEX/">LINK</a></td>
+</tr>
+<tr class="odd">
+<td>Copilot in Dynamics 365 Customer Insights</td>
+<td>Public Preview</td>
+<td><a href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/06/introducing-microsoft-dynamics-365-copilot-bringing-next-generation-ai-to-every-line-of-business/">LINK</a></td>
+<td>Guided 1: <a href="https://app.getreprise.com/launch/E63kOp6/">LINK</a>; Guided 2: <a href="https://app.getreprise.com/launch/9yde5L6/">LINK</a></td>
+</tr>
+<tr class="even">
+<td>Copilot in Dynamics 365 Business Central</td>
+<td>Public Preview</td>
+<td><a href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/06/introducing-microsoft-dynamics-365-copilot-bringing-next-generation-ai-to-every-line-of-business/">LINK</a></td>
+<td><a href="https://www.microsoft.com/videoplayer/embed/RWZdAr">LINK</a></td>
+</tr>
+<tr class="odd">
+<td>Copilot in Dynamics 365 Supply Chain Center</td>
+<td>Public Preview</td>
+<td><a href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/06/introducing-microsoft-dynamics-365-copilot-bringing-next-generation-ai-to-every-line-of-business/">LINK</a></td>
+<td><a href="https://www.youtube.com/watch?v=pJ7F69rLS-c">LINK</a></td>
+</tr>
+<tr class="even">
+<td>GitHub Copilot</td>
+<td>Generally Available</td>
+<td><a href="https://resources.github.com/copilot-for-business/">LINK</a></td>
+<td><a href="https://youtu.be/kgHms6mLqGg">LINK</a></td>
+</tr>
+<tr class="odd">
+<td>GitHub Copilot X</td>
+<td>Private Preview</td>
+<td><a href="https://github.com/features/preview/copilot-x">LINK</a></td>
+<td><a href="https://www.youtube.com/watch?v=qQESlmIseJ8">LINK</a></td>
+</tr>
+<tr class="even">
+<td>Copilot stack with Azure AI</td>
+<td>Generally Available</td>
+<td><a href="https://news.microsoft.com/source/features/ai/microsoft-outlines-framework-for-building-ai-apps-and-copilots-expands-ai-plugin-ecosystem/">LINK</a></td>
+<td><a href="https://www.youtube.com/watch?v=6SNfeVop4zM">LINK</a></td>
+</tr>
+<tr class="odd">
+<td>Copilot in Power BI</td>
+<td>Private Preview (<a href="https://microsoft.sharepoint.com/sites/FabricCATPortal/SitePages/Copilot-for-Power-BI.aspx">sign up</a>)</td>
+<td><a href="https://powerbi.microsoft.com/en-nz/blog/introducing-microsoft-fabric-and-copilot-in-microsoft-power-bi/">LINK</a></td>
+<td><a href="https://www.microsoft.com/en-us/videoplayer/embed/RW13t3E">LINK</a></td>
+</tr>
+<tr class="even">
+<td>Copilot in Microsoft Fabric</td>
+<td>Private Preview</td>
+<td><a href="https://azure.microsoft.com/en-us/blog/introducing-microsoft-fabric-data-analytics-for-the-era-of-ai/">LINK</a></td>
+<td><a href="https://www.microsoft.com/en-us/videoplayer/embed/RW13vu9">LINK</a></td>
+</tr>
+<tr class="odd">
+<td>Security Copilot</td>
+<td>Private Preview</td>
+<td><a href="https://www.microsoft.com/en-gb/security/business/ai-machine-learning/microsoft-security-copilot">LINK</a></td>
+<td><a href="https://securityhub.transform.microsoft.com/download/be1a2817-6904-437b-d3ed-08db87b5a362">LINK</a></td>
+</tr>
+</tbody>
+</table>
