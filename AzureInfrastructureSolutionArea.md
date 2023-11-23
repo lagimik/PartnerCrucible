@@ -108,6 +108,13 @@ Source | Description | Notes
 [Azure Advisor documentation](https://learn.microsoft.com/en-us/azure/advisor/) | Azure Advisor scans your Azure configuration and recommends changes to optimize deployments, increase security, and save you money. | Microsoft Learn
 [Browse Azure Architectures](https://learn.microsoft.com/en-us/azure/architecture/browse/) | Architecture diagrams and technology descriptions for reference architectures, real world examples of cloud architectures, and solution ideas for common workloads on Azure | Microsoft Learn
 
+## Microsoft Copilot for Azure
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[Simplify IT management with Microsoft Copilot for Azure](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/simplify-it-management-with-microsoft-copilot-for-azure-save/ba-p/3981106) | Microsoft Copilot for Azure, an AI companion, that helps you design, operate, optimize, and troubleshoot your cloud infrastructure and services. Combining the power of cutting-edge large language models (LLMs) with the Azure Resource Model, Copilot for Azure enables rich understanding and management of everything that’s happening in Azure, from the cloud to the edge. | Tech Community
+[Microsoft Copilot for Azure - Preview](https://aka.ms/MSCopilotforAzurePreviewRequest) | Submit this form to register for approval to access and use limited public preview of Microsoft Copilot for Azure.| 
+
 ## Azure Landing Zones (ALZ)
 
 Source | Description | Notes
