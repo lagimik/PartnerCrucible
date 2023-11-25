@@ -17,7 +17,7 @@ Previous **Signal:Noise** posts touched on [innovation](https://lagimik.github.i
 ## TL;DR
 
 * There are opportunities for joint partnership and innovation across a gradient of approaches ranging from **programmatic partnerships, to innovation  partnerships, to business  partnerships, to strategic partnerships**.
-* *Mainstream* partners will engage through programmatic partnership through the Microsoft Cloud Partner Program (MCPP) and  keep abreast of the latest platform developments through public previews.
+* *Mainstream* partners will engage through programmatic partnership through the Microsoft Cloud Partner Program (Microsoft AI Cloud Partner Program) and  keep abreast of the latest platform developments through public previews.
 * *Insiders* will uncover ways to define *innovation, business, or strategic partnerships* by identifying **customer-zero, gives-and-gets, co-innovate, and drive for outcomes**
 
 
@@ -43,7 +43,7 @@ Type | Description | Examples
 
 ## Way forward - *Mainstream* partnership and innovation
 
- *Mainstream* partners will engage through programmatic partnership through the MCPP and  keep abreast of the latest platform developments through public previews.
+ *Mainstream* partners will engage through programmatic partnership through the Microsoft AI Cloud Partner Program and  keep abreast of the latest platform developments through public previews.
 
 Platform |  References
 :----- | :----------
