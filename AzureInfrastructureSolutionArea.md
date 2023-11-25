@@ -177,6 +177,8 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Kubernetes on Microsoft Azure specialization - Requirements](https://partner.microsoft.com/en-us/partnership/specialization/kubernetes) | Specialization Requirements| Partner Specializations
+[Kubernetes on Microsoft Azure specialization - Audit](https://assetsprod.microsoft.com/en-us/audit-checklist-for-kubernetes.pdf)| Audit Checklist | Partner Specializations
 [AKS cluster with Azure Managed Prometheus and Azure Managed Grafana](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-to-create-an-aks-cluster-with-azure-managed-prometheus-and/ba-p/3918527)| This article shows how to deploy an Azure Kubernetes Service(AKS) cluster, Azure Monitor managed service for Prometheus, and Azure Managed Grafana for monitoring the performance and health status of the cluster and workloads. | Tech Community
 [AKS Construction Set](https://github.com/Azure/AKS-Construction) | AKS Construction dramatically accelerates this work by providing the templates and deployment scripts to quickly create a fully configured, Kubernetes environment, tailored to meet your operational and security needs, ready to run your workloads in production. | GitHub
 [Baseline architecture for an Azure Kubernetes Service (AKS) cluster](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/baseline-aks) | This reference architecture provides a recommended baseline infrastructure architecture to deploy an Azure Kubernetes Service (AKS) cluster on Azure. | Microsoft Learn
