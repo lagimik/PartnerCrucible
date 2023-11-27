@@ -186,6 +186,7 @@ Source | Description | Notes
 [CI/CD for AKS apps with Azure Pipelines](https://learn.microsoft.com/en-us/azure/architecture/guide/aks/aks-cicd-azure-pipelines) | Use Azure Pipelines to deploy AKS applications | Microsoft Learn
 [CI/CD for AKS apps with GitHub Actions and GitFlow](https://learn.microsoft.com/en-us/azure/architecture/guide/aks/aks-cicd-github-actions-and-gitops) | The example scenario in this article is applicable to businesses that want to modernize end-to-end application development by using containers, continuous integration (CI) for build, and GitOps for continuous deployment (CD). | Microsoft Learn
 [GitOps for Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/gitops-aks/gitops-blueprint-aks) | GitOps is a set of principles for operating and managing a software system. This article describes techniques for using GitOps principles to operate and manage an Azure Kubernetes Services (AKS) cluster.| Microsoft Learn
+[Triage practices for AKS operations](https://learn.microsoft.com/en-us/azure/architecture/operator-guides/aks/aks-triage-practices) | Series of articles about triage practices, which describes the top-down approaches to addressing cluster health, node/pod health, workload deployments, adminssion controllers, and container registry connectivity | Microsoft Learn
 
 
 ## Workload - Azure RedHat OpenShift (ARO)
