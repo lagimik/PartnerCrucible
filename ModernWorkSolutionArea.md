@@ -114,6 +114,7 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [M365 Development](https://developer.microsoft.com/en-us/microsoft-365/?utm_source=developermscom)| Build collaborative apps for Microsoft 365 and Microsoft Teams that connect people, data, and processes to help users thrive in the hybrid workplace |
 [M365 Developer Program](http://aka.ms/M365DevProgram) | Get an instant sandbox preconfigured with sample data, including Teams Developer Portal, and start developing on the Microsoft 365 platform. |
+[M365 Development Technology Adoption Program (TAP)](https://devblogs.microsoft.com/microsoft365dev/announcing-the-microsoft-365-developer-technology-adoption-program-tap/)| Come learn about upcoming roadmaps, validate upcoming features and enhancements before they are generally available, and engage with Microsoft 365 product groups. | DevBlog
 [M365 Developer Program - Video](https://aka.ms/Setup-M365-Dev-Account) | Introducing New Instant Sandbox for Microsoft 365 Developer Program | YouTube
 [Microsoft Teams Development](https://developer.microsoft.com/en-us/microsoft-teams?utm_source=developermscom) | Extend and customize the Microsoft Teams developer platform |
 [Microsoft 365 Developer](https://www.youtube.com/channel/UCV_6HOhwxYLXAGd-JOqKPoQ?view_as=subscriber) | Microsoft 365 Developer Youtube Channel | YouTube
