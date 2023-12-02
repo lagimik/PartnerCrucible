@@ -39,7 +39,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[Microsoft Dynamics 365 Partner portal](https://dynamicspartners.transform.microsoft.com)|Partner *Transform Portal* for Business Apps|Accessible based on MCPP membership and competencies or solution partner standing | Transform
+[Microsoft Dynamics 365 Partner portal](https://dynamicspartners.transform.microsoft.com)|Partner *Transform Portal* for Business Apps|Accessible based on Microsoft AI Cloud Partner Program membership and competencies or solution partner standing | Transform
 [Business Applications Playbook](https://assetsprod.microsoft.com/en-ca/fy24-business-applications-partner-playbook.pdf) | Describes Microsoft GTM Strategy, Solution Plays, Partner Priorities, and Key Resources | Partner FY24
 [Pre-Commit Business Applications Partner Activities](https://dynamicspartners.transform.microsoft.com/download/protected?assetname=protectedassets/FY24%20Pre-Commit%20Bus%20Apps%20Partner%20Activities%20Program%20Guide%20and%20Overview.pptx&download=1&protected=1) | Detailed program guide and overview of Partner-led Business Applications incentives program| Transform FY24
 [Catalyst Partner FAQ](https://pbapstorageprod.blob.core.windows.net/protectedassets/Catalyst%20Partner%20FAQ.pdf?sv=2019-07-07&sr=b&sig=6EKMfmcYH4mmfpH3Zdf9CsvsN4h8pvBUTVGsjT5KxpI%3D&se=2023-03-12T18%3A58%3A45Z&sp=r) | Catalyst Partner FAQ, November 3 2022| Transform

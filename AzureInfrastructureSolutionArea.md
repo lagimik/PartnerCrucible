@@ -31,6 +31,8 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :---------- | :-----
 [Cloud Infrastructure Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy24-cloud-infrastructure-partner-playbook.pdf) | Describes Microsoft GTM Strategy, Solution Plays, Partner Priorities, and Key Resources| Partner FY24
+[Infra and Database Migration to Microsoft Azure specialization - Requirements](https://partner.microsoft.com/en-us/partnership/specialization/infra-and-database-migration) | Specialization Requirements | Partner Specializations
+[Infra and Database Migration to Microsoft Azure specialization - Audit](https://assetsprod.microsoft.com/en-us/azure-infra-and-db-specialization-audit-checklist.pdf)| Audit Checklist | Partner Specializations
 [Azure Profitability Infographics](https://msazurepartners.blob.core.windows.net/media/Resources/Misc/AzureProfitability-Infographic_v2.pdf) | Through 14 partner interviews with various Microsoft Azure partners, Forrester concluded that building and scaling a Microsoft Azure practice has the following three-year financial impact. | Forrester
 [Partner Resource Catalog - Well-Architected Framework](https://www.microsoft.com/azure/partners/resources?pr=well-architected-framework) | | Azure
 [Microsoft Assessments](https://learn.microsoft.com/en-us/assessments/) | Microsoft Assessments help customers work through a scenario of questions and recommendations that result in a curated guidance report that is actionable and informative. Assessments take time, but is time well-spent. | Microsoft Learn
@@ -45,7 +47,7 @@ Source | Description | Notes
 [Azure Updates](https://azure.microsoft.com/en-us/updates/)|Get the latest updates on Azure products and features to meet your cloud investment needs. Subscribe to notifications to stay informed.|
 
 
-## Partner Attributes
+## Partner Attribution
 
 Source | Description | Notes
 :----- | :---------- | :-----
@@ -86,6 +88,7 @@ Source | Description | Notes
 [Azure Skills Navigator for Network Engineers](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-skills-navigator-for-network-engineers-/Azure%20Skills%20Navigator-%20Network%20EngineerOct10(learn.microsoft).pdf) | This Azure learning journey is designed for network engineering professionals needing to recommend, plan, and implement Azure networking solutions, including hybrid networking, connectivity, routing, security, and private access to Azure services | Azure Skills Navigator
 [Azure Citadel](https://www.azurecitadel.com/) | Azure Citadel is a community driven site devoted to getting hands on & learning Azure. Explore technical labs & videos across a range of Azure topics. Many labs are pitched towards the needs of the Azure partner community, but are freely available for all.| Azure Citadel
 [WhatTheHack - Infrastructure](https://github.com/microsoft/WhatTheHack#infrastructure) | What The Hack is designed to be a collaborative learning experience. Attendees "learn from" and "share with" each other. Without step-by-step instructions given for the challenges, attendees have to "figure it out" together as a team. This results in greater knowledge retention for the attendees. | WhattheHack
+[Microsoft Partner Resources](https://microsoft.github.io/PartnerResources/) | The Microsoft Partners Resources repository consists of documents, learning resources and other assets designed to aid partners in practice development, upskilling, certifications, and bringing their solutions to market. Brought to you by the Microsoft Americas Global Partner Solutions (GPS) team, empowering partners and driving digital transformation. | GitHub
 
 ## Azure Tools
 
@@ -107,6 +110,13 @@ Source | Description | Notes
 [Azure Well-Architected Review](https://learn.microsoft.com/en-us/assessments/azure-architecture-review) | Examine your workload through the lenses of reliability, cost management, operational excellence, security and performance efficiency.| Microsoft Learn
 [Azure Advisor documentation](https://learn.microsoft.com/en-us/azure/advisor/) | Azure Advisor scans your Azure configuration and recommends changes to optimize deployments, increase security, and save you money. | Microsoft Learn
 [Browse Azure Architectures](https://learn.microsoft.com/en-us/azure/architecture/browse/) | Architecture diagrams and technology descriptions for reference architectures, real world examples of cloud architectures, and solution ideas for common workloads on Azure | Microsoft Learn
+
+## Microsoft Copilot for Azure
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[Simplify IT management with Microsoft Copilot for Azure](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/simplify-it-management-with-microsoft-copilot-for-azure-save/ba-p/3981106) | Microsoft Copilot for Azure, an AI companion, that helps you design, operate, optimize, and troubleshoot your cloud infrastructure and services. Combining the power of cutting-edge large language models (LLMs) with the Azure Resource Model, Copilot for Azure enables rich understanding and management of everything that’s happening in Azure, from the cloud to the edge. | Tech Community
+[Microsoft Copilot for Azure - Preview](https://aka.ms/MSCopilotforAzurePreviewRequest) | Submit this form to register for approval to access and use limited public preview of Microsoft Copilot for Azure.| 
 
 ## Azure Landing Zones (ALZ)
 
@@ -135,30 +145,41 @@ Source | Description | Notes
 [Jumpstart HCIBox](https://azurearcjumpstart.io/azure_jumpstart_hcibox/) | HCIBox is a turnkey solution that provides a complete sandbox for exploring Azure Stack HCI capabilities and hybrid cloud integration in a virtualized environment| Arc Jumpstart
 [Landing zone accelerator](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/hybrid/enterprise-scale-landing-zone) | Introduction to Azure Arc-enabled servers landing zone accelerator for hybrid and multicloud – Cloud Adoption Framework | Microsoft Docs
 
-## HCI
+
+## Workload - Azure Networking 
 
 Source | Description | Notes
 :----- | :---------- | :-----
-[Jumpstart HCIBox](https://azurearcjumpstart.io/azure_jumpstart_hcibox/) | HCIBox is a turnkey solution that provides a complete sandbox for exploring Azure Stack HCI capabilities and hybrid cloud integration in a virtualized environment| Arc Jumpstart
-
-## Azure Security
-
-Source | Description | Notes
-:----- | :---------- | :-----
+[Networking Services in Microsoft Azure specialization - Requirements](https://partner.microsoft.com/en-us/partnership/specialization/networking-services) | Specialization Requirements | Partner Specializations
+[Networking Services in Microsoft Azure specialization - Audit](https://assetsprod.microsoft.com/en-us/networking-services-in-microsoft-azure-audit-checklist.pdf)| Audit Checklist | Partner Specializations
 [Azure Network Security](https://github.com/Azure/Azure-Network-Security) | Deploy Azure NetSec resources programmatically using scripts and templates | GitHub
 [Azure Network Security Ninja Training](https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-network-security-ninja-training/ba-p/2356101) | In this blog post, we will walk you through basic to advanced scenarios for Azure network security. Ready to become an Azure NetSec ninja? Dive right in! | Tech Community 2022
+
+## Workload HCI
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[Hybrid Cloud Infrastructure with Microsoft Azure Stack HCI specialization - Requirements](https://partner.microsoft.com/en-us/partnership/specialization/hybrid-cloud-infrastructure) | Specialization Requirements | Partner Specializations
+[Hybrid Cloud Infrastructure with Microsoft Azure Stack HCI specialization - Audit](https://assetsprod.microsoft.com/en-us/hybrid-cloud-infrastructure-with-microsoft-azure-stack-hci.pdf)| Audit Checklist | Partner Specializations
+[Jumpstart HCIBox](https://azurearcjumpstart.io/azure_jumpstart_hcibox/) | HCIBox is a turnkey solution that provides a complete sandbox for exploring Azure Stack HCI capabilities and hybrid cloud integration in a virtualized environment| Arc Jumpstart
 
 ## Workload - Azure Virtual Desktop (AVD)
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Microsoft Azure Virtual Desktop specialization - Requirements](https://partner.microsoft.com/en-us/partnership/specialization/azure-virtual-desktop) | Specialization Requirements| Partner Specializations
+[Microsoft Azure Virtual Desktop specialization - Audit](https://assetsprod.microsoft.com/en-us/windows-virtual-desktop-checklist.pdf)| Audit Checklist | Partner Specializations
 [Apply Zero Trust principles to an Azure Virtual Desktop deployment](https://learn.microsoft.com/en-ca/security/zero-trust/azure-infrastructure-avd) | This article provides steps to apply the principles of Zero Trust to an Azure Virtual Desktop deployment| Microsoft Learn
 [Use cases for Azure Virtual Desktop Insights](https://learn.microsoft.com/en-us/azure/virtual-desktop/insights-use-cases)| Using Azure Virtual Desktop Insights can help you understand your deployments of Azure Virtual Desktop. It can help with checks such as which client versions are connecting, opportunities for cost saving, or knowing if you have resource limitations or connectivity issues. | Microsoft Learn
+
+
 
 ## Workload - Azure Kubernetes Service (AKS)
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Kubernetes on Microsoft Azure specialization - Requirements](https://partner.microsoft.com/en-us/partnership/specialization/kubernetes) | Specialization Requirements| Partner Specializations
+[Kubernetes on Microsoft Azure specialization - Audit](https://assetsprod.microsoft.com/en-us/audit-checklist-for-kubernetes.pdf)| Audit Checklist | Partner Specializations
 [AKS cluster with Azure Managed Prometheus and Azure Managed Grafana](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-to-create-an-aks-cluster-with-azure-managed-prometheus-and/ba-p/3918527)| This article shows how to deploy an Azure Kubernetes Service(AKS) cluster, Azure Monitor managed service for Prometheus, and Azure Managed Grafana for monitoring the performance and health status of the cluster and workloads. | Tech Community
 [AKS Construction Set](https://github.com/Azure/AKS-Construction) | AKS Construction dramatically accelerates this work by providing the templates and deployment scripts to quickly create a fully configured, Kubernetes environment, tailored to meet your operational and security needs, ready to run your workloads in production. | GitHub
 [Baseline architecture for an Azure Kubernetes Service (AKS) cluster](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/baseline-aks) | This reference architecture provides a recommended baseline infrastructure architecture to deploy an Azure Kubernetes Service (AKS) cluster on Azure. | Microsoft Learn
@@ -166,6 +187,7 @@ Source | Description | Notes
 [CI/CD for AKS apps with Azure Pipelines](https://learn.microsoft.com/en-us/azure/architecture/guide/aks/aks-cicd-azure-pipelines) | Use Azure Pipelines to deploy AKS applications | Microsoft Learn
 [CI/CD for AKS apps with GitHub Actions and GitFlow](https://learn.microsoft.com/en-us/azure/architecture/guide/aks/aks-cicd-github-actions-and-gitops) | The example scenario in this article is applicable to businesses that want to modernize end-to-end application development by using containers, continuous integration (CI) for build, and GitOps for continuous deployment (CD). | Microsoft Learn
 [GitOps for Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/gitops-aks/gitops-blueprint-aks) | GitOps is a set of principles for operating and managing a software system. This article describes techniques for using GitOps principles to operate and manage an Azure Kubernetes Services (AKS) cluster.| Microsoft Learn
+[Triage practices for AKS operations](https://learn.microsoft.com/en-us/azure/architecture/operator-guides/aks/aks-triage-practices) | Series of articles about triage practices, which describes the top-down approaches to addressing cluster health, node/pod health, workload deployments, adminssion controllers, and container registry connectivity | Microsoft Learn
 
 
 ## Workload - Azure RedHat OpenShift (ARO)
@@ -178,6 +200,8 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[SAP on Microsoft Azure specialization - Requirements](https://partner.microsoft.com/en-us/partnership/specialization/sap-on-microsoft-azure) | Specialization Requirements| Partner Specializations
+[SAP on Microsoft Azure specialization- Audit](https://assetsprod.microsoft.com/en-us/sap-on-microsoft-azure-advanced-specialization-audit-checklist.pdf)| Audit Checklist | Partner Specializations
 [SAP on Microsoft Azure Partner Forum](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3cJywzl5fZLnWbpWAR5cJZUNkVEVFZGUEExTUFLRkxUODUzQjE2NUxYUC4u) | Our goal with this forum is to help accelerate our partners’ Azure SAP practices by providing a venue for direct engagement with Microsoft product and business teams. | PArtner Forum
 [WhatTheHack - SAP on Azure](https://github.com/microsoft/WhatTheHack#sap-on-azure) | What The Hack is designed to be a collaborative learning experience. Attendees "learn from" and "share with" each other. Without step-by-step instructions given for the challenges, attendees have to "figure it out" together as a team. This results in greater knowledge retention for the attendees. | WhattheHack
 [SAP on Azure Deployment Automation Framework](https://learn.microsoft.com/en-us/azure/sap/automation/deployment-framework) | The SAP on Azure Deployment Automation Framework is an open-source orchestration tool for deploying, installing and maintaining SAP environments. You can create infrastructure for SAP landscapes based on SAP HANA and NetWeaver with AnyDB using Terraform, and Ansible for the operating system and application configuration. The systems can be deployed on any of the SAP-supported operating system versions and deployed into any Azure region.| Microsoft Learn
@@ -197,6 +221,7 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :---------- | :-----
 [Oracle Database@Azure](https://www.oracle.com/cloud/azure/oracle-database-at-azure/) | Oracle and Microsoft expand partnership to deliver Oracle database services on Oracle Cloud Infrastructure in Microsoft Azure | Oracle
+[Oracle Database@Azure FAQ](https://www.oracle.com/cloud/azure/oracle-database-at-azure/faq/) | Oracle Database@Azure FAQ| Oracle
 [Migration and modernization for Oracle workloads](https://azure.microsoft.com/en-us/solutions/oracle/) | With this new offering, Azure is the only cloud provider other than Oracle Cloud Infrastructure to host Oracle services, including Oracle Exadata Database Service and Oracle Autonomous Database on Oracle Cloud Infrastructure in Azure datacenters. |Azure
 [Oracle workload best practices](https://learn.microsoft.com/en-ca/azure/well-architected/oracle-iaas/overview) | The section about Oracle workloads on Azure provides guidance that applies the Azure Well-Architected best practices as the technical foundation for building and operating a highly reliable solution on Azure at-scale.| Microsoft Learn
 [Moving Workloads from Oracle Exadata to Azure: Top 5 Considerations](https://silk.us/resources/moving-workloads-from-oracle-exadata-to-azure-top-5-considerations/?utm_content=257726625&utm_medium=social&utm_source=linkedin&hss_channel=lcp-56412686) | This eBook looks at 5 considerations when moving workloads from Oracle Exadata to Azure.| Silk
@@ -208,6 +233,8 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Microsoft Azure VMware Solution specialization - Requirements](https://partner.microsoft.com/en-us/partnership/specialization/microsoft-azure-vmware-solution) | Specialization Requirements| Partner Specializations
+[Microsoft Azure VMware Solution specialization- Audit](https://assetsprod.microsoft.com/mpn/en-us/microsoft-azure-vmware-solution-audit-checklist.pdf)| Audit Checklist | Partner Specializations
 [AVS Hub](https://www.avshub.io/) | a collection of resources for the AVS community | AVS Hub
 [AVS Documentation (official)](https://aka.ms/AVSDocs)| Learn how to use Azure VMware Solution to deploy a VMware Software-Defined Data Center (SDDC) private cloud to Azure. | Microsoft Learn
 [AVS Partner Learning Path (official)](https://aka.ms/AVSLearningPath)| Learn how Azure VMware Solution supports enterprise customers in their transition to the cloud. Evaluate key features and differentiators. Examine the use cases and customer stories. Understand the support structure and options. | Microsoft Learn

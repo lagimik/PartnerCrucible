@@ -603,7 +603,7 @@ Date | Change | File
 :--- | :----- | ---:
 2022-10-14 | added teams references | [See changes here](./ModernWorkSolutionArea)
 2022-10-13 | added Arc Jumpboxes announced at Ignite 2022 | [See changes here](./AzureInfrastructureSolutionArea)
-2022-10-12 | updated partner support with MCPP references | [See changes here](./PartnerSupport)
+2022-10-12 | updated partner support with Microsoft AI Cloud Partner Program references | [See changes here](./PartnerSupport)
 2022-10-09 | regrouped the industry references | [See changes here](./IndustryCanadianPublicSector)
 2022-10-09 | added FarmVibes references for farming | [See changes here](./IndustryCloud)
 2022-10-09 | added Scalable management of virtualized RAN with Kubernetes | [See changes here](./AzureInfrastructureSolutionArea-5G)

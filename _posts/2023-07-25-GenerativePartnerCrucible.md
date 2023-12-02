@@ -108,7 +108,7 @@ The Partner Crucible updates for the Business Applications solution area include
 
 ## Deep Links
 - [Business Applications Playbook](https://assetsprod.microsoft.com/en-ca/fy24-business-applications-partner-playbook.pdf): This link provides access to the Business Applications Playbook, which outlines Microsoft's GTM strategy, solution plays, partner priorities, and key resources for the fiscal year 2024.
-- [Microsoft Dynamics 365 Partner portal](https://dynamicspartners.transform.microsoft.com): This link will take you to the Partner Transform Portal for Business Apps, which is accessible based on MCPP membership and competencies or solution partner standing. It provides various resources and tools for partners.
+- [Microsoft Dynamics 365 Partner portal](https://dynamicspartners.transform.microsoft.com): This link will take you to the Partner Transform Portal for Business Apps, which is accessible based on Microsoft AI Cloud Partner Program membership and competencies or solution partner standing. It provides various resources and tools for partners.
 - [Pre-Commit Business Applications Partner Activities](https://dynamicspartners.transform.microsoft.com/download/protected?assetname=protectedassets/FY24%2520Pre-Commit%2520Bus%2520Apps%2520Partner%2520Activities%2520Program%2520Guide%2520and%2520Overview.pptx&download=1&protected=1): This link offers a detailed program guide and overview of the Partner-led Business Applications incentives program for the fiscal year 2024. It provides information on partner activities and incentives in the Business Applications solution area.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/BusinessApplicationsSolutionArea) for more partner resources.
