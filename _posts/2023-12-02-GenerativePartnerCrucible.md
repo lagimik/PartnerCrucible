@@ -6,6 +6,20 @@ layout: generativepartnercrucible
 thumbnail: /PartnerCrucible/assets/images/2023-12-02-AzureInfrastructureSolutionArea.md-image.png
 ---
 
+![ IndustrySustainability.md ]( /PartnerCrucible/assets/images/2023-12-02-TheChangelog.md-image.png )
+
+# Industry - Sustainability
+
+## What's new
+
+- IDC MarketScape: Microsoft rated as Leader
+
+## Deep Links
+
+- [IDC MarketScape: Worldwide Environmental, Social, and Governance Program Management Software 2023 Vendor Assessment](https://www.linkedin.com/posts/shellyblackburn_microsoft-sustainability-aiforgood-activity-7116155969365053440-Ek1Y?utm_source=share&utm_medium=member_desktop): Microsoft was rated a Leader in reporting technology in the IDC MarketScape - Worldwide Corporate Environmental, Social, and Governance Reporting Technology 2023 Vendor Assessment. @Shelly Blackburn (IDC MarketScape)
+
+
+Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/IndustrySustainability) for more partner resources.
 
 
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2023-12-02-AzureInfrastructureSolutionArea.md-image.png )
@@ -29,7 +43,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
  
 ![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2023-12-02-DataAISolutionArea-AzureOpenAI.md-image.png )
 
-## Data AI Solution Area
+# Data AI Solution Area
 
 ## What's new
 
