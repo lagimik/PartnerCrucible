@@ -43,6 +43,7 @@ Source | Description | Notes
 [My Faber Security](https://myfabersecurity.com/) | Security, Compliance, and Identity blogs, focusing on Microsoft Security offerings. | from @AngelicaFaber
 [Rod's Blog](https://rodtrent.substack.com/) | Microsoft Security and AI with lots of Microsoft Sentinel Sprinkled in. This is not an official Microsoft blog. | Blog
 [Must Learn AI Security](https://aka.ms/MustLearnAISecurity) | This is the book version of the Must Learn AI Security series. It will be updated each time a new part of the series is released. | GitHub
+[Cybersecurity Copilot hub](https://cybersecurity-copilot.com/) | By @Sameh Younis - As a seasoned Senior Security Solutions Architect with over 30 years in the field, including 16 years at Microsoft, this website offers a succinct way to access and search my LinkedIn articles and infographics. With a focus on cybersecurity and Azure cloud infrastructure, this platform is your guide to the latest developments and strategies in digital security. | 
 
 ## Partner Practice Building
 
