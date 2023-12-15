@@ -79,6 +79,7 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :-----  | :-----
 [M365 Lighthouse](https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/microsoft-365-lighthouse-helps-you-secure-and-improve-the-health/ba-p/3818774) | Microsoft 365 Lighthouse makes it easier than ever for Managed Service Providers (MSPs) to deliver services to small- and medium-sized customers at scale, with multi-tenant management capabilities that help secure users, devices, apps, and data across customer tenants. | Tech Community
+[Microsoft 365 Lighthouse - User metrics](https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/manage-users-across-all-your-tenants-using-microsoft-365/ba-p/4000549) | New User metrics report helps  Managed Service Provider (MSP) managing multiple customer tenants more easily and efficiently | Tech Community
 
 
 ## Hybrid
