@@ -81,6 +81,11 @@ Source | Description | Notes
 [Demystifying Service Provider's Access Methods](https://info.microsoft.com/CA-NoGEP-VDEO-FY23-01Jan-19-Demystifying-Service-Providers-Access-Methods-SRDEM133344_LP02-Thank-You---Standard-Hero.html) | Recommended practices for service providers | Webinar
 [Conditional Access gap analyzer workbook](https://learn.microsoft.com/en-us/azure/active-directory/reports-monitoring/workbook-conditional-access-gap-analyzer) | With the Conditional Access gap analyzer workbook, you can detect gaps in your Conditional Access implementation. | Microsoft Learn
 
+## XDR
+
+Source | Description | Notes
+:----- | :---------- | :----
+[Microsoft Defender XDR Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/bg-p/MicrosoftThreatProtectionBlog) |  Includes monthly news summaries and operations insights across the Microsoft Defender Products | Microsoft
 
 ## Zero Trust
 
