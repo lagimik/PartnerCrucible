@@ -38,8 +38,9 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 # Azure Infrastructure Solution Area
 
-## What's new- Microsoft recognized as a Leader in the 2023 Gartner Magic Quadrant for Strategic Cloud Platform Services (SCPS)
+## What's new
 
+- Microsoft recognized as a Leader in the 2023 Gartner Magic Quadrant for Strategic Cloud Platform Services (SCPS)
 - Microsoft named as a Leader in the Gartner Magic Quadrant for Desktop as a Service
  
 ## Deep links
