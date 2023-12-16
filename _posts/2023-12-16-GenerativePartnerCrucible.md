@@ -1,0 +1,27 @@
+---
+title: 'Generative Partner Crucible - for the week ending 2023-12-16'
+date: 2023-12-16
+flag: GenerativePartnerCrucible
+layout: generativepartnercrucible
+thumbnail: /PartnerCrucible/assets/images/2023-12-16-PowerPlatformSolutionArea.md-image.png
+---
+![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2023-12-16-AzureInfrastructureSolutionArea.md-image.png )
+# Azure Infrastructure Solution Area## What's new- General availability of Microsoft Cloud for Sovereignty across all Azure regions. Microsoft Cloud for Sovereignty helps governments meet their compliance, security, and policy requirements while utilizing the cloud to provide superior value to their citizens.- Updated Checklists for LZ, AKS, AVS, Multitenancy, Security, AVS, and SAP now includes Azure Spring Apps, Azure DevOps, and Azure SQL Migration.## Deep links- [Microsoft Cloud for Sovereignty now generally available, opening new pathways for government innovation](https://blogs.microsoft.com/blog/2023/12/14/microsoft-cloud-for-sovereignty-now-generally-available-opening-new-pathways-for-government-innovation/): General availability of Microsoft Cloud for Sovereignty across all Azure regions. Microsoft Cloud for Sovereignty helps governments meet their compliance, security, and policy requirements while utilizing the cloud to provide superior value to their citizens.- [Azure Design Review](https://github.com/Azure/review-checklists): A common request of many organisations, starting with the public cloud, is to have their design double-checked to make sure that best practices are being followed. The scope of this exercise could vary, from generic Azure landing zones to workload-specific deployments. Updated Checklists for LZ, AKS, AVS, Multitenancy, Security, AVS, and SAP now includes Azure Spring Apps, Azure DevOps, and Azure SQL Migration.
+
+Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/AzureInfrastructureSolutionArea) for more partner resources.
+
+![ IndustryCanadianPublicSector.md ]( /PartnerCrucible/assets/images/2023-12-16-IndustryCanadianPublicSector.md-image.png )
+# Partner Crucible Updates## Microsoft Cloud for SovereigntySummary sentence of changes: Microsoft Cloud for Sovereignty is now generally available, offering new pathways for government innovation. It helps governments meet their compliance, security, and policy requirements while leveraging the cloud to provide value to their citizens.## Deep links- [Microsoft Cloud for Sovereignty now generally available, opening new pathways for government innovation](https://blogs.microsoft.com/blog/2023/12/14/microsoft-cloud-for-sovereignty-now-generally-available-opening-new-pathways-for-government-innovation/): General availability of Microsoft Cloud for Sovereignty across all Azure regions. It helps governments meet their compliance, security, and policy requirements while utilizing the cloud to provide superior value to their citizens.
+
+Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/IndustryCanadianPublicSector) for more partner resources.
+
+![ ModernWorkSolutionArea.md ]( /PartnerCrucible/assets/images/2023-12-16-ModernWorkSolutionArea.md-image.png )
+# Modern Work Solution Area## What's new- Added Microsoft 365 Lighthouse - User metrics, which provides a new User metrics report to help Managed Service Providers (MSP) manage multiple customer tenants more easily and efficiently.## Deep links- [Microsoft 365 Lighthouse - User metrics](https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/manage-users-across-all-your-tenants-using-microsoft-365/ba-p/4000549): This link provides information about the new User metrics report and how it can benefit Managed Service Providers (MSP) in managing multiple customer tenants efficiently.
+
+Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/ModernWorkSolutionArea) for more partner resources.
+
+![ SecuritySolutionArea.md ]( /PartnerCrucible/assets/images/2023-12-16-SecuritySolutionArea.md-image.png )
+# Security Solution Area## What's newA Microsoft Defender XDR Blog has been added. It includes monthly news summaries and operations insights across the Microsoft Defender Products.## Deep links- [Microsoft Defender XDR Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/bg-p/MicrosoftThreatProtectionBlog): Includes monthly news summaries and operations insights across the Microsoft Defender Products. (Microsoft)- [Navigating the Maze of Incident Response](https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-brand/documents/Navigating-the-Maze-of-Incident-Response.pdf): This guide explains how to structure an incident response, with recommendations and best practices to help navigate those crucial initial hours after a breach is detected. This document focuses first and foremost on the people and processes involved in effectively responding to an incident—the roles required to respond to incidents, how to manage your response in way that is efficient and people-centric, how to avoid burnout and ensure all requirements and obligations are met at every level, and how to ensure everyone’s roles and responsibilities are clear, so the incident response is effective overall. (Microsoft Security)
+
+Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/SecuritySolutionArea) for more partner resources.
+
