@@ -28,6 +28,7 @@ Source | Description | Notes
 [Enterprise DevOps Report](https://clouddamcdnprodep.azureedge.net/gdc/gdcR61DoH/original) | n April of 2020, McKinsey, looking to find tangible ways to evaluate how key business metrics were improved through software development innovation, created the concept of the Developer Velocity Index (DVI)| 2021 Microsoft
 [Microsoft named a Leader in the 2022 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2022-gartner-magic-quadrant-for-industrial-iot-platforms/) | As industrial Internet of Things (IoT) matures and transforms critical business functions, Microsoft continues to innovate and invest in this area and engage with a large ecosystem of solution partners.| Gartner
 [Open at Microsoft](https://learn.microsoft.com/en-ca/shows/open-at-microsoft/) | Open at Microsoft is a weekly show for open-source enthusiasts. It features a diverse group of guests including maintainers, software and DevOps engineers, and community members who come together to share their insights on an open-source project. Each episode focuses on one collaborative goal of the project, such as a new feature, release, or call for user feedback, and provides information on how to contribute to the project. | Open at Microsoft
+[Cloud Native Computing Foundation](https://www.cncf.io/) | As part of the Linux Foundation, we provide support, oversight and direction for fast-growing, cloud native projects, including Kubernetes, Envoy, and Prometheus. | CNCF
 
 ## Practice Building
 
