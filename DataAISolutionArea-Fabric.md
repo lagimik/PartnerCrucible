@@ -31,6 +31,7 @@ Source | Description | Notes
 [Unlocking Transformative Data Value with Microsoft Fabric](https://info.microsoft.com/ww-landing-unlocking-transformative-data-value-with-microsoft-fabric.html) | ebook - Learn why accessing and managing real-time data in the cloud is key to long-term business success—and see how to get started with a modern analytics solution. | Microsoft
 [Microsoft Fabric licenses](https://lnkd.in/dJZiSA2N)| A Microsoft Fabric subscription consists of tenants, capacities, and workspaces and can be organized in various ways according to your organizational needs | Microsoft Learn
 [Microsoft Fabric Guided Tour](https://guidedtour.microsoft.com/en-us/guidedtour/microsoft-fabric/microsoft-fabric/1/1) | Guided tour for Microsoft Fabric | Microsoft Guided Tour
+[Fabric Notes](https://microsoft.github.io/fabricnotes/)| Simple drawings illustrating the main concepts of Microsoft Fabric to empower anyone to build stuff on Fabric. | GitHub
 
 ## Architecture and best practices
 
