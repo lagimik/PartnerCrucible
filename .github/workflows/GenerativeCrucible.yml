@@ -130,7 +130,7 @@ jobs:
         env:
           FILENAME: ${{ matrix.changes.file}}-changelog.md
         run: |
-          echo "prompt=an abstract modern urban landscape, without letters or words, inspired by the sentence - `head -c 64 $FILENAME | tr '\n' ' ' | tr '#' '' `" >> $GITHUB_OUTPUT
+          echo "prompt=an abstract modern urban landscape, without letters or words, inspired by the sentence - `head -c 64 $FILENAME | tr '\n' ' ' | tr -c '[:alnum:]' ' ' `" >> $GITHUB_OUTPUT
 
       - name: Generate Image
         id: generate-image
