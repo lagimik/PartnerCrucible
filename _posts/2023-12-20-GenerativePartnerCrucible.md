@@ -6,47 +6,82 @@ layout: generativepartnercrucible
 thumbnail: /PartnerCrucible/assets/images/2023-12-20-PowerPlatformSolutionArea.md-image.png
 ---
 
-# Azure Infrastructure Solution Area## What's new- Microsoft Cloud for Sovereignty now generally available, opening new pathways for government innovation. This enables governments to meet compliance, security, and policy requirements while utilizing the cloud to provide superior value to their citizens.## Deep links- [Microsoft Cloud for Sovereignty now generally available, opening new pathways for government innovation](https://blogs.microsoft.com/blog/2023/12/14/microsoft-cloud-for-sovereignty-now-generally-available-opening-new-pathways-for-government-innovation/): General availability of Microsoft Cloud for Sovereignty across all Azure regions. - [Azure Design Review](https://github.com/Azure/review-checklists): A common request of many organizations is to have their design double-checked to ensure best practices are followed. Updated checklists now include Azure Spring Apps, Azure DevOps, and Azure SQL Migration.
+# Data AI Solution Area
 
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/AzureInfrastructureSolutionArea) for more partner resources.
+## What's new
 
+- IDC MarketScape Worldwide AI Governance Platforms 2023 Vendor Assessment
+  
+## 
 
-# Data AI Solution Area## What's new- Added Information Assistant Accelerator, an industry accelerator showcasing integration between Azure and OpenAI's large language models. It leverages Azure AI Search for data retrieval and ChatGPT-style Q&A interactions. Using the Retrieval Augmented Generation (RAG) design pattern with Azure Open AI's GPT models, it provides a natural language interaction to discover relevant responses to user queries. Azure AI Search simplifies data ingestion, transformation, indexing, and multilingual translation.## Deep links- [Information Assistant Accelerator](https://github.com/microsoft/PubSec-Info-Assistant): This industry accelerator showcases integration between Azure and OpenAI's large language models. It leverages Azure AI Search for data retrieval and ChatGPT-style Q&A interactions. Using the Retrieval Augmented Generation (RAG) design pattern with Azure Open AI's GPT models, it provides a natural language interaction to discover relevant responses to user queries. Azure AI Search simplifies data ingestion, transformation, indexing, and multilingual translation. (GitHub)- [Learning About Generative AI](https://www.youtube.com/watch?v=Ch6KE7KxHGM): @John Savill explores the Generative AI concepts and services. (YouTube)
+Deep links
+
+- [IDC MarketScape for AI Governance Platforms](https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-2023-idc-marketscape-for-ai-governance-platforms/): Microsoft is recognized as a Leader in the inaugural IDC MarketScape Worldwide AI Governance Platforms 2023 Vendor Assessment. The study represents a vendor assessment of the 2023 AI governance platform market through the IDC MarketScape model. The IDC MarketScape looked at AI governance platforms that ensure AI and machine learning lifecycle governance, collaborative risk management, and regulatory excellence for AI across five key principles: fairness, explainability, adversarial robustness, lineage, and transparency.
+
+Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea) for more partner resources.
+
+# Data AI Solution Area - Fabric
+
+## What's new
+
+- Added Fabric Notes
+
+## Deep links
+
+- [Fabric Notes](https://microsoft.github.io/fabricnotes/): Simple drawings illustrating the main concepts of Microsoft Fabric to empower anyone to build stuff on Fabric. (GitHub)
+
+Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-Fabric) for more partner resources.
+
+# Data AI Solution Area - Azure OpenAI
+
+## What's new
+
+- Added Information Assistant Accelerator
+ 
+## Deep links
+
+- [Information Assistant Accelerator](https://github.com/microsoft/PubSec-Info-Assistant): This industry accelerator showcases integration between Azure and OpenAI's large language models. It leverages Azure AI Search for data retrieval and ChatGPT-style Q&A interactions. Using the Retrieval Augmented Generation (RAG) design pattern with Azure Open AI's GPT models, it provides a natural language interaction to discover relevant responses to user queries. Azure AI Search simplifies data ingestion, transformation, indexing, and multilingual translation. (GitHub)- [Learning About Generative AI](https://www.youtube.com/watch?v=Ch6KE7KxHGM): @John Savill explores the Generative AI concepts and services. (YouTube)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-AzureOpenAI) for more partner resources.
 
 
-# Data AI Solution Area## What's newAdded [Fabric Notes](https://microsoft.github.io/fabricnotes/): Simple drawings illustrating the main concepts of Microsoft Fabric to empower anyone to build stuff on Fabric. ## Deep links- [Fabric Notes](https://microsoft.github.io/fabricnotes/): Simple drawings illustrating the main concepts of Microsoft Fabric to empower anyone to build stuff on Fabric. (GitHub)
+# Digital Apps and Innovation Solution Area
 
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-Fabric) for more partner resources.
+## What's new
 
+- Added [Cloud Native Computing Foundation](https://www.cncf.io/)
+- Added Radius
+ 
+## Deep links
 
-## Data AI Solution Area## What's newMicrosoft is recognized as a Leader in the inaugural IDC MarketScape Worldwide AI Governance Platforms 2023 Vendor Assessment. The study represents a vendor assessment of the 2023 AI governance platform market through the IDC MarketScape model. The IDC MarketScape looked at AI governance platforms that ensure AI and machine learning lifecycle governance, collaborative risk management, and regulatory excellence for AI across five key principles: fairness, explainability, adversarial robustness, lineage, and transparency.## Deep links- [IDC MarketScape for AI Governance Platforms](https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-2023-idc-marketscape-for-ai-governance-platforms/): Microsoft is recognized as a Leader in the inaugural IDC MarketScape Worldwide AI Governance Platforms 2023 Vendor Assessment. The study represents a vendor assessment of the 2023 AI governance platform market through the IDC MarketScape model. The IDC MarketScape looked at AI governance platforms that ensure AI and machine learning lifecycle governance, collaborative risk management, and regulatory excellence for AI across five key principles: fairness, explainability, adversarial robustness, lineage, and transparency.
-
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea) for more partner resources.
-
-
-# Digital Apps and Innovation Solution Area## What's new- Added [Cloud Native Computing Foundation](https://www.cncf.io/): As part of the Linux Foundation, Microsoft provides support, oversight, and direction for fast-growing, cloud-native projects, including Kubernetes, Envoy, and Prometheus.## Deep links- [Cloud Native Computing Foundation](https://www.cncf.io/): As part of the Linux Foundation, Microsoft provides support, oversight, and direction for fast-growing, cloud-native projects, including Kubernetes, Envoy, and Prometheus. (CNCF)---# Digital Apps and Innovation Solution Area## What's new- Added [Microsoft Entra | Security Service Edge solutions](https://www.youtube.com/watch?v=gaG77PiYv5w): The Microsoft Azure Incubations team is excited to announce Radius, a cloud-native application platform that enables developers and the platform engineers who support them to collaborate on delivering and managing cloud-native applications that follow corporate best practices for cost, operations, and security by default. Radius is an open-source project that supports deploying applications across private cloud, Microsoft Azure, and Amazon Web Services, with more cloud providers to come.- Added [Microsoft.Crank](https://github.com/dotnet/crank): Crank is the benchmarking infrastructure used by the .NET team to run benchmarks including (but not limited to) scenarios from the TechEmpower Web Framework Benchmarks. One of the goals of this system is to give developers a tool that lets them work on performance and measure potential improvements very easily.## Deep links- [Microsoft Entra | Security Service Edge solutions](https://www.youtube.com/watch?v=gaG77PiYv5w): The Microsoft Azure Incubations team is excited to announce Radius, a cloud-native application platform that enables developers and the platform engineers who support them to collaborate on delivering and managing cloud-native applications that follow corporate best practices for cost, operations, and security by default. Radius is an open-source project that supports deploying applications across private cloud, Microsoft Azure, and Amazon Web Services, with more cloud providers to come. (Microsoft Ignite)- [Microsoft.Crank](https://github.com/dotnet/crank): Crank is the benchmarking infrastructure used by the .NET team to run benchmarks including (but not limited to) scenarios from the TechEmpower Web Framework Benchmarks. One of the goals of this system is to give developers a tool that lets them work on performance and measure potential improvements very easily. (GitHub)
+- [Cloud Native Computing Foundation](https://www.cncf.io/): As part of the Linux Foundation, Microsoft provides support, oversight, and direction for fast-growing, cloud-native projects, including Kubernetes, Envoy, and Prometheus. (CNCF)
+- [Radius: a new open-source application platform for the cloud](https://www.youtube.com/watch?v=gaG77PiYv5w): The Microsoft Azure Incubations team is excited to announce Radius, a cloud-native application platform that enables developers and the platform engineers who support them to collaborate on delivering and managing cloud-native applications that follow corporate best practices for cost, operations, and security by default. Radius is an open-source project that supports deploying applications across private cloud, Microsoft Azure, and Amazon Web Services, with more cloud providers to come.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DigitalAppsandInnovationSolutionArea) for more partner resources.
 
 
-# Partner Crucible Updates - Build Your Technical Practice## Microsoft Cloud for Sovereignty### What's NewMicrosoft Cloud for Sovereignty is now generally available, providing governments with new pathways for innovation. This offering helps governments meet their compliance, security, and policy requirements while utilizing the cloud to deliver value to their citizens.### Deep links- [Microsoft Cloud for Sovereignty now generally available, opening new pathways for government innovation](https://blogs.microsoft.com/blog/2023/12/14/microsoft-cloud-for-sovereignty-now-generally-available-opening-new-pathways-for-government-innovation/): General availability of Microsoft Cloud for Sovereignty across all Azure regions. Microsoft Cloud for Sovereignty helps governments meet their compliance, security, and policy requirements while utilizing the cloud to provide superior value to their citizens.Note: These updates are aimed at helping Microsoft Partners in building their technical practice.
+# Power Platform Solution Area
 
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/IndustryCanadianPublicSector) for more partner resources.
+## What's new-
 
+- AI Builder: Added a Prompt engineering guide
 
-# Modern Work Solution Area## What's new- **Microsoft 365 Lighthouse - User metrics**: New User metrics report helps Managed Service Providers (MSP) managing multiple customer tenants more easily and efficiently.## Deep links- [Microsoft 365 Lighthouse - User metrics](https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/manage-users-across-all-your-tenants-using-microsoft-365/ba-p/4000549): This link provides a detailed description of the new User metrics report in Microsoft 365 Lighthouse, which helps MSPs manage multiple customer tenants more easily and efficiently.
+## Deep links
 
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/ModernWorkSolutionArea) for more partner resources.
-
-
-# Power Platform Solution Area## What's new- AI Builder: Added a Prompt engineering guide which explains the use of prompts in Power Platform.- Deep dive into Power BI Desktop Developer Mode (Preview): Provides Pro BI developer experiences in Power BI Desktop.## Deep links- [AI Builder - Prompt Builder](https://go.microsoft.com/fwlink/?linkid=2255775): A guide for using prompts in Power Platform.- [Prompt Builder](https://aka.ms/tryprompts): Enables the creation of custom AI functions using Power Fx.- [Deep dive into Power BI Desktop Developer Mode (Preview)](https://powerbi.microsoft.com/en-us/blog/deep-dive-into-power-bi-desktop-developer-mode-preview/): Introduces the Developer Mode in Power BI Desktop with enhanced Pro BI developer experiences.
+- [AI Builder - Prompt Builder](https://go.microsoft.com/fwlink/?linkid=2255775): A guide for using prompts in Power Platform.
+- [Prompt Builder](https://aka.ms/tryprompts): Enables the creation of custom AI functions using Power Fx.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/PowerPlatformSolutionArea) for more partner resources.
 
 
-## Security Solution Area### What's new- Added Microsoft Entra | Security Service Edge solutions: A YouTube playlist that includes Microsoft Entra Internet and Private Access videos from Microsoft Mechanics.### Deep links- [Microsoft Entra | Security Service Edge solutions](https://www.youtube.com/playlist?list=PLXtHYVsvn_b8E_gEstbJKA_D1a8gocIhu): YouTube Playlist - Includes Microsoft Entra Internet and Private Access videos| Microsoft Mechanics.### Source- [Microsoft Defender XDR Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/bg-p/MicrosoftThreatProtectionBlog): Includes monthly news summaries and operations insights across the Microsoft Defender Products | Microsoft.### Source- [Navigating the Maze of Incident Response](https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-brand/documents/Navigating-the-Maze-of-Incident-Response.pdf): This guide explains how to structure an incident response, with recommendations and best practices to help navigate those crucial initial hours after a breach is detected. This document focuses first and foremost on the people and processes involved in effectively responding to an incident—the roles required to respond to incidents, how to manage your response in way that is efficient and people-centric, how to avoid burnout and ensure all requirements and obligations are met at every level, and how to ensure everyone’s roles and responsibilities are clear, so the incident response is effective overall| Microsoft Security.
+# Security Solution Area
 
+## What's new
+
+- Added Microsoft Entra | Security Service Edge solutions
+ 
+## Deep links
+
+- [Microsoft Entra | Security Service Edge solutions](https://www.youtube.com/playlist?list=PLXtHYVsvn_b8E_gEstbJKA_D1a8gocIhu): YouTube Playlist - Includes Microsoft Entra Internet and Private Access videos| Microsoft Mechanics.
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/SecuritySolutionArea) for more partner resources.
 
