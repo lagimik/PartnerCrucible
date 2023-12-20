@@ -136,6 +136,12 @@ Source | Description | Notes
 [Power Platform Process Mining: Enriching partner opportunities](https://powerplatformpartners.transform.microsoft.com/blogs/powerplatform/powerplatformprocessmining) | Power Automate Process Mining presents a significant opportunity for partners to broaden their Power Platform practices, leveraging current skillsets with intelligent automation and low code and building new services and solutions for data-driven process insights. | Blog
 [Power Automate Process Mining : Partner Started Guide](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fpbapstorageprod.blob.core.windows.net%2Fprotectedassets%2FPower%2520Automate%2520Process%2520Mining%2520-%2520Partner%2520Starter%2520Guide.pptx%3Fsv%3D2019-07-07%26sr%3Db%26sig%3DG7TJGDNhAmhtSVw0TmeLLRIuGhCEIfK%252BPOiKzGqzQIw%253D%26se%3D2023-08-05T13%253A54%253A28Z%26sp%3Dr&wdOrigin=BROWSELINK) | This comprehensive Partner Starter Guide is designed to equip you with the resources and tools you need to successfully adopt, sell, and deliver Power Automate Process Mining. | Transform
 
+## AI Builder
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[AI Builder - Prompt Builder](https://go.microsoft.com/fwlink/?linkid=2255775) | A Prompt engineering guide: Prompts are fundamental artifacts in Power Platform. Think of them as custom AI functions and can be invoked via Power Fx across the platform.   | Power Platform
+[Prompt Builder](https://aka.ms/tryprompts) | | Power Platform
 
 ## Power Virtual Agents (PVA)
 
