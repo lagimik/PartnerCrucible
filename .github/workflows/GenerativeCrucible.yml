@@ -124,6 +124,15 @@ jobs:
           echo "Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/${FILENAME%.md}) for more partner resources." >> $MARKDOWN_FILENAME
           echo "" >> $MARKDOWN_FILENAME
 
+      - name: Upload markdown artifact
+        id:  upload-markdown-artifact
+        if: ${{ (matrix.changes.change != null)  }}
+        uses: actions/upload-artifact@v3
+        with:
+          name: completion-segments
+          path: |
+            ./*.md
+    
 
       - name: Create Image Prompt
         id: create-image-prompt
@@ -132,6 +141,11 @@ jobs:
         run: |
           echo "prompt=an abstract modern urban landscape, without letters or words, inspired by the sentence - `head -c 64 $FILENAME | tr '\n' ' ' | tr -c '[:alnum:]' ' ' `" >> $GITHUB_OUTPUT
 
+      - name: Wait for a random amount of time
+        uses: m3y/random-wait-action@v1
+        with:
+          max-wait-time: 45
+        
       - name: Generate Image
         id: generate-image
         uses: austenstone/openai-image-generation@main
@@ -162,14 +176,13 @@ jobs:
           new-resolution: '200x200' # This is Required field
           output-folder: "assets/images" # This is Required field & this folder will be used to store resized images
 
-      - name: Upload artifact
-        id:  upload-artifact
+      - name: Upload image artifact
+        id:  upload-image-artifact
         if: ${{ (matrix.changes.change != null)  }}
         uses: actions/upload-artifact@v3
         with:
           name: completion-segments
           path: |
-            ./*.md
             ./assets/images/*.png
 
   newsletter:
