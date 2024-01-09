@@ -31,6 +31,7 @@ Source | Description | Notes
 [Microsoft Reactor](https://www.youtube.com/c/MicrosoftReactor1)| Our Microsoft Reactor community is here with workshops and events aimed at expanding your skills across a range of technologies and topics. | YouTube Channel
 [Microsoft SaaS Day for Startups](https://info.microsoft.com/WE-ISV-CATALOG-FY23-05May-09-Microsoft-SaaS-Academy-for-Startups-SREVM9822_Catalog-Display-Page.html?wt.mc_id=AID3058359_QSG_BLOG_640895) | On-demand - This conference is an opportunity for SaaS startups to learn from experienced professionals and gain valuable insights into the latest trends and technologies in the industry.  | 
 [Microsoft AI & IoT Insider Labs](https://aiotlabs.microsoft.com/p/apply)| Microsoft AI & IoT Insider Labs
+[2024 Imagine Cup](https://imaginecup.microsoft.com/en-us/Country/US) | Unlock your startup’s potential with Imagine Cup – the global technology startup competition for visionary student entrepreneurs harnessing the power of AI. | Imagine Cup
 
 ## Power BI Embedded
 Source | Description | Notes
