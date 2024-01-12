@@ -37,6 +37,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
+[Microsoft Cloud Executive Enablement Series](https://www.youtube.com/playlist?list=PLcgFidNgo6oMZhzhBAf98hzNI8_h5NoAQ) | A video and podcast series granting partners exclusive access to insights from top executives and experts at Microsoft around the latest trends and technologies in the cloud industry.| YouTube
 [Azure DiY](https://www.linkedin.com/company/azure-diy/) | The Microsoft Azure DiY program is an educational series delivered by the product engineering and product management teams to spark the diverse possibilities of leveraging Microsoft Azure technologies. | LinkedIn
 [Tech Community](https://techcommunity.microsoft.com/) | Collaborate, share and learn from experts.|...
 [Tech Talks](https://techcommunity.microsoft.com/t5/microsoft-tech-talks/ct-p/MicrosoftTechTalks) | Technical Community designed to bring IT Pros together for discussions on MS Technology & Services thru In-Person & Virtual events | ...
