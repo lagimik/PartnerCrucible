@@ -67,6 +67,7 @@ Source | Description | Notes
 [End-to-end tutorials in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/get-started/end-to-end-tutorials)  | hese tutorials guide you through a scenario that covers the entire process, from data acquisition to data consumption. Includes: lakehouse, data science, real-time analytics, data warehouse tutorials | Microsoft Learn
 [Tutorial: Fabric for Power BI users](https://learn.microsoft.com/en-us/power-bi/fundamentals/fabric-get-started) | In this tutorial, you learn how to use Dataflows Gen2 and Pipelines to ingest data into a Lakehouse and create a dimensional model. | Microsoft Learn
 [Webinar Series: Introduction to Microsoft Fabric](https://info.microsoft.com/ww-landing-introduction-to-microsoft-fabric-webinar-series.html?lcid=en-us)| On-demand: Watch this series to learn about the key experiences and benefits of this end-to-end analytics solution | Microsoft Webinars
+[Fabric Workshops](https://github.com/microsoft/Fabric_Workshops) | This repository is a guide for Microsoft Fabric Workshops and Readiness. | GitHub
 
 ## Labs
 
