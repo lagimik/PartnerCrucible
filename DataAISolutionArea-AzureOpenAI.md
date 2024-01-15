@@ -56,6 +56,7 @@ Source | Description | Notes
 [Generative AI for Beginners - A Course](https://aka.ms/genai-beginners) | Learn the fundamentals of building Generative AI applications with our 12-lesson comprehensive course by Microsoft Cloud Advocates. Each lesson covers a key aspect of Generative AI principles and application development. Throughout this course, we will be building our own Generative AI startup so you can get an understanding of what it takes to launch your ideas. | GitHub
 [Understanding the Difference in Using Different Large Language Models: Step-by-Step Guide](https://techcommunity.microsoft.com/t5/educator-developer-blog/understanding-the-difference-in-using-different-large-language/ba-p/3919444)| In this blog, you will learn how to leverage different Large Language Models available on Azure Machine Learning and provided by Hugging Face, Azure ML, OpenAI, and Meta. Also, you will learn how to integrate them into your Web Application or Power App.| Tech Community
 [Learning About Generative AI](https://www.youtube.com/watch?v=Ch6KE7KxHGM) | @John Savill explores the Generative AI concepts and services | YouTube
+[Azure OpenAI as a central capability with Azure API Management](https://github.com/Azure/enterprise-azureai) | Unleash the power of Azure OpenAI to your application developers in a secure & manageable way with Azure API Management and Azure Developer CLI | GitHub
 
 
 ## Azure OpenAI Services
