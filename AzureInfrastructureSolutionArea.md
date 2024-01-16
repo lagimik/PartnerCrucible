@@ -34,6 +34,7 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :---------- | :-----
 [Cloud Infrastructure Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy24-cloud-infrastructure-partner-playbook.pdf) | Describes Microsoft GTM Strategy, Solution Plays, Partner Priorities, and Key Resources| Partner FY24
+[Azure Diagrams - Architecture Advisor](https://azurediagrams.com/) | The Architecture Advisor tool enables you to design diagrams in a collaborative manner and provides guidance on which services can be integrated and when they should be utilized in your architecture. | 
 [Infra and Database Migration to Microsoft Azure specialization - Requirements](https://partner.microsoft.com/en-us/partnership/specialization/infra-and-database-migration) | Specialization Requirements | Partner Specializations
 [Infra and Database Migration to Microsoft Azure specialization - Audit](https://assetsprod.microsoft.com/en-us/azure-infra-and-db-specialization-audit-checklist.pdf)| Audit Checklist | Partner Specializations
 [Azure Profitability Infographics](https://msazurepartners.blob.core.windows.net/media/Resources/Misc/AzureProfitability-Infographic_v2.pdf) | Through 14 partner interviews with various Microsoft Azure partners, Forrester concluded that building and scaling a Microsoft Azure practice has the following three-year financial impact. | Forrester
