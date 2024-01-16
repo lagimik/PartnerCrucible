@@ -95,6 +95,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Setting up a proof of concept for Resource Scheduling Optimization](https://learn.microsoft.com/en-us/dynamics365/field-service/rso-proof-concept) |  Stages and guidance for a successful proof-of-concept (POC) for Resource Scheduling Optimization | Microsoft Learn
 [Intelligent Field Service Solution Accelerators](https://github.com/microsoft/Intelligent-Field-Service-Solution-Accelerator) | This GitHub repository contains multiple solution accelerators. Each solution accelerator focuses on one area, such anomaly detection, predictive maintenance, or intelligence derived from IoT alert. | GitHub
 
 ## Developers
