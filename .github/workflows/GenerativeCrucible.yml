@@ -176,14 +176,15 @@ jobs:
           new-resolution: '200x200' # This is Required field
           output-folder: "assets/images" # This is Required field & this folder will be used to store resized images
 
-      - name: Upload image artifact
+      - name: Upload image and markdown artifact
         id:  upload-image-artifact
         if: ${{ (matrix.changes.change != null)  }}
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: completion-segments
           path: |
-            ./assets/images/*.png
+            ./assets/images/
+            ./*.md
 
   newsletter:
     runs-on: ubuntu-latest
