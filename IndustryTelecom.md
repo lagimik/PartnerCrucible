@@ -23,6 +23,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Azure Edge Network Fabric Demo](https://www.youtube.com/watch?v=p-U4ICr7OSE) | Azure private MEC with Azure Edge Network Fabric provides a secure, converged, scalable, cloud-managed network to support digital transformation across all industries.| YouTube
 [Cheat-sheet: The new 5G application paradigms and Microsoft Azure](https://techcommunity.microsoft.com/gxcuf89792/attachments/gxcuf89792/AzureDevCommunityBlog/868.2/1/Cheat%20Sheet%20Infographic_11x17_v2.pdf) | Infographic or “cheat sheet” we created explaining the key topics related to 5G, fundamental characteristics of 5G, new possible topologies (5G Private MEC and 5G Public MEC), and some details and elements of a simplified 5G architecture when using 5G with Azure Private MEC solution. | ...
 [5G paradigm](https://aka.ms/New5GParadigm)|How developers can benefit from the 5G paradigm|..
 [5G Modern Connected Apps news and updates](https://aka.ms/ModernConnectedApps)| Sign up for updates| ...
