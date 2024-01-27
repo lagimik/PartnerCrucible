@@ -41,6 +41,7 @@ Source | Description | Notes
 [Partner Learning](https://readiness.transform.microsoft.com/)| Partner training starting point| Requires Microsoft AI Cloud Partner Program login
 [M365 Readiness Calendar](https://cloudpartners.transform.microsoft.com/readiness/calendar) | Partner training calendar | Requires Microsoft AI Cloud Partner Program login
 [Microsoft 365 & Security for Partners](https://cloudpartners.transform.microsoft.com)| **Transform for M365 and Security Partners** with resources on products, practice development, pre-sales workshops, readiness, events, news, and community | Transform
+[Microsoft 365 Partner](https://www.linkedin.com/company/microsoft-365-partner/) | Welcome Microsoft 365 partners! Follow us here and #MSPartner for the latest news and readiness content.| LinkedIn
 [M365 Partner Community](https://www.yammer.com/office365partners/#/home)|The M365 Partner Yammer Group is dedicated to a community that focuses on partner engagement, both in connecting partners to partners, as well as connecting partners within the M365 team at Microsoft. Join this community to learn the latest M365 updates, industry trends, and how you can easily connect with your fellow partners.| Viva Engage / Yammer
 [M365 Partner Community Groups](https://www.yammer.com/office365partners/#/groups/suggested) | Include M365 Lighthouse, Microsoft Desktop Partner, CSP PArtner Community, etc...| Viva Engage / Yammer
 
