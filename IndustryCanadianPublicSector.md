@@ -23,6 +23,8 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Service Trust- Resources for Canada](https://servicetrust.microsoft.com/ViewPage/RegionalCanada) | Learn how Microsoft cloud services protect your data, and how you can manage cloud data security and compliance for your organization. |  Service Trust 
+[Azure - CCCS Security Assessment Summary Report (2023)](https://servicetrust.microsoft.com/ViewPage/RegionalCanada) | The Canadian Centre for Cybersecurity security assessment summary report for Microsoft Azure |  Service Trust 
 [Microsoft Cloud for Sovereignty now generally available, opening new pathways for government innovation](https://blogs.microsoft.com/blog/2023/12/14/microsoft-cloud-for-sovereignty-now-generally-available-opening-new-pathways-for-government-innovation/) | General availability of Microsoft Cloud for Sovereignty across all Azure regions. Microsoft Cloud for Sovereignty helps governments meet their compliance, security, and policy requirements while utilizing the cloud to provide superior value to their citizens. | Microsoft 
 [Azure Landing Zones for Canadian Public Sector](https://github.com/Azure/CanadaPubSecALZ/) | The purpose of the reference implementation is to guide Canadian Public Sector customers on building Landing Zones in their Azure environment. | GitHub repo
 [Key Decisions](https://github.com/Azure/CanadaPubSecALZ/blob/main/docs/architecture.md#1-key-decisions) | Outlines the key decisions each department must consider as part of adopting Azure | ...
