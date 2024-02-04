@@ -27,6 +27,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Accessibility Conformance Reports](https://www.microsoft.com/en-us/accessibility/conformance-reports) | Microsoft is committed to developing technology that empowers everyone, including people with disabilities, and helps customers address global accessibility requirements. Microsoft Accessibility Conformance Reports (ACR) describe how our products and services support the recognized global accessibility standards of Section 508 of the US Rehabilitation Act of 1973, the Web Content Accessibility Guidelines (WCAG), and ETSI EN 301 549. | Microsoft
 [Accessibility support for enterprise customers](https://support.microsoft.com/en-us/accessibility/enterprise-answer-desk) | The enterprise Disability Answer Desk is a support resource for organizations that have questions about the accessibility of Microsoft products and product conformance with accessibility standards. | Microsoft Support
 [Microsoft Edge: Test accessibility using the Accessibility tab.](https://learn.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/accessibility/accessibility-tab)| Test accessibility using the Accessibility tab | Microsoft Learn
 [Code samples for common accessibility issues in Windows apps.](https://learn.microsoft.com/en-us/accessibility-tools-docs/)| Code samples| Microsoft Learn
