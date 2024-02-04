@@ -41,6 +41,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
+[CAST - Modernizing your .NET apps to Windows containers on Azure Kubernetes Services](https://techcommunity.microsoft.com/t5/containers/cast-modernizing-your-net-apps-to-windows-containers-on-azure/ba-p/4037740) | Since 2019, CAST has been working alongside Microsoft to automate the migration and modernization of custom applications for hundreds of clients worldwide, addressing a large variety of old and new languages such as C#, C++, VB.NET, Java, JavaScript, Python, Cobol and more, and various application types among Windows, mainframes, monoliths, databases and others. | Tech Community
 [Azure draft](https://github.com/Azure/draft) | Draft is a tool made for users who are just getting started with Kubernetes, or users who want to simplify their experience with Kubernetes. This readme will give you a quick run down on Draft’s commands and what they do.| GitHub
 [App Service migration tools](https://azure.microsoft.com/en-us/products/app-service/migration-tools/) | Assess your web apps and migrate them to Azure with free, easy-to-use tools. Includes compatibility report. | Azure
 [Migration of multiple ASP.NET web apps at-scale](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/assess-asp-net-web-apps-at-scale-to-accelerate-your-app/ba-p/3718361) | Assess ASP.NET web apps at scale to accelerate your app migration strategy on Azure | Tech Community
