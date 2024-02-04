@@ -36,6 +36,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
+[Microsoft Mesh, now generally available in Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/blog/2024/01/24/bring-virtual-connections-to-life-with-microsoft-mesh-now-generally-available-in-microsoft-teams/)| o support hybrid work and geographically distributed organizations, we created Microsoft Mesh. Mesh powers 3D immersive experiences using next-generation technology that help virtual connections feel more like face-to-face interactions.| Microsoft
 [Microsoft Mesh Technology Adoption Program](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRyAJpgrP_R1NrtdbborOob5UQUpFVURSRDVYRjNXNzY2VlU1SEVZV0YzNiQlQCN0PWcu&ctx=%7B%22Event%22%3A%22Build%22%7D) | Complete this form to be considered for the Microsoft Mesh Technology Adoption Program (TAP) for building custom solutions and environments in Private Preview. | MTAP
 [Mesh Innovation blog: Innovation Stories blog](https://aka.ms/aaaxf16) | |
 [Mesh home](https://Microsoft.com/mesh) | |
