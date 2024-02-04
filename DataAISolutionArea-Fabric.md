@@ -61,6 +61,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Microsoft Fabric for those who know nothing about Fabric](https://techcommunity.microsoft.com/t5/educator-developer-blog/microsoft-fabric-for-those-who-know-nothing-about-fabric/ba-p/3999684) | move from zero knowledge or experience to a confident beginner.| Tech Community
 [Learn Live: Get started with Microsoft Fabric](https://developer.microsoft.com/en-us/reactor/series/S-1188/) | Whether you're building your career or the next great idea, Microsoft Reactor connects you with the developers and startups that share your goals. Learn new skills, meet new peers, and find career mentorship. Virtual events are running around the clock so join us anytime, anywhere! | Microsoft Reactor
 [Introduction to Microsoft Fabric - Webinar series](https://videos.microsoft.com/microsoft-fabric) | Webinar Series | Microsoft Videos
 [Get started with Microsoft Fabric](https://lnkd.in/dza3b8ru) | Microsoft Learning path for Microsoft Fabric (9𝐡) | Microsoft Learn
