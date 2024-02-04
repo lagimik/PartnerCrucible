@@ -28,27 +28,15 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 ## What's new
 
 - Added Microsoft Fabric for those who know nothing about Fabric- Added DREAM PoC Accelerators (DPoC)
-
-## Deep links
-
-- [Microsoft Fabric for those who know nothing about Fabric](https://techcommunity.microsoft.com/t5/educator-developer-blog/microsoft-fabric-for-those-who-know-nothing-about-fabric/ba-p/3999684): Move from zero knowledge or experience to a confident beginner. (Tech Community)
-- [Overview of Copilot in Fabric and Power BI (preview)](https://learn.microsoft.com/en-us/fabric/get-started/copilot-fabric-overview): Copilot and other generative AI features in preview bring new ways to transform and analyze data, generate insights, and create visualizations and reports in Microsoft Fabric and Power BI. (Microsoft Learn)
-
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-Fabric) for more partner resources.
-
-![ DataAISolutionArea.md ]( /PartnerCrucible/assets/images/2024-02-04-DataAISolutionArea.md-image.png )
-
-# Data AI Solution Area
-
-## What's new
-
-- Added  DREAM PoC Accelerators (DPoC) to the Data AI Solution Area. 
+- Overview of Copilot in Fabric and Power BI
 
 ## Deep links
 
 - [DREAM PoC Accelerators (DPoC)](https://github.com/microsoft/Azure-Analytics-and-AI-Engagement/tree/microsoftfabric): DREAM PoC Accelerators (DPoC) are packaged Industry Scenario DREAM Demos with ARM templates (with a demo web app, Power BI reports, Synapse resources, AML Notebooks etc.). Partners can also deploy DREAM Demos in their own subscriptions using DPoC.
+- [Microsoft Fabric for those who know nothing about Fabric](https://techcommunity.microsoft.com/t5/educator-developer-blog/microsoft-fabric-for-those-who-know-nothing-about-fabric/ba-p/3999684): Move from zero knowledge or experience to a confident beginner. (Tech Community)
+- [Overview of Copilot in Fabric and Power BI (preview)](https://learn.microsoft.com/en-us/fabric/get-started/copilot-fabric-overview): Copilot and other generative AI features in preview bring new ways to transform and analyze data, generate insights, and create visualizations and reports in Microsoft Fabric and Power BI. (Microsoft Learn)
 
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea) for more partner resources.
+Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-Fabric) for more partner resources.
 
 ![ DigitalAppsandInnovationSolutionArea.md ]( /PartnerCrucible/assets/images/2024-02-04-DigitalAppsandInnovationSolutionArea.md-image.png )
 
