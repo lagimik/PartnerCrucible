@@ -41,6 +41,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
+[SAS Code Migration into Open-Source Language by Using Azure OpenAI](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/sas-code-migration-into-open-source-language-by-using-azure/ba-p/3910795) | n this blog post, we will explore the incredible capabilities of Azure OpenAI GPT-4 to effortlessly convert code from SAS to Python | Tech Community
 [CAST - Modernizing your .NET apps to Windows containers on Azure Kubernetes Services](https://techcommunity.microsoft.com/t5/containers/cast-modernizing-your-net-apps-to-windows-containers-on-azure/ba-p/4037740) | Since 2019, CAST has been working alongside Microsoft to automate the migration and modernization of custom applications for hundreds of clients worldwide, addressing a large variety of old and new languages such as C#, C++, VB.NET, Java, JavaScript, Python, Cobol and more, and various application types among Windows, mainframes, monoliths, databases and others. | Tech Community
 [Azure draft](https://github.com/Azure/draft) | Draft is a tool made for users who are just getting started with Kubernetes, or users who want to simplify their experience with Kubernetes. This readme will give you a quick run down on Draft’s commands and what they do.| GitHub
 [App Service migration tools](https://azure.microsoft.com/en-us/products/app-service/migration-tools/) | Assess your web apps and migrate them to Azure with free, easy-to-use tools. Includes compatibility report. | Azure
