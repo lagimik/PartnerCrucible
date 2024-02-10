@@ -144,7 +144,7 @@ jobs:
       - name: Wait for a random amount of time
         uses: m3y/random-wait-action@v1
         with:
-          max-wait-time: 45
+          max-wait-time: 90
         
       - name: Generate Image
         id: generate-image
