@@ -3,40 +3,53 @@ title: 'Generative Partner Crucible - for the week ending 2024-02-10'
 date: 2024-02-10
 flag: GenerativePartnerCrucible
 layout: generativepartnercrucible
-thumbnail: /PartnerCrucible/assets/images/2024-02-10-PowerPlatformSolutionArea.md-image.png
+thumbnail: /PartnerCrucible/assets/images/2024-02-10-CommercialMarketplaceOffers.md-image.png
 ---
 ![ CommercialMarketplaceOffers.md ]( /PartnerCrucible/assets/images/2024-02-10-CommercialMarketplaceOffers.md-image.png )
-# Partner Crucible Updates - Building Technical Practice## Solution Area: Commercial Marketplace Offers## What's newThe Forrester Total Economic Impact of Commercial Marketplace document has been updated. The updated study reveals that the Microsoft commercial marketplace offers partners a 587% return on investment (ROI) with a payback period of less than six months.## Deep links- [Forrester Total Economic Impact of Commercial Marketplace](https://azure.microsoft.com/en-us/blog/the-total-economic-impact-of-the-microsoft-commercial-marketplace/) - This link provides access to the updated Forrester study that highlights the benefits of the Microsoft commercial marketplace. It demonstrates a 587% ROI and a payback period of less than six months.
+
+# Commercial Marketplace Offers
+
+## What's new
+
+- The Forrester Total Economic Impact of Commercial Marketplace has been updated. 
+
+## Deep links
+
+- [Forrester Total Economic Impact of Commercial Marketplace](https://azure.microsoft.com/en-us/blog/the-total-economic-impact-of-the-microsoft-commercial-marketplace/) - This link provides access to the updated Forrester study that highlights the benefits of the Microsoft commercial marketplace. It demonstrates a 587% ROI and a payback period of less than six months.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/CommercialMarketplaceOffers) for more partner resources.
 
-![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2024-02-10-DataAISolutionArea-AzureOpenAI.md-image.png )
-# Data AI Solution Area## What's new- Added "Transforming Public Sector Services Using Generative AI" document, which includes global case studies showcasing the adoption of generative AI by governments. These case studies highlight how AI can be leveraged to deliver more citizen-centric services and challenge traditional perceptions of slow adoption.## Deep links- [Transforming Public Sector Services Using Generative AI](https://wwps.microsoft.com/wp-content/uploads/2024/01/Microsoft_Transforming20Public20Sector20Services20Using20Generative20AI_Feb202024201.pdf): This report presents early case studies on the adoption of generative AI by governments globally, demonstrating how AI can enhance public services without compromising risk management. Published by Microsoft and Apolitical.- [Autogen: Microsoft’s Open-Source Tool for Streamlining Development](https://techcommunity.microsoft.com/t5/educator-developer-blog/autogen-microsoft-s-open-source-tool-for-streamlining/ba-p/4040417): Autogen is an open-source project by Microsoft that simplifies the creation and maintenance of data structure libraries and routines. This powerful tool can greatly accelerate the development process. Published by Microsoft Tech Community.
-
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-AzureOpenAI) for more partner resources.
-
-![ DataAISolutionArea-Fabric.md ]( /PartnerCrucible/assets/images/2024-02-10-DataAISolutionArea-Fabric.md-image.png )
-# Data AI Solution Area## What's newThe Partner Crucible updates for the Data AI Solution Area have introduced the following changes:- Added [Microsoft Fabric for those who know nothing about Fabric](https://techcommunity.microsoft.com/t5/educator-developer-blog/microsoft-fabric-for-those-who-know-nothing-about-fabric/ba-p/3999684): This resource helps partners with zero knowledge or experience to become confident beginners in Microsoft Fabric. - Added [Overview of Copilot in Fabric and Power BI (preview)](https://learn.microsoft.com/en-us/fabric/get-started/copilot-fabric-overview): This overview provides information about Copilot and other generative AI features in preview. Partners can now explore new ways to transform and analyze data, generate insights, and create visualizations and reports in Microsoft Fabric and Power BI. ## Deep links- [Microsoft Fabric for those who know nothing about Fabric](https://techcommunity.microsoft.com/t5/educator-developer-blog/microsoft-fabric-for-those-who-know-nothing-about-fabric/ba-p/3999684): Move from zero knowledge or experience to a confident beginner. (Tech Community)- [Overview of Copilot in Fabric and Power BI (preview)](https://learn.microsoft.com/en-us/fabric/get-started/copilot-fabric-overview): Copilot and other generative AI features in preview bring new ways to transform and analyze data, generate insights, and create visualizations and reports in Microsoft Fabric and Power BI. (Microsoft Learn)
-
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-Fabric) for more partner resources.
-
 ![ DigitalAppsandInnovationSolutionArea.md ]( /PartnerCrucible/assets/images/2024-02-10-DigitalAppsandInnovationSolutionArea.md-image.png )
-# Digital Apps and Innovation Solution Area## What's new- **Azure Cosmos DB Design Pattern Samples**: This collection showcases a variety of design patterns that can be employed to build robust and efficient applications using Azure Cosmos DB's NoSQL capabilities. Each pattern addresses specific scenarios and challenges, offering guidance and best practices for implementation.## Deep links- [Azure Cosmos DB Design Pattern Samples](https://github.com/Azure-Samples/cosmos-db-design-patterns): This GitHub repository contains a collection of design patterns for building applications with Azure Cosmos DB's NoSQL capabilities.- [SAS Code Migration into Open-Source Language by Using Azure OpenAI](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/sas-code-migration-into-open-source-language-by-using-azure/ba-p/3910795): This blog post explores the capabilities of Azure OpenAI GPT-4 to convert code from SAS to Python effortlessly.- [GitHub Roadmap](https://github.com/orgs/github/projects/4247/views/1): This is the GitHub public roadmap that provides insights into the future plans and direction of GitHub.- [GitHub Learning Paths](https://learn.microsoft.com/en-us/training/github/): This Microsoft Learn resource offers collections and recommended learning paths for foundational GitHub knowledge.- [CAST - Modernizing your .NET apps to Windows containers on Azure Kubernetes Services](https://techcommunity.microsoft.com/t5/containers/cast-modernizing-your-net-apps-to-windows-containers-on-azure/ba-p/4037740): This blog post discusses the collaboration between CAST and Microsoft in automating the migration and modernization of custom applications for Windows containers on Azure Kubernetes Services.Please note that the above changes have been made in the Partner Crucible updates to help Microsoft Partners build their technical practice.
+
+# Digital Apps and Innovation Solution Area
+
+## What's new
+
+- Added Azure Cosmos DB Design Pattern Samples
+- Code Migration into Open-Source Language by Using Azure OpenAI
+- GitHub leaning paths and GitHub Roadmap
+
+## Deep links
+
+- [Azure Cosmos DB Design Pattern Samples](https://github.com/Azure-Samples/cosmos-db-design-patterns): This GitHub repository contains a collection of design patterns for building applications with Azure Cosmos DB's NoSQL capabilities.
+- [GitHub Roadmap](https://github.com/orgs/github/projects/4247/views/1): This is the GitHub public roadmap that provides insights into the future plans and direction of GitHub.
+- [GitHub Learning Paths](https://learn.microsoft.com/en-us/training/github/): This Microsoft Learn resource offers collections and recommended learning paths for foundational GitHub knowledge.
+- [SAS Code Migration into Open-Source Language by Using Azure OpenAI](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/sas-code-migration-into-open-source-language-by-using-azure/ba-p/3910795): This blog post explores the capabilities of Azure OpenAI GPT-4 to convert code from SAS to Python effortlessly.
+- [CAST - Modernizing your .NET apps to Windows containers on Azure Kubernetes Services](https://techcommunity.microsoft.com/t5/containers/cast-modernizing-your-net-apps-to-windows-containers-on-azure/ba-p/4037740): This blog post discusses the collaboration between CAST and Microsoft in automating the migration and modernization of custom applications for Windows containers on Azure Kubernetes Services.Please note that the above changes have been made in the Partner Crucible updates to help Microsoft Partners build their technical practice.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DigitalAppsandInnovationSolutionArea) for more partner resources.
 
-![ MicrosoftAccessibility.md ]( /PartnerCrucible/assets/images/2024-02-10-MicrosoftAccessibility.md-image.png )
-# Accessibility Solution Area## What's newMicrosoft has added Accessibility Conformance Reports to help customers address global accessibility requirements. These reports describe how Microsoft products and services support recognized global accessibility standards.## Deep links- [Accessibility Conformance Reports](https://www.microsoft.com/en-us/accessibility/conformance-reports): Microsoft is committed to developing technology that empowers everyone, including people with disabilities. This link provides more information about Microsoft's Accessibility Conformance Reports and how they support global accessibility standards.
-
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/MicrosoftAccessibility) for more partner resources.
-
-![ MixedReality.md ]( /PartnerCrucible/assets/images/2024-02-10-MixedReality.md-image.png )
-# Mixed Reality Solution Area## What's newMicrosoft Mesh is now generally available in Microsoft Teams. Microsoft Mesh is a technology that enables 3D immersive experiences, making virtual connections feel more like face-to-face interactions. This update is designed to support hybrid work and geographically distributed organizations.## Deep links- [Microsoft Mesh, now generally available in Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/blog/2024/01/24/bring-virtual-connections-to-life-with-microsoft-mesh-now-generally-available-in-microsoft-teams/): This link provides more information about Microsoft Mesh and how it can be used to enhance virtual connections in Microsoft Teams.
-
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/MixedReality) for more partner resources.
-
 ![ SecuritySolutionArea.md ]( /PartnerCrucible/assets/images/2024-02-10-SecuritySolutionArea.md-image.png )
-# Security Solution Area## What's newAdding MED for Digital Forensics & Incident Response (DFIR) - A curated set of resources for DFIR tools and techniques using Microsoft Defender for Endpoint (MDE) and the wider Microsoft Azure and Microsoft Defender environments by @cyb3rmik3 (Michalis Michalos).## Deep links- [MED for Digital Forensics & Incident Response (DFIR)](https://github.com/cyb3rmik3/MDE-DFIR-Resources): A curated set of resources for DFIR tools and techniques using Microsoft Defender for Endpoint (MDE) and the wider Microsoft Azure and Microsoft Defender environments.
+
+# Security Solution Area
+
+## What's new
+
+- Adding MDE for Digital Forensics & Incident Response (DFIR) 
+
+## Deep links
+
+- [MED for Digital Forensics & Incident Response (DFIR)](https://github.com/cyb3rmik3/MDE-DFIR-Resources): A curated set of resources for DFIR tools and techniques using Microsoft Defender for Endpoint (MDE) and the wider Microsoft Azure and Microsoft Defender environments.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/SecuritySolutionArea) for more partner resources.
 
