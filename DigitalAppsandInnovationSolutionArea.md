@@ -141,6 +141,7 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [Azure Cosmos DB Partner Tech Connect](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR9aWEKTdeoxPpcB2ORTA2_1UNlU4NU1PWUJaTzFHRkwxVEdXUTQ2UkNOUi4u) | Reserve your spot for Azure Cosmos DB Partner Tech Connect - a community dedicated to partners | Form
 [Azure Cosmos DB Developer](https://developer.azurecosmosdb.com/) | Links to architecture, tools, community, blog, conference, and Live TV |
+[Azure Cosmos DB Design Pattern Samples](https://github.com/Azure-Samples/cosmos-db-design-patterns) | This collection showcases a variety of design patterns that can be employed to build robust and efficient applications using Azure Cosmos DB's NoSQL capabilities. Each pattern addresses specific scenarios and challenges, offering guidance and best practices for implementation. | Github
 
 ## Containers
 
