@@ -14,7 +14,7 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[Forrester Total Economic Impact of Commercial Marketplace ](https://azure.microsoft.com/mediahandler/files/resourcefiles/forrester-commercial-marketplace-tei/Forrester%20Commercial%20Marketplace%20TEI.pdf) | See how the commercial marketplace supports partners' direct salesforce through awareness and transacting capabilities as well as the Microsoft field sales and reseller channels| ...
+[Forrester Total Economic Impact of Commercial Marketplace ](https://azure.microsoft.com/en-us/blog/the-total-economic-impact-of-the-microsoft-commercial-marketplace/) | Updated - In a 2023 Total Economic Impact™ study commissioned by Microsoft, Forrester Consulting found the Microsoft commercial marketplace delivered customers a 587% return on investment (ROI) with a payback period of less than six months | Forrester
 
 ## Microsoft Commercial Marketplace
 
