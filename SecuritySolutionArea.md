@@ -202,6 +202,7 @@ Source | Description | Notes
 [Become a Microsoft Defender for Endpoint Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647) | |
 [Microsoft Defender for Endpoint client analyzer](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/download-client-analyzer?view=o365-worldwide) | Microsoft Defender for Endpoint client analyzer on supported Windows, macOS, and Linux Operating Systems.| Microsoft Learn
 [Optimizing endpoint security with Microsoft Defender for Endpoint's flexible licensing options](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/optimizing-endpoint-security-with-microsoft-defender-for/ba-p/3893746) | This new preview capability, mixed licensing support, allows customers to use different Defender for Endpoint licenses on different devices, depending on their security needs, without having to set up multiple subscriptions.  | Tech Community
+[MED for Digital Forensics & Incident Reponse (DFIR)](https://github.com/cyb3rmik3/MDE-DFIR-Resources) | by @cyb3rmik3 (Michalis Michalos) -  A curated set of resources for DFIR tools and techniques using Microsoft Defender for Endpoint (MDE) and the wider Microsoft Azure and Microsoft Defender environments | GitHub
 
 ## Defender for Identity
 
