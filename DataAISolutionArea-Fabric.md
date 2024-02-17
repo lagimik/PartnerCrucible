@@ -75,6 +75,7 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :-----  | :-----
 [Azure Fabric Labs](https://github.com/MicrosoftLearning/mslearn-fabric/tree/main/Instructions/Labs) | Hands-on labs to Create a lakehouse, Analyze data with Apache Spark, Use delta tables in Apache Spark, Ingest data with a pipeline in Microsoft Fabric, Create a Dataflow (Gen2) in Microsoft Fabric, Analyze data in a data warehouse,  Real-Time Analytics in Microsoft Fabric, notebooks to train a model in Microsoft Fabric  | GitHub
+[Microsoft Fabric End-to-End Real-Time Analytics Workshop](https://github.com/microsoft/fabricrealtimelab) | Rapidly generating real-time data and understanding how that data can be processed and visualized in Microsoft Fabric | GitHub
 [Unleashing the Power of SynapseML and Microsoft Fabric: A Guide to Q&A on PDF Documents](https://blog.fabric.microsoft.com/en-us/blog/unleashing-the-power-of-synapseml-and-microsoft-fabric-a-guide-to-qa-on-pdf-documents-2/) | In this blog post, we delve into the exciting functionalities and features of Microsoft Fabric and SynapseML to demonstrate how to leverage LLMs to perform question and answer (Q&A) tasks on any PDF document. | Blog
 
 ## References

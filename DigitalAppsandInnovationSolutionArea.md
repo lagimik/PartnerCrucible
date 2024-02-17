@@ -133,7 +133,9 @@ Source | Description | Notes
 [Azure Integration Services Blog](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/bg-p/IntegrationsonAzureBlog) | Azure Integration Services Blog | Tech Community
 [BizTalk Server Migration to Azure Integration Services Architecture Guidance](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/announcement-biztalk-server-migration-to-azure-integration/ba-p/3697413)| In this content, we focus on educating customers on the differences between BizTalk Server and Azure Integration Services, provide guidance on what Azure services to use when and provide recommendations on how you setup and execute a BizTalk Migration project. | Tech Community
 [BizTalk Server to Azure Integration Services](https://learn.microsoft.com/en-us/azure/logic-apps/biztalk-server-to-azure-integration-services-overview) | his guide provides an overview about the reasons and benefits, product comparisons, capabilities, and other information to help you start migrating from on-premises BizTalk Server to cloud-based Azure Integration Services. | Microsoft Learn
+[Migrating from MuleSoft to Azure Integration Services (AIS): Why and How](https://www.hortoncloud.com/post/migrating-from-mulesoft-to-azure-integration-services-ais-why-and-how) | a step-by-step strategy for a smooth transition from MuleSoft to AIS | HotonWorks
 [Azure Integration Services landing zone accelerator](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/app-platform/integration-services/landing-zone-accelerator) | Azure Integration Services landing zone accelerator is intended for an application team that's building and deploying an integration platform in a typical enterprise landing zone design.| Microsoft Learn
+
 
 ## CosmosDB
 
