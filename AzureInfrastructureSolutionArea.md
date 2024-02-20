@@ -49,7 +49,7 @@ Source | Description | Notes
 [Azure for Services Partners](https://www.microsoft.com/azure/partners/practices/the-opportunity)|Grow your cloud services business with Azure| Azure
 [Azure Blog](https://azure.microsoft.com/en-us/blog/)|Azure Blog | Azure
 [Azure Updates](https://azure.microsoft.com/en-us/updates/)|Get the latest updates on Azure products and features to meet your cloud investment needs. Subscribe to notifications to stay informed.|
-
+[Azure Migrate and Modernize: Infra Partner Forum](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR3cJywzl5fZLnWbpWAR5cJZUN1QxOElCMVhVT1FaTDRZNE5DU1Y2UDAzNS4u) | Use the form below to request access to the Azure Migrate and Modernize: Infra Partner Forum including community calls and discussion forum | Forum
 
 ## Partner Attribution
 
