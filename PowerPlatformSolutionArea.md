@@ -134,9 +134,14 @@ Source | Description | Notes
 [Microsoft Learn for Power Automate](https://learn.microsoft.com/en-us/training/powerplatform/power-automate) | Learn how to free your organization from mundane tasks with automated flows and robotic process automation (RPA).| Microsoft Learn
 [Flow-in-a-Day](https://aka.ms/flowinaday) | Hands-on labs. This is the Power Automate in a day v8 material | Github
 [RPA-in-day](https://aka.ms/RPAinaday) | Hands-on labs. | Zip archive download
+
+## Power Automate - Process Mining
+Source | Description | Notes
+:----- | :---------- | :-----
 [Overview of process mining](https://learn.microsoft.com/en-us/power-automate/process-mining-overview) | Publicly generally available on August 1, 2023 - Process mining is a research area and technology that helps businesses understand their real processes, how they're operated, and identify opportunities for improvement, automation, and digitization | Microsoft Learn
 [Power Platform Process Mining: Enriching partner opportunities](https://powerplatformpartners.transform.microsoft.com/blogs/powerplatform/powerplatformprocessmining) | Power Automate Process Mining presents a significant opportunity for partners to broaden their Power Platform practices, leveraging current skillsets with intelligent automation and low code and building new services and solutions for data-driven process insights. | Blog
 [Power Automate Process Mining : Partner Started Guide](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fpbapstorageprod.blob.core.windows.net%2Fprotectedassets%2FPower%2520Automate%2520Process%2520Mining%2520-%2520Partner%2520Starter%2520Guide.pptx%3Fsv%3D2019-07-07%26sr%3Db%26sig%3DG7TJGDNhAmhtSVw0TmeLLRIuGhCEIfK%252BPOiKzGqzQIw%253D%26se%3D2023-08-05T13%253A54%253A28Z%26sp%3Dr&wdOrigin=BROWSELINK) | This comprehensive Partner Starter Guide is designed to equip you with the resources and tools you need to successfully adopt, sell, and deliver Power Automate Process Mining. | Transform
+[Process Mining in Power Automate](https://www.youtube.com/watch?v=xj8k6fbKw4E) | This video gives a short introduction to how Process Mining works in Power Automate.| YouTube
 
 ## AI Builder
 
