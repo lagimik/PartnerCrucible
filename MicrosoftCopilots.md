@@ -37,6 +37,7 @@ Source | Description | Notes
 
 [Microsoft Copilot Studio](https://aka.ms/MCSBlog) | At Microsoft Ignite 2023, we’re excited to announce Microsoft Copilot Studio, a low-code tool to customize Microsoft Copilot for Microsoft 365 and build standalone copilots| Blog
 [Microsoft Copilot Studio - Implementation Guide](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2FCopilotStudioSamples%2Fmaster%2FImplementationGuide%2FMicrosoft%2520Copilot%2520Studio%2520-%2520Implementation%2520Guide.pptx&wdOrigin=BROWSELINK) | a Success by Design approach to implementing copilots by PowerCAT | Download
+[Microsoft Copilot Studio Samples](https://github.com/microsoft/CopilotStudioSamples) | This repository contains samples and artifacts for Microsoft Copilot Studio including connecting copilots to bots, canvas apps, and SharePoint | GitHub
 [Copilot Studio](https://github.com/Katerina-Chernevskaya/feature-a-day) | by @Katerina-Chernevskaya| Github
 
 ## Security Copilot
