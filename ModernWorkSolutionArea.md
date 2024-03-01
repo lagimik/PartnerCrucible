@@ -57,8 +57,10 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[FastTrack Partner Community Portal](https://m365-specialty-partner.powerappsportals.com/knowledgebase/article/KB-01160/en-us) | Sales, delivery, and marketing assets to use when delivering the FastTrack Method| FastTrack
 [FastTrack Ready approved partners](https://cloudpartners.transform.microsoft.com/fasttrack-ready-approved-partners?culture=en-us&country=us) | FastTrack for Microsoft 365 helps organizations enable hybrid work with expert guidance – delivered remotely by Microsoft engineers and approved FastTrack Ready partners as a benefit of your eligible subscription. | Transform
 [FastTrack Program Terms](https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FFeb-27-2023-FY23-FastTrack-Ready-Partner-Agreement.pdf&download=1) | These terms and conditions (“Terms and Conditions”) contain the requirements to participate in the FastTrack Ready Partner (“FRP”) Program (“Program”). | Transform
+[FastTrack Migration Support Team (MST)](https://fasttrack.microsoft.com/v2/en-us/help) | The FastTrack Migration Support Team (MST) focuses on the core FastTrack Migration Platform, which covers areas including the FastTrack Portal, the Migration Hub and Power BI reporting. MST also covers internal tooling, such as scheduling, orchestration, and execution. If you can’t find the help you are looking for, consider opening a support ticket at the bottom of the page, or email your FastTrack Partner (if applicable) for onboarding, prerequisites, or general questions. The Migration Support team is available 24 hours a day, 7 days a week.| FAstTrack
 
 ## M365 Roadmap and Trials
 
