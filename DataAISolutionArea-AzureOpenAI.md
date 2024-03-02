@@ -164,6 +164,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[What The Hack - Azure OpenAI Fundamentals](https://github.com/devanshithakar12/AOAI-Fundamentals-WTH) | This hack is for anyone who wants to gain hands-on experience experimenting with prompt engineering and machine learning best practices, and apply them to generate effective responses from Azure OpenAI models.| What the Hack
 [AI Hackathon Starter Kit](https://github.com/rohit-lakhanpal/ai-hackathon-starter-kit) | Welcome to the AI Hackathon Starter Kit! This project has been created to make AI accessible and easy for everyone. Whether you are a beginner with no prior experience or an experienced developer, this starter kit is designed to help you incorporate AI into your apps quickly and easily. | GitHub
 [Azure OpenAI in-a-day workshop](https://github.com/microsoft/azure-openai-in-a-day-workshop) | In this technical workshop, you will get a comprehensive introduction to Azure OpenAI Service and Azure OpenAI Studio. You will learn how to create and refine prompts for various scenarios using hands-on exercises.| GitHub
 [Azure OpenAI Labs](https://github.com/MicrosoftLearning/mslearn-openai/tree/main/Labfiles) | NLP, Prompt Engineering | GitHub
