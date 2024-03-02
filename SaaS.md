@@ -28,6 +28,7 @@ Source | Description | Notes
 [Azure SaaS Development Kit (ASDK)](https://github.com/Azure/azure-saas) | he Azure SaaS Development Kit is a deployable reference implementation of pre-built modules designed to help you launch your SaaS offering faster | Github
 [Community Sample Code and SDK for SaaS Applications](https://github.com/Azure/Commercial-Marketplace-SaaS-Accelerator)| This project is a community-supported reference implementation for integrating Software-as-a-Service (SaaS) solutions with Microsoft commercial marketplace SaaS offers. | Github Version 6.0.0
 [Mastering SaaS offers](https://microsoft.github.io/Mastering-the-Marketplace/saas/) | This on-demand learning series includes videos, sample code, and hands-on labs meant to speed your time to publishing your custom SaaS offer on the Microsoft commercial marketplace. If you are building a SaaS offer for the marketplace this learning series is for you. | Mastering Marketplace
+[Mastering the SaaS Accelerator](https://microsoft.github.io/Mastering-the-Marketplace/saas-accelerator/) | The SaaS Accelerator provides a fully functional community-led SaaS reference implementation for those interested in publishing transactable SaaS offers in Microsoft's marketplace in hours instead of days. This series of video modules and hands-on labs is designed to help you understand, install, use, and customize the SaaS Accelerator project.| Mastering Marketplace
 
 
 
