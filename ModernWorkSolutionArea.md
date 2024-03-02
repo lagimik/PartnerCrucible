@@ -156,6 +156,7 @@ Source | Description | Notes
 [Getting ready for Microsoft AI and Microsoft 365 Copilot](https://learning.eventbuilder.com/event/76585) | As a partner, you have the opportunity to leverage the power of AI to enhance your solutions, services, and customer experiences. But how do you get started with AI and what does it mean to be AI-ready? Being AI-ready means that you have the skills and mindset to embrace AI as a strategic asset, the ability to identify the potential use cases for AI, and the know-how to help customers navigate the benefits, challenges, concerns, and expectations. | Events
 [Microsoft365 Copilot Workshop Kit](https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FMicrosoft365-Copilot-Workshop-Kit.zip) | Technical and engagement delivery resource(s) with an overview of the tasks and content required to deliver the Microsoft 365 Copilot Workshop | Transform
 [Get AI-ready with Microsoft 365](https://cloudpartners.transform.microsoft.com/partner-gtm/csp?tab=get-ai-ready) | CSP - With Microsoft 365, SMBs can safely run their businesses from anywhere with a secure, comprehensive, AI-powered cloud solution that makes hybrid work, work.| Transform
+[Copilot for Finance (preview)](https://learn.microsoft.com/en-us/copilot/finance/welcome) | Copilot empowers finance professionals to stay in the flow of work by seamlessly connecting productivity tools such as Excel with existing financial systems to support critical business processes and generate insights and actions in real time.| Microsoft Learn
 
 ## Syntex
 
