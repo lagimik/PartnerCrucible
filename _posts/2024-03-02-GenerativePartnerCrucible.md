@@ -17,7 +17,8 @@ thumbnail: /PartnerCrucible/assets/images/2024-03-02-PowerPlatformSolutionArea.m
 
 ## Deep links
 
-- Added [What The Hack - Azure OpenAI Fundamentals](https://github.com/devanshithakar12/AOAI-Fundamentals-WTH): This hack is designed for individuals seeking hands-on experience with prompt engineering and machine learning best practices to effectively utilize Azure OpenAI models.- Added [Azure Well-Architected Framework perspective on Azure OpenAI](https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-openai): This article offers architectural recommendations for decision-making when integrating Azure OpenAI into workload architecture, aligned with the Azure Well-Architected Framework pillars.
+- Added [What The Hack - Azure OpenAI Fundamentals](https://github.com/devanshithakar12/AOAI-Fundamentals-WTH): This hack is designed for individuals seeking hands-on experience with prompt engineering and machine learning best practices to effectively utilize Azure OpenAI models.
+- Added [Azure Well-Architected Framework perspective on Azure OpenAI](https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-openai): This article offers architectural recommendations for decision-making when integrating Azure OpenAI into workload architecture, aligned with the Azure Well-Architected Framework pillars.
   
 - 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-AzureOpenAI) for more partner resources.
@@ -45,9 +46,9 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ## Deep links
 
-- [Copilot for Finance (preview)](https://learn.microsoft.com/en-us/copilot/finance/welcome): Microsoft Learn## M365 FastTrack Partner Community Portal and FastTrack Migration Support Team### What's newThe M365 FastTrack Partner Community Portal provides sales, delivery, and marketing assets to use when delivering the FastTrack Method. The FastTrack Migration Support Team (MST) focuses on the core FastTrack Migration Platform, which covers areas including the FastTrack Portal, the Migration Hub, and Power BI reporting. MST also covers internal tooling such as scheduling, orchestration, and execution.### Deep links
-- [FastTrack Partner Community Portal](https://m365-specialty-partner.powerappsportals.com/knowledgebase/article/KB-01160/en-us): FastTrack
-- [FastTrack Migration Support Team (MST)](https://fasttrack.microsoft.com/v2/en-us/help): FastTrack
+- [Copilot for Finance (preview)](https://learn.microsoft.com/en-us/copilot/finance/welcome):  Copilot empowers finance professionals to stay in the flow of work by seamlessly connecting productivity tools such as Excel with existing financial systems to support critical business processes and generate insights and actions in real time
+- [FastTrack Partner Community Portal](https://m365-specialty-partner.powerappsportals.com/knowledgebase/article/KB-01160/en-us): M365 FastTrack Partner Community Portal and FastTrack Migration Support Team### What's newThe M365 FastTrack Partner Community Portal provides sales, delivery, and marketing assets to use when delivering the FastTrack Method. FastTrack
+- [FastTrack Migration Support Team (MST)](https://fasttrack.microsoft.com/v2/en-us/help): The FastTrack Migration Support Team (MST) focuses on the core FastTrack Migration Platform, which covers areas including the FastTrack Portal, the Migration Hub, and Power BI reporting. MST also covers internal tooling such as scheduling, orchestration, and execution. FastTrack
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/ModernWorkSolutionArea) for more partner resources.
 
