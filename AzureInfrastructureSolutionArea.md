@@ -71,6 +71,7 @@ Source | Description | Notes
 :----- | :---------- | :-----
 [FastTrack for Azure Blog](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/bg-p/FastTrackforAzureBlog) | [Microsoft FastTrack](https://techcommunity.microsoft.com/t5/microsoft-fasttrack/ct-p/FastTrack) engages with customers and partners and maintain a collection of resources here | Tech Community
 [FastTrack for Azure](https://github.com/Azure/FTALive-Sessions) | This repository has been created to share our FastTrack for Azure Live session materials in one easy to manage location. | Github
+[Migration Execution Guide](https://github.com/Azure/migration) | This repo contains a Migration Execution Guide, which has been authored and developed by a team of FastTrack for Azure Program Managers and Engineers working with the Microsoft SMC team, the Azure Advanced Cloud Engineering team and the Customer Success Unit | FAstTrack
 
 ## Azure Certifications
 
@@ -105,6 +106,8 @@ Source | Description | Notes
 [Azure Latency Test](https://www.azurespeed.com/Azure/Latency) | This tool runs latency test from your IP location to Azure datacenters around the world. | Microsoft Data Center Optimization Program
 [Azure Governance Visualizer](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting) | from the collected data AzGovViz provides visibility on your HierarchyMap, creates a TenantSummary, creates DefinitionInsights and builds granular ScopeInsights on Management Groups and Subscriptions. The technical requirements as well as the required permissions are minimal. | @JulianHayward Github
 [AzAdvertizer](https://www.azadvertizer.net/index.html)| AzAdvertizer helps you to keep up with the pace by providing overview and insights on new releases and changes/updates for Azure Governance capabilities such as Azure Policy's policy definitions, initiatives (set definitions), aliases, security & regulatory compliance controls and Azure RBAC's role definitions and resource provider operations. |
+[PSRule for Azure](https://azure.github.io/PSRule.Rules.Azure/) | Ready to go rules for testing Azure Infrastructure as Code (IaC). | GitHub
+[Awesoem Azure Architecture](https://github.com/lukemurraynz/awesome-azure-architecture) | by @lukemurraynz - A curated list of AWESOME blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure. | GitHub
 
 
 ## Azure Well-Architected Framework
