@@ -236,6 +236,7 @@ Source | Description | Notes
 [Oracle Database Workloads](https://github.com/Azure/Oracle-Workloads-for-Azure) | This project documents the method of sizing on-prem Oracle Database workloads for initial migration into Azure | Github
 [Oracle on Azure IaaS](https://github.com/Azure/Oracle-Workloads-for-Azure/blob/main/Oracle%20on%20Azure%20IaaS%20Recommended%20Practices%20for%20Success.pdf) | Recommended Practices for Success | GitHub
 [Oracle RAC on Azure](https://techcommunity.microsoft.com/t5/data-architecture-blog/oracle-rac-on-azure/ba-p/1185410) | The goal of this post is to push past the idea that a lift and shift should always be a 1:1 move.  It's important when moving to the cloud to use the right tools, not just the tools you've always used, which is a very important lesson when it comes to Oracle Real Application Cluster, (RAC). | Tech Community
+[Oracle Database Service for Azure](https://www.oracle.com/cloud/azure/oracle-database-for-azure/) | Oracle Database Service for Microsoft Azure is an Oracle-managed service for Azure customers to easily provision, access, and operate enterprise-grade Oracle Database services in Oracle Cloud Infrastructure (OCI) with a familiar Azure-like experience. Users can seamlessly build Azure applications with the high performance, high availability, and automated management of Oracle Database services, such as Autonomous Database, running on OCI. | Oracle
 
 ##  Workload - Azure VMWare Solution (AVS)
 
