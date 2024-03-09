@@ -138,6 +138,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Data residency in the AI era: New capabilities to manage your data ](https://www.microsoft.com/en-us/microsoft-365/blog/2024/03/07/data-residency-in-the-ai-era-new-capabilities-to-manage-your-data/) | Announcing the expansion of Microsoft’s data residency capabilities by adding content of interactions with Microsoft Copilot for Microsoft 365 to our portfolio of data residency commitments and offerings. We are expanding our product terms and Microsoft 365 data residency offerings to contractually guarantee that we will store the content of your interactions with Copilot for Microsoft 365 in the same country or region in which you store your existing Microsoft 365 content.  | Microsoft Blog
 [M365 Copilot Public Product Roadmap](https://aka.ms/M365CopilotRoadmap) | M365 Copilot Roadmap includes, launched, rolling out, and in development features. | M365
 [Microsoft Copilot Partner Bootcamp](https://vshow.on24.com/vshow/FY24_SBcamp/registration/23189) | Partner Sales Enablement Hub| Partner Sales Enablement Hub
 [Microsoft 365 Copilot - Partner Opportunities](https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FMicrosoft365-Copilot-Services-Solution-Partner-Opportunities.pptx&download=1)| M365 Copilot Partner opportunities - guidance on advisory, deployment, selling, adopting, and extending M365 Copilot | Transform
