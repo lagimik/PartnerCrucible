@@ -11,7 +11,14 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Accelerating telco transformation in the era of AI](https://blogs.microsoft.com/blog/2024/02/25/accelerating-telco-transformation-in-the-era-of-ai/) | Accelerating Telco Transformation in the Era of AI by Jason Zander, Executive Vice President, Strategic Missions and Technology, to learn how operators are using Microsoft’s AI and Copilot solutions to elevate customer experiences, streamline business operations, monetize 5G investments, and modernize their network.| Microsoft Blog
 [Launch into satellite applications with Microsoft Azure](https://www.infoworld.com/article/3705670/launch-into-satellite-applications-with-microsoft-azure.html) |Microsoft’s Azure Space platform and Azure Orbital Space SDK are taking edge computing to the final frontier, starting with satellite image processing, geospatial, and communications applications.| InfoWorld
+
+## Azure for Operators
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[AI-powered Future Cloud for Telecommunications Community](https://smt.microsoft.com/en-US/Accelerate-Telco-Transformation-in-the-Era-of-AI/) | Sign-up to the AI-powered Future Cloud for Telecommunications Community to receive exclusive insights on how to accelerate telco transformation in the era of AI | Form
 
 ## AIOps
 
@@ -28,6 +35,8 @@ Source | Description | Notes
 [5G paradigm](https://aka.ms/New5GParadigm)|How developers can benefit from the 5G paradigm|..
 [5G Modern Connected Apps news and updates](https://aka.ms/ModernConnectedApps)| Sign up for updates| ...
 [Scalable management of virtualized RAN with Kubernetes](https://azure.microsoft.com/en-us/blog/scalable-management-of-virtualized-ran-with-kubernetes/) | Kubernetes for Operator RAN (KfOR) extensions for virtualized RAN| Blog
+[Connect with the Azure private MEC team](https://smt.microsoft.com/en-US/Azure-private-MEC-interest-form/) | Whether you're an enterprise looking to leverage our solutions, a developer eager to create network-aware applications, or an application ISV seeking to collaborate with Microsoft on MEC solutions, we invite you to take the next step. Sign up now to join us in building the future of telecommunications with Azure for Operators.| Form
+[Modern Connected Apps Newsletter](https://smt.microsoft.com/en-US/modern-connected-apps-newsletter-signup/) | To learn how Microsoft is helping organizations embrace 5G with modern connected applications, sign up for news and updates delivered to your inbox. | Form
 
 # Azure Space
 
