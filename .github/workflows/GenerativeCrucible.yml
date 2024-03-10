@@ -90,7 +90,7 @@ jobs:
         id: summary-stagger
         uses: m3y/random-wait-action@v1
         with:
-          max-wait-time: 90
+          max-wait-time: 15
 
       - name: Create Summary Completion Jobs
         if: ${{ (matrix.changes.change != null)  }}
@@ -206,7 +206,7 @@ jobs:
 
       - name: Download and Expand Artifact
         id: download-artifact
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v3
         with:
           name: completion-segments
           path: .
