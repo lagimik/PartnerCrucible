@@ -21,7 +21,7 @@ This post aims to frame the Independent Software Vendor or Service Provider jour
 * The journey to SaaS is often (mistakenly) described as  "*SaaSifying your software solution*". It is, in reality, about "**SaaSifying your business**"
 * The journey to a SaaS business will **affect many of the current business and technology practices**, some of which have *very deep roots*.
 * Frame your north star in terms of both a target **marketplace and technology model**
-* **[SaaS Academy](https://www.microsoft.com/en-us/saas-academy/main) and [Marketplace Summit](https://marketplacesummit.microsoft.com/)** and key guides on this journey.
+* **[SaaS Academy](https://www.microsoft.com/en-us/saas-academy/main) is a key guide on this journey.
 
 
 ## Why SaaS? - The S-curve of business growth

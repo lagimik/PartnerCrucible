@@ -18,7 +18,7 @@ Updates include new reference material for partners in the business applications
 
 ![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2023-07-07-DataAISolutionArea-AzureOpenAI.md-image.png )
 
-Visit the [Partner Crucible Business Applications](https://lagimik.github.io/PartnerCrucible/BusinessApplicationsSolutionAreaI) topic page for more partner resources.
+Visit the [Partner Crucible Business Applications](https://lagimik.github.io/PartnerCrucible/BusinessApplicationsSolutionArea) topic page for more partner resources.
 
 # Data & AI
 - AOAI Logging and Development Guidance- [Implement logging and monitoring for Azure OpenAI models](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/log-monitor-azure-openai): This solution provides comprehensive logging and monitoring and enhanced security for enterprise deployments of the Azure OpenAI Service API. (Architecture Center)

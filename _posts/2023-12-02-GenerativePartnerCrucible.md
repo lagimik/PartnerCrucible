@@ -38,7 +38,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 - [Oracle Database@Azure FAQ](https://www.oracle.com/cloud/azure/oracle-database-at-azure/faq/): This FAQ provides information about Oracle Database@Azure.
 - [Triage practices for AKS operations](https://learn.microsoft.com/en-us/azure/architecture/operator-guides/aks/aks-triage-practices): This series of articles describes the top-down approaches to addressing cluster health, node/pod health, workload deployments, admission controllers, and container registry connectivity in AKS operations.
 
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/AzureInfrastructue) for more partner resources.
+Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/AzureInfrastructure) for more partner resources.
 
  
 ![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2023-12-02-DataAISolutionArea-AzureOpenAI.md-image.png )

@@ -27,7 +27,6 @@ Event | Description |  Dates
 Source | Description | Notes
 :----- | :---------- | :-----
 [The Garage](https://www.microsoft.com/en-us/garage/) | The Garage deliver programs and experiences to our employees, customers, and ecosystem that drive collaboration, creativity, and experimentation.| The Garage
-[Microsoft OpenHack](https://openhack.microsoft.com/)| Microsoft OpenHack
 [OpenHack on Github](https://github.com/microsoft/OpenHack) | OpenHack GitHut Repo
 [WhatTheHack on GitHub](https://github.com/microsoft/WhatTheHack) | Community 
 [Fastlane OpenHack](https://www.fastlanetraining.ca/openhack-ca) | OpenHack offered by FastLane (Canada)driven openhack resources  | GitHub
