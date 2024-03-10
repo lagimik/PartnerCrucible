@@ -86,6 +86,12 @@ jobs:
           echo "${{ matrix.changes.file}}"
           echo "${{ matrix.changes.change}}"
 
+      - name: Summary stagger
+        id: summary-stagger
+        uses: m3y/random-wait-action@v1
+        with:
+          max-wait-time: 90
+
       - name: Create Summary Completion Jobs
         if: ${{ (matrix.changes.change != null)  }}
         uses: austenstone/openai-completion-action@main
