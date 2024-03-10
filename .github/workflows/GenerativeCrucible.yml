@@ -113,7 +113,7 @@ jobs:
             "${{ matrix.changes.change}}"
           max_tokens: 5
         env:
-          OPENAI_API_KEY: 5
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
       - name: Extract Completion and Create ChangeLog
         if: ${{ (matrix.changes.change != null) }}
