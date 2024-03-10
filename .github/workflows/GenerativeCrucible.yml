@@ -111,7 +111,7 @@ jobs:
             "- [link title](link url): description"
 
             "${{ matrix.changes.change}}"
-          max_tokens: 5
+          max_tokens: 1000
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
@@ -121,7 +121,7 @@ jobs:
         env:
           FILENAME: ${{ matrix.changes.file}}
           MARKDOWN_FILENAME: ${{ matrix.changes.file}}-changelog.md
-          SUMMARY: fromJson.parse('${{ steps.create-summary.outputs.response }}').choices[0].message.content
+          SUMMARY: ${{ fromJson(steps.create-summary.outputs.response).choices[0].message.content }}
         run: |
           echo $SUMMARY
           echo "" >> $MARKDOWN_FILENAME
