@@ -20,7 +20,7 @@ jobs:
         run: |
           echo "CRUCIBLE_HISTORY=${{ vars.CRUCIBLE_HISTORY }}" >> $GITHUB_OUTPUT
 
-      - uses: tj-actions/changed-files@v35
+      - uses: tj-actions/changed-files@v42
         name: Changed Files
         id: changed-files
 
