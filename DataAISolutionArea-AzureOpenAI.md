@@ -95,7 +95,15 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :-----  | :-----
 [Llama 2 on Azure](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/introducing-llama-2-on-azure/ba-p/3881233) | Llama 2 is the next generation of large language model (LLM) developed and released by Meta. It is pretrained on 2 trillion tokens of public data and is designed to enable developers and organizations to build generative AI-powered tools and experiences. | Tech Community
+
+## Azure OpenAI Models - Whisper
+
+Source | Description | Notes
+:----- | :-----  | :-----
 [Preview of OpenAI Whisper in Azure OpenAI service and Azure AI Speech](https://techcommunity.microsoft.com/t5/azure-ai-services-blog/announcing-the-preview-of-openai-whisper-in-azure-openai-service/ba-p/3928388?WT.mc_id=academic-0000-abartolo) | The OpenAI Whisper model is an encoder-decoder Transformer that can transcribe audio into text in 57 languages. Additionally, it offers translation services from those languages to English, producing English-only output. Furthermore, it creates transcripts with enhanced readability. | Tech Community
+[Speech Studio](https://speech.microsoft.com/portal/batchspeechtotext) | Developers preferring to use the Whisper model in Azure AI Speech can access it through the Batch speech-to-text in Azure AI Speech Studio. | Speech Studio
+[Speech to text with the Azure OpenAI Whisper model](https://learn.microsoft.com/en-us/azure/ai-services/openai/whisper-quickstart?tabs=command-line%2Cpython&pivots=rest-api) | In this quickstart, you use the Azure OpenAI Whisper model for speech to text. | Microsoft Learn
+[Create a batch transcription](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/batch-transcription-create?pivots=rest-api#using-whisper-models) | With batch transcriptions, you submit audio data in a batch. The service transcribes the audio data and stores the results in a storage container. You can then retrieve the results from the storage container.| Microsoft Learn
 
 ## Azure OpenAI Learning Path
 
