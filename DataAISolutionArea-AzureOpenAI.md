@@ -64,6 +64,8 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[What's new in Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/ai-services/openai/whats-new) | STay up to date on model, API, and Azure OpenAI service updates| Microsoft Lean
+[Azure OpenAI Service model deprecations and retirements](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/model-retirements) | Azure OpenAI Service models are continually refreshed with newer and more capable models. As part of this process, we deprecate and retire older models. This document provides information about the models that are currently available, deprecated, and retired. | Microsoft Lean
 [What runs ChatGPT?](https://www.youtube.com/watch?v=Rk3nTUfRZmo) | Inside Microsoft's AI supercomputer Featuring Mark Russinovich - Get an inside look at the AI supercomputer infrastructure built to run ChatGPT and other large language models, and see how to leverage it for your workloads in Azure, at any scale. | Microsoft Mechanics
 [Data, privacy, and security for Azure OpenAI Service](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy) |This article provides details regarding how data provided by you to the Azure OpenAI service is processed, used, and stored. | Microsoft Learn
 [Azure OpenAI Service Documentation](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/) | Learn how to use Azure OpenAI's powerful language models including the GPT-3, Codex and Embeddings model series for content generation, summarization, semantic search, and natural language to code translation. | Microsoft Learn
