@@ -20,6 +20,7 @@ Source | Description | Notes
 [Industry Resources](https://microsoft.github.io/PartnerResources/industry/)| Industry resources| Microsoft US
 [Water replenishment: Our learnings on the journey to water positive](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1eAAY) | This paper shares our learnings as we developed our global corporate water replenishment program. | Microsoft 
 [IDC MarketScape: Worldwide Environmental, Social, and Governance Program Management Software 2023 Vendor Assessment](https://www.linkedin.com/posts/shellyblackburn_microsoft-sustainability-aiforgood-activity-7116155969365053440-Ek1Y?utm_source=share&utm_medium=member_desktop) | Microsoft was rated a Leader in reporting technology in the IDC MarketScape: Worldwide Corporate Environmental, Social, and Governance Reporting Technology 2023 Vendor Assessment and as a Major Player in the program management software in the IDC MarketScape: Worldwide Environmental, Social, and Governance Program Management Software 2023 Vendor Assessment. @Shelly Blackburn| IDC MarketScape
+[IDC MarketScape: Smart City Platforms Assessment](https://wwps.microsoft.com/blog/idc-marketscape-cities) | Microsoft as a leader in IDC vendor assessment of the current market for worldwide IoT applications platforms for Smart Cities.| IDC MarketScape
 
 ## Skilling
 
