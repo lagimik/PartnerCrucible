@@ -101,7 +101,7 @@ Source | Description | Notes
 :----- | :---------- | :----
 [Azure Network Security Ninja Training](https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-network-security-ninja-training/ba-p/2356101) | In this blog post, we will walk you through basic to advanced scenarios for Azure network security. Ready to become an Azure NetSec ninja? Dive right in! | Tech Community 2022
 
-## Copilot
+## Security Copilot
 
 Source | Description | Notes
 :----- | :---------- | :----
