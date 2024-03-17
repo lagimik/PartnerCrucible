@@ -36,6 +36,7 @@ Source | Description | Notes
 :----- | :---------- | :----
 [Digital and App Innovation Playbook](https://assetsprod.microsoft.com/en-ca/fy24-azure-digital-and-app-innovation-partner-playbook.pdf) | Strategy, Solution Plays, and Key Resources | Partners FY24
 [Microsoft Assessments](https://learn.microsoft.com/en-us/assessments/) | Microsoft Assessments help customers work through a scenario of questions and recommendations that result in a curated guidance report that is actionable and informative. Assessments take time, but is time well-spent. | Microsoft Learn
+[GitHub Copilot Analysis, Customized Rules, and more come to the Azure Migrate application and code assessment](https://devblogs.microsoft.com/dotnet/azure-migrate-application-and-code-assessment-march-2024-update/?WT.mc_id=academic-0000-abartolo) | Azure Migrate application and code assessment for .NET (both the VS extension and the CLI) | Dev Blogs
 
 ## Tools and Practices
 
