@@ -58,6 +58,7 @@ Source | Description | Notes
 [Understanding the Difference in Using Different Large Language Models: Step-by-Step Guide](https://techcommunity.microsoft.com/t5/educator-developer-blog/understanding-the-difference-in-using-different-large-language/ba-p/3919444)| In this blog, you will learn how to leverage different Large Language Models available on Azure Machine Learning and provided by Hugging Face, Azure ML, OpenAI, and Meta. Also, you will learn how to integrate them into your Web Application or Power App.| Tech Community
 [Learning About Generative AI](https://www.youtube.com/watch?v=Ch6KE7KxHGM) | @John Savill explores the Generative AI concepts and services | YouTube
 [Azure OpenAI as a central capability with Azure API Management](https://github.com/Azure/enterprise-azureai) | Unleash the power of Azure OpenAI to your application developers in a secure & manageable way with Azure API Management and Azure Developer CLI | GitHub
+[Security for AI: How to Secure and govern AI usage](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/security-for-ai-how-to-secure-and-govern-ai-usage/ba-p/4082269) |  detailed guidance on implementing the controls for securing and governing AI usage| Tech Community
 
 
 ## Azure OpenAI Services
