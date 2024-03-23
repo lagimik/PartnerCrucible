@@ -92,6 +92,12 @@ Source | Description | Notes
 [Building your own copilot – yes, but how? (Part 1 of 2)](https://techcommunity.microsoft.com/t5/educator-developer-blog/building-your-own-copilot-yes-but-how-part-1-of-2/ba-p/4029571?WT.mc_id=academic-0000-abartolo) |  This blog post wants to provide an overview of some of the main choices you have in the Microsoft technology ecosystem. Part 1 will look into low code tools and out-of-the-box features, while part 2 will focus on code-heavy and extensible options. | Tech Community
 [Model catalog in Azure AI Studio](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/model-catalog) | The model catalog in AI Studio is a hub for discovering foundation models. The catalog includes some of the most popular large language and vision foundation models curated by Microsoft, Hugging Face, and Meta. These models are packaged for out-of-the-box usage and are optimized for use in Azure AI Studio.| Microsoft Learn
 
+## Azure OpenAI APIs
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Azure OpenAI Assistants](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/assistant) | Azure OpenAI Assistants (Preview) allows you to create AI assistants tailored to your needs through custom instructions and augmented by advanced tools like code interpreter, and custom functions. Discover Assistants API, Tools, and PLayground. | Microsoft Learn
+
 ## Azure OpenAI Models
 
 Source | Description | Notes
