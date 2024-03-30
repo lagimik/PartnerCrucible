@@ -19,7 +19,7 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 Source | Description | Notes
 :----- | :-----  | :-----
 [The Microsoft 365 Partner Opportunity](https://aka.ms/W365PartnerTEI) | A Total Economic Impact Partner Opportunity Analysis | Forrester 2023
-[Analyst Studies](https://vc.transform.microsoft.com/analyststudies) | Comprehensive listing of Total Economic Impact (TEI) studies of Microsoft Modern Work solutions| Forrester
+[Analyst Studies](https://bcb.transform.microsoft.com/analyststudies) | Comprehensive listing of Total Economic Impact (TEI) studies of Microsoft Modern Work solutions| Forrester
 [Creating learn-it-alls at Microsoft with Viva Learning and LinkedIn Learning Hub](https://www.microsoft.com/insidetrack/blog/creating-learn-it-alls-at-microsoft-with-viva-learning-and-linkedin-learning-hub/?ocid=InsideTrack_Promotion_10440) | Microsoft has deployed Microsoft Viva Learning and LinkedIn Learning Hub internally at the company. | Microsoft Inside Track
 [Work Trend Index](https://www.microsoft.com/en-us/worklab/work-trend-index/) | Research and data on the trends reshaping the world of work | Microsoft Work Index
 
