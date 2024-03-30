@@ -66,5 +66,6 @@ Source | Description | Notes
 :----- | :---------- | :-----
 [Copilot for Finance (preview)](https://learn.microsoft.com/en-us/copilot/finance/welcome) | Copilot empowers finance professionals to stay in the flow of work by seamlessly connecting productivity tools such as Excel with existing financial systems to support critical business processes and generate insights and actions in real time.| Microsoft Learn
 [Microsoft Copilot Scenario Library](https://adoption.microsoft.com/en-us/copilot-scenario-library/) |  Use our guidance by department and individual scenario to get inspired, empower your workforce and realize value from your Copilot investment. ​| Microsoft Adoption
-[](https://learn.microsoft.com/en-us/microsoft-cloud/dev/copilot/isv-extensibility-story) | | Microsoft Learn
+[Extensibility for Microsoft Copilot](https://learn.microsoft.com/en-us/microsoft-cloud/dev/copilot/isv-extensibility-story) | Extensibility  approaches  broken into patterns based on scenarios to help you navigate the most appropriate path for your scenario and requirements. | Microsoft Learn
+
 
