@@ -19,7 +19,8 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 Source | Description | Notes
 :----- | :-----  | :-----
 [The Microsoft 365 Partner Opportunity](https://aka.ms/W365PartnerTEI) | A Total Economic Impact Partner Opportunity Analysis | Forrester 2023
-[Analyst Studies](https://bcb.transform.microsoft.com/analyststudies) | Comprehensive listing of Total Economic Impact (TEI) studies of Microsoft Modern Work solutions| Forrester
+[Analyst Studies](https://bcb.transform.microsoft.com/analyststudies) | BCB Analyst Studies page, the central hub for the studies that support the data and calculations used in the Business Case Builder. The studies contain great information on all the products included in the BCB. You can use them to get more familiar with each product’s business value. Understanding the reports will make it easier to explain the BCB benefits to your customers. You can also share these studies with your customers, so they understand the business value as well | Forrester
+[TEI Of Microsoft Copilot For Microsoft 365](https://bcb.transform.microsoft.com/analyststudies) | The Projected Total Economic Impact™ Of Microsoft Copilot For Microsoft 365 - Cost Savings And Business Benefits Enabled By Copilot For Microsoft 365| Forrester, April 2024
 [Creating learn-it-alls at Microsoft with Viva Learning and LinkedIn Learning Hub](https://www.microsoft.com/insidetrack/blog/creating-learn-it-alls-at-microsoft-with-viva-learning-and-linkedin-learning-hub/?ocid=InsideTrack_Promotion_10440) | Microsoft has deployed Microsoft Viva Learning and LinkedIn Learning Hub internally at the company. | Microsoft Inside Track
 [Work Trend Index](https://www.microsoft.com/en-us/worklab/work-trend-index/) | Research and data on the trends reshaping the world of work | Microsoft Work Index
 
