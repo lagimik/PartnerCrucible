@@ -55,7 +55,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ## What's new
 
-Added Azure Well-Architected Framework - Service Guides
+- Added Azure Well-Architected Framework - Service Guides
 
 ## Deep links
 
