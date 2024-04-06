@@ -26,7 +26,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ## What's new
 
-- Added a curated set of links for Microsoft Copilot for Security including practice building in the Security solution and Copilot for Security area, industry perspectives, community connections, partner practice building resources, tech resources, integrations, and plugins.
+- Added a curated set of links for Microsoft Copilot for Security including industry perspectives, community connections, partner practice building resources, tech resources, integrations, and plugins.
 
 ## Deep links
 
