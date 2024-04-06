@@ -40,13 +40,11 @@ Source | Description | Notes
 :----- | :---------- | :----
 [Security, Compliance, and Identity](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ct-p/MicrosoftSecurityandCompliance) | Microsoft Tech Community for Security, Compliance, and Identity | Tech Community
 [Customer Connection Programs](https://aka.ms/JoinCCP) | This form is used for accessing the following communities: Cloud Security Customer Connection Program, Microsoft 365 Defender Customer Connection Program, Management Customer Connection Program, Microsoft Entra Advisors | Microsoft Community
-[Copilot for Security Customer Connection Program (CCP)](https://aka.ms/JoinCCP) | Community Connected Program for Copilot for Security| Microsoft Community
 [Afternoon Cyber Tea with Ann Johnson](https://open.spotify.com/show/3bLXLVq9nSoj3xtrNh0Br5) | Ann Johnson, Corporate Vice President, Business Development, Security, Compliance & Identity at Microsoft, talks with cybersecurity thought leaders and influential industry experts about the trends shaping the cyber landscape and what should be top-of-mind for the C-suite and other key decision makers. Ann and her guests explore the risk and promise of tools and systems powered by AI, IoT, machine learning, and other emerging technology, as well as the impact on how humans work, communicate, consume information, and live in this era of digital transformation. Please note, the opinions expressed by guests on this podcast are their own and are not endorsed by, nor do they necessarily reflect opinions of, Microsoft or Ann Johnson.| Spotify
 [Get Security Done (GSD)](https://dcaddick.github.io/gsd_public/) | Looking to collaborate on helping Customers and Partners uplift Security via the Microsoft Defender Suite | from @dcaddick
 [My Faber Security](https://myfabersecurity.com/) | Security, Compliance, and Identity blogs, focusing on Microsoft Security offerings. | from @AngelicaFaber
 [Rod's Blog](https://rodtrent.substack.com/) | Microsoft Security and AI with lots of Microsoft Sentinel Sprinkled in. This is not an official Microsoft blog. | Blog
 [Must Learn AI Security](https://aka.ms/MustLearnAISecurity) | This is the book version of the Must Learn AI Security series. It will be updated each time a new part of the series is released. | GitHub
-[Cybersecurity Copilot hub](https://cybersecurity-copilot.com/) | By @Sameh Younis - As a seasoned Senior Security Solutions Architect with over 30 years in the field, including 16 years at Microsoft, this website offers a succinct way to access and search my LinkedIn articles and infographics. With a focus on cybersecurity and Azure cloud infrastructure, this platform is your guide to the latest developments and strategies in digital security. | 
 
 ## Partner Practice Building
 
@@ -54,7 +52,6 @@ Source | Description | Notes
 :----- | :---------- | :----
 [Security Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy24-security-partner-playbook.pdf) | Describes Microsoft GTM Strategy, Solution Plays, Partner Priorities, and Key Resources| Partner FY24
 [The Partner Opportunity For Microsoft Security](https://aka.ms/ForresterMSSecurityTEI2023) | Microsoft commissioned Forrester Consulting to conduct a Total Economic Impact™ (TEI) study to examine how partners can benefit from investing in and expanding their Microsoft security practices for both small and medium-sized businesses (SMBs) and enterprise customers. “Microsoft security” is a broad term that encompasses all products and services across six product families: Microsoft Defender, Microsoft Sentinel, Microsoft Entra, Microsoft Intune, Microsoft Purview, and Microsoft Priva. | Foresster 2023
-[Microsoft Security Partner](https://securitypartners.transform.microsoft.com/security-copilot) | Microsoft for Security Partners landing page including references for sales plays and partner skilling | Transform
 [Investing in MXDR partner success](https://cloudpartners.transform.microsoft.com/mxdrpartners) | Demand for managed extended detection and response (MXDR) services is on a fast growth trajectory. Today, more than 860,000 organizations use Microsoft security products,1 and according to Gartner, more than 60 percent of organizations will be using managed detection and response (MDR) services for threat monitoring, detection, and response functions that offer threat containment and mitigation capabilities by 2025.2 Partners play a critical role in addressing this incredible customer demand, and Microsoft is investing in your ability to meet this coming need. | Transform
 [Security, Compliance, & Identity Partner Sales Acceleration Program (PSAP)](https://partner.microsoft.com/en-us/training/assets/collection/security-compliance-and-identity-partner-sales-acceleration-program-psap#/) | This program offers best practices and presentation resources that will guide you in shaping a business-first sales model that focuses on the Microsoft Security, Compliance, & Identity solution area and its core sales plays.​ | Microsoft Partner
 [Microsoft Managed Security Solutions Provider Partner Program](https://cloudaccelerator.microsoft.com/mssp-partner-program)| The Microsoft Managed Security Solutions Provider Partner Program is an invite-only program that has been created to support selected partners in creating customer intent to purchase and use Microsoft security technologies and solutions. |
@@ -102,21 +99,10 @@ Source | Description | Notes
 :----- | :---------- | :----
 [Azure Network Security Ninja Training](https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-network-security-ninja-training/ba-p/2356101) | In this blog post, we will walk you through basic to advanced scenarios for Azure network security. Ready to become an Azure NetSec ninja? Dive right in! | Tech Community 2022
 
-## Security Copilot
+## Copilot for Security
 
-Source | Description | Notes
-:----- | :---------- | :----
-[Copilot for Security Technical Resources](https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot) | Topic page devoted to Microsfot Copilot for Security | MS US Partner Resources 
-[Microsoft Security Copilot - Partner Interest Form](http://aka.ms/securitycopilotpartner) | Learn more about how to engage customers
-[What is Microsoft Security Copilot](https://learn.microsoft.com/en-us/security-copilot/microsoft-security-copilot?view=o365-worldwide) | Microsoft Security Copilot (Security Copilot) is a generative AI-powered security solution that helps increase the efficiency and capabilities of defenders to improve security outcomes at machine speed and scale, while remaining compliant to responsible AI principles. | Microsoft Learn
-[Operationalizing Microsoft Security Copilot to Reinvent SOC Productivity](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/operationalizing-microsoft-security-copilot-to-reinvent-soc/ba-p/3944877) | While our core products detect and respond at machine speed, our ongoing mission is to upskill SOC analysts and empower them to be more efficient where they’re needed to engage. To bridge this gap, we are bringing Security Copilot into our industry-leading XDR platform, Microsoft 365 Defender, which is like adding the ultimate expert SOC analyst to your team, both raising the skill bar and increasing efficiency and autonomy | Tech Community
-[Prompting and promptbooks](https://learn.microsoft.com/en-us/security-copilot/prompting-security-copilot?view=o365-worldwide) | Promptbooks are a collection of prompts that have been put together to accomplish specific security-related tasks. Each promptbook requires a specific input (for example, a code snippet or a threat actor name) and then runs a series of prompts in sequence, with one prompt building on the one before it. | Microsoft Learn
-[Triage alerts](https://learn.microsoft.com/en-us/security-copilot/triage-alert-with-enriched-threat-intel?view=o365-worldwide) | riage incidents based on enrichment from threat intelligence | Microsoft Learn
-[Integration & Investigate in #M365D](https://learn.microsoft.com/en-us/security-copilot/investigate-incident-malicious-script?view=o365-worldwide) | Investigate an incident and associated suspicious entities | Microsoft Learn
-[Plugins](https://learn.microsoft.com/en-us/security-copilot/manage-plugins?view=o365-worldwide&tabs=securitycopilotplugin) | Manage plugins in Microsoft Security Copilot : Entra, #Intune, #M365Defender, #Sentinel, #DefenderThreatIntelligence, #ServiceNow, #NaturalLanguageToKQL | Microsoft Learn
-[Privacy and data security](https://learn.microsoft.com/en-us/security-copilot/privacy-data-security?view=o365-worldwide) |  Privacy and data security in Microsoft Security Copilot | Microsoft Learn
-[FAQ](https://learn.microsoft.com/en-us/security-copilot/faq-security-copilot?view=o365-worldwide) | Microsoft Security Copilot Early Access Program Frequently Asked Questions | Microsoft Learn
-
+* See the [Copilot for Security](../PartnerCrucible/SecuritySolutionArea-Copilot)
+* 
 ## Sentinel
 
 * See the [Sentinel page](../PartnerCrucible/SecuritySolutionArea-Sentinel)
