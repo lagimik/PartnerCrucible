@@ -46,14 +46,13 @@ Source | Description | Notes
 [Using Azure Databricks with Microsoft Fabric and OneLake](https://blog.fabric.microsoft.com/en-us/blog/using-azure-databricks-with-microsoft-fabric-and-onelake?ft=All:) | How does Azure Databricks work with Microsoft Fabric? With the recent announcement of Microsoft Fabric, this question might have appeared in your social media feed. This blog post will answer that question and more details on how the two systems can work together.| Blog
 
 
-
-
 ## Access Fabric
 
 Source | Description | Notes
 :----- | :-----  | :-----
 [Accessing Microsoft Fabric for developers, startups and enterprises](https://blog.fabric.microsoft.com/en-us/blog/accessing-microsoft-fabric-for-developers-startups-and-enterprises?ft=All) | Enabling Microsoft Fabric as a developer, as a startup or as an enterprise has different steps. In this blog, I am covering those steps for all different users. | Blog
 [Microsoft Fabric - Free Trial](https://learn.microsoft.com/en-us/fabric/get-started/fabric-trial) | Free Trial| Microsoft
+[Fabric SKU Calculator](https://assetsprod.microsoft.com/thumb/b5bb561c71bc4c16865c521998cbca6b) | Use SKU calculator for Microsoft Fabric based mapped to CU | Partner Center
 
 
 ## Skilling
