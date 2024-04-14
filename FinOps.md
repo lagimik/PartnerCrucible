@@ -20,7 +20,7 @@ Source | Description | Notes
 [FinOps for Azure](https://info.microsoft.com/ww-ondemand-implement-finops-for-azure.html?lcid=en-us) | Watch this webinar to learn about FinOps principles as well as the Microsoft Azure solutions, offers and tools that can help you manage your cloud environment in a financially effective way. |...
 [Implement FinOps and Azure](https://on24static.akamaized.net/event/33/08/49/2/rt/1/documents/resourceList1626975656008/implementfinopsonazure1626975651629.pdf) | Cloud economics, FinOps, and how to implement on Azure | Slide from Webinar
 [FinOps with Azure](https://azure.microsoft.com/en-us/resources/finops-with-azure-bringing-finops-to-life-through-organizational-and-cultural-alignment/en-us/?cdn=disable) | Bringing FinOps to life through organizational and cultural alignment: this e-book will guide you through the FinOps principles to highlight Microsoft solutions that can support the cloud journey and help your organization to maximize the cloud business value. | Azure
-
+[Discover and Drive Action with FinOps Workshop Resources](https://partner.microsoft.com/en-us/asset/collection/discover-and-drive-action-finops-resources#/) | This workshop is designed to support your cloud journey with FinOps best practices, enabling a culture of continuous optimization, accountability, and data-driven decisions to maximize the cloud's business value for your organization. Use this Azure Partner Led workshop to understand and optimize your migration, modernization, or innovation journey with Azure.| PArtner Center
 
 ## Tools
 
