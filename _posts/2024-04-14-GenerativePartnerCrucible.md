@@ -39,7 +39,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ SecuritySolutionArea-Copilot.md ]( /PartnerCrucible/assets/images/2024-04-14-SecuritySolutionArea-Copilot.md-image.png )
 
-# Security Solution Area
+# Security Solution Area - Copilot
 
 ## What's new
 
