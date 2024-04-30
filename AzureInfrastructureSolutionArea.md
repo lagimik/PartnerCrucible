@@ -109,6 +109,8 @@ Source | Description | Notes
 [AzAdvertizer](https://www.azadvertizer.net/index.html)| AzAdvertizer helps you to keep up with the pace by providing overview and insights on new releases and changes/updates for Azure Governance capabilities such as Azure Policy's policy definitions, initiatives (set definitions), aliases, security & regulatory compliance controls and Azure RBAC's role definitions and resource provider operations. |
 [PSRule for Azure](https://azure.github.io/PSRule.Rules.Azure/) | Ready to go rules for testing Azure Infrastructure as Code (IaC). | GitHub
 [Awesome Azure Architecture](https://github.com/lukemurraynz/awesome-azure-architecture) | by @lukemurraynz - A curated list of AWESOME blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure. | GitHub
+[Azure Monitoring Packs - V2](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-monitoring-packs-v2-is-out/ba-p/4104882) |  Azure Monitoring packs | Tech Community
+[Azure Monitor Baseline Alerts](https://azure.github.io/azure-monitor-baseline-alerts/welcome/) | The purpose of this site is to provide best practice guidance around key alerts metrics and their thresholds.| Azure Monitor Baseline Alerts
 
 
 ## Azure Well-Architected Framework
