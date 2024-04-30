@@ -53,13 +53,16 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [Accessing Microsoft Fabric for developers, startups and enterprises](https://blog.fabric.microsoft.com/en-us/blog/accessing-microsoft-fabric-for-developers-startups-and-enterprises?ft=All) | Enabling Microsoft Fabric as a developer, as a startup or as an enterprise has different steps. In this blog, I am covering those steps for all different users. | Blog
 [Microsoft Fabric - Free Trial](https://learn.microsoft.com/en-us/fabric/get-started/fabric-trial) | Free Trial| Microsoft
-[Fabric SKU Calculator](https://assetsprod.microsoft.com/thumb/b5bb561c71bc4c16865c521998cbca6b) | Use SKU calculator for Microsoft Fabric based mapped to CU | Partner Center
+[Fabric SKU Calculator](https://assetsprod.microsoft.com/mpn/en-us/fabric-sku-calculator.xlsm) | Use SKU calculator for Microsoft Fabric based mapped to CU | Partner Center
+[Fabric SKU Calculator - Demo](https://partner.microsoft.com/en-us/asset/detail/fabricsku-calculator-partner-ready-mp4) | Watch this demo to learn how to use the partner ready Fabric SKU Calculator to present to your customers | Partner Center
 
 
 ## Skilling
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Become a Fabric Analytics Engineer](https://aka.ms/fabriccareerhub) | Everything you need to get DP-600 certified. | Fabric Community
+[Fabric Readiness and Enablement Resources](https://aka.ms/FabricPartnerResources) | Watch Microsoft Fabric Launch Event, a two-day digital event to learn more about the exciting launch of Microsoft Fabric. Leverage the Microsoft Fabric customer L100 pitch decks and Microsoft Fabric Pricing and Transacting deck to create your Fabric presentation and engage your customers. Leave behind the Microsoft Fabric One Pager with your customers for more information. | Partner
 [Microsoft Fabric for those who know nothing about Fabric](https://techcommunity.microsoft.com/t5/educator-developer-blog/microsoft-fabric-for-those-who-know-nothing-about-fabric/ba-p/3999684) | move from zero knowledge or experience to a confident beginner.| Tech Community
 [Learn Live: Get started with Microsoft Fabric](https://developer.microsoft.com/en-us/reactor/series/S-1188/) | Whether you're building your career or the next great idea, Microsoft Reactor connects you with the developers and startups that share your goals. Learn new skills, meet new peers, and find career mentorship. Virtual events are running around the clock so join us anytime, anywhere! | Microsoft Reactor
 [Introduction to Microsoft Fabric - Webinar series](https://videos.microsoft.com/microsoft-fabric) | Webinar Series | Microsoft Videos
