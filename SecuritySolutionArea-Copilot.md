@@ -54,6 +54,7 @@ Source | Description | Notes
 [Integration & Investigate in #M365D](https://learn.microsoft.com/en-us/security-copilot/investigate-incident-malicious-script?view=o365-worldwide) | Investigate an incident and associated suspicious entities | Microsoft Learn
 [Privacy and data security](https://learn.microsoft.com/en-us/security-copilot/privacy-data-security?view=o365-worldwide) |  Privacy and data security in Microsoft Security Copilot | Microsoft Learn
 [FAQ](https://learn.microsoft.com/en-us/security-copilot/faq-security-copilot?view=o365-worldwide) | Microsoft Security Copilot Early Access Program Frequently Asked Questions | Microsoft Learn
+[Microsoft Copilot for Security Sample Prompts Library](https://github.com/Azure/Copilot-For-Security/tree/main/Sample%20Prompts) | a variety of examples to demonstrate how prompts can be used to achieve different security tasks. Our examples showcase how specific prompts can be utilized to perform a range of tasks. This is a collaborative page where people can learn from the examples and contribute their own. | GitHub
 
 ## Integration
 
