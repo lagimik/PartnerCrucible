@@ -68,6 +68,12 @@ Source | Description | Notes
 ## Azure OpenAI
 This section has been regrouped here: [Data & AI > Azure OpenAI](./DataAISolutionArea-AzureOpenAI)
 
+## Small Language Models
+
+Source | Description | Notes
+:----- | :-----  | :-----
+
+[Introducing Phi-3](https://azure.microsoft.com/en-us/blog/introducing-phi-3-redefining-whats-possible-with-slms/) | Phi-3 models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks. | Azure Blog
 
 ## Synapse
 
