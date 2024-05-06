@@ -14,6 +14,14 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [Microsoft Ecosystem Value: Partner Paths to Profitability and Growth](https://assetsprod.microsoft.com/en-us/idc-report-microsoft-ecosystem-value.pdf) | IDC conducted a study of the Microsoft partner ecosystem globally to understand the various pathways to success and the economic value that can be achieved from engaging with Microsoft and its technology | IDC
 
+# Start Here
+
+Pillar | Description | Why? | Next Step
+-----: | :---------- | :----- | :-----
+[Journey maps](https://partner.microsoft.com/en-us/resources/collection/microsoft-transformational-changes#/) | provides the vision, critical milestones and details about each milestone for key initiatives |
+[Operational readiness](https://partner.microsoft.com/en-US/resources) |provides the “how to”, playbooks, detailed components |
+[Community calls](https://globalpbocomm.eventbuilder.com/PartnerBusinessOperationsWebinars?source=JM) | gives partners an opportunity to connect with the SMEs and to ask questions |
+
 # Partner Practice Building References
 
 Pillar | Description | Why? | Next Step
