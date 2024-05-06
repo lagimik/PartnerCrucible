@@ -30,6 +30,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 # What's new
 
 - Updated Magic Quadrant™ for Cloud AI Developer Services
+- Added GDPR and GenAI
 
 # Deep links Gartner 
 
@@ -50,6 +51,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 # Deep links
 
 - [Bringing GenAI Offline: running SLM’s like Phi-2/Phi-3 and Whisper Models on Mobile Devices](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/bringing-genai-offline-running-slm-s-like-phi-2-phi-3-and/ba-p/4128056): In-depth insights into enabling offline capabilities for LLMs and running SLMs on mobile devices.
+
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea) for more partner resources.
 
 ![ DigitalAppsandInnovationSolutionArea.md ]( /PartnerCrucible/assets/images/2024-05-06-DigitalAppsandInnovationSolutionArea.md-image.png )
