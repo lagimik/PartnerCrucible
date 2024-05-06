@@ -3,40 +3,65 @@ title: 'Generative Partner Crucible - for the week ending 2024-05-06'
 date: 2024-05-06
 flag: GenerativePartnerCrucible
 layout: generativepartnercrucible
-thumbnail: /PartnerCrucible/assets/images/2024-05-06-PowerPlatformSolutionArea.md-image.png
+thumbnail: /PartnerCrucible/assets/images/AzureInfrastructureSolutionArea.md-image.png
 ---
-![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2024-05-06-AzureInfrastructureSolutionArea.md-image.png )
-## Azure Infrastructure Solution Area### What's newAdded Azure Monitoring Packs and Azure Monitor Baseline Alerts.### Deep links- [Azure Monitoring Packs - V2](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-monitoring-packs-v2-is-out/ba-p/4104882): Azure Monitoring packs on Tech Community.- [Azure Monitor Baseline Alerts](https://azure.github.io/azure-monitor-baseline-alerts/welcome/): Best practice guidance around key alerts metrics and their thresholds.
-
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/AzureInfrastructureSolutionArea) for more partner resources.
-
-![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2024-05-06-DataAISolutionArea-AzureOpenAI.md-image.png )
-## Data AI Solution Area - Azure OpenAI## What's newMicrosoft has been named a Leader for the fifth year in a row in the Gartner® Magic Quadrant™ for Cloud AI Developer Services for 2024. Additionally, resources have been added to help public sector organizations understand GDPR obligations when procuring generative AI services. There are also new guides on improving RAG performance with Azure AI Search and Azure AI prompt flow in Azure AI Studio, as well as evaluating RAG applications with AzureML Model Evaluation.## Deep links- [Magic Quadrant™ for Cloud AI Developer Services](https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-2024-gartner-magic-quadrant-for-cloud-ai-developer-services/): Updated for 2024 - Microsoft has been named a Leader for the fifth year in a row in the Gartner® Magic Quadrant™ for Cloud AI Developer Services and are especially proud to be placed furthest for our Completeness of Vision.- [GDPR and Generative AI – A Guide for the Public Sector](https://wwps.microsoft.com/blog/GDPR-GenAI): The paper provides an in-depth exploration of the key obligations under the GDPR for public sector organizations procuring generative AI services.- [Improving RAG performance with Azure AI Search and Azure AI prompt flow in Azure AI Studio](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/improving-rag-performance-with-azure-ai-search-and-azure-ai/ba-p/4117118): Information on using Azure AI Search to enhance the quality of RAG pattern results.- [Evaluating RAG Applications with AzureML Model Evaluation](https://techcommunity.microsoft.com/t5/microsoft-developer-community/evaluating-rag-applications-with-azureml-model-evaluation/ba-p/4108603?WT.mc_id=DT-MVP-5001664): RAG evaluation process to measure and improve performance.
-
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-AzureOpenAI) for more partner resources.
-
-![ DataAISolutionArea-Fabric.md ]( /PartnerCrucible/assets/images/2024-05-06-DataAISolutionArea-Fabric.md-image.png )
-## Data AI Solution Area## What's newAdded fabric SKU calculator, journey to become a fabric analytics engineer, and fabric readiness and enablement resources.## Deep links- [Fabric SKU Calculator](https://assetsprod.microsoft.com/mpn/en-us/fabric-sku-calculator.xlsm): Use SKU calculator for Microsoft Fabric based mapped to CU | Partner Center- [Fabric SKU Calculator - Demo](https://partner.microsoft.com/en-us/asset/detail/fabricsku-calculator-partner-ready-mp4): Watch this demo to learn how to use the partner ready Fabric SKU Calculator to present to your customers | Partner Center- [Become a Fabric Analytics Engineer](https://aka.ms/fabriccareerhub): Everything you need to get DP-600 certified | Fabric Community- [Fabric Readiness and Enablement Resources](https://aka.ms/FabricPartnerResources): Watch Microsoft Fabric Launch Event, a two-day digital event to learn more about the exciting launch of Microsoft Fabric. Leverage the Microsoft Fabric customer L100 pitch decks and Microsoft Fabric Pricing and Transacting deck to create your Fabric presentation and engage your customers. Leave behind the Microsoft Fabric One Pager with your customers for more information | Partner Center
-
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-Fabric) for more partner resources.
-
-![ DataAISolutionArea.md ]( /PartnerCrucible/assets/images/2024-05-06-DataAISolutionArea.md-image.png )
-## Data AI Solution Area## What's newIn this latest update to Partner Crucible, several changes have been made to enhance Microsoft Partners' ability to build their technical practice. These changes include:- [Bringing GenAI Offline: running SLM’s like Phi-2/Phi-3 and Whisper Models on Mobile Devices](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/bringing-genai-offline-running-slm-s-like-phi-2-phi-3-and/ba-p/4128056): This blog explores the significance of enabling offline capabilities for LLMs and the practicalities of running SLMs on mobile devices.- [Introducing Phi-3](https://azure.microsoft.com/en-us/blog/introducing-phi-3-redefining-whats-possible-with-slms/): Phi-3 models are powerful and cost-effective small language models that outperform models of similar size across various benchmarks.- [An Enterprise Design for Azure Machine Learning - An Architect's Viewpoint](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/an-enterprise-design-for-azure-machine-learning-an-architect-s/ba-p/4111655?WT.mc_id=DT-MVP-5001664): This viewpoint offers an opinionated design for an enterprise data science platform using Azure Machine Learning.## Deep links- [Bringing GenAI Offline: running SLM’s like Phi-2/Phi-3 and Whisper Models on Mobile Devices](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/bringing-genai-offline-running-slm-s-like-phi-2-phi-3-and/ba-p/4128056): In-depth insights into enabling offline capabilities for LLMs and running SLMs on mobile devices.- [Introducing Phi-3](https://azure.microsoft.com/en-us/blog/introducing-phi-3-redefining-whats-possible-with-slms/): Learn about the capabilities and performance of Phi-3 models in the small language models space.- [An Enterprise Design for Azure Machine Learning - An Architect's Viewpoint](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/an-enterprise-design-for-azure-machine-learning-an-architect-s/ba-p/4111655?WT.mc_id=DT-MVP-5001664): Explore the recommended design for an enterprise data science platform using Azure Machine Learning.
-
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea) for more partner resources.
-
-![ DigitalAppsandInnovationSolutionArea.md ]( /PartnerCrucible/assets/images/2024-05-06-DigitalAppsandInnovationSolutionArea.md-image.png )
-## Digital Apps and Innovation Solution Area## What's newPartner Crucible updates have been implemented to help Microsoft Partners build their technical practice. These updates include improvements in measuring GitHub Copilot's impact on productivity.## Deep links- [Measuring GitHub Copilot’s Impact on Productivity](https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/): A case study asks Copilot users about the tool's impact on their productivity, and seeks to find their perceptions mirrored in user data. ACM
-
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DigitalAppsandInnovationSolutionArea) for more partner resources.
 
 ![ PracticeBuilding.md ]( /PartnerCrucible/assets/images/2024-05-06-PracticeBuilding.md-image.png )
-## Partner Crucible Updates# Start Here## What's newAdded Journey maps, operational readiness, and community call calendar for Microsoft Cloud for AI Partner Program.## Deep links- [Journey maps](https://partner.microsoft.com/en-us/resources/collection/microsoft-transformational-changes#/): Provides the vision, critical milestones, and details about each milestone for key initiatives.- [Operational readiness](https://partner.microsoft.com/en-US/resources): Provides the “how to”, playbooks, detailed components.- [Community calls](https://globalpbocomm.eventbuilder.com/PartnerBusinessOperationsWebinars?source=JM): Gives partners an opportunity to connect with the SMEs and to ask questions.
+
+# Partner Practice Building
+
+## What's new
+
+- Added Journey maps, operational readiness, and community call calendar for Microsoft Cloud for AI Partner Program.
+
+## Deep links
+
+- [Journey maps](https://partner.microsoft.com/en-us/resources/collection/microsoft-transformational-changes#/): Provides the vision, critical milestones, and details about each milestone for key initiatives.
+- [Operational readiness](https://partner.microsoft.com/en-US/resources): Provides the “how to”, playbooks, detailed components.
+- [Community calls](https://globalpbocomm.eventbuilder.com/PartnerBusinessOperationsWebinars?source=JM): Gives partners an opportunity to connect with the SMEs and to ask questions.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/PracticeBuilding) for more partner resources.
 
-![ SecuritySolutionArea.md ]( /PartnerCrucible/assets/images/2024-05-06-SecuritySolutionArea.md-image.png )
-## Security Solution Area### What's newIn the Security Solution Area, an updated link to the Total Economic Impact Of Microsoft Security study has been provided.### Deep links- [The Total Economic Impact Of Microsoft Security](https://bcb.transform.microsoft.com/analyststudies): Microsoft commissioned Forrester Consulting to conduct a Total Economic Impact™ (TEI) study and examine the potential return on investment (ROI) enterprises may realize by deploying Microsoft Security solutions. Forrester 2023.
 
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/SecuritySolutionArea) for more partner resources.
+![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2024-05-06-DataAISolutionArea-AzureOpenAI.md-image.png )
 
+# Data AI Solution Area - Azure OpenAI
+
+# What's new
+
+- Updated Magic Quadrant™ for Cloud AI Developer Services
+
+# Deep links Gartner 
+
+- [Magic Quadrant™ for Cloud AI Developer Services](https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-2024-gartner-magic-quadrant-for-cloud-ai-developer-services/): Updated for 2024 - Microsoft has been named a Leader for the fifth year in a row in the Gartner® Magic Quadrant™ for Cloud AI Developer Services and are especially proud to be placed furthest for our Completeness of Vision.
+- [GDPR and Generative AI – A Guide for the Public Sector](https://wwps.microsoft.com/blog/GDPR-GenAI): The paper provides an in-depth exploration of the key obligations under the GDPR for public sector organizations procuring generative AI services.
+
+Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-AzureOpenAI) for more partner resources.
+
+
+![ DataAISolutionArea.md ]( /PartnerCrucible/assets/images/2024-05-06-DataAISolutionArea.md-image.png )
+
+# Data AI Solution Area
+
+# What's new
+
+- Added Bringing GenAI Offline: running SLM’s like Phi-2/Phi-3 and Whisper Models on Mobile Devices
+
+# Deep links
+
+- [Bringing GenAI Offline: running SLM’s like Phi-2/Phi-3 and Whisper Models on Mobile Devices](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/bringing-genai-offline-running-slm-s-like-phi-2-phi-3-and/ba-p/4128056): In-depth insights into enabling offline capabilities for LLMs and running SLMs on mobile devices.
+Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea) for more partner resources.
+
+![ DigitalAppsandInnovationSolutionArea.md ]( /PartnerCrucible/assets/images/2024-05-06-DigitalAppsandInnovationSolutionArea.md-image.png )
+
+# Digital Apps and Innovation Solution Area
+
+## What's new
+
+- Added Measuring GitHub Copilot's impact on productivity.
+
+## Deep links
+
+- [Measuring GitHub Copilot’s Impact on Productivity](https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/): A case study asks Copilot users about the tool's impact on their productivity, and seeks to find their perceptions mirrored in user data. ACM
+
+Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DigitalAppsandInnovationSolutionArea) for more partner resources.
