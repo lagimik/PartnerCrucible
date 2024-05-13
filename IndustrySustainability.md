@@ -61,6 +61,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[ESG data model (preview)](https://learn.microsoft.com/en-us/industry/sustainability/esg-data-model-intro) | Build a comprehensive environmental, social, and governance (ESG) data estate using this extensible analytical data model that enables you to effectively manage and process data for advanced analytics and reporting. The model includes over 400 tables under the following areas to support next-level business analytics and sustainability insights | Microsoft Learn
 [Improve your energy and carbon efficiency with Azure sustainability guidance](https://azure.microsoft.com/en-us/blog/improve-your-energy-and-carbon-efficiency-with-azure-sustainability-guidance/) | To support you in navigating this learning curve, we’re announcing technical guidance and skilling offerings that can help you plan your path forward, improve your sustainability posture, and create new business value while reducing your operational footprint.|Microsoft Azure
 [Sustainability - Well-Architected Review](https://learn.microsoft.com/en-us/assessments/a24b1079-29a4-4d22-b678-376e84884f76/) | Examine your workload through the lens of sustainability. | Microsoft Learn
 [Emissions savings estimator for Microsoft Cloud](https://gw.us-il301.gateway.prod.island.powerapps.com/customerenrollmentservice/estimator/index.html) | This information will be used to understand your current on-premises footprint and comparable Azure footprint. | Power app
