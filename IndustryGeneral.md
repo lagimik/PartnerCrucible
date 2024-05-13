@@ -25,7 +25,7 @@ Source | Description | Notes
 ## Industry References
 
 Source | Description | Notes
-:----- | :-----  | :-----
+:----- | :-----  | :----
 [Industry Resources](https://microsoft.github.io/PartnerResources/industry/)| Industry resources| Microsoft US
 [Microsoft Solution Center](https://solutions.microsoft.com/) | Ready to set up a new deployment? Choose the cloud solution designed for your industry to get started.
 [Industry Cloud Partner Sandboxes](https://experience.dynamics.com/requestlicense/)|This portal is used for SI/ISV Connect partners to obtain free or discounted non-production environment licenses with Biz Apps and Power Platform products to learn, test, and deliver end-to-end customer demos with their own solutions. These offers are to be used only on partner tenants, never on customer tenants.| Includes Cloud for Sustainability, FSI, Healthcare, Retail, Nonprofit
@@ -45,6 +45,10 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[What is Healthcare data solutions in Microsoft Fabric (preview)](https://learn.microsoft.com/en-us/industry/healthcare/healthcare-data-solutions/overview) | Healthcare data solutions in Microsoft Fabric (preview) are strategically designed to accelerate the time to value for customers by addressing the critical need to efficiently transform healthcare data into a suitable format for analysis| Microsoft Learn
+[Get started with healthcare data solutions in Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/healthcare-data-solutions/) | In this Learning Path, you gain a foundational understanding of Healthcare data solutions in Microsoft Fabric, the AI challenges of healthcare organizations, and how healthcare data solutions in Microsoft Fabric helps resolve them. You'll also learn about the core components of healthcare data solutions.| Microsoft Learn
+[Deploy Healthcare data solutions in Microsoft Fabric (preview)](https://learn.microsoft.com/en-us/industry/healthcare/healthcare-data-solutions/deploy?toc=%2Findustry%2Fhealthcare%2Ftoc.json&bc=%2Findustry%2Fbreadcrumb%2Ftoc.json) | | Microsoft Lean
+[Overview of Healthcare data solutions in Microsoft Fabric (preview) solution architecture](https://learn.microsoft.com/en-us/industry/healthcare/healthcare-data-solutions/solution-architecture?toc=%2Findustry%2Fhealthcare%2Ftoc.json&bc=%2Findustry%2Fbreadcrumb%2Ftoc.json) | The foundation of Healthcare data solutions (preview) lies in the innovative medallion lakehouse architecture. This framework organizes and processes data in a systematic, multi-layered manner. It continually enhances the structure and quality of data as it traverses through each layer | Microsoft Learn
 [Microsoft Cloud for Healthcare Partner Assets](https://partner.microsoft.com/en-us/asset/collection/microsoft-cloud-for-healthcare-partner-assets#/)|Partner readiness and overview assets for Microsoft Cloud for Healthcare.
 [Explore Microsoft Cloud for Healthcare](https://aka.ms/cloudforhealthcare) | |
 [Microsoft Cloud for Healthcare in a Day training](https://learn.microsoft.com/en-us/training/paths/healthcare-in-a-day/) | |
