@@ -53,7 +53,7 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [Accessing Microsoft Fabric for developers, startups and enterprises](https://blog.fabric.microsoft.com/en-us/blog/accessing-microsoft-fabric-for-developers-startups-and-enterprises?ft=All) | Enabling Microsoft Fabric as a developer, as a startup or as an enterprise has different steps. In this blog, I am covering those steps for all different users. | Blog
 [Microsoft Fabric - Free Trial](https://learn.microsoft.com/en-us/fabric/get-started/fabric-trial) | Free Trial| Microsoft
-[Fabric SKU Calculator](https://assetsprod.microsoft.com/mpn/en-us/fabric-sku-calculator.xlsm) | Use SKU calculator for Microsoft Fabric based mapped to CU | Partner Center
+[Fabric SKU ](https://assetsprod.microsoft.com/mpn/en-us/fabric-sku-calculator.xlsm) | Use SKU calculator for Microsoft Fabric based mapped to CU | Partner Center
 [Fabric SKU Calculator - Demo](https://partner.microsoft.com/en-us/asset/detail/fabricsku-calculator-partner-ready-mp4) | Watch this demo to learn how to use the partner ready Fabric SKU Calculator to present to your customers | Partner Center
 
 
