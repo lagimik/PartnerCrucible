@@ -238,8 +238,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
-[Oracle Autonomous Database on Oracle Database@Azure](https://techcommunity.microsoft.com/t5/oracle-on-azure-blog/innovate-with-oracle-autonomous-database-on-oracle-database/ba-p/4146669
-) | With Oracle Autonomous Database on Oracle Database@Azure, customers now have a fully managed Oracle database offering on Azure to migrate Oracle-based applications.  | Tech Community
+[Oracle Autonomous Database on Oracle Database@Azure](https://techcommunity.microsoft.com/t5/oracle-on-azure-blog/innovate-with-oracle-autonomous-database-on-oracle-database/ba-p/4146669)| With Oracle Autonomous Database on Oracle Database@Azure, customers now have a fully managed Oracle database offering on Azure to migrate Oracle-based applications.  | Tech Community
 [Oracle Database@Azure](https://www.oracle.com/cloud/azure/oracle-database-at-azure/) | Oracle and Microsoft expand partnership to deliver Oracle database services on Oracle Cloud Infrastructure in Microsoft Azure | Oracle
 [Oracle Database@Azure FAQ](https://www.oracle.com/cloud/azure/oracle-database-at-azure/faq/) | Oracle Database@Azure FAQ| Oracle
 [Migration and modernization for Oracle workloads](https://azure.microsoft.com/en-us/solutions/oracle/) | With this new offering, Azure is the only cloud provider other than Oracle Cloud Infrastructure to host Oracle services, including Oracle Exadata Database Service and Oracle Autonomous Database on Oracle Cloud Infrastructure in Azure datacenters. |Azure
