@@ -20,20 +20,6 @@ thumbnail: /PartnerCrucible/assets/images/AzureInfrastructureSolutionArea.md-ima
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/ModernWorkSolutionArea-Copilot) for more partner resources.
 
-![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2024-05-25-AzureInfrastructureSolutionArea.md-image.png )
-
-# Azure Infrastructure Solution Area
-
-## What's new
-
-- Announcing  Oracle Autonomous Database on Oracle Database@Azure
-
-## Deep links
-
-- [Oracle Autonomous Database on Oracle Database@Azure](https://techcommunity.microsoft.com/t5/oracle-on-azure-blog/innovate-with-oracle-autonomous-database-on-oracle-database/ba-p/4146669): With Oracle Autonomous Database on Oracle Database@Azure, customers now have a fully managed Oracle database offering on Azure to migrate Oracle-based applications. Tech Community
-
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/AzureInfrastructureSolutionArea) for more partner resources.
-
 ![ DataAISolutionArea.md ]( /PartnerCrucible/assets/images/2024-05-25-DataAISolutionArea.md-image.png )
 # Data and AI Solution Area
 
