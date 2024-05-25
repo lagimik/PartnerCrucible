@@ -45,6 +45,7 @@ Source | Description | Notes
 [My Faber Security](https://myfabersecurity.com/) | Security, Compliance, and Identity blogs, focusing on Microsoft Security offerings. | from @AngelicaFaber
 [Rod's Blog](https://rodtrent.substack.com/) | Microsoft Security and AI with lots of Microsoft Sentinel Sprinkled in. This is not an official Microsoft blog. | Blog
 [Must Learn AI Security](https://aka.ms/MustLearnAISecurity) | This is the book version of the Must Learn AI Security series. It will be updated each time a new part of the series is released. | GitHub
+[Entra.News](https://entra.news/?utm_campaign=subscribe-page-share-screen&utm_medium=web) | Entra.News is a weekly newsletter of the latest Microsoft Entra related news, blog posts and videos from Microsoft, MVPs and infosec experts, curated by Merill Fernando. | Entra.News
 
 ## Partner Practice Building
 
