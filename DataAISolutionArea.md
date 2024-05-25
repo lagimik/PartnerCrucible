@@ -39,6 +39,7 @@ Source | Description | Notes
 [The data transformation game plan](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW11It9) |  Data democratization empowers employees at all levels with the necessary insights to expedite decision-making, allowing organizations to gain competitive advantage. | Microsoft
 [AI Platform Insiders Research Panel](https://ux.microsoft.com/Panel/AIPX3P?utm_campaign=Developers&utm_source=Build2023&utm_medium=Event) | Shape the future of machine learning platforms with Microsoft. Your insights and experiences will help us shape the future of AI Platform. Thank you for considering being a part of our research journey. | Microsoft UX
 [Building a Foundation for AI Success: A Leader’s Guide](https://info.microsoft.com/ww-landing-building-a-foundation-for-ai-success.html) | This whitepaper will identify how to accelerate your company’s success with AI through insights from  Microsoft, Microsoft customers and partners, industry analysts, and AI leaders—to help your organization thrive on your path to AI transformation. | Whitepaper
+[Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/haxtoolkit/ai-guidelines/) | The Guidelines are evidence-based best practices for designing your AI user experiences.| Microsoft
 
 ## Learning Journeys
 
