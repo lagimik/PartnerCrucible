@@ -65,6 +65,15 @@ Source | Description | Notes
 [Machine Learning for Beginners - A Curriculum](https://microsoft.github.io/ML-For-Beginners/#/) | Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 26-lesson curriculum all about Machine Learning | GitHub
 [Data Science for Beginners - A Curriculum](https://microsoft.github.io/Data-Science-For-Beginners/#/) | Azure Cloud Advocates at Microsoft are pleased to offer a 10-week, 20-lesson curriculum all about Data Science. | GitHub
 
+## AI Red Teaming
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Python Risk Identification Toolkit for generative AI (PyRIT)](https://www.microsoft.com/en-us/security/blog/2024/02/22/announcing-microsofts-open-automation-framework-to-red-team-generative-ai-systems/) | Microsoft releases an open automation framework, PyRIT (Python Risk Identification Toolkit for generative AI), to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems | Blog
+[Python Risk Identification Tool for generative AI (PyRIT) - GitHub](https://github.com/Azure/PyRIT) | The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and ML engineers to red team foundation models and their applications. | GitHub
+[Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix) | The goal of this project is to position attacks on machine learning (ML) systems in an ATT&CK-style framework so that security analysts can orient themselves to these new and upcoming threats. | Mitre
+[Counterfit](https://www.microsoft.com/en-us/security/blog/2021/05/03/ai-security-risk-assessment-using-counterfit/) | Counterfit helps organizations conduct AI security risk assessments to ensure that the algorithms used in their businesses are robust, reliable, and trustworthy. | Blog
+[Counterfit - GitHub](https://github.com/Azure/counterfit) | Counterfit is a generic automation layer for assessing the security of machine learning systems. It brings several existing adversarial frameworks under one tool, or allows users to create their own. | GitHub
 
 ## Azure OpenAI
 This section has been regrouped here: [Data & AI > Azure OpenAI](./DataAISolutionArea-AzureOpenAI)
@@ -73,7 +82,6 @@ This section has been regrouped here: [Data & AI > Azure OpenAI](./DataAISolutio
 
 Source | Description | Notes
 :----- | :-----  | :-----
-
 [Introducing Phi-3](https://azure.microsoft.com/en-us/blog/introducing-phi-3-redefining-whats-possible-with-slms/) | Phi-3 models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks. | Azure Blog
 [Bringing GenAI Offline: running SLM’s like Phi-2/Phi-3 and Whisper Models on Mobile Devices](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/bringing-genai-offline-running-slm-s-like-phi-2-phi-3-and/ba-p/4128056) | In this blog, we delve into the significance of enabling offline capabilities for LLMs and explore the practicalities of running SLMs on mobile devices, offering insights into the transformative potential of this technology.| Tech Community
 
