@@ -98,6 +98,7 @@ Source | Description | Notes
 [Power Platform Generative AI](https://dynamicspartners.transform.microsoft.com/download/protected?assetname=protectedassets%2FPower%20Platform%20generative%20pitch%20deck.pptx&download=1&protected=1&src=https:%2F%2Fdynamicspartners.transform.microsoft.com%2Fcloud-conversations) | Partner Pitch Deck - History, overview, and deep dive into fusing Power Platform with Generative AI | Transform
 [Power Platform is leading a new era of AI-generated low-code app development](https://cloudblogs.microsoft.com/powerplatform/2023/03/16/power-platform-is-leading-a-new-era-of-ai-generated-low-code-app-development/) | Microsoft Power Platform is announcing Copilot in Power Apps, Power Automate, and Power Virtual Agents further democratizing development and enabling even more people to create innovative solutions through natural language. | Blog
 
+
 ## Asset Lifecyle Management
 
 ALM techniques to be applied to move Power Platform solution to different environments.
@@ -143,6 +144,12 @@ Source | Description | Notes
 [Power Platform Process Mining: Enriching partner opportunities](https://powerplatformpartners.transform.microsoft.com/blogs/powerplatform/powerplatformprocessmining) | Power Automate Process Mining presents a significant opportunity for partners to broaden their Power Platform practices, leveraging current skillsets with intelligent automation and low code and building new services and solutions for data-driven process insights. | Blog
 [Power Automate Process Mining : Partner Started Guide](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fpbapstorageprod.blob.core.windows.net%2Fprotectedassets%2FPower%2520Automate%2520Process%2520Mining%2520-%2520Partner%2520Starter%2520Guide.pptx%3Fsv%3D2019-07-07%26sr%3Db%26sig%3DG7TJGDNhAmhtSVw0TmeLLRIuGhCEIfK%252BPOiKzGqzQIw%253D%26se%3D2023-08-05T13%253A54%253A28Z%26sp%3Dr&wdOrigin=BROWSELINK) | This comprehensive Partner Starter Guide is designed to equip you with the resources and tools you need to successfully adopt, sell, and deliver Power Automate Process Mining. | Transform
 [Process Mining in Power Automate](https://www.youtube.com/watch?v=xj8k6fbKw4E) | This video gives a short introduction to how Process Mining works in Power Automate.| YouTube
+
+## Copilot for business functions
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[Copilot for business functions](https://powerplatformpartners.transform.microsoft.com/ai-copilot/products) | Microsoft Copilot for Sales, Microsoft Copilot for Service, and Microsoft Copilot for Finance bring together the power of Copilot for Microsoft 365 with role-specific insights and actions to streamline business processes, automate repetitive tasks, and unlock productivity.| Transform
 
 ## AI Builder
 
