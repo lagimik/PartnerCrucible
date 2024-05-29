@@ -158,10 +158,13 @@ Source | Description | Notes
 
 ## Azure Networking
 
-
 Source | Description | Notes
 :----- | :---------- | :-----
 [Accelerated Connections](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/announcing-the-limited-general-availability-of-accelerated/ba-p/4070798) | This is the first blog in a series of detailed efforts and offerings addressing network disaggregation in the datacenter and how it intersects with Azure’s new Accelerated Connections offering.   | Tech Community
+
+## Azure Reliability
+
+[Getting Started with Reliability on Azure](https://techcommunity.microsoft.com/t5/azure-architecture-blog/getting-started-with-reliability-on-azure-ensuring-cloud/ba-p/4152905) | Getting Started with Reliability on Azure: Ensuring Cloud Applications Stay Up and Running includes a reference architecture for reliability | Tech Community
 
 ## Workload - Azure Networking 
 
