@@ -45,7 +45,7 @@ Source | Description | Notes
 [Microsoft Fabric: Lakehouse & Medallion Architecture](https://www.youtube.com/watch?v=x_CvCwSbRZI&t=373s) | Lakehouses have become a common foundational design pattern for modern data platforms, and have risen in popularity over the last few years after tools like #Databricks, and now #MicrosoftFabric, have standardized on the design. The Medallion Architecture refers to a three-tiered architectural blueprint, with data moving through different stages of state, each stage serving different purposes | YouTube
 [Data Factory end-to-end scenario: introduction and architecture](https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-end-to-end-introduction) | This tutorial helps you accelerate the evaluation process for Data Factory in Microsoft Fabric by providing a step-by-step guidance for a full data integration scenario within one hour.| Microsoft Learn
 [Using Azure Databricks with Microsoft Fabric and OneLake](https://blog.fabric.microsoft.com/en-us/blog/using-azure-databricks-with-microsoft-fabric-and-onelake?ft=All:) | How does Azure Databricks work with Microsoft Fabric? With the recent announcement of Microsoft Fabric, this question might have appeared in your social media feed. This blog post will answer that question and more details on how the two systems can work together.| Blog
-
+[Microsoft Fabric End-to-End Security Whitepaper]( https://aka.ms/fabricsecuritywhitepaper) | comprehensive 75-page whitepaper covering all the comprehensive capabilities in Fabric that cover everything from network security, workload specific security, securing data, governing data, administration, reliability, and end to end scenario| Microsoft
 
 ## Access Fabric
 
