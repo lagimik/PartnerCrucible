@@ -84,6 +84,7 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [Introducing Phi-3](https://azure.microsoft.com/en-us/blog/introducing-phi-3-redefining-whats-possible-with-slms/) | Phi-3 models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks. | Azure Blog
 [Bringing GenAI Offline: running SLM’s like Phi-2/Phi-3 and Whisper Models on Mobile Devices](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/bringing-genai-offline-running-slm-s-like-phi-2-phi-3-and/ba-p/4128056) | In this blog, we delve into the significance of enabling offline capabilities for LLMs and explore the practicalities of running SLMs on mobile devices, offering insights into the transformative potential of this technology.| Tech Community
+[Microsoft Phi-3 Cookbook](https://github.com/microsoft/Phi-3CookBook) | Phi-3, a family of open AI models developed by Microsoft. Phi-3 models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks.| GitHub
 
 ## Synapse
 
