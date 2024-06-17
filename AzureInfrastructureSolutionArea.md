@@ -94,7 +94,7 @@ Source | Description | Notes
 [Azure Skills Navigator for Network Engineers](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-skills-navigator-for-network-engineers-/Azure%20Skills%20Navigator-%20Network%20EngineerOct10(learn.microsoft).pdf) | This Azure learning journey is designed for network engineering professionals needing to recommend, plan, and implement Azure networking solutions, including hybrid networking, connectivity, routing, security, and private access to Azure services | Azure Skills Navigator
 [Azure Citadel](https://www.azurecitadel.com/) | Azure Citadel is a community driven site devoted to getting hands on & learning Azure. Explore technical labs & videos across a range of Azure topics. Many labs are pitched towards the needs of the Azure partner community, but are freely available for all.| Azure Citadel
 [WhatTheHack - Infrastructure](https://github.com/microsoft/WhatTheHack#infrastructure) | What The Hack is designed to be a collaborative learning experience. Attendees "learn from" and "share with" each other. Without step-by-step instructions given for the challenges, attendees have to "figure it out" together as a team. This results in greater knowledge retention for the attendees. | WhattheHack
-[Microsoft Partner Resources](https://microsoft.github.io/PartnerResources/) | The Microsoft Partners Resources repository consists of documents, learning resources and other assets designed to aid partners in practice development, upskilling, certifications, and bringing their solutions to market. Brought to you by the Microsoft Americas Global Partner Solutions (GPS) team, empowering partners and driving digital transformation. | GitHub
+[Microsoft Azure Infrastructure Academy](https://microsoft.github.io/PartnerResources/skilling/microsoft-infrastructure-academy) | Welcome to the Microsoft Azure Infrastructure Academy, your gateway to managing and optimizing your cloud infrastructure | Microsoft Partner Resources
 
 ## Azure Tools
 
@@ -109,9 +109,18 @@ Source | Description | Notes
 [AzAdvertizer](https://www.azadvertizer.net/index.html)| AzAdvertizer helps you to keep up with the pace by providing overview and insights on new releases and changes/updates for Azure Governance capabilities such as Azure Policy's policy definitions, initiatives (set definitions), aliases, security & regulatory compliance controls and Azure RBAC's role definitions and resource provider operations. |
 [PSRule for Azure](https://azure.github.io/PSRule.Rules.Azure/) | Ready to go rules for testing Azure Infrastructure as Code (IaC). | GitHub
 [Awesome Azure Architecture](https://github.com/lukemurraynz/awesome-azure-architecture) | by @lukemurraynz - A curated list of AWESOME blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure. | GitHub
+
+
+## Azure Observability
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[Azure Monitor Resources](http://aka.ms/Build24/Collection/AzureMonitor) | In this Microsoft Learn Official Collection, you will find a curated list of key resources to help you build a strong monitoring strategy and execute it with Azure Monitor.  | Microsoft Learn
+[AIOps and machine learning in Azure Monitor](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/aiops-machine-learning) | This article describes Azure Monitor's built-in AIOps capabilities and explains how you can create and run customized machine learning models and build an automated machine learning pipeline on data in Azure Monitor Logs. | Microsoft Learn
+[What The Hack - Azure Monitoring](https://github.com/microsoft/WhatTheHack/blob/master/007-AzureMonitoring/README.md) | The Azure Monitoring v2.0 What the Hack provides hands on experience on how to monitor Azure workloads using Azure Monitor, Log Analytics, Application Insights, and Azure Monitor Workbooks. This hack was designed specifically for infrastructure engineers, DevOps engineers, administrators and IT architects who want to build their knowledge on Azure Monitor. | WhatTheHack
 [Azure Monitoring Packs - V2](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-monitoring-packs-v2-is-out/ba-p/4104882) |  Azure Monitoring packs | Tech Community
 [Azure Monitor Baseline Alerts](https://azure.github.io/azure-monitor-baseline-alerts/welcome/) | The purpose of this site is to provide best practice guidance around key alerts metrics and their thresholds.| Azure Monitor Baseline Alerts
-
+[What is Azure Managed Grafana?](https://learn.microsoft.com/en-us/azure/managed-grafana/overview) | Azure Managed Grafana is a data visualization platform built on top of the Grafana software by Grafana Labs. It's built as a fully managed Azure service operated and supported by Microsoft. Grafana helps you bring together metrics, logs and traces into a single user interface. With its extensive support for data sources and graphing capabilities, you can view and analyze your application and infrastructure telemetry data in real-time. | Microsoft Learn
 
 ## Azure Well-Architected Framework
 
@@ -150,6 +159,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Microsoft Adaptive Cloud Academy](https://microsoft.github.io/PartnerResources/skilling/microsoft-infrastructure-academy/adaptive-cloud) | Microsoft Azure offers many ways for customers to build, deploy, operate, and secure their application and data estates, including customer on-premises assets and even customer assets running in other cloud providers | Microsoft Partner Academy
 [Arc Jumpstart](https://azurearcjumpstart.io/)| The Jumpstart provides step-by-step guides for independent Azure Arc scenarios that incorporate as much automation as possible, detailed screenshots and code samples, and a rich and comprehensive experience while getting started with the Azure Arc platform.| ...
 [Jumpstart ArcBox for DevOps](https://azurearcjumpstart.io/azure_jumpstart_arcbox/devops/)| ArcBox for DevOps is a special “flavor” of ArcBox that is intended for users who want to experience Azure Arc-enabled Kubernetes capabilities in a sandbox environment.| Arc Jumpstart
 [Jumpstart ArcBox for DataOps](https://azurearcjumpstart.io/azure_jumpstart_arcbox/dataops/#jumpstart-arcbox-for-dataops)| ArcBox for DataOps is a special “flavor” of ArcBox that is intended for users who want to experience Azure Arc-enabled SQL Managed Instance capabilities in a sandbox environment. | Arc Jumpstart
@@ -174,6 +184,7 @@ Source | Description | Notes
 [Networking Services in Microsoft Azure specialization - Audit](https://assetsprod.microsoft.com/en-us/networking-services-in-microsoft-azure-audit-checklist.pdf)| Audit Checklist | Partner Specializations
 [Azure Network Security](https://github.com/Azure/Azure-Network-Security) | Deploy Azure NetSec resources programmatically using scripts and templates | GitHub
 [Azure Network Security Ninja Training](https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-network-security-ninja-training/ba-p/2356101) | In this blog post, we will walk you through basic to advanced scenarios for Azure network security. Ready to become an Azure NetSec ninja? Dive right in! | Tech Community 2022
+[WhatTheHAck - Advanced Networking](https://github.com/microsoft/WhatTheHack/blob/master/028-AdvancedNetworking/README.md) | In this hack, you will work through an example company, Contoso's architecture requirements for their IaaS workloads. You will put together a network design for Contoso. There are multiple challenges in this hack. Follow these in order to deploy a solution to Azure that is secure, scalable and provides visibility into the your environment | WhatTheHack
 
 ## Workload HCI
 
