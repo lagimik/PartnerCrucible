@@ -135,6 +135,7 @@ Source | Description | Notes
 [Export API definition to Postman for API testing and monitoring](https://learn.microsoft.com/en-us/azure/api-management/export-api-postman) | Export an API definition from API Management as a Postman collection so that you can use Postman's tools to design, document, test, monitor, and collaborate on APIs.| Microsoft Learn
 [Welcome to Kiota](https://learn.microsoft.com/en-us/openapi/kiota/overview) | Kiota is a command line tool for generating an API client to call any OpenAPI-described API you are interested in. The goal is to eliminate the need to take a dependency on a different API SDK for every API that you need to call. | Microsoft Learn
 [Open at Microsoft: Dapr](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/open-at-microsoft-dapr/ba-p/3857064)  | | Tech Community
+[Azure API Center - The ultimate service to streamline API Governance across your organization](https://techcommunity.microsoft.com/t5/microsoft-developer-community/azure-api-center-the-ultimate-service-to-streamline-api/ba-p/4185469) | Guidance to  streamline API development and governance to ensure best practices are being implemented across API producers, API Consumers the API Platform Team | Tech Community
 
 ## Azure Integration Services
 
