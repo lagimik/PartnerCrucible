@@ -172,6 +172,7 @@ Source | Description | Notes
 [Azure OpenAI Service REST API reference](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/reference)| This article provides details on the inference REST API endpoints for Azure OpenAI.| Microsoft Learn
 [Autogen: Microsoft’s Open-Source Tool for Streamlining Development](https://techcommunity.microsoft.com/t5/educator-developer-blog/autogen-microsoft-s-open-source-tool-for-streamlining/ba-p/4040417) | Autogen is an open-source project by Microsoft, designed to simplify the process of creating and maintaining libraries of data structures and routines. It's a powerful tool that can significantly speed up your development process.| Tech Community
 [AutoGen - Getting Started](https://microsoft.github.io/autogen/docs/Getting-Started) | AutoGen is a framework that enables development of LLM applications using multiple agents that can converse with each other to solve tasks. AutoGen agents are customizable, conversable, and seamlessly allow human participation. They can operate in various modes that employ combinations of LLMs, human inputs, and tools. | GitHub
+[GraphRAG](https://github.com/microsoft/graphrag?tab=readme-ov-file#graphrag) | The GraphRAG project is a data pipeline and transformation suite that is designed to extract meaningful, structured data from unstructured text using the power of LLMs.| GitHub
 
 
 ## Labs
@@ -218,6 +219,7 @@ Source | Description | Notes
 [Data & AI Industry DREAM Demos & DREAM Demo in a Box](https://partner.microsoft.com/en-us/asset/collection/industry-dream-demos-and-dream-demo-in-a-box#/) | Data & AI Industry DREAM Demos are realistic clickable demos based on actual customer engagements that cover a range of industry scenarios in story form. | Partner
 [Azure OpenAI Service Generative AI Customer Demo](https://assetsprod.microsoft.com/mpn/en-us/azure-openai-service-chatgpt-tdm-customer-demo.mp4) | Customer-ready customer technical decision maker demo | Partner
 [Azure Open AI Demos](https://github.com/retkowsky/Azure-OpenAI-demos) | Azure OpenAI Demos by Serge Retkowsky serge.retkowsky@microsoft.com https://www.linkedin.com/in/serger/ | @retkowsky GitHub
+
 
 
 ## Code Samples
