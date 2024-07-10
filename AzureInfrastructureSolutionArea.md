@@ -273,6 +273,7 @@ Source | Description | Notes
 [Microsoft Azure VMware Solution specialization - Requirements](https://partner.microsoft.com/en-us/partnership/specialization/microsoft-azure-vmware-solution) | Specialization Requirements| Partner Specializations
 [Microsoft Azure VMware Solution specialization- Audit](https://assetsprod.microsoft.com/mpn/en-us/microsoft-azure-vmware-solution-audit-checklist.pdf)| Audit Checklist | Partner Specializations
 [AVS Hub](https://www.avshub.io/) | a collection of resources for the AVS community | AVS Hub
+[AVS Labs](https://github.com/azure/avslabs) | With AVS Nested Labs, you can set up a virtual environment that is similar to on-premises environment, without the need for physical hardware, and still be able to perform your tests and exercises in a safe and isolated environment.| GitHub
 [AVS Documentation (official)](https://aka.ms/AVSDocs)| Learn how to use Azure VMware Solution to deploy a VMware Software-Defined Data Center (SDDC) private cloud to Azure. | Microsoft Learn
 [AVS Partner Learning Path (official)](https://aka.ms/AVSLearningPath)| Learn how Azure VMware Solution supports enterprise customers in their transition to the cloud. Evaluate key features and differentiators. Examine the use cases and customer stories. Understand the support structure and options. | Microsoft Learn
 [Azure VMware Solution Learning Companion](https://learning-pathways.co.uk/wp-content/uploads/2023/09/Azure-VMware-Solution-Learning-Companion.pdf)| Azure VMware Solution Learning Companion | Learning Pathways
