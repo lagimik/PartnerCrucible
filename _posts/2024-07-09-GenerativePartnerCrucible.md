@@ -3,7 +3,7 @@ title: 'Generative Partner Crucible - for the week ending 2024-07-09'
 date: 2024-07-09
 flag: GenerativePartnerCrucible
 layout: generativepartnercrucible
-thumbnail: /PartnerCrucible/assets/images/2024-07-09-PowerPlatformSolutionArea.md-image.png
+thumbnail: /PartnerCrucible/assets/images/2024-07-09-DataAISolutionArea.md-image.png
 ---
 
 ![ DataAISolutionArea.md ]( /PartnerCrucible/assets/images/2024-07-09-DataAISolutionArea.md-image.png )
@@ -29,7 +29,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2024-07-09-DataAISolutionArea-AzureOpenAI.md-image.png )
 
-# Data & AI Solution Area
+# Data & AI Solution Area - OpenAI
 
 ## What's new
 
