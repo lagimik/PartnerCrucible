@@ -143,6 +143,7 @@ Source | Description | Notes
 [Tech community blog](https://aka.ms/contentsafety-techblog) | Azure AI Content Safety enables enterprises across various industries to harness the power of Responsible AI, facilitating the creation of secure online spaces and fostering a sense of community.| Tech Community
 [Azure AI Content Safety studio](https://aka.ms/contentsafetystudio) | Machine learning assisted moderation APIs that detect material that is potentially offensive, risky, or otherwise undesirable, to assure the contents in community is safe.| Azure
 [Introducing Azure AI Content Safety - A new Azure Cognitive Service for content moderation](https://aka.ms/contentsafetydemo) | Introducing Azure AI Content Safety, the content moderation platform that uses AI to identify inappropriate content to create better online experiences for everyone. With advanced language and vision models, AI content classifiers, and content moderation severity scores, you can confidently review content to keep online communities safe.| YouTube
+[AI jailbreaks: What they are and how they can be mitigated](https://www.microsoft.com/en-us/security/blog/2024/06/04/ai-jailbreaks-what-they-are-and-how-they-can-be-mitigated/) | This blog will provide an understanding of what AI jailbreaks are, why generative AI is susceptible to them, and how you can mitigate the risks and harms.| Micrososft Threat Intelligence
 
 
 ## Copilot
