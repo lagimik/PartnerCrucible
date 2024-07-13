@@ -144,7 +144,7 @@ Source | Description | Notes
 [Azure AI Content Safety studio](https://aka.ms/contentsafetystudio) | Machine learning assisted moderation APIs that detect material that is potentially offensive, risky, or otherwise undesirable, to assure the contents in community is safe.| Azure
 [Introducing Azure AI Content Safety - A new Azure Cognitive Service for content moderation](https://aka.ms/contentsafetydemo) | Introducing Azure AI Content Safety, the content moderation platform that uses AI to identify inappropriate content to create better online experiences for everyone. With advanced language and vision models, AI content classifiers, and content moderation severity scores, you can confidently review content to keep online communities safe.| YouTube
 [AI jailbreaks: What they are and how they can be mitigated](https://www.microsoft.com/en-us/security/blog/2024/06/04/ai-jailbreaks-what-they-are-and-how-they-can-be-mitigated/) | This blog will provide an understanding of what AI jailbreaks are, why generative AI is susceptible to them, and how you can mitigate the risks and harms.| Micrososft Threat Intelligence
-
+[Mitigating Skeleton Key, a new type of generative AI jailbreak technique](https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique/) | In this blog, we’ll cover the details of a newly discovered type of jailbreak attack that we call Skeleton Key, which we covered briefly in the Microsoft Build talk Inside AI Security with Mark Russinovich | Micrososft Threat Intelligence
 
 ## Copilot
 
