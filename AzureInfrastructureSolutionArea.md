@@ -167,14 +167,11 @@ Source | Description | Notes
 [Jumpstart HCIBox](https://azurearcjumpstart.io/azure_jumpstart_hcibox/) | HCIBox is a turnkey solution that provides a complete sandbox for exploring Azure Stack HCI capabilities and hybrid cloud integration in a virtualized environment| Arc Jumpstart
 [Landing zone accelerator](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/hybrid/enterprise-scale-landing-zone) | Introduction to Azure Arc-enabled servers landing zone accelerator for hybrid and multicloud – Cloud Adoption Framework | Microsoft Docs
 
-## Azure Networking
-
-Source | Description | Notes
-:----- | :---------- | :-----
-[Accelerated Connections](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/announcing-the-limited-general-availability-of-accelerated/ba-p/4070798) | This is the first blog in a series of detailed efforts and offerings addressing network disaggregation in the datacenter and how it intersects with Azure’s new Accelerated Connections offering.   | Tech Community
 
 ## Azure Reliability
 
+Source | Description | Notes
+:----- | :---------- | :-----
 [Getting Started with Reliability on Azure](https://techcommunity.microsoft.com/t5/azure-architecture-blog/getting-started-with-reliability-on-azure-ensuring-cloud/ba-p/4152905) | Getting Started with Reliability on Azure: Ensuring Cloud Applications Stay Up and Running includes a reference architecture for reliability | Tech Community
 
 ## Workload - Azure Networking 
@@ -182,10 +179,12 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :---------- | :-----
 [Networking Services in Microsoft Azure specialization - Requirements](https://partner.microsoft.com/en-us/partnership/specialization/networking-services) | Specialization Requirements | Partner Specializations
-[Networking Services in Microsoft Azure specialization - Audit](https://assetsprod.microsoft.com/en-us/networking-services-in-microsoft-azure-audit-checklist.pdf)| Audit Checklist | Partner Specializations
+[Networking Services in Microsoft Azure specialization - Audit](https://assetsprod.microsoft.com/en-us/networking-services-in-microsoft-azure-audit-checklist.pdf)| Audit Checklist - Module B provides a list of the expertise and experience required | Partner Specializations
+[WhatTheHAck - Advanced Networking](https://github.com/microsoft/WhatTheHack/blob/master/028-AdvancedNetworking/README.md) | In this hack, you will work through an example company, Contoso's architecture requirements for their IaaS workloads. You will put together a network design for Contoso. There are multiple challenges in this hack. Follow these in order to deploy a solution to Azure that is secure, scalable and provides visibility into the your environment | WhatTheHack
+[Azure Networking labs](https://github.com/binals/azurenetworking) | from @binals: This set of Azure Networking labs are simplified to demonstrate a single concept in each lab, using Azure portal or Azure CLI. Each lab has a lab diagram that provides information on the lab setup. Most labs build on each other so prior setup is expected. Please use the lab diagram as guidance if you are doing a specific lab out of order. | GitHub
 [Azure Network Security](https://github.com/Azure/Azure-Network-Security) | Deploy Azure NetSec resources programmatically using scripts and templates | GitHub
 [Azure Network Security Ninja Training](https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-network-security-ninja-training/ba-p/2356101) | In this blog post, we will walk you through basic to advanced scenarios for Azure network security. Ready to become an Azure NetSec ninja? Dive right in! | Tech Community 2022
-[WhatTheHAck - Advanced Networking](https://github.com/microsoft/WhatTheHack/blob/master/028-AdvancedNetworking/README.md) | In this hack, you will work through an example company, Contoso's architecture requirements for their IaaS workloads. You will put together a network design for Contoso. There are multiple challenges in this hack. Follow these in order to deploy a solution to Azure that is secure, scalable and provides visibility into the your environment | WhatTheHack
+[Accelerated Connections](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/announcing-the-limited-general-availability-of-accelerated/ba-p/4070798) | This is the first blog in a series of detailed efforts and offerings addressing network disaggregation in the datacenter and how it intersects with Azure’s new Accelerated Connections offering.   | Tech Community
 
 ## Workload HCI
 
