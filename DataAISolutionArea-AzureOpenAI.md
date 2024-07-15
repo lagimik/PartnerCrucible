@@ -155,6 +155,7 @@ Source | Description | Notes
 [Microsoft Semantic Kernel and AutoGen: Open Source Frameworks for AI Solutions](https://techcommunity.microsoft.com/t5/educator-developer-blog/microsoft-semantic-kernel-and-autogen-open-source-frameworks-for/ba-p/4051305) | Microsoft Semantic Kernel (SK) and Microsoft AutoGen are both open sources  framework developed by Microsoft, but they serve different scenarios | Tech Community
 [Building AI solutions with Semantic Kernel](https://build.microsoft.com/en-US/sessions/31e11443-70d3-4020-8c8c-0a654bccd233?source=sessions) | During this session, learn why we created Semantic Kernel (SK) and how it requires a new kind of developer mindset.  Discover how SK has evolved alongside OpenAI’s GPT-4 trajectory and what plugins will mean. We also discuss early signals we have gathered around SK use for copilots. | Build 2023
 [The Developer's Cantina](https://www.developerscantina.com/) | @qmatteoq Blog on Semantic Kernel| Developer's Cantina
+[Connect Logic Apps’ 1,400 connectors to Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/connect-logic-apps-1400-connectors-to-semantic-kernel/) | Logic Apps now supports OpenAPI specifications and the OpenAI plugin manifest, you can easily take any of the APIs you have previously built and import them as a plugin. | Dev Blog
 
 ## Plugins
 
