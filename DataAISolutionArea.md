@@ -41,6 +41,7 @@ Source | Description | Notes
 [AI Platform Insiders Research Panel](https://ux.microsoft.com/Panel/AIPX3P?utm_campaign=Developers&utm_source=Build2023&utm_medium=Event) | Shape the future of machine learning platforms with Microsoft. Your insights and experiences will help us shape the future of AI Platform. Thank you for considering being a part of our research journey. | Microsoft UX
 [Building a Foundation for AI Success: A Leader’s Guide](https://info.microsoft.com/ww-landing-building-a-foundation-for-ai-success.html) | This whitepaper will identify how to accelerate your company’s success with AI through insights from  Microsoft, Microsoft customers and partners, industry analysts, and AI leaders—to help your organization thrive on your path to AI transformation. | Whitepaper
 [Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/haxtoolkit/ai-guidelines/) | The Guidelines are evidence-based best practices for designing your AI user experiences.| Microsoft
+[Microsoft AI Use Case Explorer](https://aiusecaseexplorer.microsoft.com) | With the Microsoft Use Case Explorer for AI Design Wins, access a curated collection of successful AI Design Wins across various industries and personas to tailor your pitch and drive growth | MicrosoftS
 
 ## Learning Journeys
 
