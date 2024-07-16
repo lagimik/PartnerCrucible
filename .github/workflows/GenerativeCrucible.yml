@@ -100,13 +100,13 @@ jobs:
           prompt: |
             "Use an professional tone to summarize the changes found below in the Partner Crucible updates to help Microsoft Partners Build their technical practice."
             "Use the solution areas as a title heading"
-            "Create a summary of all the changes."
+            "Create a list of all the changes. Be brief. Use emojis for emphasis"
             "Next, provide a list of URL links with a short description.
             "Use markdown as the output format."
             "##"
             "# Heading Solution Area"
             "## What's new"
-            "summary sentence of changes"
+            "list of changes"
             "## Deep links"
             "- [link title](link url): description"
 
