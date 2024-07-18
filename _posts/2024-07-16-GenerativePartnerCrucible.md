@@ -5,7 +5,7 @@ flag: GenerativePartnerCrucible
 layout: generativepartnercrucible
 thumbnail: /PartnerCrucible/assets/images/2024-07-16-AzureInfrastructureSolutionArea.md-image.png
 ---
-![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2024-07-16-AzureInfrastructureSolutionArea.md-image.png )
+
 
 ![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2024-07-16-DataAISolutionArea-AzureOpenAI.md-image.png )
 
@@ -26,6 +26,7 @@ thumbnail: /PartnerCrucible/assets/images/2024-07-16-AzureInfrastructureSolution
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-AzureOpenAI) for more partner resources.
 
+![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2024-07-16-AzureInfrastructureSolutionArea.md-image.png )
 
 # Azure Infrastructure
 
