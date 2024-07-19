@@ -21,6 +21,7 @@ Source | Description | Notes
 :----- | :---------- | :----
 [Microsoft Copilot for Security](https://www.microsoft.com/en-us/security/blog/2024/03/13/microsoft-copilot-for-security-is-generally-available-on-april-1-2024-with-new-capabilities/) | March 13th Announcement: Microsoft Copilot for Security is generally available on April 1, 2024, with new capabilities | Blog
 [Randomized Controlled Trial for Copilot for Security](https://go.microsoft.com/fwlink/?linkid=2262764&clcid=0x409&culture=en-us&country=us) | We conducted randomized controlled trials (RCTs) to measure the efficiency gains from using Copilot for Security, including speed and quality improvements. External experimental subjects logged into a Microsoft Defender XDR (Defender XDR) environment created for this experiment and performed four tasks: Incident Summarization, Script Analysis, Incident Report, and Guided Response.| Whitepaper
+[Applied GAI in Security](https://applied-gai-in-security.ghost.io/) | @BrandonDixon - This newsletter serves as a place to document ideas, share opinions and inspire others to explore what this technology can bring to our field| Blog
 
 ## Community
 
