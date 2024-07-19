@@ -180,10 +180,15 @@ Source | Description | Notes
 :----- | :---------- | :-----
 [Azure Quantum](https://quantum.microsoft.com/) | Main page | Azure Quantum
 [Learn quantum computing with Azure Quantum](https://quantum.microsoft.com/en-us/experience/quantum-coding) | Copilot in Azure Quantum, here to assist you in learning and exploring coding for quantum computers | Azure Quantum
+[Microsoft Quantum Innovator Series](https://msazurequantum.eventbuilder.com/InnovatorSeries) | Get the inside, first-hand account of Microsoft’s strategy to scaled quantum computing. In this series, you will hear directly from Microsoft’s Azure Quantum scientists and leaders about the path to quantum at scale and how to get involved today.| Azure Quantum
+[Azure Quantum Elements - Private Preview ](https://smt.microsoft.com/en-US/AQEPrivatePreviewSignup/) | Sign-up to learn more about the private preview and get the latest updates from the Azure Quantum team | Form
 [Video Playlist](https://quantum.microsoft.com/en-us/explore/playlist) | | Azure Quantum
 [Azure Quantum katas](https://quantum.microsoft.com/en-us/experience/quantum-katas) | Quantum katas are self-paced learning tutorials assisted by Copilot in Azure Quantum.| Azure Quantum
+[Announcing v1.0 of the Azure Quantum Development Kit](https://devblogs.microsoft.com/qsharp/announcing-v1-0-of-the-azure-quantum-development-kit/) | release of the Azure Quantum Development Kit, which we often refer to simply as “the QDK| Blog
 [Azure Quantum Development Kit](https://github.com/microsoft/qsharp) | This repository contains tooling for the Q# language | GitHub
 [Quantum on Microsoft Learn](https://learn.microsoft.com/en-us/training/browse/?terms=quantum) | From intorduction, getting started, to superposition, to teleportation! | Microsoft Learn
+[Quantum computing providers on Azure Quantum](https://learn.microsoft.com/en-us/azure/quantum/qc-target-list) |  This article lists the providers that you can access with Azure Quantum, and provides a description of what each provider offers.| Microsoft Learn
+
 
 ## Workload - Azure Networking 
 
