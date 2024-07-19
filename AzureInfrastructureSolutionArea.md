@@ -179,6 +179,7 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :---------- | :-----
 [Azure Quantum](https://quantum.microsoft.com/) | Main page | Azure Quantum
+[Learn quantum computing with Azure Quantum](https://quantum.microsoft.com/en-us/experience/quantum-coding) | Copilot in Azure Quantum, here to assist you in learning and exploring coding for quantum computers | Azure Quantum
 [Video Playlist](https://quantum.microsoft.com/en-us/explore/playlist) | | Azure Quantum
 [Azure Quantum katas](https://quantum.microsoft.com/en-us/experience/quantum-katas) | Quantum katas are self-paced learning tutorials assisted by Copilot in Azure Quantum.| Azure Quantum
 [Azure Quantum Development Kit](https://github.com/microsoft/qsharp) | This repository contains tooling for the Q# language | GitHub
