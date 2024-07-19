@@ -45,7 +45,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
-[Microsoft Copilot For Security Community](https://github.com/Azure/Copilot-For-Security/tree/main) | GitHub Repo including customer guides, promptbook samples, plugins, and logic apps| GitHub
+[Microsoft Copilot For Security Repo](https://github.com/Azure/Copilot-For-Security/tree/main) | GitHub Repo including customer guides, promptbook samples, plugins, and logic apps| GitHub
 [Copilot for Security Technical Resources](https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot) | Topic page devoted to Microsfot Copilot for Security | MS US Partner Resources 
 [What is Microsoft Security Copilot](https://learn.microsoft.com/en-us/security-copilot/microsoft-security-copilot?view=o365-worldwide) | Microsoft Security Copilot (Security Copilot) is a generative AI-powered security solution that helps increase the efficiency and capabilities of defenders to improve security outcomes at machine speed and scale, while remaining compliant to responsible AI principles. | Microsoft Learn
 [Operationalizing Microsoft Security Copilot to Reinvent SOC Productivity](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/operationalizing-microsoft-security-copilot-to-reinvent-soc/ba-p/3944877) | While our core products detect and respond at machine speed, our ongoing mission is to upskill SOC analysts and empower them to be more efficient where they’re needed to engage. To bridge this gap, we are bringing Security Copilot into our industry-leading XDR platform, Microsoft 365 Defender, which is like adding the ultimate expert SOC analyst to your team, both raising the skill bar and increasing efficiency and autonomy | Tech Community
@@ -55,6 +55,7 @@ Source | Description | Notes
 [Privacy and data security](https://learn.microsoft.com/en-us/security-copilot/privacy-data-security?view=o365-worldwide) |  Privacy and data security in Microsoft Security Copilot | Microsoft Learn
 [FAQ](https://learn.microsoft.com/en-us/security-copilot/faq-security-copilot?view=o365-worldwide) | Microsoft Security Copilot Early Access Program Frequently Asked Questions | Microsoft Learn
 [Microsoft Copilot for Security Sample Prompts Library](https://github.com/Azure/Copilot-For-Security/tree/main/Sample%20Prompts) | a variety of examples to demonstrate how prompts can be used to achieve different security tasks. Our examples showcase how specific prompts can be utilized to perform a range of tasks. This is a collaborative page where people can learn from the examples and contribute their own. | GitHub
+[Microsoft Copilot For Security Resources](https://aka.ms/cfsresrouces) | Collection of reference by @iamjoeycruz | GitHub
 
 ## Integration
 
