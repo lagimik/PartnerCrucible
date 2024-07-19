@@ -174,6 +174,16 @@ Source | Description | Notes
 :----- | :---------- | :-----
 [Getting Started with Reliability on Azure](https://techcommunity.microsoft.com/t5/azure-architecture-blog/getting-started-with-reliability-on-azure-ensuring-cloud/ba-p/4152905) | Getting Started with Reliability on Azure: Ensuring Cloud Applications Stay Up and Running includes a reference architecture for reliability | Tech Community
 
+## Workload - Azure Quantum
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[Azure Quantum](https://quantum.microsoft.com/) | Main page | Azure Quantum
+[Video Playlist](https://quantum.microsoft.com/en-us/explore/playlist) | | Azure Quantum
+[Azure Quantum katas](https://quantum.microsoft.com/en-us/experience/quantum-katas) | Quantum katas are self-paced learning tutorials assisted by Copilot in Azure Quantum.| Azure Quantum
+[Azure Quantum Development Kit](https://github.com/microsoft/qsharp) | This repository contains tooling for the Q# language | GitHub
+[Quantum on Microsoft Learn](https://learn.microsoft.com/en-us/training/browse/?terms=quantum) | From intorduction, getting started, to superposition, to teleportation! | Microsoft Learn
+
 ## Workload - Azure Networking 
 
 Source | Description | Notes
