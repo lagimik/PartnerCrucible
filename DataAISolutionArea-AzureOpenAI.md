@@ -98,6 +98,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[GPT-4o mini](https://azure.microsoft.com/en-us/blog/openais-fastest-model-gpt-4o-mini-is-now-available-on-azure-ai/) | GPT-4o mini, announced by OpenAI today, is available simultaneously on Azure AI, supporting text processing capabilities with excellent speed and with image, audio, and video coming later | Azure AI
 [Llama 2 on Azure](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/introducing-llama-2-on-azure/ba-p/3881233) | Llama 2 is the next generation of large language model (LLM) developed and released by Meta. It is pretrained on 2 trillion tokens of public data and is designed to enable developers and organizations to build generative AI-powered tools and experiences. | Tech Community
 
 ## Azure OpenAI Models - Whisper
