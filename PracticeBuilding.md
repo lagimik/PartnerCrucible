@@ -32,6 +32,19 @@ Pillar | Description | Why? | Next Step
 **Achieve Specialisation** | Microsoft specializations build on the related **Solutions Partner designations** in one of the [specialization areas](https://partner.microsoft.com/en-CA/partnership/specialization) |  See [Specialization Benefits Guide](https://aka.ms/Solutionspartner.Benefits) | Use *Partner Center* to [apply for and check the status of specializations](https://learn.microsoft.com/en-us/partner-center/advanced-specializations-apply)
 **Marketplace offer** | The Microsoft commercial marketplace is a catalog of solutions from our independent software vendor (ISV) partners and offers from Solution Integrators (SIs).| Accelerate your business in partnership with Microsoft, and to connect Microsoft customers with the best solutions that our partner ecosystem offers.| [Introduction to Listing Options](https://learn.microsoft.com/en-us/azure/marketplace/determine-your-listing-type) <br> [Partner-Led Marketing Guidelines](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR9SZm6iKPzNJvudw-PPFJydUNFZOMTJVWlVaOTRHQVQ5RENQMUEwWVdaMC4u)
 
+# Partner Practice Solution Areas
+
+Partner Playbooks present Strategic Direction, Go-to-Market (GTM) Partner Strategy, Partner Practice Building, and Microsoft Partner Investments
+
+Solution Area | Partner Practice Playbook
+------------: | :------------------------
+Modern Work | [Modern Work Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy25-modern-work-partner-playbook.pdf)
+Security| [Security Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy25-security-partner-playbook.pdf)
+Business Applications | [Business Applications Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy25-business-applications-partner-playbook.pdf)
+Digital and App Innovcation | [Digital and App Innovation Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy25-azure-digital-and-app-innovation-partner-playbook.pdf)
+Data and AI | [Data and AI Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy25-azure-data-and-ai-partner-playbook.pdf)
+Infrastructure| [Infrastructure Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy25-cloud-infrastructure-partner-playbook.pdf)
+
 
 # Partner Practice Incentive Reinvestment
 
