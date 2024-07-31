@@ -80,6 +80,12 @@ Source | Description | Notes
 [Revolutionize reports with Fabric Copilot and Power BI](https://build.microsoft.com/en-US/sessions/be2b066b-8785-4c92-97d6-9e42e4be74fd?source=sessions) | This presentation will show how to leverage Fabric Copilot to improve the Power BI experience for developers and end users. We'll show you how to go from start to finish applying our favorite new features that Fabric Copilot offers. By the end of this presentation, you'll know how to leverage Fabric Copilot in Microsoft Fabric and be equipped with strategies to increase productivity, improve efficiency, and report utilization for your teams. | Microsoft Build
 [Copilot in Power BI Demo](https://www.youtube.com/watch?v=wr__6tM5U6I) | ith Copilot in Power BI, we are infusing the power of large language models into Power BI at every layer to help users get more done and create more value from their data. Using Copilot, you can simply describe the visuals and insights you’re looking for and Copilot will do the rest. Users can create and tailor reports in seconds, generate and edit DAX calculations, create narrative summaries, and ask questions about their data, all in conversational language. With the ability to easily tailor the tone, scope and style of narratives and add them seamlessly within reports, Power BI can also deliver data insights even more impactfully through easy-to-understand text summaries | YouTube
 
+## databricks
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Databricks Academy](https://www.databricks.com/learn/training/home) | As a customer, you have access to all Databricks free customer training offerings. These offerings include courses, recorded webinars, and quarterly product roadmap webinars. You can access the material from your Databricks Academy account.| databricks
+
 ## Labs
 
 Source | Description | Notes
