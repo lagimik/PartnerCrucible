@@ -8,6 +8,8 @@ thumbnail: /PartnerCrucible/assets/images/2024-08-03-PracticeBuilding.md-image.p
 
 ![ PracticeBuilding.md ]( /PartnerCrucible/assets/images/2024-08-03-PracticeBuilding.md-image.png )
 
+# Partner Practice Building
+
 ## What's new
 
 - Updated Microsoft Partner Solution Area Playbooks 📝
