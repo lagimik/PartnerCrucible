@@ -204,6 +204,7 @@ Source | Description | Notes
 [Azure Network Security](https://github.com/Azure/Azure-Network-Security) | Deploy Azure NetSec resources programmatically using scripts and templates | GitHub
 [Azure Network Security Ninja Training](https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-network-security-ninja-training/ba-p/2356101) | In this blog post, we will walk you through basic to advanced scenarios for Azure network security. Ready to become an Azure NetSec ninja? Dive right in! | Tech Community 2022
 [Accelerated Connections](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/announcing-the-limited-general-availability-of-accelerated/ba-p/4070798) | This is the first blog in a series of detailed efforts and offerings addressing network disaggregation in the datacenter and how it intersects with Azure’s new Accelerated Connections offering.   | Tech Community
+[Azure Networking: The Art of The Possible and the why](https://github.com/nehalineogi/azure-networking) | by @nehalineogi - The purpose of this repo is to deliver layered, reusable and github friendly network architecture diagrams for Cloud Solutions Architects to run effective Azure design and skilling sessions | GitHub
 
 ## Workload HCI
 
@@ -238,6 +239,7 @@ Source | Description | Notes
 [CI/CD for AKS apps with GitHub Actions and GitFlow](https://learn.microsoft.com/en-us/azure/architecture/guide/aks/aks-cicd-github-actions-and-gitops) | The example scenario in this article is applicable to businesses that want to modernize end-to-end application development by using containers, continuous integration (CI) for build, and GitOps for continuous deployment (CD). | Microsoft Learn
 [GitOps for Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/gitops-aks/gitops-blueprint-aks) | GitOps is a set of principles for operating and managing a software system. This article describes techniques for using GitOps principles to operate and manage an Azure Kubernetes Services (AKS) cluster.| Microsoft Learn
 [Triage practices for AKS operations](https://learn.microsoft.com/en-us/azure/architecture/operator-guides/aks/aks-triage-practices) | Series of articles about triage practices, which describes the top-down approaches to addressing cluster health, node/pod health, workload deployments, adminssion controllers, and container registry connectivity | Microsoft Learn
+[Azure Kubernetes Service (AKS) Networking](https://www.youtube.com/playlist?list=PLb4hYfatvJJiIzPftv85zYFq7PXnUY2Zg) | AKS Networking (Docker Networking, CNI, Ingress, Egress)| YouTube 
 
 
 ## Workload - Azure RedHat OpenShift (ARO)
