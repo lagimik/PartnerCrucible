@@ -35,6 +35,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
+[Copilot for Security Partner Playbook](https://aka.ms/copilotforsecurity/partnerplaybook) | Includes a solution overview, partner strategic insights, and partner resources | Transform
 [Copilot for Security Practice Building](https://securitypartners.transform.microsoft.com/security-copilot) | Define your strategy, develop your skills, operationalize and go to market | Transform
 [Microsoft Copilot for Security Customer Pitch Deck](https://securitypartners.transform.microsoft.com/download?assetname=assets%2Fsecurity-partner-portal%2FMicrosoft%20Copilot%20for%20Security%20Customer%20Pitch%20Deck_Final.pptx&download=1) | Microsoft Copilot for Security: Protect at the speed and scale of AI | Transform
 [Microsoft Copilot for Security: An introductory deep dive for MSSPs](https://securitypartners.transform.microsoft.com/download?assetname=assets%2Fsecurity-partner-portal%2F3P_MSSP_Jan2024_v4_Accessible%20(1).pptx&download=1)| An introductory deep dive for MSSPs | Transform
