@@ -103,7 +103,7 @@ jobs:
             "Create a list of all the changes. Be brief. Use emojis for emphasis"
             "Next, provide a list of URL links include the description and source.
             "Use markdown as the output format."
-            "\"\""
+            "Example"
             "# Heading Solution Area"
             "## What's new"
             "list of changes"
