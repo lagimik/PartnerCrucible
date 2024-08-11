@@ -34,6 +34,8 @@ Source | Description | Notes
 [Security Insider](https://www.microsoft.com/en-us/security/business/security-insider/)| Includes thread briefs, reports, behind the scenes, and threat actor insights | Security Insider
 [Security Blog](https://www.microsoft.com/security/blog/)| Official Microsoft Security Blog |...
 [MISA](https://www.microsoft.com/en-ca/security/business/intelligent-security-association)| The Microsoft Intelligent Security Association (MISA) is an ecosystem of independent software vendors and managed security service providers that have integrated their solutions to better defend against a world of increasing threats| The Microsoft Intelligent Security Association (MISA)
+[Implementing a Zero Trust Architecture](https://www.nccoe.nist.gov/sites/default/files/2024-07/zta-nist-sp-1800-35-preliminary-draft-4.pdf) | Since 2022, the NCCoE has collaborated with 24 vendors, including Microsoft, on developing a practice guide with practical steps for organizations eager to implement cybersecurity reference designs for Zero Trust. Zero Trust principles include assuming compromise (assuming breach) to drive a holistic and practical security approach, verifying trust explicitly before granting access to assets, and limiting the blast radius by granting the least privilege necessary.| NIST
+[Microsoft Zero Trust Cpapability Mapping to NIST ZT Architecture](https://www.microsoft.com/en-us/security/blog/2024/08/06/how-microsoft-and-nist-are-collaborating-to-advance-the-zero-trust-implementation/) | diagram to showcase a mapping of all the MS security products to the architecutre. | Microsoft
 
 ## Community
 
