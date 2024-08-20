@@ -60,12 +60,10 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :---------- | :-----
 [Power Platform Certifications](https://aka.ms/BusAppsTrainCertPoster) | Overview Poster | Microsoft
-[Power Platform  Training and certifications guide](https://aka.ms/PPTrainCertDeck) | Summary role-based training and certification guide |Microsoft
 [Power Platform Training Journey](https://aka.ms/powertrainingjourney) | Complete role-based training and certification journey map| Microsoft
 [PowerPlatform - Online Workshops](https://learn.microsoft.com/en-ca/training/browse/?terms=workshop&products=power-platform) | PowerPlatform Online Workshops| Microsoft Learn
-[PL-100	Labs](https://microsoftlearning.github.io/PL-100-Microsoft-Power-Platform-App-Maker/) | Hands-on labs for Microsoft-Power-Platform-App-Maker | GitHub
 [PL-200	Labs](https://microsoftlearning.github.io/PL-200-Power-Platform-Functional-Consultant/) | Hands-on labs for Power-Platform-Functional-Consultant  | GitHub
-[PL-400	Labs](https://microsoftlearning.github.io/PL-400_Microsoft-Power-Platform-Developer/Instructions/Labs/LAB%5BPL-400%5D_Lab03_Canvas_App.html) | Hands-on labs for Microsoft-Power-Platform-Developer  | GitHub
+[PL-400	Labs](https://microsoftlearning.github.io/PL-400_Microsoft-Power-Platform-Developer/ | Hands-on labs for Microsoft-Power-Platform-Developer  | GitHub
 [PL-500	Labs](https://microsoftlearning.github.io/PL-500T00-Microsoft-Power-Automate-RPA-Developer/)| Hands-on labs for Microsoft-Power-Automate-RPA-Developer  | GitHub
 [PL-600	Labs](https://microsoftlearning.github.io/PL-600-Microsoft-Power-Platform-Solution-Architect/) | Hands-on labs for Microsoft-Power-Platform-Solution-Architect  | GitHub
 [PL-300 Labs](https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/) | Hands-on labs for Microsoft-Power-BI-Data-Analyst  | GitHub

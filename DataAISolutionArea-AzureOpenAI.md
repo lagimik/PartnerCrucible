@@ -54,6 +54,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[FY25 Azure Data and AI Partner Playbook](assetsprod.microsoft.com/mpn/en-ca/fy25-azure-data-and-ai-partner-playbook.pdf) | FY25 GTM Partner Strategy, practice building, and partner investments. | Microsoft Partner
 [AI Transformation Partner Playbook](https://aka.ms/aipartnerplaybook) | No matter where you are in your AI transformation journey, the AI Transformation Partner Playbook will empower you to accelerate innovation and grow your AI practice. | Partner
 [Partner Data and AI Solution Area Landing](https://partner.microsoft.com/en-us/explore/solution-areas#tab-2) | Landing page for partner resources | Partner
 [Azure OpenAI Sales Acceleration](https://partner.microsoft.com/en-us/asset/collection/azure-openai-service-sales-acceleration-content#/) | Sales Acceleration content| Partner
@@ -63,7 +64,8 @@ Source | Description | Notes
 [Learning About Generative AI](https://www.youtube.com/watch?v=Ch6KE7KxHGM) | @John Savill explores the Generative AI concepts and services | YouTube
 [Azure OpenAI as a central capability with Azure API Management](https://github.com/Azure/enterprise-azureai) | Unleash the power of Azure OpenAI to your application developers in a secure & manageable way with Azure API Management and Azure Developer CLI | GitHub
 [Security for AI: How to Secure and govern AI usage](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/security-for-ai-how-to-secure-and-govern-ai-usage/ba-p/4082269) |  detailed guidance on implementing the controls for securing and governing AI usage| Tech Community
-
+[AI Industry Use Cases: Insights and Priorities from the Field](https://assetsprod.microsoft.com/mpn/en-us/industry-ai-use-cases-and-tech-patterns.ppt) | This deck provides high priority AI industry use cases. It is meant to help prioritize use cases for a customer and then link that business use cases to technical assets to facilitate implementation. | Microsoft Partners
+[AI-powered Use Cases and Technical Patterns for Key Organizational Functions](https://assetsprod.microsoft.com/mpn/en-us/rooms-of-the-house-use-cases-and-tech-patterns.ppt) |  This deck provides high priority AI use cases for key organizational functions. It is meant to help prioritize use cases for a customer and then link that business use cases to technical assets to facilitate implementation. | Microsoft Partners
 
 ## Azure OpenAI Services
 
@@ -116,7 +118,6 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [AI Learning Companion](https://learning-pathways.co.uk/wp-content/uploads/2023/08/AI-Learning-Companion.pdf) | Collection of Microsoft AI learning resources  | Learning Pathways by @PaulGriffiths
 [Azure AI Engineer](https://learning-pathways.co.uk/wp-content/uploads/2023/05/Azure-AI-Engineer-Learning-Pathway.pdf) | Collection of Microsoft AI learning resources  | Learning Pathways by @PaulGriffiths
-[Partner Learning Plan Resources for Azure OpenAI](https://microsoft.github.io/PartnerResources/azure/data-analytics-ai/openai) | This document is under active development. Please check regularly for updates | Microsoft US
 [OpenAI Learning Collection](https://sway.office.com/YLu2lOkCjvtNCHZC?ref=Link) | From Quickstarts to L100, L200, L300, and L400 content| Microsoft GPS Canada
 [Introduction to Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/) | Understand how you can use Azure OpenAI to build solutions against AI models within Azure.| Microsoft Learn
 [Azure OpenAI Workshop](https://github.com/Azure/azure-openai-workshop) | In this workshop, you will learn how to use the Azure OpenAI service to create AI powered solutions. You will get hands-on experience with the latest AI technologies and will learn how to use Azure OpenAI API.| GitHub
