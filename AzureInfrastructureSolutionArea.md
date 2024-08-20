@@ -80,7 +80,6 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :---------- | :-----
 [Microsoft Azure Certifications](https://aka.ms/AzureCerts_Poster) | Overview Poster | Microsoft
-[Microsoft Azure Training and certifications guide](http://aka.ms/AzureTrainCertDeck) | Summary role-based training and certification guide |Microsoft
 [Microsoft Azure Training Journey](https://aka.ms/AzureTrainingJourney) | Complete role-based training and certification journey map| Microsoft
 
 ## Azure Roles and Skills
