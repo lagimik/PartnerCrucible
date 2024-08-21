@@ -111,6 +111,7 @@ Source | Description | Notes
 [Microsoft Purview YouTube](https://www.youtube.com/@MicrosoftPurview) | Collection of HowTo videos| Youtube
 [Build custom lineage with the REST APIs](https://learn.microsoft.com/en-us/purview/how-to-purview-custom-lineage-api-user-guide) | In scenarios where the automatically generated lineage in Microsoft Purview is incomplete or missing, lineage can be custom built either manually in the Microsoft Purview portal or using the REST APIs.| Microsoft Learn
 [Report Manual Data lineage](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/report-manual-data-lineage-with-few-clicks-in-microsoft-purview/ba-p/3655228#:~:text=The%20Data%20scientist%20can%20use%20Manual%20lineage%20to,for%20selecting%20an%20asset%20to%20report%20manual%20lineage) | With Manual lineage, data owners can report data lineage manually using asset curation experiences. Manual lineage can bridge the gap in coverage of end-to-end lineage, where automated lineage of the Data system is not natively supported in Microsoft Purview| Microsoft Community
+[Injecting lineage and attributes into Microsoft Purview](https://www.microsoft.com/en-gb/industry/blog/technetuk/2022/08/12/injecting-lineage-and-attributes-into-microsoft-purview-part-1/?msockid=27572ad69fcc67bb3f9d396b9e376601) | This two-part blog describes and demonstrates how to easily add lineage and attributes in order to improve the data consumer’s experience. | Industry Blog
 
 
 ## Azure Data Explorer
