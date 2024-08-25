@@ -90,7 +90,7 @@ jobs:
         id: summary-stagger
         uses: m3y/random-wait-action@v1
         with:
-          max-wait-time: 15
+          max-wait-time: 30
 
       - name: Create Summary Completion Jobs
         if: ${{ (matrix.changes.change != null)  }}
