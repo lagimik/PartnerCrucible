@@ -30,7 +30,7 @@ Source | Description | Notes
 [Microsoft named a Leader in the 2022 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2022-gartner-magic-quadrant-for-industrial-iot-platforms/) | As industrial Internet of Things (IoT) matures and transforms critical business functions, Microsoft continues to innovate and invest in this area and engage with a large ecosystem of solution partners.| Gartner
 [Open at Microsoft](https://learn.microsoft.com/en-ca/shows/open-at-microsoft/) | Open at Microsoft is a weekly show for open-source enthusiasts. It features a diverse group of guests including maintainers, software and DevOps engineers, and community members who come together to share their insights on an open-source project. Each episode focuses on one collaborative goal of the project, such as a new feature, release, or call for user feedback, and provides information on how to contribute to the project. | Open at Microsoft
 [Cloud Native Computing Foundation](https://www.cncf.io/) | As part of the Linux Foundation, we provide support, oversight and direction for fast-growing, cloud native projects, including Kubernetes, Envoy, and Prometheus. | CNCF
-[Measuring GitHub Copilot’s Impact on Productivity](https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/) | A case study asks Copilot users about the tool's impact on their productivity, and seeks to find their perceptions mirrored in user data.| ACM
+
 
 ## Practice Building
 
@@ -38,6 +38,17 @@ Source | Description | Notes
 :----- | :---------- | :----
 [Digital and App Innovation Playbook](https://assetsprod.microsoft.com/en-ca/fy24-azure-digital-and-app-innovation-partner-playbook.pdf) | Strategy, Solution Plays, and Key Resources | Partners FY24
 [Microsoft Assessments](https://learn.microsoft.com/en-us/assessments/) | Microsoft Assessments help customers work through a scenario of questions and recommendations that result in a curated guidance report that is actionable and informative. Assessments take time, but is time well-spent. | Microsoft Learn
+
+
+## GitHub Copilot
+
+Source | Description | Notes
+:----- | :---------- | :----
+[GitHub Copilot Learning Modules](https://learn.microsoft.com/en-us/training/browse/?terms=github%20copilot) | A collection of learning modules for GitHub Copilot| Microsoft Learn
+[Simplified Code Refinement and Debugging with GitHub Copilot Chat](https://devblogs.microsoft.com/visualstudio/simplified-code-refinement-and-debugging-with-github-copilot-chat/) | With Chat, Copilot has moved beyond code completions, offering in-depth analysis and explanations of how code works. It supports the generation of unit tests, and even helps with proposed fixes to bugs, and explaining exceptions. | DevBlog
+[GitHub Copilot — Prompts, tips, and use cases]() || GitHub Blog
+[GitHub Copilot documentation]() || GitHub
+[Measuring GitHub Copilot’s Impact on Productivity](https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/) | A case study asks Copilot users about the tool's impact on their productivity, and seeks to find their perceptions mirrored in user data.| ACM
 [GitHub Copilot Analysis, Customized Rules, and more come to the Azure Migrate application and code assessment](https://devblogs.microsoft.com/dotnet/azure-migrate-application-and-code-assessment-march-2024-update/?WT.mc_id=academic-0000-abartolo) | Azure Migrate application and code assessment for .NET (both the VS extension and the CLI) | Dev Blogs
 
 ## Tools and Practices
