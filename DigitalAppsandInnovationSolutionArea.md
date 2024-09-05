@@ -45,7 +45,7 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :---------- | :----
 [GitHub Copilot Learning Modules](https://learn.microsoft.com/en-us/training/browse/?terms=github%20copilot) | A collection of learning modules for GitHub Copilot| Microsoft Learn
-[Simplified Code Refinement and Debugging with GitHub Copilot Chat](https://devblogs.microsoft.com/visualstudio/simplified-code-refinement-and-debugging-with-github-copilot-chat/) | With Chat, Copilot has moved beyond code completions, offering in-depth analysis and explanations of how code works. It supports the generation of unit tests, and even helps with proposed fixes to bugs, and explaining exceptions. | DevBlog
+[Simplified Code Refinement and Debugging with GitHub Copilot Chat](https://devblogs.microsoft.com/visualstudio/simplified-code-refinement-and-debugging-with-github-copilot-chat/) | With Chat, Copilot has moved beyond code completions, offering in-depth analysis and explanations of how code works. It supports the generation of unit tests, and even helps with proposed fixes to bugs, and explaining exceptions. | Microsoft DevBlog
 [GitHub Copilot — Prompts, tips, and use cases]() || GitHub Blog
 [GitHub Copilot documentation]() || GitHub
 [Measuring GitHub Copilot’s Impact on Productivity](https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/) | A case study asks Copilot users about the tool's impact on their productivity, and seeks to find their perceptions mirrored in user data.| ACM
