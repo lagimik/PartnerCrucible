@@ -19,6 +19,7 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[The Effects of Generative AI on High Skilled Work](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566) | The Effects of Generative AI on High Skilled Work: Evidence from Three Field Experiments with Software Developers | Research Pap
 [The Forrester Wave™: AI Foundation Models For Language](https://reprints2.forrester.com/#/assets/2/157/RES180932/report) | This report shows how each provider measures up and helps enterprise business and technology professionals select the right one for their needs. | Q2 2024 - Forrester
 [Magic Quadrant™ for Cloud AI Developer Services](https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-2024-gartner-magic-quadrant-for-cloud-ai-developer-services/) | Updated for 2024 - Microsoft has been named a Leader for the fifth year in a row in the Gartner® Magic Quadrant™ for Cloud AI Developer Services and are especially proud to be placed furthest for our Completeness of Vision. | Gartner
 [The CEO’s Guide to the Generative AI Revolution](https://www.bcg.com/publications/2023/ceo-guide-to-ai-revolution) | By François Candelon, Abhishek Gupta, Lisa Krayer, and Leonid Zhukov | BCG
