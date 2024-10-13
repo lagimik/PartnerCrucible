@@ -109,6 +109,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Teams Phone - Gartner Magic Quadrant](https://www.linkedin.com/posts/eugenezozulya_gartnermagicquadrant-ucaas-teamsphone-activity-7251261422020521984-_Csa?utm_source=share&utm_medium=member_desktop) | Features like Direct Routing, Operator Connect, and Teams Phone Mobile add flexibility, giving businesses control over how they manage their voice services | Gartner
 [Microsoft Teams Blog](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/bg-p/MicrosoftTeamsBlog)| Welcome to the Microsoft Teams Blog! Learn best practices, news, and trends directly from the team behind Microsoft Teams. | Microsoft blog
 [Teams Calling Community](https://aka.ms/teamscallingmeetingsYAM)| This group is designed for partners building their Teamwork practice with Calling, Meetings and Teams Devices | Yammer
 [Microsoft Teams Rooms Partner Bootcamp](https://learning.eventbuilder.com/MSTeamsRoomsBootcamp)| Microsoft Teams Rooms Partner Bootcamp. This 4-day event| Recorded April 2022
