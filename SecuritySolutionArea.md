@@ -219,6 +219,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
+[Notes from Microsoft Purview engineering](https://learn.microsoft.com/en-us/purview/deploymentmodels/) | Prescriptive deployment guidance and articles from the Microsoft Purview engineering team. Learn more about deploying solutions across Microsoft Purview with the Purview deployment models, a content series featuring a simple visual of activities combined with a detailed guide. Feature playbooks are detailed feature guides to maximize their use. Articles provide more tips to maximize your use of Microsoft Purview. | Microsoft Learn
 [Implementing Zero Trust with Microsoft Purview](https://learn.microsoft.com/en-us/purview/zero-trust-microsoft-purview) | Microsoft Purview solutions can help you implement a Zero Trust security strategy | Microsoft Learn
 [Microsoft Purview One-Stop-Shop (OSS)](https://microsoft.github.io/ComplianceCxE/) | Deployment acceleration, notes from the field, jump starts, webinars from the Customer Acceleration Team (CAT)| GitHub
 [Data Governance and Compliance with Microsoft Purview - Tech Intensity Series](https://msuspartners.eventbuilder.com/EnablePurview) | Extending the Purview name and bringing together data governance capabilities from Data & AI and compliance and risk solutions from Security into one product family, and rebranding to Microsoft Purview | August 2022
