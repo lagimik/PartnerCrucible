@@ -134,6 +134,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Power Automate Cloud flows Best Practices](https://go.microsoft.com/fwlink/?linkid=2290320) |  This technical white paper is aimed at Microsoft Power Automate Makers in the enterprise. It contains the best practices for building efficient Power Automate Cloud flows. | Microsoft 
 [Microsoft Power Automate Community](https://powerusers.microsoft.com/t5/Microsoft-Power-Automate/ct-p/MPACommunity ) | Connect with peers, share ideas, and learn from experts | Community
 [Microsoft Learn for Power Automate](https://learn.microsoft.com/en-us/training/powerplatform/power-automate) | Learn how to free your organization from mundane tasks with automated flows and robotic process automation (RPA).| Microsoft Learn
 [Flow-in-a-Day](https://aka.ms/flowinaday) | Hands-on labs. This is the Power Automate in a day v8 material | Github
