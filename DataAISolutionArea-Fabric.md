@@ -47,7 +47,7 @@ Source | Description | Notes
 [Using Azure Databricks with Microsoft Fabric and OneLake](https://blog.fabric.microsoft.com/en-us/blog/using-azure-databricks-with-microsoft-fabric-and-onelake?ft=All:) | How does Azure Databricks work with Microsoft Fabric? With the recent announcement of Microsoft Fabric, this question might have appeared in your social media feed. This blog post will answer that question and more details on how the two systems can work together.| Blog
 [Microsoft Fabric End-to-End Security Whitepaper]( https://aka.ms/fabricsecuritywhitepaper) | comprehensive 75-page whitepaper covering all the comprehensive capabilities in Fabric that cover everything from network security, workload specific security, securing data, governing data, administration, reliability, and end to end scenario| Microsoft
 [Introducing the New Deployment Pipelines design](https://blog.fabric.microsoft.com/en-US/blog/introducing-the-new-deployment-pipelines-design-a-leap-forward-in-deployment-efficiency/) | Introducing the New Deployment Pipelines design: A leap forward in deployment Efficiency - This update introduces a range of changes, additions, and improvements designed to elevate your deployment process.| Blog
-
+[Microsoft Fabric Data Gateway Real Time Monitoring](https://github.com/ecotte/rt-gateway-log) | Using Microsoft Fabric, these logs are centralized in an event stream and processed efficiently through the Eventhouse. This centralized data is then available for analysis in Power BI and can support automated response rules via a data activator (pending implementation). | GitHub @ecotte
 
 ## Access Fabric
 
