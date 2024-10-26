@@ -220,6 +220,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
+[Purview Data Security Roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap?msockid=305e5dff038362fc15a64e2f02396376&filters=&searchterms=Microsoft%2CPurview) | PRuview roadmap of Information Protection, Compliance, Lifecycle, and Risk Management capabilities| M365 Roadmap
 [Notes from Microsoft Purview engineering](https://learn.microsoft.com/en-us/purview/deploymentmodels/) | Prescriptive deployment guidance and articles from the Microsoft Purview engineering team. Learn more about deploying solutions across Microsoft Purview with the Purview deployment models, a content series featuring a simple visual of activities combined with a detailed guide. Feature playbooks are detailed feature guides to maximize their use. Articles provide more tips to maximize your use of Microsoft Purview. | Microsoft Learn
 [Implementing Zero Trust with Microsoft Purview](https://learn.microsoft.com/en-us/purview/zero-trust-microsoft-purview) | Microsoft Purview solutions can help you implement a Zero Trust security strategy | Microsoft Learn
 [Microsoft Purview One-Stop-Shop (OSS)](https://microsoft.github.io/ComplianceCxE/) | Deployment acceleration, notes from the field, jump starts, webinars from the Customer Acceleration Team (CAT)| GitHub
