@@ -107,6 +107,8 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Purview Data Governance Roadmap](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/MS-Purview-Data-Governance-Roadmap.pdf) |The roadmap describes functionality that may or may not have been 
+released yet. | Microsoft 365 Roadmap
 [A Guide to Data Governance](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GEtu) | Data Governance is about ensuring that the data being used in your core business operations, reports and analyses is protected and can be trusted | Microsoft
 [Microsoft Purview Workshop](https://github.com/tayganr/purviewlab) | 16 Purview learning modules | by @tayganr on Github
 [Microsoft Purview Resource Provider Rest API](https://learn.microsoft.com/en-us/rest/api/purview/) | Documentation on the Purview Rest API capability | Microsoft Learn
