@@ -17,8 +17,9 @@ thumbnail: /PartnerCrucible/assets/images/2024-10-27-PowerPlatformSolutionArea.m
 
 ## Deep links
 
-- [Purview Data Governance Roadmap](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/MS-Purview-Data-Governance-Roadmap.pdf): The roadmap describes functionality that may or may not have been released yet. (Microsoft 365 Roadmap)
 - [Define an AI Technology Strategy](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/ai/strategy#define-an-ai-technology-strategy): Microsoft AI Decision Tree - An AI technology strategy involves selecting the right tools and platforms for each AI use case you identified. Choose between software as a service (SaaS), platform as a service (PaaS), or infrastructure as a service (IaaS) based on your goals and technical needs. (Microsoft Learn)
+- [Purview Data Governance Roadmap](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/MS-Purview-Data-Governance-Roadmap.pdf): The roadmap describes functionality that may or may not have been released yet. (Microsoft 365 Roadmap)
+
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea) for more partner resources.
 
