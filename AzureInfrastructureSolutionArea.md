@@ -138,6 +138,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[ GitHub Copilot for Azure in VS Code](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/streamline-your-azure-workflow-introducing-github-copilot-for-azure-in-vs-code/4276989) | Streamline Your Azure Workflow: Introducing GitHub Copilot for Azure in VS Code : public preview of GitHub Copilot for Azure - a new addition to your toolkit that seamlessly integrates with GitHub Copilot Chat in VS Code | Tech Community
 [Simplify IT management with Microsoft Copilot for Azure](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/simplify-it-management-with-microsoft-copilot-for-azure-save/ba-p/3981106) | Microsoft Copilot for Azure, an AI companion, that helps you design, operate, optimize, and troubleshoot your cloud infrastructure and services. Combining the power of cutting-edge large language models (LLMs) with the Azure Resource Model, Copilot for Azure enables rich understanding and management of everything that’s happening in Azure, from the cloud to the edge. | Tech Community
 [Microsoft Copilot for Azure - Preview](https://aka.ms/MSCopilotforAzurePreviewRequest) | Submit this form to register for approval to access and use limited public preview of Microsoft Copilot for Azure.| 
 
