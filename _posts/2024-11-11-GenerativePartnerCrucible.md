@@ -5,28 +5,71 @@ flag: GenerativePartnerCrucible
 layout: generativepartnercrucible
 thumbnail: /PartnerCrucible/assets/images/2024-11-11-PowerPlatformSolutionArea.md-image.png
 ---
-![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2024-11-11-AzureInfrastructureSolutionArea.md-image.png )
-# Azure Infrastructure Solution Area## What's new- Added Transform SAP Management with Microsoft Copilot Agents 🔄- Refreshed Gartner® Magic Quadrant™ for Strategic Cloud Platform Services (SCPS) for 2024 📈- GitHub Copilot for Azure in VS Code 🖥️## Deep links- [SAP on Azure Advanced Specialization](https://aka.ms/SAPonAzureAdvancedSpec): An SAP on Azure Specialization assures potential customers that a partner meets the highest standards for service delivery and support and increases partner visibility through prioritized ranking in searches and referrals via solution provider. (Microsoft Partners)- [Transform SAP Management with Microsoft Copilot Agents](https://community.powerplatform.com/blogs/post/?postid=6a8fb326-068d-ef11-ac21-6045bda6da2f): Multi-agent platform to transform SAP management (Tech Community)- [Gartner® Magic Quadrant™ for Strategic Cloud Platform Services (SCPS)](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2024-gartner-magic-quadrant-for-strategic-cloud-platform-services/): Microsoft named a Leader in 2024 Gartner® Magic Quadrant™ for Strategic Cloud Platform Services (Gartner)- [GitHub Copilot for Azure in VS Code](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/streamline-your-azure-workflow-introducing-github-copilot-for-azure-in-vs-code/4276989): Streamline Your Azure Workflow: Introducing GitHub Copilot for Azure in VS Code: public preview of GitHub Copilot for Azure - a new addition to your toolkit that seamlessly integrates with GitHub Copilot Chat in VS Code (Tech Community)
-
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/AzureInfrastructureSolutionArea) for more partner resources.
-
-![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2024-11-11-DataAISolutionArea-AzureOpenAI.md-image.png )
-# Data AI Solution Area## What's new- Added Azure OpenAI with Azure API Management 🆕## Deep links- [Azure OpenAI with Azure API Management](https://www.linkedin.com/pulse/azure-openai-api-management-john-savill-l9vjc/): Diving into using APIM with generative AI models with @JohnSavill (LinkedIn)
-
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-AzureOpenAI) for more partner resources.
-
-![ DataAISolutionArea.md ]( /PartnerCrucible/assets/images/2024-11-11-DataAISolutionArea.md-image.png )
-# Data & AI Solution Area## What's new- **Consulting reimagined, powered by AI**: Software and talent are converging to create new value. Are your consultants accelerating progress—or sticking to the status quo? (IBM)- **Crash Course in Microsoft Purview**: A guide to securing and managing your data estate. (eBook)- **Prompting for action**: How AI agents are reshaping the future of work. (Deloitte)## Deep links- [Consulting reimagined, powered by AI](https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/consulting-ai): Source: IBM- [Crash Course in Microsoft Purview](https://clouddamcdnprodep.azureedge.net/gdc/gdcieULMS/original): eBook- [Prompting for action](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/consulting/us-ai-institute-generative-ai-agents-multiagent-systems.pdf): Source: Deloitte
-
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea) for more partner resources.
 
 ![ IndustryGeneral.md ]( /PartnerCrucible/assets/images/2024-11-11-IndustryGeneral.md-image.png )
-# Healthcare Solutions## What's new- Added Healthcare data solutions in Microsoft Fabric solution architecture 🏥- Added Healthcare AI Models in Azure AI Model Catalog 🧠- Added Conversational AI for Healthcare 🤖## Deep links- [Healthcare data solutions in Microsoft Fabric solution architecture](https://learn.microsoft.com/en-us/industry/healthcare/healthcare-data-solutions/solution-architecture): The enterprise analytics solution Healthcare data solutions in Microsoft Fabric offers seamless integration, data engineering, real-time analytics, and business intelligence capabilities. It enables efficient transformation of healthcare data for analysis by breaking down data silos, harmonizing disparate data, and providing intuitive tools.- [Healthcare AI Models in Azure AI Model Catalog](https://techcommunity.microsoft.com/blog/aiplatformblog/announcing-healthcare-ai-models-in-azure-ai-model-catalog/4282460): These AI models are designed for healthcare organizations to build and deploy solutions tailored to their needs, minimizing compute and data requirements.- [Conversational AI for Healthcare](https://azure.microsoft.com/en-us/products/bot-services/health-bot/#layout-container-uid0eaa): Create health bots with medical knowledge bases, triage protocols, and industry-specific scenario templates to accelerate healthcare use case creation.
+
+# Healthcare Solutions
+
+## What's new
+
+- Added Healthcare data solutions in Microsoft Fabric solution architecture 🏥
+- Added Healthcare AI Models in Azure AI Model Catalog 🧠
+- Added Conversational AI for Healthcare 🤖
+
+## Deep links
+
+- [Healthcare data solutions in Microsoft Fabric solution architecture](https://learn.microsoft.com/en-us/industry/healthcare/healthcare-data-solutions/solution-architecture): The enterprise analytics solution Healthcare data solutions in Microsoft Fabric offers seamless integration, data engineering, real-time analytics, and business intelligence capabilities. It enables efficient transformation of healthcare data for analysis by breaking down data silos, harmonizing disparate data, and providing intuitive tools.
+- [Healthcare AI Models in Azure AI Model Catalog](https://techcommunity.microsoft.com/blog/aiplatformblog/announcing-healthcare-ai-models-in-azure-ai-model-catalog/4282460): These AI models are designed for healthcare organizations to build and deploy solutions tailored to their needs, minimizing compute and data requirements.
+- [Conversational AI for Healthcare](https://azure.microsoft.com/en-us/products/bot-services/health-bot/#layout-container-uid0eaa): Create health bots with medical knowledge bases, triage protocols, and industry-specific scenario templates to accelerate healthcare use case creation.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/IndustryGeneral) for more partner resources.
 
 ![ SecuritySolutionArea.md ]( /PartnerCrucible/assets/images/2024-11-11-SecuritySolutionArea.md-image.png )
-# Security Solution Area## What's new- Creating Endpoint DLP Rules using PowerShell- Crash Course in Microsoft Purview- Zero Trust Partner Kit Resources## Deep links- [Creating Endpoint DLP Rules using PowerShell](https://techcommunity.microsoft.com/blog/microsoftsecurityandcompliance/creating-endpoint-dlp-rules-using-powershell---part-1/4286999): This blog is a multi-part series on managing Endpoint DLP Rules using PowerShell - Part 1, Part 2 (Tech Community)- [Crash Course in Microsoft Purview](https://clouddamcdnprodep.azureedge.net/gdc/gdcieULMS/original): A guide to securing and managing your data estate (eBook)- [Zero Trust Partner Kit Resources](https://learn.microsoft.com/en-ca/security/zero-trust/zero-trust-partner-kit): Helping partners and customers design, architect, and deploy security solutions. Top-requested Zero Trust resources available (Microsoft Learn)
+
+![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2024-11-11-AzureInfrastructureSolutionArea.md-image.png )
+
+# Azure Infrastructure Solution Area
+
+## What's new
+
+- Added Transform SAP Management with Microsoft Copilot Agents 🔄
+
+## Deep links
+
+- [Transform SAP Management with Microsoft Copilot Agents](https://community.powerplatform.com/blogs/post/?postid=6a8fb326-068d-ef11-ac21-6045bda6da2f): Multi-agent platform to transform SAP management (Tech Community)
+
+
+Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/AzureInfrastructureSolutionArea) for more partner resources.
+
+![ DataAISolutionArea.md ]( /PartnerCrucible/assets/images/2024-11-11-DataAISolutionArea.md-image.png )
+
+# Data & AI Solution Area
+
+## What's new
+
+- Consulting reimagined, powered by AI 🤝
+- Crash Course in Microsoft Purview 🛡️
+
+## Deep links
+
+- [Consulting reimagined, powered by AI](https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/consulting-ai): Source: IBM
+- [Crash Course in Microsoft Purview](https://clouddamcdnprodep.azureedge.net/gdc/gdcieULMS/original): eBook
+
+Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea) for more partner resources.
+
+
+# Security Solution Area
+
+## What's new
+
+- Creating Endpoint DLP Rules using PowerShell 👨‍💻
+- Crash Course in Microsoft Purview 👨‍💻
+
+## Deep links
+
+- [Creating Endpoint DLP Rules using PowerShell](https://techcommunity.microsoft.com/blog/microsoftsecurityandcompliance/creating-endpoint-dlp-rules-using-powershell---part-1/4286999): This blog is a multi-part series on managing Endpoint DLP Rules using PowerShell - Part 1, Part 2 (Tech Community)
+- [Crash Course in Microsoft Purview](https://clouddamcdnprodep.azureedge.net/gdc/gdcieULMS/original): A guide to securing and managing your data estate (eBook)
+
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/SecuritySolutionArea) for more partner resources.
 
