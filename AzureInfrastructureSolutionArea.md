@@ -267,9 +267,9 @@ Source | Description | Notes
 [Establish an SAP on Azure Center of Excellence](https://aka.ms/AzureCenterforSAPsolutions) | End-to-end solution enabling customers and partners to create and run SAP systems as a unified workload on Azure and provides a more seamless foundation for innovation on the Microsoft Cloud. | Tech Community
 [SAP on Azure Immersion Workshops](https://partner.microsoft.com/en-us/asset/collection/aiw-sapmscloud#/) | he SAP on the Microsoft Cloud workshop sets partners up for success as they engage with SAP customers. The content showcases the transformative potential of cloud services and what differentiates Microsoft as the preferred cloud platform for SAP workloads. | Microsoft Partners
 [SAP on Azure Resources](https://aka.ms/SAPonAzureResources) | Documentation and learning resources including case studies | Microsoft Learn
-[SAP on Azure Advanced Specialization](https://aka.ms/SAPonAzureAdvancedSpec) | An SAP on Azure Specialization assures potential customers that a partner meets the highest standards for service delivery and support and increases partner visibility through prioritized ranking in searches and referrals via solution provider.| Microsoft Partners
 [SAP on Azure Video Podcast](https://www.youtube.com/playlist?list=PLvqyDwoCkBXYCm7_CNLavXHmdZD6rEvNn) | Videos covering a wide range of SAP on Azure scenarios | YouTube
 [How to Drive Digital Transformation: RISE with SAP on Azure](https://info.microsoft.com/ww-ondemand-how-to-drive-digital-transformation-rise-with-sap-on-azure.html) | Watch this on-demand webinar and learn about the advantages of choosing Azure for your RISE with SAP deployments.  | Microsoft
+[Transform SAP Management with Microsoft Copilot Agents](https://community.powerplatform.com/blogs/post/?postid=6a8fb326-068d-ef11-ac21-6045bda6da2f) | Multi-agent platform  to transform SAP management | Tech Community
 
 ##  Workload - Oracle on Azure
 
