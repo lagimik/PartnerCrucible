@@ -50,7 +50,7 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :-----  | :-----
 [Supercharge your CSP Business](https://cloudpartners.transform.microsoft.com/partner-gtm/csp?tab=level-up-csp-training) | Supercharge your business by leveraging the programs and investments we are making in FY25 to help drive your business | Transform
-[Level Up CSP](https://cloudpartners.transform.microsoft.com/level-up-csp-training) | Level Up CSP: Modern Work & Business Applications trainings (formerly CSP Masters) are built to help partners accelerate sales and technical capabilities | Transform
+[Level Up CSP](https://cloudpartners.transform.microsoft.com/level-up-csp-training) | Leverage the Copilot opportunnity to accelerate sales  | Transform
 [Microsoft 365 SMB Masters Program](https://learning.eventbuilder.com/M365InfluencerSeries) | Unlock the potential of Microsoft 365 with security managed services 3-part webinar series | 
 
 ## Technical References
