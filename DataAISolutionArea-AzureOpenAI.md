@@ -68,9 +68,20 @@ Source | Description | Notes
 [Learning About Generative AI](https://www.youtube.com/watch?v=Ch6KE7KxHGM) | @John Savill explores the Generative AI concepts and services | YouTube
 [Azure OpenAI with Azure API Management](https://www.linkedin.com/pulse/azure-openai-api-management-john-savill-l9vjc/) | Diving into using APIM with generative AI models with @JohnSavill | LinkedIn
 [Azure OpenAI as a central capability with Azure API Management](https://github.com/Azure/enterprise-azureai) | Unleash the power of Azure OpenAI to your application developers in a secure & manageable way with Azure API Management and Azure Developer CLI | GitHub
-[Security for AI: How to Secure and govern AI usage](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/security-for-ai-how-to-secure-and-govern-ai-usage/ba-p/4082269) |  detailed guidance on implementing the controls for securing and governing AI usage| Tech Community
+
 [AI Industry Use Cases: Insights and Priorities from the Field](https://assetsprod.microsoft.com/mpn/en-us/industry-ai-use-cases-and-tech-patterns.ppt) | This deck provides high priority AI industry use cases. It is meant to help prioritize use cases for a customer and then link that business use cases to technical assets to facilitate implementation. | Microsoft Partners
 [AI-powered Use Cases and Technical Patterns for Key Organizational Functions](https://assetsprod.microsoft.com/mpn/en-us/rooms-of-the-house-use-cases-and-tech-patterns.ppt) |  This deck provides high priority AI use cases for key organizational functions. It is meant to help prioritize use cases for a customer and then link that business use cases to technical assets to facilitate implementation. | Microsoft Partners
+
+## Security for Generative AI
+Source | Description | Notes
+:----- | :-----  | :-----
+[Secure Generative AI with Microsoft Entra and Purview](https://learn.microsoft.com/en-ca/entra/architecture/secure-generative-ai) | Microsoft Entra and Microsoft Purview offer a comprehensive suite of capabilities to securely manage AI applications, appropriately control access, and protect sensitive data | Microsoft Learn
+[Security for AI: How to Secure and govern AI usage](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/security-for-ai-how-to-secure-and-govern-ai-usage/ba-p/4082269) |  detailed guidance on implementing the controls for securing and governing AI usage| Tech Community
+[Data, privacy, and security for Azure OpenAI Service](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy) |This article provides details regarding how data provided by you to the Azure OpenAI service is processed, used, and stored. | Microsoft Learn
+[AI jailbreaks: What they are and how they can be mitigated](https://www.microsoft.com/en-us/security/blog/2024/06/04/ai-jailbreaks-what-they-are-and-how-they-can-be-mitigated/) | This blog will provide an understanding of what AI jailbreaks are, why generative AI is susceptible to them, and how you can mitigate the risks and harms.| Micrososft Threat Intelligence
+[Mitigating Skeleton Key, a new type of generative AI jailbreak technique](https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique/) | In this blog, we’ll cover the details of a newly discovered type of jailbreak attack that we call Skeleton Key, which we covered briefly in the Microsoft Build talk Inside AI Security with Mark Russinovich | Micrososft Threat Intelligence
+
+
 
 ## Azure OpenAI Services
 
@@ -79,7 +90,6 @@ Source | Description | Notes
 [What's new in Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/ai-services/openai/whats-new) | STay up to date on model, API, and Azure OpenAI service updates| Microsoft Lean
 [Azure OpenAI Service model deprecations and retirements](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/model-retirements) | Azure OpenAI Service models are continually refreshed with newer and more capable models. As part of this process, we deprecate and retire older models. This document provides information about the models that are currently available, deprecated, and retired. | Microsoft Lean
 [What runs ChatGPT?](https://www.youtube.com/watch?v=Rk3nTUfRZmo) | Inside Microsoft's AI supercomputer Featuring Mark Russinovich - Get an inside look at the AI supercomputer infrastructure built to run ChatGPT and other large language models, and see how to leverage it for your workloads in Azure, at any scale. | Microsoft Mechanics
-[Data, privacy, and security for Azure OpenAI Service](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy) |This article provides details regarding how data provided by you to the Azure OpenAI service is processed, used, and stored. | Microsoft Learn
 [Azure OpenAI Service Documentation](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/) | Learn how to use Azure OpenAI's powerful language models including the GPT-3, Codex and Embeddings model series for content generation, summarization, semantic search, and natural language to code translation. | Microsoft Learn
 [Plan to manage costs for Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/how-to/manage-costs) | This article describes how you plan for and manage costs for Azure OpenAI Service.  | Microsoft Learn
 [Azure OpenAI Service pricing](https://azure.microsoft.com/en-gb/pricing/details/cognitive-services/openai-service/) |  Optimise costs with a pay-as-you-go consumption model and a price per unit for each model.|
@@ -151,8 +161,7 @@ Source | Description | Notes
 [Tech community blog](https://aka.ms/contentsafety-techblog) | Azure AI Content Safety enables enterprises across various industries to harness the power of Responsible AI, facilitating the creation of secure online spaces and fostering a sense of community.| Tech Community
 [Azure AI Content Safety studio](https://aka.ms/contentsafetystudio) | Machine learning assisted moderation APIs that detect material that is potentially offensive, risky, or otherwise undesirable, to assure the contents in community is safe.| Azure
 [Introducing Azure AI Content Safety - A new Azure Cognitive Service for content moderation](https://aka.ms/contentsafetydemo) | Introducing Azure AI Content Safety, the content moderation platform that uses AI to identify inappropriate content to create better online experiences for everyone. With advanced language and vision models, AI content classifiers, and content moderation severity scores, you can confidently review content to keep online communities safe.| YouTube
-[AI jailbreaks: What they are and how they can be mitigated](https://www.microsoft.com/en-us/security/blog/2024/06/04/ai-jailbreaks-what-they-are-and-how-they-can-be-mitigated/) | This blog will provide an understanding of what AI jailbreaks are, why generative AI is susceptible to them, and how you can mitigate the risks and harms.| Micrososft Threat Intelligence
-[Mitigating Skeleton Key, a new type of generative AI jailbreak technique](https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique/) | In this blog, we’ll cover the details of a newly discovered type of jailbreak attack that we call Skeleton Key, which we covered briefly in the Microsoft Build talk Inside AI Security with Mark Russinovich | Micrososft Threat Intelligence
+
 
 ## Copilot
 
