@@ -53,6 +53,7 @@ Source | Description | Notes
 [GitHub Copilot documentation](https://docs.github.com/en/copilot) | GitHub Copilot documentation| GitHub
 [Measuring GitHub Copilot’s Impact on Productivity](https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/) | A case study asks Copilot users about the tool's impact on their productivity, and seeks to find their perceptions mirrored in user data.| ACM
 [GitHub Copilot Analysis, Customized Rules, and more come to the Azure Migrate application and code assessment](https://devblogs.microsoft.com/dotnet/azure-migrate-application-and-code-assessment-march-2024-update/?WT.mc_id=academic-0000-abartolo) | Azure Migrate application and code assessment for .NET (both the VS extension and the CLI) | Dev Blogs
+[GitHub Copilot Metrics Viewer for Power BI](https://github.com/github-copilot-resources/copilot-metrics-viewer-power-bi) | With the release of the [GitHub Copilot Metrics API](https://github.blog/changelog/2024-04-23-github-copilot-metrics-api-now-available-in-public-beta/) many teams are looking to leverage this data to help monitor usage against their KPIs. For some, the Copilot Metrics Viewer might be a great option.| GitHub
 
 ## Tools and Practices
 
