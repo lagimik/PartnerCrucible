@@ -19,6 +19,7 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[IDC’s 2024 AI opportunity study: Top five AI trends to watch](https://blogs.microsoft.com/blog/2024/11/12/idcs-2024-ai-opportunity-study-top-five-ai-trends-to-watch/) | To help guide organizations on their AI transformation journey, Microsoft recently commissioned a new study through IDC, The Business Opportunity of AI. IDC’s findings show that when organizations truly commit to and invest in AI, the return on investment (ROI) potential grows significantly.| IDC
 [The Effects of Generative AI on High Skilled Work](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566) | The Effects of Generative AI on High Skilled Work: Evidence from Three Field Experiments with Software Developers | Research Pap
 [The Forrester Wave™: AI Foundation Models For Language](https://reprints2.forrester.com/#/assets/2/157/RES180932/report) | This report shows how each provider measures up and helps enterprise business and technology professionals select the right one for their needs. | Q2 2024 - Forrester
 [Magic Quadrant™ for Cloud AI Developer Services](https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-2024-gartner-magic-quadrant-for-cloud-ai-developer-services/) | Updated for 2024 - Microsoft has been named a Leader for the fifth year in a row in the Gartner® Magic Quadrant™ for Cloud AI Developer Services and are especially proud to be placed furthest for our Completeness of Vision. | Gartner
