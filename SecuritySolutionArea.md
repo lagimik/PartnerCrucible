@@ -101,6 +101,7 @@ Source | Description | Notes
 :----- | :---------- | :----
 [Zero Trust partner kit resources](https://learn.microsoft.com/en-ca/security/zero-trust/zero-trust-partner-kit) | Helping our partners and customers design, architect, and deploy security solutions is important. These top-requested Zero Trust resources are available for you to use with your own organization and customers. | Microsoft Learn
 [Learn How to Implement Zero Trust in Your Public Sector Organization](https://docs.microsoft.com/en-us/users/mlg62022/collections/xkmgiy1oe25qmd) | In this collection, learn more about the importance of a Zero Trust strategy and how to implement it. | Microsoft Learn Collection
+[Microsoft Zero Trust Workshop](https://microsoft.github.io/zerotrustassessment/) | A comprehensive technical guide to help customers and partners adopt a Zero Trust strategy and deploy security solutions end-to-end to secure their organizations.| GitHub
 
 
 ## Azure
