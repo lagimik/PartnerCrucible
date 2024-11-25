@@ -20,6 +20,7 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [TEI Of Microsoft Copilot For Microsoft 365](https://bcb.transform.microsoft.com/analyststudies) | The Projected Total Economic Impact™ Of Microsoft Copilot For Microsoft 365 - Cost Savings And Business Benefits Enabled By Copilot For Microsoft 365| Forrester, April 2024
 [Work Trend Index](https://www.microsoft.com/en-us/worklab/work-trend-index/) | Research and data on the trends reshaping the world of work | Microsoft Work Index
+[Microsoft Ignite 2024 - Book of News - Microsoft 365 Copilot](https://news.microsoft.com/ignite-2024-book-of-news/#a-121-easily-delegate-repetitive-tasks-with-microsoft-365-copilot-actions-) | Key announcements from Ignite 2024 in the areas of :  Microsoft 365 Copilot Actions, Pages, screen-shared and file-shared content analysis, office embeded experiences, administraton and adoption capabilities|  Microsoft Ignite
 
 ## Partner Practice Building
 
