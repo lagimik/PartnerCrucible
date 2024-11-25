@@ -20,6 +20,7 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [Microsoft named a Leader in The Forrester Wave™: Augmented BI Platforms, Q2 2023](https://powerbi.microsoft.com/en-us/blog/2023forresterwave/) | Forrester has recognized Microsoft as a Leader in The Forrester Wave™: Augmented BI Platforms, Q2 2023. Microsoft received the highest score of any vendor in the strategy category. | Forrester
 [Introducing Microsoft Fabric: Data analytics for the era of AI](https://azure.microsoft.com/en-us/blog/introducing-microsoft-fabric-data-analytics-for-the-era-of-ai/) | Announcement - By Arun Ulagaratchagan Corporate Vice President, Azure Data | Azure
+[Microsoft Ignite 2024 - Book of News - Data and Analytics](https://news.microsoft.com/ignite-2024-book-of-news/#a-341-build-intelligent-apps-with-autonomous-fabric-databases) | Key announcements from Ignite 2024 in the areas of : Autonomous Fabric Databases, Open Mirroring, OneLake Catalog, SQL Server in Fabric, and Azure Managed Redis|  Microsoft Ignite
 
 ## Practice Building
 
