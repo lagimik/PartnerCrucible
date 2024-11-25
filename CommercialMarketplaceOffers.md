@@ -15,6 +15,7 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 Source | Description | Notes
 :----- | :-----  | :-----
 [Forrester Total Economic Impact of Commercial Marketplace ](https://azure.microsoft.com/en-us/blog/the-total-economic-impact-of-the-microsoft-commercial-marketplace/) | Updated - In a 2023 Total Economic Impact™ study commissioned by Microsoft, Forrester Consulting found the Microsoft commercial marketplace delivered customers a 587% return on investment (ROI) with a payback period of less than six months | Forrester
+[Marketplace Value Calculator](https://www.microsoft.com/en-us/isv/marketplace/value-calculator?msockid=19ae751b64bd680e0f70619c656e695c) | Use this calculator to discover the value of selling through the Microsoft commercial marketplace.| ISV Hub
 
 ## Microsoft Commercial Marketplace
 
