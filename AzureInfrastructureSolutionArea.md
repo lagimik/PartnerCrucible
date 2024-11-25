@@ -31,6 +31,8 @@ Source | Description | Notes
 [Gartner® Magic Quadrant™ for Container Management](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2024-gartner-magic-quadrant-for-container-management/) | Microsoft has been named a Leader in the 2024 Gartner Magic Quadrant for Container Management.| 2024 Gartner
 [Microsoft Cloud for Sovereignty now generally available, opening new pathways for government innovation](https://blogs.microsoft.com/blog/2023/12/14/microsoft-cloud-for-sovereignty-now-generally-available-opening-new-pathways-for-government-innovation/) | General availability of Microsoft Cloud for Sovereignty across all Azure regions. Microsoft Cloud for Sovereignty helps governments meet their compliance, security, and policy requirements while utilizing the cloud to provide superior value to their citizens. | Microsoft
 [The Business Value of Azure VMware Solution](https://info.microsoft.com/ww-landing-idc-the-business-value-of-azure-vmware-solution.html?lcid=EN-US) | In this white paper, see the business benefits and ROI that organizations participating in an IDC research study reported from migrating and extending workloads to Azure VMware Solution. | IDC
+[Microsoft Ignite 2024 - Book of News - Azure Infrastructure](https://news.microsoft.com/ignite-2024-book-of-news/#a-331-azure-expands-adaptive-cloud-introduces-azure-local-infrastructure-solution-) | Key announcements from Ignite 2024 in the areas of : expandsion of adaptive cloud, Oacle Database@Azure, VM and silicon updates|  Microsoft Ignite
+
 
 ## Azure Infrastructure Practice Building
 
