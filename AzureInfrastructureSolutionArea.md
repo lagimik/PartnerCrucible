@@ -182,6 +182,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Microsoft Ignite 2024 - Book of News - Quantum](https://news.microsoft.com/ignite-2024-book-of-news/#a-351-microsoft-continues-transition-to-reliable-logical-qubits) |  Microsoft continues transition to reliable logical qubits |  Microsoft Ignite
 [Azure Quantum](https://quantum.microsoft.com/) | Main page | Azure Quantum
 [Microsoft Quantum Innovator Series](https://msazurequantum.eventbuilder.com/InnovatorSeries) | Get the inside, first-hand account of Microsoft’s strategy to scaled quantum computing. In this series, you will hear directly from Microsoft’s Azure Quantum scientists and leaders about the path to quantum at scale and how to get involved today.| Azure Quantum
 [Azure Quantum Elements - Private Preview ](https://smt.microsoft.com/en-US/AQEPrivatePreviewSignup/) | Sign-up to learn more about the private preview and get the latest updates from the Azure Quantum team | Form
