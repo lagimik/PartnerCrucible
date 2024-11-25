@@ -35,6 +35,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Cloud Adoption Framework - AI on Azure](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/ai/) | This AI guidance provides a structured approach for integrating AI into your organization using Azure. The guidance is relevant for organizations of any size and industry. It covers both generative and nongenerative AI adoption guidance. It is your roadmap for AI adoption and a central hub to find the resources you need. | Microsoft Learn
 [AI for Partner](https://aka.ms/AIforPartners) | Landing page - Get started with Microsoft AI today | Partner
 [Data and AI Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy24-azure-data-and-ai-partner-playbook.pdf) | Describes Microsoft GTM Strategy, Solution Plays, Partner Priorities, and Key Resources | Partner FY24
 [Microsoft AI Transformation for Partners](https://partner.microsoft.com/en-CA/explore/artificial-intelligence?wt.mc_id=6hlk8n4vgf) | Includes platforms, products, resources, tools, and offerings designed to help you deliver high-performing, customer-centric AI solutions, explains how responsible AI can benefit society with our legal and regulatory blueprint for the future, and in-depth understanding of Azure OpenAI Service and further guidance for partners| Partner
