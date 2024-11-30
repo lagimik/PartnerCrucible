@@ -124,6 +124,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
+[Use GDAP to set up least privilege access in Microsoft 365 Lighthouse](https://techcommunity.microsoft.com/blog/microsoft365businessblog/use-gdap-to-set-up-least-privilege-access-in-microsoft-365-lighthouse/4284099) | This post explains these improvements and guides you on how to use the Delegated access page to establish GDAP relationships with your customers | Tech Community
 [Clean up Inactive users with Microsoft 365 Lighthouse](https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/clean-up-inactive-users-with-microsoft-365-lighthouse/ba-p/3892891) | Microsoft 365 Lighthouse makes it faster and easier than ever before for Managed Service Providers (MSPs) to manage users across customer tenants. This includes managing inactive users| Tech Community
 [Microsoft 365 Lighthouse for SMB Managed Services Providers (MSPs)](https://www.youtube.com/watch?v=p0kd4bsd_wI) | Introducing a new portal that will enable multi-tenant management of Microsoft 365 services by IT Partners – especially Managed Service Providers (MSPs) who serve small & medium-sized businesses (SMBs).| Nov 2020
 [Microsoft 365 Lighthouse Demo](https://www.youtube.com/watch?v=oSlh2-MeFL0) | Microsoft 365 Lighthouse is an admin portal that helps Managed Service Providers (MSPs) secure and manage devices, data, and users at scale for small- and medium-sized business (SMB) customers who are using Microsoft 365 Business Premium | 2021
