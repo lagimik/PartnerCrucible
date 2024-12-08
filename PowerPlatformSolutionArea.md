@@ -157,6 +157,7 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :---------- | :-----
 [Microsoft Copilot Studio](https://powerplatformpartners.transform.microsoft.com/gtm/lowcode/copilot-studio) | Partner Landing Page for Copilot Studio including Microsoft Agent Vision and Partner Opportunity | Power Platform Partners
+[IT Governance Controls for Your Copilot agents](https://www.microsoft.com/en-us/power-platform/blog/power-apps/it-governance-controls-for-your-copilot-agents/) | With tools designed to enforce governance strategies, organizations can confidently deploy and manage their AI initiatives, knowing they have the necessary controls in place.| Power Platform Blog
 
 ## Copilot for business functions
 
