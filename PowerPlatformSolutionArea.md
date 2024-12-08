@@ -153,6 +153,11 @@ Source | Description | Notes
 [Power Automate Process Mining : Partner Started Guide](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fpbapstorageprod.blob.core.windows.net%2Fprotectedassets%2FPower%2520Automate%2520Process%2520Mining%2520-%2520Partner%2520Starter%2520Guide.pptx%3Fsv%3D2019-07-07%26sr%3Db%26sig%3DG7TJGDNhAmhtSVw0TmeLLRIuGhCEIfK%252BPOiKzGqzQIw%253D%26se%3D2023-08-05T13%253A54%253A28Z%26sp%3Dr&wdOrigin=BROWSELINK) | This comprehensive Partner Starter Guide is designed to equip you with the resources and tools you need to successfully adopt, sell, and deliver Power Automate Process Mining. | Transform
 [Process Mining in Power Automate](https://www.youtube.com/watch?v=xj8k6fbKw4E) | This video gives a short introduction to how Process Mining works in Power Automate.| YouTube
 
+## Copilot Studio
+Source | Description | Notes
+:----- | :---------- | :-----
+[Microsoft Copilot Studio](https://powerplatformpartners.transform.microsoft.com/gtm/lowcode/copilot-studio) | Partner Landing Page for Copilot Studio including Microsoft Agent Vision and Partner Opportunity | Power Platform Partners
+
 ## Copilot for business functions
 
 Source | Description | Notes
@@ -166,11 +171,4 @@ Source | Description | Notes
 [AI Builder - Prompt Builder](https://go.microsoft.com/fwlink/?linkid=2255775) | A Prompt engineering guide: Prompts are fundamental artifacts in Power Platform. Think of them as custom AI functions and can be invoked via Power Fx across the platform.   | Power Platform
 [Prompt Builder](https://aka.ms/tryprompts) | | Power Platform
 
-## Power Virtual Agents (PVA)
-
-Source | Description | Notes
-:----- | :---------- | :-----
-[Power Virtual Agents](https://powerplatformpartners.transform.microsoft.com/products/powervirtualagents) | Microsoft Power Virtual Agents is a software as a service (SaaS) offering/ solution enabling organizations to easily build and manage intelligent chatbots and personalize their response to customers and employees needs – at scale, using an intuitive, no-code interface | Transform
-[Best Practices for Envisioning and Designing Power Virtual Agents](https://airlift.microsoft.com/sessions/details/4e3a111c-3e0d-4743-8970-53437dfe278a?p1=eyJzcGVha2VyIjpbXSwidGltZXNsb3QiOltdLCJkYXkiOltdLCJyb29tIjpbXSwibG9jYXRpb24iOltdLCJkaWdpdGFsIjpbXSwibWVkaWEiOiIiLCJkaXNwbGF5bW9kZSI6Imxpc3QiLCJncm91cGJ5IjoiIiwiaW5wZXJzb24iOmZhbHNlLCJzY2hlZHVsZWQiOmZhbHNlLCJvbmRlbWFuZCI6ZmFsc2UsInVwY29taW5nIjpmYWxzZSwiaGFzc2xpZGVzIjpmYWxzZSwic3RhcnQiOiIiLCJmaW5pc2giOiIiLCJwYWdlbnVtYmVyIjoxLCJjYXRlZ29yaWVzIjp7fSwia2V5d29yZCI6IlBvd2VyIFZpcnR1YWwgYWdlbnQifQ==&rq=/sessionscheduler) |Come join the Conversational AI Product Group to learn how to envision and build engaging conversational bots.  In this session, expect to learn about the top conversational design tips and how design can drive adoption within your organization and/or users. | Microsoft Airlift 2022 - Dewain Robinson , Kendra Springer (BPVADD01)
-[Power Virtual Agents – lessons from the real world](https://airlift.microsoft.com/sessions/details/302ae032-ba50-4257-853d-2ccc5dd3f67e?p1=eyJzcGVha2VyIjpbXSwidGltZXNsb3QiOltdLCJkYXkiOltdLCJyb29tIjpbXSwibG9jYXRpb24iOltdLCJkaWdpdGFsIjpbXSwibWVkaWEiOiIiLCJkaXNwbGF5bW9kZSI6Imxpc3QiLCJncm91cGJ5IjoiIiwiaW5wZXJzb24iOmZhbHNlLCJzY2hlZHVsZWQiOmZhbHNlLCJvbmRlbWFuZCI6ZmFsc2UsInVwY29taW5nIjpmYWxzZSwiaGFzc2xpZGVzIjpmYWxzZSwic3RhcnQiOiIiLCJmaW5pc2giOiIiLCJwYWdlbnVtYmVyIjoxLCJjYXRlZ29yaWVzIjp7fSwia2V5d29yZCI6IlBvd2VyIFZpcnR1YWwgYWdlbnQifQ==&rq=/sessionscheduler) | Hear from the Power CAT team, who work every day with our customers to help them envision, deliver & deploy PVA successfully. We will talk about how to solve common problems and scenarios when building a PVA bot, including how to best tune and modify conversation design to produce the best intent recognition and how to integrate Custom Question Answering (CQA) into your bot | Microsoft Airlift 2022 - Henry Jammes (BPVADD04)
 
