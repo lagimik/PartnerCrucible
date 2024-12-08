@@ -79,6 +79,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 - Introduction of Power Pages for enhanced productivity 🔥
 
 ## Deep links
+
 - [Microsoft Ignite 2024 - Copilot Studio](https://news.microsoft.com/ignite-2024-book-of-news/#a-112-copilot-studio-introduces-autonomous-agentic-capabilities-agent-library): Key announcements in Copilot Studio agentic capabilities (Source: Microsoft Ignite)
 - [Microsoft Ignite 2024 - Power Platform](https://news.microsoft.com/ignite-2024-book-of-news/#a-711-new-capabilities-in-power-apps-help-leverage-ai-for-business-productivity): Key announcements in AI and Governance features, Power Apps, and Power Pages (Source: Microsoft Ignite)
 
