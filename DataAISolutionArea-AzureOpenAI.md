@@ -157,6 +157,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[An Introduction to Generative AI and Safety](https://clouddamcdnprodep.azureedge.net/gdc/gdcrITL6V/original) |  Concepts and definitions to gain a deeper  - Use this guide to learn AI terminology, gain a deeper understanding of generative AI challenges, learn strategies to guide your organization in overcoming the biggest risks, and harness the true potential of AI. understanding of generative AI | Microsoft
 [Azure AI Content Safety](https://aka.ms/contentsafety) | Use AI to monitor text and image content for safety.| Azure|
 [Tech community blog](https://aka.ms/contentsafety-techblog) | Azure AI Content Safety enables enterprises across various industries to harness the power of Responsible AI, facilitating the creation of secure online spaces and fostering a sense of community.| Tech Community
 [Azure AI Content Safety studio](https://aka.ms/contentsafetystudio) | Machine learning assisted moderation APIs that detect material that is potentially offensive, risky, or otherwise undesirable, to assure the contents in community is safe.| Azure
