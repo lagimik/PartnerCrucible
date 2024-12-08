@@ -31,6 +31,7 @@ Source | Description | Notes
 [Microsoft Partners: Driving Economic Value and AI Maturity](https://partner.microsoft.com/en-us/blog/article/ai-value-for-partners) | This IDC white paper provides insight into the economic value partners realize in their relationship with Microsoft and its technology, with a particular focus on AI. Its findings highlight the revenue multiplier for partners when selling both their own services and software alongside Microsoft products, while navigating the transformational impact of AI on their customers. It’s clear that partners are bullish on the revenue growth and profitability inherent in AI and that this is the focus of their strategy and customer conversations..| IDC
 [Prompting for for action](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/consulting/us-ai-institute-generative-ai-agents-multiagent-systems.pdf) | Prompting for for action - How AI agents are reshaping the future of work - November 2024 | Deloitte
 [Microsoft Ignite 2024 - Book of News - AI](https://news.microsoft.com/ignite-2024-book-of-news/#a-311-azure-ai-foundry-helps-organizations-design-customize-and-manage-ai-apps-) | Key announcements from Ignite 2024 in the areas of : Azure AI Foundry, Azure AI Models, Search, Content Understanding..|  Microsoft Ignite
+[6 AI trends you’ll see more of in 2025](https://news.microsoft.com/source/features/company-news/6-ai-trends-youll-see-more-of-in-2025/) | Want to know what’s ahead? Here are six AI trends to watch — and how Microsoft will innovate on each — in 2025. | Microsoft News
 
 
 
