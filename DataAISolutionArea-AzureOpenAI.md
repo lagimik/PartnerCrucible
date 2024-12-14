@@ -233,6 +233,7 @@ Source | Description | Notes
 [Business Process Automation Accelerator](https://github.com/Azure/business-process-automation) | This accelerator provides a no code Studio for users to quickly build complex, multi-stage AI pipelines across multiple Azure AI and ML Services. Users can select, and stack, AI/ML Services from across Azure Cognitive Services (OpenAI, Speech, Language, Form Recognizer, ReadAPI), Azure Machine Learning into a single, fully integrated pipeline. | GitHub
 [Project Miyagi](https://github.com/Azure-Samples/miyagi) | Project Miyagi serves as the foundation for an envisioning workshop that reimagines the design, development, and deployment of intelligent applications using Microsoft's Copilot stack | GitHub
 [TinyTroupe](https://github.com/microsoft/TinyTroupe) | TinyTroupe is an LLM-powered multiagent persona simulation for imagination enhancement and business insights.| GitHub
+[Azure Cosmos DB + Azure OpenAI Python Developer Guide](https://github.com/AzureCosmosDB/Azure-OpenAI-Python-Developer-Guide) | This guide will walks through the creating intelligent solutions that combines vCore-based Azure Cosmos DB for MongoDB vector search and document retrieval with Azure OpenAI services to build a chat bot experience| GitHub
 
 ## Demos
 
