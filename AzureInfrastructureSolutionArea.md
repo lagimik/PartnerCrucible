@@ -246,6 +246,8 @@ Source | Description | Notes
 [GitOps for Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/gitops-aks/gitops-blueprint-aks) | GitOps is a set of principles for operating and managing a software system. This article describes techniques for using GitOps principles to operate and manage an Azure Kubernetes Services (AKS) cluster.| Microsoft Learn
 [Triage practices for AKS operations](https://learn.microsoft.com/en-us/azure/architecture/operator-guides/aks/aks-triage-practices) | Series of articles about triage practices, which describes the top-down approaches to addressing cluster health, node/pod health, workload deployments, adminssion controllers, and container registry connectivity | Microsoft Learn
 [Azure Kubernetes Service (AKS) Networking](https://www.youtube.com/playlist?list=PLb4hYfatvJJiIzPftv85zYFq7PXnUY2Zg) | AKS Networking (Docker Networking, CNI, Ingress, Egress)| YouTube 
+[Replicate an Amazon Web Services (AWS) web application with AWS WAF in Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/eks-web-overview) | In this article, you learn how to replicate an Amazon Elastic Kubernetes Service (EKS) web application with AWS Web Application Firewall (WAF) using Azure Web Application Firewall (WAF) and Azure Application Gateway in Azure Kubernetes Service (AKS).| Microsoft Learn
+[Porting a Web Application from AWS Elastic Kubernetes Service (EKS) to Azure Kubernetes Service (AKS)](https://github.com/Azure-Samples/aks-web-application-replicate-from-aws) |  In this sample, you learn how to migrate a web application from Amazon Elastic Kubernetes Service (EKS) to Azure Kubernetes Service (AKS).| GitHub
 
 
 ## Workload - Azure RedHat OpenShift (ARO)
