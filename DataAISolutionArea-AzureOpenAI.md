@@ -68,7 +68,6 @@ Source | Description | Notes
 [Learning About Generative AI](https://www.youtube.com/watch?v=Ch6KE7KxHGM) | @John Savill explores the Generative AI concepts and services | YouTube
 [Azure OpenAI with Azure API Management](https://www.linkedin.com/pulse/azure-openai-api-management-john-savill-l9vjc/) | Diving into using APIM with generative AI models with @JohnSavill | LinkedIn
 [Azure OpenAI as a central capability with Azure API Management](https://github.com/Azure/enterprise-azureai) | Unleash the power of Azure OpenAI to your application developers in a secure & manageable way with Azure API Management and Azure Developer CLI | GitHub
-
 [AI Industry Use Cases: Insights and Priorities from the Field](https://assetsprod.microsoft.com/mpn/en-us/industry-ai-use-cases-and-tech-patterns.ppt) | This deck provides high priority AI industry use cases. It is meant to help prioritize use cases for a customer and then link that business use cases to technical assets to facilitate implementation. | Microsoft Partners
 [AI-powered Use Cases and Technical Patterns for Key Organizational Functions](https://assetsprod.microsoft.com/mpn/en-us/rooms-of-the-house-use-cases-and-tech-patterns.ppt) |  This deck provides high priority AI use cases for key organizational functions. It is meant to help prioritize use cases for a customer and then link that business use cases to technical assets to facilitate implementation. | Microsoft Partners
 
