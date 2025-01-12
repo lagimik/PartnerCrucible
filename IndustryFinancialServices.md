@@ -40,6 +40,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Transform Insurance Industry Workflows Using Generative AI Models and Azure Services](https://techcommunity.microsoft.com/blog/azurearchitectureblog/transform-insurance-industry-workflows-using-generative-ai-models-and-azure-serv/4304656?WT.mc_id=DT-MVP-5001664) | This article highlights an innovative automated solution designed to transform the processing of insurance claim forms for the insurance industry| Tech Community
 [Microsoft Cloud for Financial Services Partner Assets](https://partner.microsoft.com/en-us/asset/collection/microsoft-cloud-for-financial-services-partner-assets#/) | Partner assets for the Microsoft Cloud for Financial Services.
 [Microsoft Cloud for Financial Services Training Environment](https://docs.microsoft.com/en-us/learn/modules/training-environment-preparation/) | Microsoft Cloud for Financial Services is a conflux of Microsoft Dynamics 365 and Microsoft 365. To take advantage of the Cloud for Financial Services solution and the rest of this learning path, we recommend that you have access to both clouds. | Microsoft Learn
 [Microsoft Cloud for Financial Services Trial](https://aka.ms/solutioncenter) | Microsoft Cloud for Financial Services offers a free limited trial for 30 days  | Solutions Center
