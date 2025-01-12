@@ -91,6 +91,16 @@ Source | Description | Notes
 [AI Innovations](https://dynamicspartners.transform.microsoft.com/cloud-conversations?tab=tab-custom3) | Generative AI in Dynamics  including Power Dynamics 365 Copilot, Copilot in ERP, Copilot in Customer Experience| Transform
 [Dynamics Copilot Pitch Deck](https://dynamicspartners.transform.microsoft.com/download/protected?assetname=protectedassets%2FDynamics%20365%20Copilot%20pitch%20deck.pptx&download=1&protected=1&src=https:%2F%2Fdynamicspartners.transform.microsoft.com%2Fcloud-conversations) | Partner Pitch Deck - History, overview, and deep dive into fusing Dynamics 365 with Generative AI| Transform
 
+## Dynamics 365 ERP
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[Order to cash](https://lnkd.in/gJTW59AB) | Order to cash - Presales pitch decks through process lens | Transform
+[Design to retire](https://lnkd.in/gyQ3ZDyS) | Design to retire - Presales pitch decks through process lens | Transform
+[Inventory to deliver](https://lnkd.in/gU57mizc) | Inventory to deliver - Presales pitch decks through process lens | Transform
+[Plan to produce](https://lnkd.in/grpMaM8P) | Plan to produce - Presales pitch decks through process lens | Transform
+[Source to pay](https://lnkd.in/gfF94PyP) | Source to pay - Presales pitch decks through process lens| Transform
+
 
 ## Field Service
 
