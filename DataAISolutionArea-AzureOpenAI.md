@@ -169,6 +169,7 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [Microsoft Semantic Kernel and AutoGen: Open Source Frameworks for AI Solutions](https://techcommunity.microsoft.com/t5/educator-developer-blog/microsoft-semantic-kernel-and-autogen-open-source-frameworks-for/ba-p/4051305) | Microsoft Semantic Kernel (SK) and Microsoft AutoGen are both open sources  framework developed by Microsoft, but they serve different scenarios | Tech Community
 [Microsoft’s Agentic Frameworks: AutoGen and Semantic Kernel](https://devblogs.microsoft.com/autogen/microsofts-agentic-frameworks-autogen-and-semantic-kernel/) | With Semantic Kernel’s enterprise ready AI capabilities, customers can already use and get support for building agent applications and, moving forward, we’ll align the multi-agent runtime in AutoGen (called autogen-core) with Semantic Kernel, allowing customers to create enterprise-ready multi-agent solutions. | Dev Blogs
+[Generative AI Design Patterns for Agentic AI Systems](https://github.com/microsoft/azure-genai-design-patterns/tree/main) | This repository contains a set of design patterns illustrating how to effectively build Agentic solutions powered by LLMs (Large Language Models) in Azure. | GitHub 
 
 ## Copilot
 
