@@ -239,6 +239,8 @@ Source | Description | Notes
 [Project Miyagi](https://github.com/Azure-Samples/miyagi) | Project Miyagi serves as the foundation for an envisioning workshop that reimagines the design, development, and deployment of intelligent applications using Microsoft's Copilot stack | GitHub
 [TinyTroupe](https://github.com/microsoft/TinyTroupe) | TinyTroupe is an LLM-powered multiagent persona simulation for imagination enhancement and business insights.| GitHub
 [Azure Cosmos DB + Azure OpenAI Python Developer Guide](https://github.com/AzureCosmosDB/Azure-OpenAI-Python-Developer-Guide) | This guide will walks through the creating intelligent solutions that combines vCore-based Azure Cosmos DB for MongoDB vector search and document retrieval with Azure OpenAI services to build a chat bot experience| GitHub
+[Fine-tuning Azure OpenAI GPT-4o for Chart Analysis](https://github.com/Azure/gen-cv/tree/main/vision-fine-tuning/01-AOAI-vision-fine-tuning-starter) | This accelerator  demonstrates the process of vision fine-tuning of GPT-4o leveraging a chart analysis benchmark dataset for visual and logical reasoning. It covers data preparation, fine-tuning, deployment, and evaluation against GPT-4o's baseline performance.| GitHub
+[Fine-Tuning GPT-4o for Action Recognition in Video Clips](https://github.com/Azure/gen-cv/tree/main/vision-fine-tuning/02-AOAI-video-fine-tuning) | This Solution Accelerator demonstrates how to use Azure OpenAI GPT-4o vision fine-tuning to improve the model's performance in detecting human activities in video clips.| GitHub
 
 ## Demos
 
