@@ -85,6 +85,8 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Lessons from red teaming 100 generative AI products](https://www.linkedin.com/posts/heenapurohit_lessons-from-red-teaming-100-products-ugcPost-7285138123909443584-Q7GU/?utm_source=share&utm_medium=member_desktop) |  Based on our experience red teaming over 100 generative Al products at Microsoft, we present our 
+internal threat model ontology and eight main lessons we have learned | Microsoft AI Red Team
 [Python Risk Identification Toolkit for generative AI (PyRIT)](https://www.microsoft.com/en-us/security/blog/2024/02/22/announcing-microsofts-open-automation-framework-to-red-team-generative-ai-systems/) | Microsoft releases an open automation framework, PyRIT (Python Risk Identification Toolkit for generative AI), to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems | Blog
 [Python Risk Identification Tool for generative AI (PyRIT) - GitHub](https://github.com/Azure/PyRIT) | The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and ML engineers to red team foundation models and their applications. | GitHub
 [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix) | The goal of this project is to position attacks on machine learning (ML) systems in an ATT&CK-style framework so that security analysts can orient themselves to these new and upcoming threats. | Mitre
