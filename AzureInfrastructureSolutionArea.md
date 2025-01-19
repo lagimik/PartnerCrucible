@@ -185,6 +185,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Microsoft's Quantum Ready program](https://smt.microsoft.com/en-US/Quantum-Ready/) | Join Microsoft's Quantum Ready program and build a robust strategy for quantum computing, both for today and the future. By participating in this initiative, you'll receive the insights, resources, and tools to assess the impact of quantum on your organization, define a clear and comprehensive quantum-ready strategy for durable, competitive differentiation, and position your organization to execute an application roadmap that harnesses the full power of quantum as it scales.| Quantum Ready
 [Microsoft Ignite 2024 - Book of News - Quantum](https://news.microsoft.com/ignite-2024-book-of-news/#a-351-microsoft-continues-transition-to-reliable-logical-qubits) |  Microsoft continues transition to reliable logical qubits |  Microsoft Ignite
 [Azure Quantum](https://quantum.microsoft.com/) | Main page | Azure Quantum
 [Microsoft Quantum Innovator Series](https://msazurequantum.eventbuilder.com/InnovatorSeries) | Get the inside, first-hand account of Microsoft’s strategy to scaled quantum computing. In this series, you will hear directly from Microsoft’s Azure Quantum scientists and leaders about the path to quantum at scale and how to get involved today.| Azure Quantum
