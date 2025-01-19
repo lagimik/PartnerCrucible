@@ -154,6 +154,7 @@ Source | Description | Notes
 [Open at Microsoft: Dapr](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/open-at-microsoft-dapr/ba-p/3857064)  | | Tech Community
 [Azure API Center - The ultimate service to streamline API Governance across your organization](https://techcommunity.microsoft.com/t5/microsoft-developer-community/azure-api-center-the-ultimate-service-to-streamline-api/ba-p/4185469) | Guidance to  streamline API development and governance to ensure best practices are being implemented across API producers, API Consumers the API Platform Team | Tech Community
 [AI Gateway](https://github.com/Azure-Samples/AI-Gateway) | With the expanding horizons of AI services and their seamless integration with APIs, there is a considerable demand for a comprehensive AI Gateway pattern, which broadens the core principles of API management. Aiming to accelerate the experimentation of advanced use cases and pave the road for further innovation in this rapidly evolving field. The well-architected principles of the AI Gateway provides a framework for the confident deployment of Intelligent Apps into production. | GitHub
+[APIM Love](https://azure.github.io/api-management-resources/) | aka.ms/apimlove - A library of useful resources about Azure API Management| APIM Love
 
 ## Azure Integration Services
 
