@@ -33,6 +33,7 @@ Source | Description | Notes
 [Prompting for for action](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/consulting/us-ai-institute-generative-ai-agents-multiagent-systems.pdf) | Prompting for for action - How AI agents are reshaping the future of work - November 2024 | Deloitte
 [Microsoft Ignite 2024 - Book of News - AI](https://news.microsoft.com/ignite-2024-book-of-news/#a-311-azure-ai-foundry-helps-organizations-design-customize-and-manage-ai-apps-) | Key announcements from Ignite 2024 in the areas of : Azure AI Foundry, Azure AI Models, Search, Content Understanding..|  Microsoft Ignite
 [6 AI trends you’ll see more of in 2025](https://news.microsoft.com/source/features/company-news/6-ai-trends-youll-see-more-of-in-2025/) | Want to know what’s ahead? Here are six AI trends to watch — and how Microsoft will innovate on each — in 2025. | Microsoft News
+[The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects from a Survey of Knowledge Workers](https://www.microsoft.com/en-us/research/publication/the-impact-of-generative-ai-on-critical-thinking-self-reported-reductions-in-cognitive-effort-and-confidence-effects-from-a-survey-of-knowledge-workers/) | This Microsoft Research publication explores how generative AI tools affect critical thinking, cognitive effort, and confidence among knowledge workers, based on survey data. | Microsoft Research, May 2024
 
 ## Responsible AI
 
