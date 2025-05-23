@@ -155,8 +155,14 @@ Source | Description | Notes
 [Process Mining in Power Automate](https://www.youtube.com/watch?v=xj8k6fbKw4E) | This video gives a short introduction to how Process Mining works in Power Automate.| YouTube
 
 ## Copilot Studio
+
 Source | Description | Notes
 :----- | :---------- | :-----
+[Microsoft Copilot Studio Blog](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/) | Official blog for Microsoft Copilot Studio, featuring product updates, best practices, and partner stories. | Microsoft Blog
+[Microsoft Copilot Studio - Implementation Guide](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2FCopilotStudioSamples%2Fmaster%2FImplementationGuide%2FMicrosoft%2520Copilot%2520Studio%2520-%2520Implementation%2520Guide.pptx&wdOrigin=BROWSELINK) | a Success by Design approach to implementing copilots by PowerCAT | Download
+[Power CAT Copilot Studio Kit](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/blob/main/README.md) | The Power CAT Copilot Studio Kit is a comprehensive set of capabilities designed to augment Microsoft Copilot Studio | GitHub
+[Microsoft Copilot Studio Samples](https://github.com/microsoft/CopilotStudioSamples) | This repository contains samples and artifacts for Microsoft Copilot Studio including connecting copilots to bots, canvas apps, and SharePoint | GitHub
+[Copilot Studio](https://github.com/Katerina-Chernevskaya/feature-a-day) | by @Katerina-Chernevskaya| Github
 [Microsoft Copilot Studio](https://powerplatformpartners.transform.microsoft.com/gtm/lowcode/copilot-studio) | Partner Landing Page for Copilot Studio including Microsoft Agent Vision and Partner Opportunity | Power Platform Partners
 [IT Governance Controls for Your Copilot agents](https://www.microsoft.com/en-us/power-platform/blog/power-apps/it-governance-controls-for-your-copilot-agents/) | With tools designed to enforce governance strategies, organizations can confidently deploy and manage their AI initiatives, knowing they have the necessary controls in place.| Power Platform Blog
 
