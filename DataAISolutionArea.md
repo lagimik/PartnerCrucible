@@ -34,7 +34,24 @@ Source | Description | Notes
 [Microsoft Ignite 2024 - Book of News - AI](https://news.microsoft.com/ignite-2024-book-of-news/#a-311-azure-ai-foundry-helps-organizations-design-customize-and-manage-ai-apps-) | Key announcements from Ignite 2024 in the areas of : Azure AI Foundry, Azure AI Models, Search, Content Understanding..|  Microsoft Ignite
 [6 AI trends you’ll see more of in 2025](https://news.microsoft.com/source/features/company-news/6-ai-trends-youll-see-more-of-in-2025/) | Want to know what’s ahead? Here are six AI trends to watch — and how Microsoft will innovate on each — in 2025. | Microsoft News
 
+## Responsible AI
 
+Responsible AI is an approach to assessing, developing, and deploying AI systems in a safe, trustworthy, and ethical manner, and take responsible decisions and actions.
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Responsible AI: A Multidimensional Maturity Model](https://www.microsoft.com/en-us/research/wp-content/uploads/2023/05/RAI-MM-for-PDF-printing-PUBLISHED-May-17.pdf) | This paper presents a multidimensional maturity model for Responsible AI, providing a framework for organizations to assess and advance their responsible AI practices. | Microsoft Research
+[Responsible AI Transparency Report](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1l5BO) | In this report, we share how we build generative applications responsibly, how we make decisions about releasing our generative applications, how we support our customers as they build their own AI applications, and how we learn and evolve our responsible AI program. | Microsoft
+[Announcing new tools in Azure AI to help you build more secure and trustworthy generative AI applications](https://azure.microsoft.com/en-us/blog/announcing-new-tools-in-azure-ai-to-help-you-build-more-secure-and-trustworthy-generative-ai-applications/) | To help customers meet these AI quality and safety challenges, we’re announcing new tools now available or coming soon to Azure AI Studio for generative AI app developers | Blog
+[Copilot Copyright Commitment](https://blogs.microsoft.com/on-the-issues/2023/09/07/copilot-copyright-commitment-ai-legal-concerns/) | As customers ask whether they can use Microsoft’s Copilot services and the output they generate without worrying about copyright claims, we are providing a straightforward answer: yes, you can, and if you are challenged on copyright grounds, we will assume responsibility for the potential legal risks involved. | Blog
+[Responsible AI Toolbox](https://responsibleaitoolbox.ai/) | Responsible AI Toolbox is a suite of tools providing a collection of model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems. | ResponsibleAIToolbox.ai
+[Microsoft’s AI Customer Commitments](https://blogs.microsoft.com/blog/2023/06/08/announcing-microsofts-ai-customer-commitments/) | AI Customer Commitments | Microsoft Blog
+[Governing AI: A Blueprint for the Future](https://aka.ms/May25Whitepaper) | A five-point blueprint for the public governance of A| Microsoft
+[Responsible AI Resources](https://www.microsoft.com/en-us/ai/responsible-ai-resources) | Explore resources designed to help you responsibly use AI at every stage of innovation - from concept to development, deployment, and beyond.|
+[AI-powered content safety](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-ai-content-safety-ebook/Azure%20Content%20Safety%20eBook.pdf) | An eBook to Build a leading content moderation strategy with AI | Microsoft
+[AI for Good Research Lab]([https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/) | Microsoft’s AI for Good Lab is an applied research and data visualization lab that harnesses the power of big data, and Microsoft’s cloud technology. | Microsoft Research
+[Responsible AI Tracker](https://github.com/microsoft/responsible-ai-toolbox-tracker) | Responsible AI Tracker is a JupyterLab Extension for managing, tracking, and comparing results of machine learning experiments for model improvement.  | GitHub
+[Responsible AI Mitigations](https://github.com/microsoft/responsible-ai-toolbox-mitigations) | This Responsible-AI-Toolbox-Mitigations repo consists of a python library that aims to empower data scientists and ML developers to measure their dataset balance and representation of different dataset cohorts, while having access to mitigation techniques they could incorporate to mitigate errors and fairness issues in their datasets. | GitHub
 
 ## Partner Practice
 

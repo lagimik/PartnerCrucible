@@ -36,25 +36,6 @@ Source | Description | Notes
 [AI Anthology](https://unlocked.microsoft.com/ai-anthology/a) | we invited 20 experts, with specialties encompassing a broad spectrum—spanning the fields of business, economics, education, engineering, health, history, law, mathematics, medicine, psychology, and the sciences—to explore the capabilities of GPT-4 and provide their insightful reflections in the form of essays. | Microsoft Unlocked
 [AI Business School](https://www.microsoft.com/en-us/ai/ai-business-school) | Online leadership series and learn how to drive business impact by creating an effective AI strategy, enabling an AI-ready culture, innovating responsibly, and more| Microsoft
 
-
-## Responsible AI
-
-Responsible AI is an approach to assessing, developing, and deploying AI systems in a safe, trustworthy, and ethical manner, and take responsible decisions and actions.
-
-Source | Description | Notes
-:----- | :-----  | :-----
-[Responsible AI Transparency Report](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1l5BO) | In this report, we share how we build generative applications responsibly, how we make decisions about releasing our generative applications, how we support our customers as they build their own AI applications, and how we learn and evolve our responsible AI program. | Microsoft
-[Announcing new tools in Azure AI to help you build more secure and trustworthy generative AI applications](https://azure.microsoft.com/en-us/blog/announcing-new-tools-in-azure-ai-to-help-you-build-more-secure-and-trustworthy-generative-ai-applications/) | To help customers meet these AI quality and safety challenges, we’re announcing new tools now available or coming soon to Azure AI Studio for generative AI app developers | Blog
-[Copilot Copyright Commitment](https://blogs.microsoft.com/on-the-issues/2023/09/07/copilot-copyright-commitment-ai-legal-concerns/) | As customers ask whether they can use Microsoft’s Copilot services and the output they generate without worrying about copyright claims, we are providing a straightforward answer: yes, you can, and if you are challenged on copyright grounds, we will assume responsibility for the potential legal risks involved. | Blog
-[Responsible AI Toolbox](https://responsibleaitoolbox.ai/) | Responsible AI Toolbox is a suite of tools providing a collection of model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems. | ResponsibleAIToolbox.ai
-[Microsoft’s AI Customer Commitments](https://blogs.microsoft.com/blog/2023/06/08/announcing-microsofts-ai-customer-commitments/) | AI Customer Commitments | Microsoft Blog
-[Governing AI: A Blueprint for the Future](https://aka.ms/May25Whitepaper) | A five-point blueprint for the public governance of A| Microsoft
-[Responsible AI Resources](https://www.microsoft.com/en-us/ai/responsible-ai-resources) | Explore resources designed to help you responsibly use AI at every stage of innovation - from concept to development, deployment, and beyond.|
-[AI-powered content safety](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-ai-content-safety-ebook/Azure%20Content%20Safety%20eBook.pdf) | An eBook to Build a leading content moderation strategy with AI | Microsoft
-[AI for Good Research Lab]([https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/) | Microsoft’s AI for Good Lab is an applied research and data visualization lab that harnesses the power of big data, and Microsoft’s cloud technology. | Microsoft Research
-[Responsible AI Tracker](https://github.com/microsoft/responsible-ai-toolbox-tracker) | Responsible AI Tracker is a JupyterLab Extension for managing, tracking, and comparing results of machine learning experiments for model improvement.  | GitHub
-[Responsible AI Mitigations](https://github.com/microsoft/responsible-ai-toolbox-mitigations) | This Responsible-AI-Toolbox-Mitigations repo consists of a python library that aims to empower data scientists and ML developers to measure their dataset balance and representation of different dataset cohorts, while having access to mitigation techniques they could incorporate to mitigate errors and fairness issues in their datasets. | GitHub
-
 ## Azure OpenAI Practice Building
 
 Source | Description | Notes
