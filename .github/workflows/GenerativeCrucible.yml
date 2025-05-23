@@ -101,8 +101,8 @@ jobs:
             "Use an professional tone to summarize the changes found below in the Partner Crucible updates to help Microsoft Partners Build their technical practice."
             "Use the solution areas as a title heading"
             "Create a list of all the changes. Be brief. Use emojis for emphasis"
-            "Next, provide a list of URL links include the description and source.
-            "Use markdown as the output format."
+            "Next, provide a list of URL links and include the description and source.
+            "Format the output as MarkDown."
             "Example"
             "# Heading Solution Area"
             "## What's new"
