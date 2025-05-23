@@ -185,7 +185,7 @@ jobs:
       - name: Upload image and markdown artifact
         id:  upload-image-artifact
         if: ${{ (matrix.changes.change != null)  }}
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact
         with:
           name: completion-segments
           path: |
@@ -241,7 +241,7 @@ jobs:
 
       - name: Upload stream
         id:  upload-stream
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact
         with:
           name: generative-partner-crucible
           path: |
