@@ -150,6 +150,12 @@ Source | Description | Notes
 [Accelerate Phi-3 use on macOS: A Beginner's Guide to Using Apple MLX Framework](https://techcommunity.microsoft.com/t5/microsoft-developer-community/accelerate-phi-3-use-on-macos-a-beginner-s-guide-to-using-apple/ba-p/4174656) | This blog will share with you relevant knowledge, including how to use Apple MLX Framework to accelerate Phi-3-mini operation, fine-tune, and combine Llama.cpp for quantitative operation. | Tech Community
 [Visual Studio AI Toolkit](https://techcommunity.microsoft.com/t5/educator-developer-blog/visual-studio-ai-toolkit-building-phi-3-genai-applications/ba-p/4179355) | Run pre-optimized AI models locally: Get started quickly with models designed for various setups, including Windows 11 running with DirectML acceleration or direct CPU, Linux with NVIDIA GPUs, or CPU-only environments. Test and integrate models seamlessly: Experiment with models in a user-friendly playground or use a REST API to incorporate them directly into your application. Fine-tune models for specific needs: Customize pre-trained models (like popular SLMs Phi-3 and Mistral) locally or in the cloud to enhance performance, tailor responses, and control their style. Deploy your AI-powered features: Choose between cloud deployment or embedding them within your device applications. | Tech Community
 
+## Azure AI Content Understanding
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Azure AI Content Understanding YouTube Playlist](https://www.youtube.com/playlist?list=PLlrxD0HtieHiy0w4peKmU-1eyMwFHd8UL) | A curated YouTube playlist featuring demos, tutorials, and deep dives on Azure AI Content Understanding capabilities. | YouTube
+
 ## Synapse
 
 Source | Description | Notes
