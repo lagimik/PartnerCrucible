@@ -54,6 +54,7 @@ Source | Description | Notes
 [Integrating Microsoft Sentinel and Power Platform to better monitor and protect your low-code solutions](https://powerapps.microsoft.com/en-us/blog/integrating-microsoft-sentinel-and-power-platform-to-better-monitor-and-protect-your-low-code-solutions/) | Microsoft Sentinel solution for Microsoft Power Platform, a premium offering, allowing customers to detect various suspicious activities such as Microsoft Power Apps execution from unauthorized geographies, suspicious data destruction by Power Apps, mass deletion of Power Apps, phishing attacks made possible through Power Apps, Power Automate flows activity by departing employees, Microsoft Power Platform connectors added to the an environment, and the update or removal of Microsoft Power Platform data loss prevention policies.| Microsoft Blog
 [Power Demos](https//aka.ms/PowerDemos) | Power Demos is the go-to portal for everything low code demos. Find solution play and community-shared
 demos, request a demo tenant, and submit demos to the site—all in one place! | Power Demos
+[PowerCAT Tools for Power Platform](https://appsource.microsoft.com/en-us/product/dynamics-365/microsoftpowercatarch.powercattools?tab=overview) | A suite of tools from the Power CAT team to help with governance, migration, and management of Power Platform environments. | AppSource
 
 ## Power Platform PAL Association
 
