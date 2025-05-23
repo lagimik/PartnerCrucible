@@ -136,7 +136,7 @@ jobs:
         if: ${{ (matrix.changes.change != null)  }}
         uses: actions/upload-artifact@v4
         with:
-          name: 
+          name: ${{ matrix.changes.file}}-completion-segments
           path: |
             ./*.md
     
@@ -188,7 +188,7 @@ jobs:
         if: ${{ (matrix.changes.change != null)  }}
         uses: actions/upload-artifact@v4
         with:
-          name: 
+          name: completion-segments
           path: |
             ./assets/images/
             ./*.md
@@ -208,9 +208,7 @@ jobs:
       - name: Download and Expand Artifact
         id: download-artifact
         uses: actions/download-artifact@v3
-        with:
-          name: 
-          path: .
+      
 
       - name: List artifacts
         id: list-artifacts
