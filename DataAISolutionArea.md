@@ -96,6 +96,12 @@ Source | Description | Notes
 ## Azure OpenAI
 This section has been regrouped here: [Data & AI > Azure OpenAI](./DataAISolutionArea-AzureOpenAI)
 
+## Foundry
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Introducing Azure AI Foundry Labs](https://azure.microsoft.com/en-us/blog/introducing-azure-ai-foundry-labs-a-hub-for-the-latest-ai-research-and-experiments-at-microsoft/) | Azure AI Foundry Labs is a hub for the latest AI research and experiments at Microsoft, providing early access to innovative projects and insights. | Azure Blog
+
 ## Agentic Frameworks
 
 Source | Description | Notes
