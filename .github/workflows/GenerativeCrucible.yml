@@ -111,6 +111,7 @@ jobs:
             "- [link title](link url): description (source)"
 
             "${{ matrix.changes.change}}"
+          model: "gpt-4.0"
           max_tokens: 1000
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
