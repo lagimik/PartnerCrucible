@@ -54,6 +54,10 @@ Source | Description | Notes
 [Measuring GitHub Copilot’s Impact on Productivity](https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/) | A case study asks Copilot users about the tool's impact on their productivity, and seeks to find their perceptions mirrored in user data.| ACM
 [GitHub Copilot Analysis, Customized Rules, and more come to the Azure Migrate application and code assessment](https://devblogs.microsoft.com/dotnet/azure-migrate-application-and-code-assessment-march-2024-update/?WT.mc_id=academic-0000-abartolo) | Azure Migrate application and code assessment for .NET (both the VS extension and the CLI) | Dev Blogs
 [GitHub Copilot Metrics Viewer for Power BI](https://github.com/github-copilot-resources/copilot-metrics-viewer-power-bi) | With the release of the [GitHub Copilot Metrics API](https://github.blog/changelog/2024-04-23-github-copilot-metrics-api-now-available-in-public-beta/) many teams are looking to leverage this data to help monitor usage against their KPIs. For some, the Copilot Metrics Viewer might be a great option.| GitHub
+[Mastering GitHub Copilot for Paired Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) | A comprehensive resource for learning how to use GitHub Copilot effectively in paired programming scenarios, including best practices and hands-on labs. | GitHub
+[ps-copilot-sandbox Repositories](https://github.com/orgs/ps-copilot-sandbox/repositories) | A collection of sandbox repositories for experimenting with and learning about GitHub Copilot features and integrations. | GitHub
+[GitHub Copilot Hackathon Resources & Instructions](https://github.com/microsoft/CopilotHackathon?tab=readme-ov-file#instructions) | Official resources, instructions, and guidance for participating in GitHub Copilot Hackathons. | GitHub
+[What The Hack: GitHub Copilot](https://microsoft.github.io/WhatTheHack/071-GitHubCopilot/) | A hands-on hackathon experience designed to help you and your team learn GitHub Copilot through real-world challenges and guided labs. | What The Hack
 
 ## Tools and Practices
 
