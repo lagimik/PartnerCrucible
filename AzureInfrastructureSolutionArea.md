@@ -300,6 +300,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[The Projected Total Economic Impact™ of Microsoft Azure VMware Solution](https://info.microsoft.com/ww-landing-forrester-the-projected-total-economic-impact-of-microsoft-azure-vmware-solution.html) | Forrester study on the projected economic impact and benefits of adopting Microsoft Azure VMware Solution. | Forrester
 [Microsoft Azure VMware Solution specialization - Requirements](https://partner.microsoft.com/en-us/partnership/specialization/microsoft-azure-vmware-solution) | Specialization Requirements| Partner Specializations
 [Microsoft Azure VMware Solution specialization- Audit](https://assetsprod.microsoft.com/mpn/en-us/microsoft-azure-vmware-solution-audit-checklist.pdf)| Audit Checklist | Partner Specializations
 [AVS Hub](https://www.avshub.io/) | a collection of resources for the AVS community | AVS Hub
