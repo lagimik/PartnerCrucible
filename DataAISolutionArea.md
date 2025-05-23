@@ -57,6 +57,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Navigating the Financial Landscape for Successful AI Adoption (eBook)](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/navigating-financial-landscape-for-successful-ai-adoption-ebook-final-altcover.pdf) | This eBook provides guidance on financial considerations and best practices for organizations adopting AI, helping ensure successful and sustainable AI transformation. | Microsoft
 [Microsoft Reactor: Data & AI Partner Enablement Series](https://developer.microsoft.com/en-us/reactor/series/s-1478/) | A series of events and resources to help partners build and scale their Data & AI practices with Microsoft technologies. | Microsoft Reactor
 [Cloud Adoption Framework - AI on Azure](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/ai/) | [AI adoption](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/ai/) | This AI guidance provides a roadmap for startups and enterprises to adopt and maintain AI. It provides best practices. These best practices cover AI technology decisions (build vs. buy), skill development, team organization, and processes to govern, manage, and secure AI. | Microsoft Learn
 [Well-Architected AI workloads on Azure](https://learn.microsoft.com/en-us/azure/well-architected/ai/get-started) | This article addresses architectural challenges of designing AI workloads. It focuses on nondeterministic functionality, data and application design, and operations. The recommendations are based on Azure Well-Architected Framework principles and include insights from successful Azure implementations. | Microsoft Lean
@@ -113,7 +114,7 @@ Source | Description | Notes
 ## Azure OpenAI
 This section has been regrouped here: [Data & AI > Azure OpenAI](./DataAISolutionArea-AzureOpenAI)
 
-## Foundry
+## Azure Foundry
 
 Source | Description | Notes
 :----- | :-----  | :-----
