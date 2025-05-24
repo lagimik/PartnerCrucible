@@ -196,7 +196,7 @@ jobs:
 
   newsletter:
     runs-on: ubuntu-latest
-    name: newsletter
+    name: Newsletter
     needs: summary
 
     steps:
@@ -210,7 +210,7 @@ jobs:
         id: download-artifact
         uses: actions/download-artifact@v4
         with:
-          name: "*-completion-segments"
+          merge-multiple: true
           path: .
 
       - name: List artifacts
