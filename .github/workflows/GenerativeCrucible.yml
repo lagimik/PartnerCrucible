@@ -253,7 +253,7 @@ jobs:
   pull-request:
     runs-on: ubuntu-latest  # windows-latest | macos-latest
     name: Pull request
-    needs: newsletter
+    needs: Newsletter
 
 
     steps:
