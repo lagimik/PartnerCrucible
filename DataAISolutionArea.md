@@ -138,6 +138,7 @@ Source | Description | Notes
 [The Developer's Cantina](https://www.developerscantina.com/) | @qmatteoq Blog on Semantic Kernel| Developer's Cantina
 [Connect Logic Apps’ 1,400 connectors to Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/connect-logic-apps-1400-connectors-to-semantic-kernel/) | Logic Apps now supports OpenAPI specifications and the OpenAI plugin manifest, you can easily take any of the APIs you have previously built and import them as a plugin. | Dev Blog
 [Integrating Logic App with Semantic Kernel: A Detailed Guide and Demo](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/integrating-logic-app-with-semantic-kernel-a-detailed-guide-and/ba-p/4184910) | This post covers factors to consider to successfully import Logic App into your codebase| Tech Community
+[Build AI Agents End-to-End in VS Code](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/build-ai-agents-end-to-end-in-vs-code/4418117) | Everything you need to build, test, and ship an AI agent lives inside VS Code. The Microsoft AI Tools Extension Pack simplifies the entire workflow—from prompt design to cloud deployment.| Tech Community
 
 ## Small Language Models
 
