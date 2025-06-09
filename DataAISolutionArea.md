@@ -16,6 +16,7 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Building a Foundation for AI Success: A Leader’s Guide](https://info.microsoft.com/ww-landing-building-a-foundation-for-ai-success.html) | Discover insights informed by Microsoft, Microsoft customers and partners, industry analysts, and AI leaders—to help your organization thrive on your path to AI transformation.| Microsoft
 [How Real-World Businesses Are Transforming with AI](https://blogs.microsoft.com/blog/2025/04/22/https-blogs-microsoft-com-blog-2024-11-12-how-real-world-businesses-are-transforming-with-ai/) | Microsoft blog post highlighting real-world examples of businesses leveraging AI to drive transformation and innovation across industries. | Microsoft Blog, April 2025
 [Microsoft Research Forum](https://researchforum.microsoft.com/) | Join us for a continuous exchange of ideas about science and technology research in the era of general AI. This series explores recent advances, bold new ideas, and important discussions with the global research community.| Microsoft Research
 [From vision to reality: Microsoft’s partners embrace AI to deliver customer value](https://blogs.microsoft.com/blog/2024/03/20/from-vision-to-reality-microsofts-partners-embrace-ai-to-deliver-customer-value/) | For this State of the Partner Ecosystem moment, we’ll share how partners are seizing the opportunities that AI offers and making its promise real for organizations across the world | Blog
