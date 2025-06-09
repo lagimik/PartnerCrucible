@@ -40,6 +40,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Fabric Roadmap](https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity) | Microsoft Fabric Roadmap: data engineering, data factory, data science, data warehousoe, OneLake, POwerBI, Real-Time Intelligence, and SQL database | Fabric Roadmap
 [Fabric Readiness](https://github.com/microsoft/Fabric-Readiness/) | The Fabric Readiness repo is designed to enable communities interested in topics and concepts related to Microsoft Fabric. This repository currently provides a collection of presentation decks that are intended to be reused in user groups, online presentations, in-person conferences, and customer conversations.| GitHub
 [Microsoft Fabric decision guide: choose a data store](https://learn.microsoft.com/en-us/fabric/get-started/decision-guide-data-store) | Use this reference guide and the example scenarios to help you choose a data store for your Microsoft Fabric workloads. |  Microsoft Learn
 [Microsoft Fabric decision guide: copy activity, dataflow, or Spark](https://learn.microsoft.com/en-us/fabric/get-started/decision-guide-pipeline-dataflow-spark) | se this reference guide and the example scenarios to help you in deciding whether you need a copy activity, a dataflow, or Spark for your Microsoft Fabric workloads.| Microsoft Learn
