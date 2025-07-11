@@ -16,6 +16,7 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Seizing the agentic AI advantage](https://www.mckinsey.com/capabilities/quantumblack/our-insights/seizing-the-agentic-ai-advantage) | A CEO playbook to solve the gen AI paradox and unlock scalable impact with AI agents.| McKinsey
 [Building a Foundation for AI Success: A Leader’s Guide](https://info.microsoft.com/ww-landing-building-a-foundation-for-ai-success.html) | Discover insights informed by Microsoft, Microsoft customers and partners, industry analysts, and AI leaders—to help your organization thrive on your path to AI transformation.| Microsoft
 [How Real-World Businesses Are Transforming with AI](https://blogs.microsoft.com/blog/2025/04/22/https-blogs-microsoft-com-blog-2024-11-12-how-real-world-businesses-are-transforming-with-ai/) | Microsoft blog post highlighting real-world examples of businesses leveraging AI to drive transformation and innovation across industries. | Microsoft Blog, April 2025
 [Microsoft Research Forum](https://researchforum.microsoft.com/) | Join us for a continuous exchange of ideas about science and technology research in the era of general AI. This series explores recent advances, bold new ideas, and important discussions with the global research community.| Microsoft Research
