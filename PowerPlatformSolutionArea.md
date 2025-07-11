@@ -165,6 +165,8 @@ Source | Description | Notes
 [Copilot Studio](https://github.com/Katerina-Chernevskaya/feature-a-day) | by @Katerina-Chernevskaya| Github
 [Microsoft Copilot Studio](https://powerplatformpartners.transform.microsoft.com/gtm/lowcode/copilot-studio) | Partner Landing Page for Copilot Studio including Microsoft Agent Vision and Partner Opportunity | Power Platform Partners
 [IT Governance Controls for Your Copilot agents](https://www.microsoft.com/en-us/power-platform/blog/power-apps/it-governance-controls-for-your-copilot-agents/) | With tools designed to enforce governance strategies, organizations can confidently deploy and manage their AI initiatives, knowing they have the necessary controls in place.| Power Platform Blog
+[Administering and Governing Agents](https://adoption.microsoft.com/files/copilot-studio/Agent-governance-whitepaper.pdf)| This whitepaper delves into the specifics of Microsoft’s tools and methodologies, offering insights on managing data security and agent integrity. It covers the role of 
+Microsoft 365 agents, Agent Builder agents, and Copilot Studio agents, explaining how each type can be utilized to enhance operational efficiency while maintaining stringent security protocols. | Microsoft Adoption
 
 ## Copilot for business functions
 
