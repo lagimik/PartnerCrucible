@@ -105,10 +105,11 @@ Source | Description | Notes
 [Machine Learning for Beginners - A Curriculum](https://microsoft.github.io/ML-For-Beginners/#/) | Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 26-lesson curriculum all about Machine Learning | GitHub
 [Data Science for Beginners - A Curriculum](https://microsoft.github.io/Data-Science-For-Beginners/#/) | Azure Cloud Advocates at Microsoft are pleased to offer a 10-week, 20-lesson curriculum all about Data Science. | GitHub
 
-## AI Red Teaming
+## AI Security
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Zero-Trust Agents: Adding Identity and Access to Multi-Agent Workflows](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/zero-trust-agents-adding-identity-and-access-to-multi-agent-workflows/4427790)| In this article, we demonstrate a zero-trust approach to autonomous AI agents by integrating Identity and access management into an enterprise agentic workflow| Tech Community
 [Lessons from red teaming 100 generative AI products](https://www.linkedin.com/posts/heenapurohit_lessons-from-red-teaming-100-products-ugcPost-7285138123909443584-Q7GU/?utm_source=share&utm_medium=member_desktop) |  Based on our experience red teaming over 100 generative Al products at Microsoft, we present our internal threat model ontology and eight main lessons we have learned | Microsoft AI Red Team
 [Python Risk Identification Toolkit for generative AI (PyRIT)](https://www.microsoft.com/en-us/security/blog/2024/02/22/announcing-microsofts-open-automation-framework-to-red-team-generative-ai-systems/) | Microsoft releases an open automation framework, PyRIT (Python Risk Identification Toolkit for generative AI), to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems | Blog
 [Python Risk Identification Tool for generative AI (PyRIT) - GitHub](https://github.com/Azure/PyRIT) | The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and ML engineers to red team foundation models and their applications. | GitHub
