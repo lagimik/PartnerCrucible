@@ -18,10 +18,11 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Analytics and BI Platforms](https://powerbi.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-analytics-and-bi-platforms/) | For the eighteenth consecutive year, Microsoft has been positioned as a Leader in the 2025 Gartner Magic Quadrant for Analytics and Business Intelligence Platforms | Gartner
 [Microsoft named a Leader in The Forrester Wave™: Augmented BI Platforms, Q2 2023](https://powerbi.microsoft.com/en-us/blog/2023forresterwave/) | Forrester has recognized Microsoft as a Leader in The Forrester Wave™: Augmented BI Platforms, Q2 2023. Microsoft received the highest score of any vendor in the strategy category. | Forrester
 [The Forrester Wave™: Data Management for Analytics Platforms, Q2 2025](https://reprint.forrester.com/reports/the-forrester-wavetm-data-management-for-analytics-platforms-q2-2025-53381efb/index.html) | Forrester evaluates leading data management for analytics platform providers, including Microsoft, in its Q2 2025 report. | Forrester
 [Introducing Microsoft Fabric: Data analytics for the era of AI](https://azure.microsoft.com/en-us/blog/introducing-microsoft-fabric-data-analytics-for-the-era-of-ai/) | Announcement - By Arun Ulagaratchagan Corporate Vice President, Azure Data | Azure
-[Microsoft Ignite 2024 - Book of News - Data and Analytics](https://news.microsoft.com/ignite-2024-book-of-news/#a-341-build-intelligent-apps-with-autonomous-fabric-databases) | Key announcements from Ignite 2024 in the areas of : Autonomous Fabric Databases, Open Mirroring, OneLake Catalog, SQL Server in Fabric, and Azure Managed Redis|  Microsoft Ignite
+
 
 ## Practice Building
 
