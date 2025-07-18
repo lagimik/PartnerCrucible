@@ -62,6 +62,7 @@ Source | Description | Notes
 [M365 Copilot Public Product Roadmap](https://aka.ms/M365CopilotRoadmap) | M365 Copilot Roadmap includes, launched, rolling out, and in development features. | M365
 [Microsoft Copilot Partner Bootcamp](https://vshow.on24.com/vshow/FY24_MWCWeek/registration/23378) | Copilot for Microsoft 365 Pre-Sales, Deployment, and Adoption Bootcamp
 [Microsoft 365 Copilot APIs: Unlocking enterprise knowledge for AI with the Retrieval API](https://devblogs.microsoft.com/microsoft365dev/microsoft-365-copilot-apis-unlocking-enterprise-knowledge-for-ai-with-the-retrieval-api/) | The Retrieval API gives developers a secure, compliant and scalable way to integrate enterprise content into their AI workflows.| Dev Blogs
+[Bring your own agents into Microsoft 365 Copilot](https://devblogs.microsoft.com/microsoft365dev/bring-your-own-agents-into-microsoft-365-copilot/) | Custom engine agents expand the capabilities of Microsoft 365 Copilot by allowing organizations to build AI-powered assistants tailored to their specific needs. Unlike standard Copilot experiences, custom engine agents provide full control over orchestration, AI models, and data integrations, enabling businesses to create advanced workflows that align with their unique requirements.| Dev Blogs
 
 
 ## Scenarios and Accelerators
