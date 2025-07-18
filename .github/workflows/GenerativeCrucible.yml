@@ -146,7 +146,7 @@ jobs:
         env:
           FILENAME: ${{ matrix.changes.file}}-changelog.md
         run: |
-          echo "prompt=an abstract modern urban landscape, without letters or words, inspired by the sentence - `head -c 64 $FILENAME | tr '\n' ' ' | tr -c '[:alnum:]' ' ' `" >> $GITHUB_OUTPUT
+          echo "prompt=a monochrome and photorealistic  modern urban landscape inspired by the sentence : - `head -c 64 $FILENAME | tr '\n' ' ' | tr -c '[:alnum:]' ' ' `" >> $GITHUB_OUTPUT
 
       - name: Wait for a random amount of time
         uses: m3y/random-wait-action@v1
