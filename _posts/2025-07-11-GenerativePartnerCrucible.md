@@ -17,8 +17,8 @@ thumbnail: /PartnerCrucible/assets/images/2025-07-11-DataAISolutionArea.md-image
 - 🛡️ Updated to "AI Security": Enhanced focus on security within AI practices.
 - 🔐 Added "Zero-Trust Agents": Demonstrates application of identity and access management for multi-agent AI workflows.
 
-## Deep Links-
- [Seizing the agentic AI advantage](https://www.mckinsey.com/capabilities/quantumblack/our-insights/seizing-the-agentic-ai-advantage): A CEO playbook to solve the GenAI paradox and unlock scalable impact with AI agents. (McKinsey)
+## Deep Links
+ - [Seizing the agentic AI advantage](https://www.mckinsey.com/capabilities/quantumblack/our-insights/seizing-the-agentic-ai-advantage): A CEO playbook to solve the GenAI paradox and unlock scalable impact with AI agents. (McKinsey)
  - [Drive business value with an Azure AI CoE](https://developer.microsoft.com/en-us/reactor/series/S-1536/?wt.mc_id=youtube_S-1536_organicsocial_reactor): Step-by-step series on establishing an AI Center of Excellence and managing AI workloads in Azure. (Microsoft Reactor)
  - [Zero-Trust Agents: Adding Identity and Access to Multi-Agent Workflows](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/zero-trust-agents-adding-identity-and-access-to-multi-agent-workflows/4427790): Demonstrates zero-trust strategies for securing enterprise AI agent workflows. (Microsoft Tech Community)
 
