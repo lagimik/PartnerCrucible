@@ -40,7 +40,6 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[FY25 Azure Data and AI Partner Playbook](assetsprod.microsoft.com/mpn/en-ca/fy25-azure-data-and-ai-partner-playbook.pdf) | FY25 GTM Partner Strategy, practice building, and partner investments. | Microsoft Partner
 [AI Transformation Partner Playbook](https://aka.ms/aipartnerplaybook) | No matter where you are in your AI transformation journey, the AI Transformation Partner Playbook will empower you to accelerate innovation and grow your AI practice. | Partner
 [Partner Data and AI Solution Area Landing](https://partner.microsoft.com/en-us/explore/solution-areas#tab-2) | Landing page for partner resources | Partner
 [Azure OpenAI Sales Acceleration](https://partner.microsoft.com/en-us/asset/collection/azure-openai-service-sales-acceleration-content#/) | Sales Acceleration content| Partner
