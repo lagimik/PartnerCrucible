@@ -28,7 +28,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[Modern Work Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy24-modern-work-partner-playbook.pdf) | Describes Microsoft GTM Strategy, Solution Plays, Partner Priorities, and Key Resources | Partner FY24
+[FY26 Cloud Solution Area Partner Playbooks](https://partner.microsoft.com/en-us/asset/collection/fy26-cloud-solution-area-partner-playbooks#/) | Explore how to drive revenue growth and profitability by delivering AI-powered services and solutions—supported by our end-to-end engagement model and aligned to our updated, streamlined solution areas. Partner playbooks for AI Business Solutions, Cloud and AI Platforms, and Security help you build your practice and tap into investments with Solution Plays and GTM strategies. | Microsoft Partner
 [Co-Sell with Microsoft Series learning path](https://readiness.transform.microsoft.com/learning-path/334f847e-6590-4ff3-8d43-e2ab99ab71bc) |  FY24 - Go-to-market guidance across all Co-Sell with Microsoft priority sales plays.  | Transform
 [Sell through CSP Kickoff Series learning path](https://readiness.transform.microsoft.com/learning-path/d8b8ec88-3af2-4824-bdb8-abfe1e85e9b6) | FY24 - Go-to-market  guidance across all our Sell through CSP priority sales plays. | Transform
 [Modern Work for CSP](https://cloudpartners.transform.microsoft.com/partner-gtm/csp) | Supercharge your business by leveraging the programs and investments we are making in FY24 to help drive your business – including go-to-market content, fresh assets, readiness content, and incentive programs. Review the following tabs to learn more. | Transform
