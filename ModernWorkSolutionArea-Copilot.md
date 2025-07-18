@@ -41,12 +41,15 @@ Source | Description | Notes
 [Microsoft 365 Copilot - Partner Guide](https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FMicrosoft365-Copilot-Partner-Guide.pptx&download=1) | This deck provides comprehensive guidance for partner readiness and customer adoption  | Transform
 [Join the Microsoft 365 Copilot Partner Community](https://aka.ms/CopilotPartnerCommunity) | Thank you for your interest in joining the new Copilot Partner Community! This is a community designed to be a resource for Microsoft Partners with interest in Microsoft 365 Copilot. | Form
 
+
 ## Copilot Adoption
 
 Source | Description | Notes
 :----- | :---------- | :-----
 [Microsoft Copilot Adoption](https://adoption.microsoft.com/en-us/copilot/) | Microsoft Copilot combines the power of large language models (LLMs) with your organization’s data – all in the flow of work – to turn your words into one of the most powerful productivity tools on the planet. It works alongside popular Microsoft 365 Apps such as Word, Excel, PowerPoint, Outlook, Teams, and more. Copilot provides real-time intelligent assistance, enabling users to enhance their creativity, productivity, and skills. | Adoption
 [Copilot for Microsoft 365 User Onboarding Toolkit](https://adoption.microsoft.com/en-us/copilot/user-onboarding-toolkit/) | To help your people quickly realize the full benefit of Copilot for Microsoft 365, we've developed a user onboarding toolkit, including ready-to-send emails and community posts that you can send to your business users as they onboard | Adoption
+[Copilot Success Kit](https://adoption.microsoft.com/en-us/copilot/success-kit/)
+[Microsoft Scenario Library](https://copilotscenarios.microsoft.com/) | Create a custom set of use cases to help your business units and user engagement teams plan your path to value with AI. Beginning from functional success metrics, identify process changes that will create value.| Microsoft
 
 
 ## Technical Readiness
