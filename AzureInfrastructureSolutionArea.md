@@ -168,11 +168,7 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :---------- | :-----
 [Microsoft Adaptive Cloud Academy](https://microsoft.github.io/PartnerResources/skilling/microsoft-infrastructure-academy/adaptive-cloud) | Microsoft Azure offers many ways for customers to build, deploy, operate, and secure their application and data estates, including customer on-premises assets and even customer assets running in other cloud providers | Microsoft Partner Academy
-[Arc Jumpstart](https://azurearcjumpstart.io/)| The Jumpstart provides step-by-step guides for independent Azure Arc scenarios that incorporate as much automation as possible, detailed screenshots and code samples, and a rich and comprehensive experience while getting started with the Azure Arc platform.| ...
-[Jumpstart ArcBox for DevOps](https://azurearcjumpstart.io/azure_jumpstart_arcbox/devops/)| ArcBox for DevOps is a special “flavor” of ArcBox that is intended for users who want to experience Azure Arc-enabled Kubernetes capabilities in a sandbox environment.| Arc Jumpstart
-[Jumpstart ArcBox for DataOps](https://azurearcjumpstart.io/azure_jumpstart_arcbox/dataops/#jumpstart-arcbox-for-dataops)| ArcBox for DataOps is a special “flavor” of ArcBox that is intended for users who want to experience Azure Arc-enabled SQL Managed Instance capabilities in a sandbox environment. | Arc Jumpstart
-[Jumpstart HCIBox](https://azurearcjumpstart.io/azure_jumpstart_hcibox/) | HCIBox is a turnkey solution that provides a complete sandbox for exploring Azure Stack HCI capabilities and hybrid cloud integration in a virtualized environment| Arc Jumpstart
-[Landing zone accelerator](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/hybrid/enterprise-scale-landing-zone) | Introduction to Azure Arc-enabled servers landing zone accelerator for hybrid and multicloud – Cloud Adoption Framework | Microsoft Docs
+[Arc Jumpstart](https://jumpstart.azure.com/) | Get an adaptive cloud environment up and running in no time—extensive, automated, and open-source. Includes Jumpstart Scenarios, Agora, ArcBox, LocalBox, Drops, and Gems. Get your Azure Arc environment up and running in no time with Arc Jumpstart. We’re open source, community-driven, and provide step-by-step guides for independent Azure Arc scenarios with extensive automation. | Arc Jumpstart
 
 
 ## Azure Reliability
