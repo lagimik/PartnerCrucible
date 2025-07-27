@@ -45,7 +45,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 - 🚀 Added **What The Hack - Azure AI**: Collaborative learning hacks covering Azure OpenAI Fundamentals, AI Apps, Copilot development, and GitHub Copilot 
 - 🕹️ Added **AI agent orchestration patterns**: Guidance on orchestrating multiple AI agents for various coordination needs 
-- 🔄 Added **Accelerate innovation by migrating your repositories from Azure DevOps to GitHub**: Guidance and considerations for migrating DevOps repos to GitHub to advance AI capabilities 
+
 
 ## Deep Links
 
