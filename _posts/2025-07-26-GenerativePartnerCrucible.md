@@ -1,47 +1,55 @@
 ---
-title: 'Generative Partner Crucible - for the week ending 2025-07-26'
-date: 2025-07-26
+title: 'Generative Partner Crucible - for the week ending 2025-07-25'
+date: 2025-07-25
 flag: GenerativePartnerCrucible
 layout: generativepartnercrucible
-thumbnail: /PartnerCrucible/assets/images/2025-07-26-PowerPlatformSolutionArea.md-image.png
+thumbnail: /PartnerCrucible/assets/images/2025-07-26-AzureInfrastructureSolutionArea.md-image.png
 ---
+
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2025-07-26-AzureInfrastructureSolutionArea.md-image.png )
-# Azure Infrastructure Solution Area## What's New- 🆕 Added "What The Hack" content for: - Azure Arc-enabled servers Hack - Azure Arc-enabled Kubernetes Hack- 🔄 Updated Arc Jumpstart resources: - New central [Arc Jumpstart site](https://jumpstart.azure.com/) - Includes Jumpstart Scenarios, Agora, ArcBox, LocalBox, Drops, and Gems## Deep Links- [What The Hack - Azure Arc enabled servers Hack](https://microsoft.github.io/WhatTheHack/025-ArcEnabledServers/): Step-by-step challenges for setting up labs, projecting servers into Azure via Arc, and enabling Azure management and security tools. (What The Hack)- [What The Hack - Azure Arc enabled Kubernetes Hack](https://microsoft.github.io/WhatTheHack/026-ArcEnabledKubernetes/): Challenges focus on deploying and managing Arc-enabled Kubernetes clusters, including cross-cloud scenarios and GitOps. (What The Hack)- [Arc Jumpstart](https://jumpstart.azure.com/): The new, centralized hub for Azure Arc Jumpstart with automated, open-source guides and ready-to-deploy scenarios. Includes detailed learning paths and tools like Agora, ArcBox, LocalBox, Drops, and Gems to accelerate hybrid and multicloud deployments. (Arc Jumpstart)
+
+# Azure Infrastructure Solution Area
+
+## What's New
+
+- 🆕 Added "What The Hack" Azure Arc-enabled 
+- 🔄 Updated Arc Jumpstart : Scenarios, Agora, ArcBox, LocalBox, Drops, and Gems
+
+## Deep Links
+
+- [What The Hack - Azure Arc enabled servers Hack](https://microsoft.github.io/WhatTheHack/025-ArcEnabledServers/): Step-by-step challenges for setting up labs, projecting servers into Azure via Arc, and enabling Azure management and security tools. (What The Hack)
+- [What The Hack - Azure Arc enabled Kubernetes Hack](https://microsoft.github.io/WhatTheHack/026-ArcEnabledKubernetes/): Challenges focus on deploying and managing Arc-enabled Kubernetes clusters, including cross-cloud scenarios and GitOps. (What The Hack)
+- [Arc Jumpstart](https://jumpstart.azure.com/): The new, centralized hub for Azure Arc Jumpstart with automated, open-source guides and ready-to-deploy scenarios. Includes detailed learning paths and tools like Agora, ArcBox, LocalBox, Drops, and Gems to accelerate hybrid and multicloud deployments. (Arc Jumpstart)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/AzureInfrastructureSolutionArea) for more partner resources.
 
-![ BusinessApplicationsSolutionArea.md ]( /PartnerCrucible/assets/images/2025-07-26-BusinessApplicationsSolutionArea.md-image.png )
-# Business Applications Solution Area## What's new- 📘 Added the FY26 Cloud Solution Area Partner Playbooks, including guidance for AI Business Applications.- 🤖 Focus on delivering AI-powered services and solutions with comprehensive playbooks.- 📈 Emphasis on revenue growth, profitability, and alignment to streamlined solution areas.- 🚀 Updated resources now support building practices and accessing investments with Solution Plays and GTM strategies.- 🗑️ Retired the FY24 Business Applications Playbook; replaced with the latest guidance.## Deep links- [FY26 Cloud Solution Area Partner Playbooks](https://partner.microsoft.com/en-us/asset/collection/fy26-cloud-solution-area-partner-playbooks#/): Explore end-to-end partner guidance on AI Business Solutions, Cloud and AI Platforms, and Security, including investment opportunities and GTM strategies. (Microsoft Partner)- [Retired: FY24 Business Applications Playbook (PDF)](https://assetsprod.microsoft.com/en-ca/fy24-business-applications-partner-playbook.pdf): Previous GTM strategy and solution plays for Business Applications (Microsoft Partner, FY24)
-
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/BusinessApplicationsSolutionArea) for more partner resources.
-
-![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2025-07-26-DataAISolutionArea-AzureOpenAI.md-image.png )
-# Data & AI Solution Area## What's new- 📘 Updated the Partner Solution Area Playbook for Cloud and AI.- 🤖 Enhanced content for Azure OpenAI-related partner guidance.## Deep links- [FY25 Azure Data and AI Partner Playbook](https://assetsprod.microsoft.com/mpn/en-ca/fy25-azure-data-and-ai-partner-playbook.pdf): FY25 GTM Partner Strategy, practice building, and partner investments. (Microsoft Partner)
-
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-AzureOpenAI) for more partner resources.
-
 ![ DataAISolutionArea.md ]( /PartnerCrucible/assets/images/2025-07-26-DataAISolutionArea.md-image.png )
-# Data & AI Solution Area## What's new- 📚 **Added "What The Hack - Azure AI"**: A collaborative learning experience featuring challenges in Azure OpenAI Fundamentals, building AI Apps, Copilot development, and GitHub Copilot hacks.- 🚀 **FY26 Cloud Solution Area Partner Playbooks introduced**: Consolidated playbooks for building AI-powered practices focused on AI Business Solutions, Cloud and AI Platforms, and Security, replacing the FY24 Data and AI Partner Playbook.- 🏗️ **Added Basic Azure AI Foundry chat reference architecture**: New resources and guides for implementing chat applications leveraging Azure AI Foundry and the Azure OpenAI language models.- 🛠️ **Added Azure AI Foundry Agent service chat basic reference implementation**: End-to-end example showcasing chat implementation and AI orchestration via Azure AI Foundry Agent service.## Deep links- [What The Hack - Azure AI](https://github.com/microsoft/WhatTheHack?tab=readme-ov-file#azure-ai): Interactive, team-based hacks covering Azure AI and Copilot innovations. (What The Hack)- [FY26 Cloud Solution Area Partner Playbooks](https://partner.microsoft.com/en-us/asset/collection/fy26-cloud-solution-area-partner-playbooks#/): Playbooks to help partners create and grow technical practices across new solution areas. (Microsoft Partner)- [Basic Azure AI Foundry chat reference architecture](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/basic-azure-ai-foundry-chat): Starter guide for building chat applications with Azure AI Foundry and OpenAI language models. (Microsoft Learn)- [Azure AI Foundry Agent service chat basic reference implementation](https://github.com/Azure-Samples/openai-end-to-end-basic/): Code sample and architecture for running AI chat applications in a single region with AI orchestration. (Azure Samples GitHub)
+
+# Data & AI Solution Area
+
+## What's new
+
+- 📚 Added "What The Hack - Azure AI
+
+## Deep links
+
+- [What The Hack - Azure AI](https://github.com/microsoft/WhatTheHack?tab=readme-ov-file#azure-ai): Interactive, team-based hacks covering Azure AI and Copilot innovations. (What The Hack)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea) for more partner resources.
 
 ![ DigitalAppsandInnovationSolutionArea.md ]( /PartnerCrucible/assets/images/2025-07-26-DigitalAppsandInnovationSolutionArea.md-image.png )
-# Digital & App Innovation## What's New- 🧑‍💻 Added **Generative AI and the Nature of Work**: Insights on AI's impact on software developer task allocation, leveraging quantitative research - 🚀 Added **What The Hack - Azure AI**: Collaborative learning hacks covering Azure OpenAI Fundamentals, AI Apps, Copilot development, and GitHub Copilot - 🕹️ Added **AI agent orchestration patterns**: Guidance on orchestrating multiple AI agents for various coordination needs - 🔄 Added **Accelerate innovation by migrating your repositories from Azure DevOps to GitHub**: Guidance and considerations for migrating DevOps repos to GitHub to advance AI capabilities ## Deep Links- [Generative AI and the Nature of Work](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5007084): Impact study on AI adoption and task allocation for software developers, leveraging large panel data (Microsoft Research & Harvard Business School)- [What The Hack - Azure AI](https://github.com/microsoft/WhatTheHack?tab=readme-ov-file#azure-ai): Hands-on AI learning workshops including Copilot and OpenAI scenarios (What the Hack)- [AI agent orchestration patterns](https://learn.microsoft.com/en-ca/azure/architecture/ai-ml/guide/ai-agent-design-patterns): Proven design patterns for coordinating multiple AI agents (Microsoft Learn)- [Accelerate innovation by migrating your repositories from Azure DevOps to GitHub](https://resources.github.com/accelerate-innovation-azure-devops-migration/): Best practices and strategic guidance for DevOps-to-GitHub migration to drive innovation (GitHub)
+
+# Digital & App Innovation
+
+## What's New
+
+- 🚀 Added **What The Hack - Azure AI**: Collaborative learning hacks covering Azure OpenAI Fundamentals, AI Apps, Copilot development, and GitHub Copilot 
+- 🕹️ Added **AI agent orchestration patterns**: Guidance on orchestrating multiple AI agents for various coordination needs 
+- 🔄 Added **Accelerate innovation by migrating your repositories from Azure DevOps to GitHub**: Guidance and considerations for migrating DevOps repos to GitHub to advance AI capabilities 
+
+## Deep Links
+
+- [What The Hack - Azure AI](https://github.com/microsoft/WhatTheHack?tab=readme-ov-file#azure-ai): Hands-on AI learning workshops including Copilot and OpenAI scenarios (What the Hack)
+- [AI agent orchestration patterns](https://learn.microsoft.com/en-ca/azure/architecture/ai-ml/guide/ai-agent-design-patterns): Proven design patterns for coordinating multiple AI agents (Microsoft Learn)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DigitalAppsandInnovationSolutionArea) for more partner resources.
-
-![ ModernWorkSolutionArea-Copilot.md ]( /PartnerCrucible/assets/images/2025-07-26-ModernWorkSolutionArea-Copilot.md-image.png )
-# Modern Work – Copilot## What's new- 🆕 Added [Microsoft Scenario Library](https://copilotscenarios.microsoft.com/) – Create a custom set of use cases to help business units and user engagement teams plan paths to value with AI.- 🆕 Added [Copilot Success Kit](https://adoption.microsoft.com/en-us/copilot/success-kit/) – Resources to accelerate Copilot adoption and realize value.- 🤖 Introduced [Bring your own agents into Microsoft 365 Copilot](https://devblogs.microsoft.com/microsoft365dev/bring-your-own-agents-into-microsoft-365-copilot/) – Enables organizations to build custom AI-powered assistants with full control over orchestration, models, and integration.## Deep links- [Copilot Success Kit](https://adoption.microsoft.com/en-us/copilot/success-kit/): Resources to accelerate Copilot adoption and maximize business outcomes. (Microsoft Adoption)- [Microsoft Scenario Library](https://copilotscenarios.microsoft.com/): Explore, customize, and build AI use cases to drive value across your organization. (Microsoft)- [Bring your own agents into Microsoft 365 Copilot](https://devblogs.microsoft.com/microsoft365dev/bring-your-own-agents-into-microsoft-365-copilot/): Learn how to create custom engine agents for Microsoft 365 Copilot tailored to business needs. (Microsoft Dev Blogs)
-
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/ModernWorkSolutionArea-Copilot) for more partner resources.
-
-![ ModernWorkSolutionArea.md ]( /PartnerCrucible/assets/images/2025-07-26-ModernWorkSolutionArea.md-image.png )
-# Modern Work Solution Area## What's New- 📘 Updated Partner Playbook reference: Now links to the **FY26 Cloud Solution Area Partner Playbooks**.- 💡 Expanded coverage: Includes guidance on **AI Business Solutions**, Cloud and AI Platforms, and Security.- 🛠️ Enhanced practice-building resources: Focus on delivering **AI-powered services and solutions**.- 📈 Emphasis on updated Go-To-Market (GTM) strategies and **solution plays** for revenue growth and profitability.- 🤝 Alignment with **Microsoft’s end-to-end engagement model** and streamlined solution areas.## Deep Links- [FY26 Cloud Solution Area Partner Playbooks](https://partner.microsoft.com/en-us/asset/collection/fy26-cloud-solution-area-partner-playbooks#/): Explore guidance and resources for delivering AI solutions, cloud, and security services. Unlock new solution plays and GTM strategies for Microsoft Partners. (Source: Microsoft Partner)- [Modern Work Partner Playbook (Previous Version)](https://assetsprod.microsoft.com/en-ca/fy24-modern-work-partner-playbook.pdf): Historical approach to GTM strategy, solution plays, and partner priorities for FY24. (Source: Microsoft Partner)---These updates will assist Microsoft Partners in aligning their technical practices with emerging opportunities and market priorities, especially in AI-driven solutions.
-
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/ModernWorkSolutionArea) for more partner resources.
-
-![ SecuritySolutionArea.md ]( /PartnerCrucible/assets/images/2025-07-26-SecuritySolutionArea.md-image.png )
-# Security Solution Area## What's new- 🛡️ Added "The Partner Opportunity For Microsoft Security": Includes a Total Economic Impact™ Partner Opportunity Analysis by Forrester.- 🏆 Added "The Forrester Wave™: Zero Trust Platforms, Q3 2025": Highlights Microsoft as the Leader in Zero Trust Platforms according to Forrester.- 📘 Updated Partner Playbook: Now referencing the "FY26 Cloud Solution Area Partner Playbooks" with content on building AI-powered services and leveraging Microsoft’s updated GTM strategies for partners.## Deep links- [The Partner Opportunity For Microsoft Security](http://aka.ms/ForresterMSSecurityTEI2024): A Total Economic Impact™ Partner Opportunity Analysis for Microsoft Security Partners (Forrester)- [The Forrester Wave™: Zero Trust Platforms, Q3 2025](https://www.linkedin.com/posts/martintenvoorde_microsoft-security-zerotrust-activity-7349441437165412352-2CT7/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAuhUABpdpzK9SzuOG85oyUVHBGdeovPXU): Microsoft recognized as Leader in Zero Trust Platforms (Forrester)- [FY26 Cloud Solution Area Partner Playbooks](https://partner.microsoft.com/en-us/asset/collection/fy26-cloud-solution-area-partner-playbooks#/): Resources on delivering AI-powered services, streamlined solution areas, GTM strategies, and practice building for partners (Microsoft Partner)
-
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/SecuritySolutionArea) for more partner resources.
-
