@@ -1,42 +1,78 @@
 ---
-title: 'Generative Partner Crucible - for the week ending 2025-08-11'
+title: 'Generative Partner Crucible - for the week ending 2025-08-08'
 date: 2025-08-11
 flag: GenerativePartnerCrucible
 layout: generativepartnercrucible
-thumbnail: /PartnerCrucible/assets/images/2025-08-11-PowerPlatformSolutionArea.md-image.png
+thumbnail: /PartnerCrucible/assets/images/2025-08-11-2025-08-11-AzureInfrastructureSolutionArea.md-image.png
 ---
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2025-08-11-AzureInfrastructureSolutionArea.md-image.png )
-# Azure Infrastructure Solution Area## What's New- 🛡️ Added **Securing AI Foundry Agent** video series (Network and Developer perspectives) to enhance partner knowledge on AI security best practices.- 🏗️ Introduced the **Azure Well-Architected Security Maturity Model**—a structured path to progressively strengthen workload security.- 🧹 Removed outdated **Microsoft Ignite references** and old **Azure Quantum links** to improve resource relevance and clarity.## Deep Links- [Securing AI Foundry Agent - Part 1 (Network Perspective)](https://www.youtube.com/watch?v=5KwDsYSqm1I): Covers networking and security for AI Foundry Agent with a focus on network perspective (YouTube, Nehali Neogi)- [Securing AI Foundry Agent - Part 2 (Developer Perspective)](https://www.youtube.com/watch?v=ezd2Ejxmn-s): Focuses on developer-oriented approaches to AI Foundry Agent networking and security (YouTube, Nehali Neogi)- [Azure Well-Architected Security Maturity Model](https://learn.microsoft.com/en-us/azure/well-architected/security/maturity-model?tabs=level1): Details a 5-level model to systematically improve Azure workload security (Microsoft Learn)
+
+# Azure Infrastructure Workloads
+
+## What's New
+
+- 🛡️ Added **Securing AI Foundry Agent** video series 
+- 🏗️ Introduced the **Azure Well-Architected Security Maturity Model**—a structured path to progressively strengthen workload security.
+
+## Deep Links
+
+- [Securing AI Foundry Agent - Part 1 (Network Perspective)](https://www.youtube.com/watch?v=5KwDsYSqm1I): Covers networking and security for AI Foundry Agent with a focus on network perspective (YouTube, Nehali Neogi)
+- [Securing AI Foundry Agent - Part 2 (Developer Perspective)](https://www.youtube.com/watch?v=ezd2Ejxmn-s): Focuses on developer-oriented approaches to AI Foundry Agent networking and security (YouTube, Nehali Neogi)
+- [Azure Well-Architected Security Maturity Model](https://learn.microsoft.com/en-us/azure/well-architected/security/maturity-model?tabs=level1): Details a 5-level model to systematically improve Azure workload security (Microsoft Learn)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/AzureInfrastructureSolutionArea) for more partner resources.
 
 ![ DataAISolutionArea.md ]( /PartnerCrucible/assets/images/2025-08-11-DataAISolutionArea.md-image.png )
-# Data & AI Solution Area## What's new- 🚀 **Added Databricks Performance Comparison**: Azure Databricks demonstrated up to 21.1% faster performance for single query streams and saved more than 9 minutes on four concurrent query streams compared to Databricks on AWS.- 🛠️ **Introduced HAX Toolkit**: New toolkit designed for teams developing user-facing AI products, offering guidelines, design libraries, workbooks, and playbooks for AI system conceptualization and behavior design.- 🧹 **Pruned Outdated Ignite References**: Older Microsoft Ignite event references, specifically from previous years, have been removed for clarity and relevance.## Deep links- [Databricks runs best on Azure](https://azure.microsoft.com/en-us/blog/databricks-runs-best-on-azure/): Independent study details Azure Databricks’ superior performance compared to AWS. (Principled Technologies)- [HAX Toolkit](https://www.microsoft.com/en-us/haxtoolkit/): Comprehensive toolkit for building user-focused AI solutions, supporting early design phases. (Microsoft)
+
+# Data & AI Workloads
+
+## What's new
+
+- 🚀 **Added Databricks Performance Comparison**
+
+# Deep links
+
+- [Databricks runs best on Azure](https://azure.microsoft.com/en-us/blog/databricks-runs-best-on-azure/): Independent study details Azure Databricks’ superior performance compared to AWS. (Principled Technologies)
+
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea) for more partner resources.
 
 ![ DigitalAppsandInnovationSolutionArea.md ]( /PartnerCrucible/assets/images/2025-08-11-DigitalAppsandInnovationSolutionArea.md-image.png )
-# Digital & App Innovation## What's new- 🧑‍🎨 Added Muse: Microsoft's first generative AI model designed for gameplay ideation.- 🤖 Published guidance on building Agent-to-Agent (A2A) applications on Azure App Service.- 🛠️ Introduced resources on giving agents access to tools using Model Context Protocol (MCP).- 🏆 GitHub recognized as a Leader in IDC MarketScape: Worldwide AI Coding and Software Engineering Technologies 2025.## Deep links- [Muse: Our first generative AI model designed for gameplay ideation](https://www.microsoft.com/en-us/research/blog/introducing-muse-our-first-generative-ai-model-designed-for-gameplay-ideation/?msockid=19ae751b64bd680e0f70619c656e695c): World and Human Action Model (WHAM), named “Muse,” is a generative AI model of a video game that can generate game visuals, controller actions, or both. (Microsoft Research)- [How do I give my agent access to tools?](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/how-do-i-give-my-agent-access-to-tools/4428600): Explains how to use Model Context Protocol (MCP) to enable agents to use tools in a standardized way. (Microsoft Tech Community)- [Building Agent-to-Agent (A2A) Applications on Azure App Service](https://techcommunity.microsoft.com/blog/appsonazureblog/building-agent-to-agent-a2a-applications-on-azure-app-service/4433114): Practical example of creating an intelligent travel planning assistant using Microsoft Semantic Kernel and A2A protocol. (Microsoft Tech Community)- [IDC MarketScape: Worldwide AI Coding and Software Engineering Technologies 2025](https://www.linkedin.com/posts/ashtom_its-been-quite-the-week-over-at-github-activity-7359627318652203008-nd4P/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAuhUABpdpzK9SzuOG85oyUVHBGdeovPXU): GitHub named a Leader in AI Coding and Software Engineering Technologies. (IDC via LinkedIn/@Thomas Dohmke)
+
+# Digital & App Innovation Workloads
+
+## What's new
+
+- 🏆 GitHub recognized as a Leader in IDC MarketScape: Worldwide AI Coding and Software Engineering Technologies 2025.
+- 🤖 Published guidance on building Agent-to-Agent (A2A) applications on Azure App Service.
+- 🛠️ Introduced resources on giving agents access to tools using Model Context Protocol (MCP).
+- 🛠️ ** HAX Toolkit**
+
+- 🧑‍🎨 Added Muse: Microsoft's first generative AI model designed for gameplay ideation.
+
+
+## Deep links
+
+- [IDC MarketScape: Worldwide AI Coding and Software Engineering Technologies 2025](https://www.linkedin.com/posts/ashtom_its-been-quite-the-week-over-at-github-activity-7359627318652203008-nd4P/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAuhUABpdpzK9SzuOG85oyUVHBGdeovPXU): GitHub named a Leader in AI Coding and Software Engineering Technologies. (IDC via LinkedIn/@Thomas Dohmke)
+- [How do I give my agent access to tools?](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/how-do-i-give-my-agent-access-to-tools/4428600): Explains how to use Model Context Protocol (MCP) to enable agents to use tools in a standardized way. (Microsoft Tech Community)- [Building Agent-to-Agent (A2A) Applications on Azure App Service](https://techcommunity.microsoft.com/blog/appsonazureblog/building-agent-to-agent-a2a-applications-on-azure-app-service/4433114): Practical example of creating an intelligent travel planning assistant using Microsoft Semantic Kernel and A2A protocol. (Microsoft Tech Community)
+- [HAX Toolkit](https://www.microsoft.com/en-us/haxtoolkit/): Comprehensive toolkit for building user-focused AI solutions, supporting early design phases. (Microsoft)
+- [Muse: Our first generative AI model designed for gameplay ideation](https://www.microsoft.com/en-us/research/blog/introducing-muse-our-first-generative-ai-model-designed-for-gameplay-ideation/?msockid=19ae751b64bd680e0f70619c656e695c): World and Human Action Model (WHAM), named “Muse,” is a generative AI model of a video game that can generate game visuals, controller actions, or both. (Microsoft Research
+
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DigitalAppsandInnovationSolutionArea) for more partner resources.
 
-![ MicrosoftCopilots.md ]( /PartnerCrucible/assets/images/2025-08-11-MicrosoftCopilots.md-image.png )
-# Microsoft Copilots## What's new- ✂️ Removed outdated references to Microsoft Ignite events from previous years## Deep links- [Microsoft Copilot Studio](https://aka.ms/MCSBlog): Learn more about customizing Microsoft Copilot for Microsoft 365 and building standalone copilots (Microsoft Blog)
-
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/MicrosoftCopilots) for more partner resources.
-
-![ ModernWorkSolutionArea-Copilot.md ]( /PartnerCrucible/assets/images/2025-08-11-ModernWorkSolutionArea-Copilot.md-image.png )
-# Modern Work Solution Area - Copilot## What's new- 🧹 Pruned outdated Ignite references from previous years to ensure up-to-date content.- 📰 Updated information now focuses on the most current Microsoft 365 Copilot features and announcements.## Deep links- [Microsoft Ignite 2024 - Book of News - Microsoft 365 Copilot](https://news.microsoft.com/ignite-2024-book-of-news/#a-121-easily-delegate-repetitive-tasks-with-microsoft-365-copilot-actions-): Key announcements from Ignite 2024 featuring Microsoft 365 Copilot Actions, Pages, content analysis, embedded experiences, administration, and adoption capabilities. (Source: Microsoft Ignite)
-
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/ModernWorkSolutionArea-Copilot) for more partner resources.
-
-![ PowerPlatformSolutionArea.md ]( /PartnerCrucible/assets/images/2025-08-11-PowerPlatformSolutionArea.md-image.png )
-# Power Platform Solution Area## What's new- 🗑️ Removed references to Microsoft Ignite materials from previous years - 📄 Updated documentation to reflect only the most recent and relevant resources ## Deep links- [Microsoft Ignite 2024 - Book of News - Copilot Studio](https://news.microsoft.com/ignite-2024-book-of-news/#a-112-copilot-studio-introduces-autonomous-agentic-capabilities-agent-library): Key announcements from Ignite 2024 in the area of Copilot Studio agentic capabilities (Microsoft Ignite)- [Microsoft Ignite 2024 - Book of News - Power Platform](https://news.microsoft.com/ignite-2024-book-of-news/#a-711-new-capabilities-in-power-apps-help-leverage-ai-for-business-productivity): Key announcements from Ignite 2024 in the areas of AI and Governance features, Power Apps, and Power Pages (Microsoft Ignite)
-
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/PowerPlatformSolutionArea) for more partner resources.
 
 ![ SecuritySolutionArea.md ]( /PartnerCrucible/assets/images/2025-08-11-SecuritySolutionArea.md-image.png )
-# Security Solution Area## What's new- 🧹 Removed references to outdated Ignite events (prior years)- 🆕 Added Microsoft Secure Future Initiative (SFI) patterns and practices: Access actionable security implementation guidance## Deep links- [Microsoft Secure Future Initiative (SFI) patterns and practices](https://www.microsoft.com/en-us/security/blog/2025/08/06/sharing-practical-guidance-launching-microsoft-secure-future-initiative-sfi-patterns-and-practices/): A new library of actionable guidance designed to help organizations implement security measures at scale. (Microsoft)
+
+# Security Workloads
+
+## What's new
+
+- 🆕 Added Microsoft Secure Future Initiative (SFI) patterns and practices
+
+## Deep links
+
+- [Microsoft Secure Future Initiative (SFI) patterns and practices](https://www.microsoft.com/en-us/security/blog/2025/08/06/sharing-practical-guidance-launching-microsoft-secure-future-initiative-sfi-patterns-and-practices/): A new library of actionable guidance designed to help organizations implement security measures at scale. (Microsoft)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/SecuritySolutionArea) for more partner resources.
 
