@@ -135,6 +135,7 @@ Source | Description | Notes
 [Azure Advisor documentation](https://learn.microsoft.com/en-us/azure/advisor/) | Azure Advisor scans your Azure configuration and recommends changes to optimize deployments, increase security, and save you money. | Microsoft Learn
 [Browse Azure Architectures](https://learn.microsoft.com/en-us/azure/architecture/browse/) | Architecture diagrams and technology descriptions for reference architectures, real world examples of cloud architectures, and solution ideas for common workloads on Azure | Microsoft Learn
 [Multilayered protection for Azure virtual machine access](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/multilayered-protection-azure-vm) | This solution offers a multilayered strategy for protecting virtual machines (VMs) in Azure, ensuring accessibility while minimizing the attack surface for management and administrative purposes. | Microsoft Learn
+[Azure Well-Architected Security Moaturity Model](https://learn.microsoft.com/en-us/azure/well-architected/security/maturity-model?tabs=level1) | The security maturity model provides a progressive path to strengthen your workload's security posture. The model is structured into five distinct maturity levels, each with a primary goal and a set of core strategies.| Microsoft Learn
 
 ## AI for Operations
 
