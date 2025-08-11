@@ -36,6 +36,7 @@ Source | Description | Notes
 [Prompting for for action](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/consulting/us-ai-institute-generative-ai-agents-multiagent-systems.pdf) | Prompting for for action - How AI agents are reshaping the future of work - November 2024 | Deloitte
 [6 AI trends you’ll see more of in 2025](https://news.microsoft.com/source/features/company-news/6-ai-trends-youll-see-more-of-in-2025/) | Want to know what’s ahead? Here are six AI trends to watch — and how Microsoft will innovate on each — in 2025. | Microsoft News
 [The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects from a Survey of Knowledge Workers](https://www.microsoft.com/en-us/research/publication/the-impact-of-generative-ai-on-critical-thinking-self-reported-reductions-in-cognitive-effort-and-confidence-effects-from-a-survey-of-knowledge-workers/) | This Microsoft Research publication explores how generative AI tools affect critical thinking, cognitive effort, and confidence among knowledge workers, based on survey data. | Microsoft Research, May 2024
+[Databricks runs best on Azure](https://azure.microsoft.com/en-us/blog/databricks-runs-best-on-azure/) | PT stated that Azure Databricks, the Microsoft first-party Databricks service, outperformed Databricks on AWS—it was up to 21.1% faster for single query streams and saved over 9 minutes on four concurrent query streams. | Principled Technologies
 
 ## Responsible AI
 
