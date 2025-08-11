@@ -31,8 +31,7 @@ Source | Description | Notes
 [Webinar: Total Economic Impact of Microsoft Power Platform](https://info.microsoft.com/ww-landing-total-economic-impact-of-microsoft-power-platform.html?LCID=CEMA&ocid=AIDN%2FA_TWITTER_oo_spl100004655137456) | Learn about the Total Economic Impact(TM) methodology and findings from guest speaker Molly Firth, a consultant with Forrester, as she explains both the out-of-box and premium capabilities of Microsoft Power Platform highlighted in the commissioned studies conducted by Forrester Consulting in 2022 and 2021.| Forrester
 [Forrester - Total Economic Impact of PowerBI](https://info.microsoft.com/ww-thankyou-TEI-of-microsoft-power-BI.html?lcid=en-us) | From the information provided in the interviews, Forrester has constructed a Total Economic Impact™ (TEI) framework for those organizations considering implementing Power BI | Forrester
 [Low-code signals 2023](https://cloudblogs.microsoft.com/powerplatform/2023/04/13/low-code-signals-2023/) |  Edelman Assembly, on behalf of Microsoft, surveyed more than 2,000 IT CIOs and IT pros to understand the benefits they derive from low-code platforms. | Edelman Assembly, Microsoft
-[Microsoft Ignite 2024 - Book of News - Copilot Studio](https://news.microsoft.com/ignite-2024-book-of-news/#a-112-copilot-studio-introduces-autonomous-agentic-capabilities-agent-library) | Key announcements from Ignite 2024 in the areas of : Copilot Studio agentic capabilities|  Microsoft Ignite
-[Microsoft Ignite 2024 - Book of News - Power Platform](https://news.microsoft.com/ignite-2024-book-of-news/#a-711-new-capabilities-in-power-apps-help-leverage-ai-for-business-productivity) | Key announcements from Ignite 2024 in the areas of : AI and Governance features, Power Apps, and Power Pages|  Microsoft Ignite
+
 
 ## Practice Building References
 

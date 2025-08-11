@@ -31,7 +31,7 @@ Source | Description | Notes
 [Gartner® Magic Quadrant™ for Container Management](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2024-gartner-magic-quadrant-for-container-management/) | Microsoft has been named a Leader in the 2024 Gartner Magic Quadrant for Container Management.| 2024 Gartner
 [Microsoft Cloud for Sovereignty now generally available, opening new pathways for government innovation](https://blogs.microsoft.com/blog/2023/12/14/microsoft-cloud-for-sovereignty-now-generally-available-opening-new-pathways-for-government-innovation/) | General availability of Microsoft Cloud for Sovereignty across all Azure regions. Microsoft Cloud for Sovereignty helps governments meet their compliance, security, and policy requirements while utilizing the cloud to provide superior value to their citizens. | Microsoft
 [The Business Value of Azure VMware Solution](https://info.microsoft.com/ww-landing-idc-the-business-value-of-azure-vmware-solution.html?lcid=EN-US) | In this white paper, see the business benefits and ROI that organizations participating in an IDC research study reported from migrating and extending workloads to Azure VMware Solution. | IDC
-[Microsoft Ignite 2024 - Book of News - Azure Infrastructure](https://news.microsoft.com/ignite-2024-book-of-news/#a-331-azure-expands-adaptive-cloud-introduces-azure-local-infrastructure-solution-) | Key announcements from Ignite 2024 in the areas of : expandsion of adaptive cloud, Oacle Database@Azure, VM and silicon updates|  Microsoft Ignite
+
 
 
 ## Azure Infrastructure Practice Building
@@ -185,8 +185,6 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :---------- | :-----
 [Microsoft's Quantum Ready program](https://smt.microsoft.com/en-US/Quantum-Ready/) | Join Microsoft's Quantum Ready program and build a robust strategy for quantum computing, both for today and the future. By participating in this initiative, you'll receive the insights, resources, and tools to assess the impact of quantum on your organization, define a clear and comprehensive quantum-ready strategy for durable, competitive differentiation, and position your organization to execute an application roadmap that harnesses the full power of quantum as it scales.| Quantum Ready
-[Microsoft Ignite 2024 - Book of News - Quantum](https://news.microsoft.com/ignite-2024-book-of-news/#a-351-microsoft-continues-transition-to-reliable-logical-qubits) |  Microsoft continues transition to reliable logical qubits |  Microsoft Ignite
-[Azure Quantum](https://quantum.microsoft.com/) | Main page | Azure Quantum
 [Microsoft Quantum Innovator Series](https://msazurequantum.eventbuilder.com/InnovatorSeries) | Get the inside, first-hand account of Microsoft’s strategy to scaled quantum computing. In this series, you will hear directly from Microsoft’s Azure Quantum scientists and leaders about the path to quantum at scale and how to get involved today.| Azure Quantum
 [Azure Quantum Elements - Private Preview ](https://smt.microsoft.com/en-US/AQEPrivatePreviewSignup/) | Sign-up to learn more about the private preview and get the latest updates from the Azure Quantum team | Form
 [Video Playlist](https://quantum.microsoft.com/en-us/explore/playlist) | | Azure Quantum
