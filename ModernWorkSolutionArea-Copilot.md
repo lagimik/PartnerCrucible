@@ -20,6 +20,7 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [TEI Of Microsoft Copilot For Microsoft 365](https://bcb.transform.microsoft.com/analyststudies) | The Projected Total Economic Impact™ Of Microsoft Copilot For Microsoft 365 - Cost Savings And Business Benefits Enabled By Copilot For Microsoft 365| Forrester, April 2024
 [Work Trend Index](https://www.microsoft.com/en-us/worklab/work-trend-index/) | Research and data on the trends reshaping the world of work | Microsoft Work Index
+[How systems integrators are scaling innovation with Microsoft 365 Copilot and agents](https://partner.microsoft.com/en-us/blog/article/copilot-partner-spotlight-august-2025) | Across industries, SIs are introducing intelligent agents that streamline operations, boost productivity, and create entirely new customer experiences. These aren’t experiments; they’re high-impact solutions delivering measurable results. And behind many of them are Microsoft 365 Copilot, agentic AI, and a deep partnership with Microsoft.  | Microsoft Partner Blog
 
 
 ## Partner Practice Building
