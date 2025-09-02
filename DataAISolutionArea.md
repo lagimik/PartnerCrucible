@@ -80,6 +80,7 @@ Source | Description | Notes
 [Microsoft AI Use Case Explorer](https://aiusecaseexplorer.microsoft.com) | With the Microsoft Use Case Explorer for AI Design Wins, access a curated collection of successful AI Design Wins across various industries and personas to tailor your pitch and drive growth | Microsoft
 [No Slides Attached: AI Stories with Microsoft Partners](https://news.microsoft.com/podcasts/no-slides-attached/) |  a journey into the transformative world of AI and the Copilots helping us achieve more. We’ve designed this podcast for partners who are eager to gain insights, learnings, and inspiration from their peers.| Podcast
 [Consulting reimagined, powered by AI](https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/consulting-ai) | Software and talent are converging to create new value. Are your consultants accelerating progress—or sticking to the status quo? | IBM
+[Designing Multi-Agent Intelligence](https://devblogs.microsoft.com/blog/designing-multi-agent-intelligence) | Whitepaper - by Maggie Liu, Thiago Rotta, Vinicius Souza, James Tooles, & Microsoft AI Co-Innovation Labs | Microsoft Dev Blog
 
 ## Learning Journeys
 
