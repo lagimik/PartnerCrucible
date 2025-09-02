@@ -157,6 +157,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Microsoft Copilot specialization](https://partner.microsoft.com/en-US/partnership/specialization/microsoft-copilot) | The Microsoft Copilot specialization demonstrates your experience and skills related to Microsoft 365 Copilot, including Microsoft 365 Copilot Chat, Microsoft Copilot Studio, and agents | Microsoft Partner
 [Microsoft Copilot Studio Blog](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/) | Official blog for Microsoft Copilot Studio, featuring product updates, best practices, and partner stories. | Microsoft Blog
 [Copilot Studio Agent Academy](https://microsoft.github.io/agent-academy/) | This hands-on training is your entry point into the world of agents: from grounded prompts to Adaptive Cards and agent flows, you'll learn how to build, scale, and deploy intelligent agents using real-world tools and use cases. | Microsoft GitHub
 [Microsoft Copilot Studio - Implementation Guide](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2FCopilotStudioSamples%2Fmaster%2FImplementationGuide%2FMicrosoft%2520Copilot%2520Studio%2520-%2520Implementation%2520Guide.pptx&wdOrigin=BROWSELINK) | a Success by Design approach to implementing copilots by PowerCAT | Download
