@@ -55,6 +55,7 @@ Source | Description | Notes
 [Azure Blog](https://azure.microsoft.com/en-us/blog/)|Azure Blog | Azure
 [Azure Updates](https://azure.microsoft.com/en-us/updates/)|Get the latest updates on Azure products and features to meet your cloud investment needs. Subscribe to notifications to stay informed.|
 [Azure Migrate and Modernize: Infra Partner Forum](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR3cJywzl5fZLnWbpWAR5cJZUN1QxOElCMVhVT1FaTDRZNE5DU1Y2UDAzNS4u) | Use the form below to request access to the Azure Migrate and Modernize: Infra Partner Forum including community calls and discussion forum | Forum
+[Navigating Azure Certifications with Copilot and Azure Course Blueprints](https://techcommunity.microsoft.com/blog/microsoft365copilotblog/navigating-azure-certifications-with-copilot-and-azure-course-blueprints/4448322) | his article introduces a smarter, more visual way to plan your next move—whether you're bridging certifications, comparing course content, or identifying knowledge gaps. With layered insights and personalized guidance, you’ll transform uncertainty into clarity and take control of your Azure journey. | Tech Community
 
 ## Partner Attribution
 
