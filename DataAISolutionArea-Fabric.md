@@ -36,6 +36,7 @@ Source | Description | Notes
 [Microsoft Fabric licenses](https://lnkd.in/dJZiSA2N)| A Microsoft Fabric subscription consists of tenants, capacities, and workspaces and can be organized in various ways according to your organizational needs | Microsoft Learn
 [Microsoft Fabric Guided Tour](https://guidedtour.microsoft.com/en-us/guidedtour/microsoft-fabric/microsoft-fabric/1/1) | Guided tour for Microsoft Fabric | Microsoft Guided Tour
 [Fabric Notes](https://microsoft.github.io/fabricnotes/)| Simple drawings illustrating the main concepts of Microsoft Fabric to empower anyone to build stuff on Fabric. | GitHub
+[Microsoft Fabric migration](https://learn.microsoft.com/en-ca/fabric/fundamentals/migration) | This page summarizes all migration-related articles in the documentation, grouped by migration source.| Microsoft Learn
 
 ## Architecture and best practices
 
