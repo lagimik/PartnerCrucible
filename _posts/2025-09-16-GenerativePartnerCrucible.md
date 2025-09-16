@@ -75,7 +75,10 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ## What's new
 
-- 🚀 Added Model Context Protocol (MCP) in Copilot Studio for seamless integration with knowledge servers and data sources.- 🤖 Enhanced agent explanation capabilities for Microsoft 365 agents, Agent Builder agents, and Copilot Studio agents.## Deep links
+- 🚀 Added Model Context Protocol (MCP) in Copilot Studio
+
+## Deep links
+
 - [Model Context Protocol in Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/agent-extend-action-mcp): MCP enables direct connection to existing knowledge servers and data sources within Copilot Studio. (Source: Microsoft Learn)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/PowerPlatformSolutionArea) for more partner resources.
