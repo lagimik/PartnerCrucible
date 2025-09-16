@@ -46,6 +46,6 @@ Source | Description | Notes
 [Azure Landing Zone Accelerator for Modernized Mainframe and Midrange workloads](https://github.com/lapate/azure-mainframe-landing-zone-public) | This provides a prescriptive solution platform design coupled with Azure best practices and design principles. These principles serve as a compass for subsequent design decisions across critical technical domains | GitHub
 [Data landing zones](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/cloud-scale-analytics/architectures/data-landing-zone) | Data landing zones are connected to your data management landing zone by virtual network (VNet) peering. Each data landing zone is considered a landing zone related to Azure landing zone architecture. | Microsoft Learn
 [SAP on Azure landing zone accelerator](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/sap/enterprise-scale-landing-zone)| AP on Azure landing zone accelerator to set up and operate workload landing zones inside your Cloud Adoption Framework enterprise-scale landing zone. The landing zone accelerator provides a specific architectural approach and reference implementation for your SAP systems on Azure.| Microsoft Learn
-
+[Azure AIML Landing Zone (TerraForm)](https://github.com/Azure/terraform-azurerm-avm-ptn-aiml-landing-zone) | This pattern module creates the full AI/ML landing zone which supports multiple ai project scenarios.| GitHub
 
 
