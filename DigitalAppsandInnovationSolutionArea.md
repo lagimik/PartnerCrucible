@@ -180,6 +180,7 @@ Source | Description | Notes
 [Migrating from MuleSoft to Azure Integration Services (AIS): Why and How](https://www.hortoncloud.com/post/migrating-from-mulesoft-to-azure-integration-services-ais-why-and-how) | a step-by-step strategy for a smooth transition from MuleSoft to AIS | HotonWorks
 [Azure Integration Services landing zone accelerator](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/app-platform/integration-services/landing-zone-accelerator) | Azure Integration Services landing zone accelerator is intended for an application team that's building and deploying an integration platform in a typical enterprise landing zone design.| Microsoft Learn
 [aimtool - Azure Integration Migration Tool](https://github.com/Azure/aimtool) | An open-source tool to help migrate BizTalk Server solutions to Azure Integration Services, supporting assessment, conversion, and deployment automation. | GitHub
+[Logic Apps MCP servers](https://techcommunity.microsoft.com/blog/integrationsonazureblog/introducing-logic-apps-mcp-servers-public-preview/4450419) | Public Preview - Using Logic Apps (Standard) as MCP servers transforms the way organizations build and manage agents by turning connectors into modular, reusable MCP tools | Tech Community
 
 
 ## CosmosDB
