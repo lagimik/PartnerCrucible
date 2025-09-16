@@ -208,6 +208,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[accelerators.ms](https://accelerators.ms/) | Launch AI products faster with enterprise-grade, customizable solutions built on trusted architectures—kept up to date, easy to configure, and supported with guided setup and sample data. | accelerators
 [AI Dev Gallery (Preview)](https://github.com/microsoft/ai-dev-gallery/) | Designed for Windows developers, the AI Dev Gallery helps integrate AI capabilities into apps and projects. It includes:| GitHub
 [Azure AI Templates](https://azure.github.io/ai-app-templates/) | Get started with AI application templates. Edit and deploy to Azure using VS Code or GitHub Codespaces. | GitHub
 [AI-Ready Infrastructure Design - A pattern for Enterprise Scale](https://techcommunity.microsoft.com/blog/analyticsonazure/ai-ready-infrastructure-design---a-pattern-for-enterprise-scale/4236541) | The AI Hub Gateway Landing Zone is a solution accelerator that addresses key challenges by providing a centralized architecture for managing AI services within an organization. It serves as a single point of entry for AI services, enabling consistent management and governance. | Tech Community
