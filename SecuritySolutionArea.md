@@ -227,6 +227,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
+[Purview Deployment Blueprint](https://learn.microsoft.com/en-ca/purview/deploymentmodels/depmod-data-leak-shadow-ai-intro) | In this deployment blueprint, we provide a recommended approach to prevent data leak to shadow AI utilizing Microsoft Purview, Microsoft Defender for Cloud Apps, Microsoft Entra, and Microsoft Intune | Microsoft Learn
 [Purview Data Security Roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap?msockid=305e5dff038362fc15a64e2f02396376&filters=&searchterms=Microsoft%2CPurview) | PRuview roadmap of Information Protection, Compliance, Lifecycle, and Risk Management capabilities| M365 Roadmap
 [Notes from Microsoft Purview engineering](https://learn.microsoft.com/en-us/purview/deploymentmodels/) | Prescriptive deployment guidance and articles from the Microsoft Purview engineering team. Learn more about deploying solutions across Microsoft Purview with the Purview deployment models, a content series featuring a simple visual of activities combined with a detailed guide. Feature playbooks are detailed feature guides to maximize their use. Articles provide more tips to maximize your use of Microsoft Purview. | Microsoft Learn
 [Crash Course in Microsoft Purview](https://clouddamcdnprodep.azureedge.net/gdc/gdcieULMS/original) | Crash Course in Microsoft Purview - A guide to securing and managing your data estate | eBook
