@@ -169,6 +169,7 @@ Source | Description | Notes
 [IT Governance Controls for Your Copilot agents](https://www.microsoft.com/en-us/power-platform/blog/power-apps/it-governance-controls-for-your-copilot-agents/) | With tools designed to enforce governance strategies, organizations can confidently deploy and manage their AI initiatives, knowing they have the necessary controls in place.| Power Platform Blog
 [Administering and Governing Agents](https://adoption.microsoft.com/files/copilot-studio/Agent-governance-whitepaper.pdf)| This whitepaper delves into the specifics of Microsoft’s tools and methodologies, offering insights on managing data security and agent integrity. It covers the role of 
 Microsoft 365 agents, Agent Builder agents, and Copilot Studio agents, explaining how each type can be utilized to enhance operational efficiency while maintaining stringent security protocols. | Microsoft Adoption
+[Model Context Protocol in Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/agent-extend-action-mcp) | Model Context Protocol (MCP) allows users to connect with existing knowledge servers and data sources directly within Copilot Studio | Microsoft Learn
 
 ## Copilot for business functions
 
