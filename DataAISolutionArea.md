@@ -59,6 +59,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Azure AI Foundry Developer Community](https://github.com/azure-ai-foundry/discussions) | Never build alone, join the community! | GitHub
 [FY26 Cloud Solution Area Partner Playbooks](https://partner.microsoft.com/en-us/asset/collection/fy26-cloud-solution-area-partner-playbooks#/) | Explore how to drive revenue growth and profitability by delivering AI-powered services and solutions—supported by our end-to-end engagement model and aligned to our updated, streamlined solution areas. Partner playbooks for AI Business Solutions, Cloud and AI Platforms, and Security help you build your practice and tap into investments with Solution Plays and GTM strategies. | Microsoft Partner 
 [Drive business value with an Azure AI CoE](https://developer.microsoft.com/en-us/reactor/series/S-1536/?wt.mc_id=youtube_S-1536_organicsocial_reactor) | Setup an AI Center of Excellence, Managed AI Workloads in a Center of Excellence, Setup Landing Zonese for AI | Microsoft Reactor
 [Navigating the Financial Landscape for Successful AI Adoption (eBook)](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/navigating-financial-landscape-for-successful-ai-adoption-ebook-final-altcover.pdf) | This eBook provides guidance on financial considerations and best practices for organizations adopting AI, helping ensure successful and sustainable AI transformation. | Microsoft
