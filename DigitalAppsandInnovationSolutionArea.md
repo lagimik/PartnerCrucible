@@ -90,9 +90,9 @@ Source | Description | Notes
 :----- | :---------- | :----
 
 [GitHub Spec Kit](https://github.com/github/spec-kit) | Spec-Driven Development changes this: specifications become executable, directly generating working implementations rather than just guiding them | GitHub
-[GitHub Spec Kit - Guide](https://www.youtube.com/watch?v=a9eR1xsfvHg) | by Den Delimarsky -If you're curious about Spec-Driven Development, as well as what GitHub announced with the latest experimental Spec Kit project, this video is for you. It walks you through the process, what specifications are responsible for, and how you can use Spec Kit to build both new projects and evolve existing software that you already maintain | YouTube
+[GitHub Spec Kit - Guide](https://www.youtube.com/watch?v=a9eR1xsfvHg) | by Den Delimarsky - If you're curious about Spec-Driven Development, as well as what GitHub announced with the latest experimental Spec Kit project, this video is for you. It walks you through the process, what specifications are responsible for, and how you can use Spec Kit to build both new projects and evolve existing software that you already maintain | YouTube
 [GitHub Copilot CLI (Public Preview)](https://github.com/github/copilot-cli) | GitHub Copilot CLI brings AI-powered coding assistance directly to your command line, enabling you to build, debug, and understand code through natural language conversations | GitHub
-[GitHub Spec Kit 💖 GitHub Copilot CLI](https://www.youtube.com/watch?v=7tjmA_0pl2c) | GitHub just launched the Copilot CLI, and guess what - you can use it together with GitHub Spec Kit to build applications with Spec-Driven Development practices. Boom! | YouTube
+[GitHub Spec Kit 💖 GitHub Copilot CLI](https://www.youtube.com/watch?v=7tjmA_0pl2c) | by Den Delimarsky -  GitHub just launched the Copilot CLI, and guess what - you can use it together with GitHub Spec Kit to build applications with Spec-Driven Development practices. Boom! | YouTube
 
 
 ## Chaos Engineering
