@@ -94,6 +94,7 @@ Source | Description | Notes
 [GitHub Copilot CLI (Public Preview)](https://github.com/github/copilot-cli) | GitHub Copilot CLI brings AI-powered coding assistance directly to your command line, enabling you to build, debug, and understand code through natural language conversations | GitHub
 [GitHub Spec Kit 💖 GitHub Copilot CLI](https://www.youtube.com/watch?v=7tjmA_0pl2c) | GitHub just launched the Copilot CLI, and guess what - you can use it together with GitHub Spec Kit to build applications with Spec-Driven Development practices. Boom! | YouTube
 
+
 ## Chaos Engineering
 
 Source | Description | Notes
