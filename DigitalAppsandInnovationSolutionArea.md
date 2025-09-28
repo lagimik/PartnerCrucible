@@ -85,11 +85,13 @@ Source | Description | Notes
 [App Innovation Global Blackbelt](https://azureglobalblackbelts.com/?darkschemeovr=1) | This is the unofficial home of the Azure App Innovation and Cloud Native Global Black Belt team. We love to solve problems users are having with Modern Apps and Cloud Native solutions in Azure and often provide documented solutions outside of standard Azure Docs. This blog is a place where we can host those solutions for Azure users to find. | Azure Global Black Belts
 [Muse: Our first generative AI model designed for gameplay ideation](https://www.microsoft.com/en-us/research/blog/introducing-muse-our-first-generative-ai-model-designed-for-gameplay-ideation/?msockid=19ae751b64bd680e0f70619c656e695c) | World and Human Action Model (WHAM), named “Muse,” is a generative AI model of a video game that can generate game visuals, controller actions, or both. | Microsoft Research
 
-## Spec Kit
+## GitHub Spec Kit
 Source | Description | Notes
 :----- | :---------- | :----
 
-[Spec Kit](https://github.com/github/spec-kit) | Spec-Driven Development changes this: specifications become executable, directly generating working implementations rather than just guiding them | GitHub
+[GitHub Spec Kit](https://github.com/github/spec-kit) | Spec-Driven Development changes this: specifications become executable, directly generating working implementations rather than just guiding them | GitHub
+[GitHub Spec Kit - Guide](https://www.youtube.com/watch?v=a9eR1xsfvHg) | by Den Delimarsky -If you're curious about Spec-Driven Development, as well as what GitHub announced with the latest experimental Spec Kit project, this video is for you. It walks you through the process, what specifications are responsible for, and how you can use Spec Kit to build both new projects and evolve existing software that you already maintain | YouTube
+
 
 ## Chaos Engineering
 
