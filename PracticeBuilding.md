@@ -24,6 +24,9 @@ Pillar | Description | Why? | Next Step
 
 # Partner Practice Building References
 
+Login to [Partner Center](https://partner.microsoft.com/) may be required 
+
+
 Pillar | Description | Why? | Next Step
 -----: | :---------- | :----- | :-----
 **Microsoft Cloud Partner Program (Microsoft AI Cloud Partner Program) membership** | [Partner Center](https://partner.microsoft.com/en-us/dashboard) is the main partner portal provides you access to the tools you need to get work done.| Membership includes [Microsoft AI Cloud Partner Program Benefits](https://learn.microsoft.com/en-us/partner-center/mpn-find-benefits#mpn-benefits) and [Investment and incentives](http://aka.ms/partnerincentives) | - [Become a partner](https://partner.microsoft.com/en-ca/membership) <br> - Obtain access to [Partner Center](https://partner.microsoft.com/en-us/dashboard), or [raise an issue](https://partner.microsoft.com/en-US/support/?stage=1) <br> - Ensure Microsoft AI Cloud Partner Program hierarchy of different locations or entities is correct so that all activity is recognized. <br> - Open a [Partner Center support request](https://partner.microsoft.com/en-US/support/?stage=1) to resolve problems.
@@ -32,18 +35,19 @@ Pillar | Description | Why? | Next Step
 **Achieve Specialisation** | Microsoft specializations build on the related **Solutions Partner designations** in one of the [specialization areas](https://partner.microsoft.com/en-CA/partnership/specialization) |  See [Specialization Benefits Guide](https://aka.ms/Solutionspartner.Benefits) | Use *Partner Center* to [apply for and check the status of specializations](https://learn.microsoft.com/en-us/partner-center/advanced-specializations-apply)
 **Marketplace offer** | The Microsoft commercial marketplace is a catalog of solutions from our independent software vendor (ISV) partners and offers from Solution Integrators (SIs).| Accelerate your business in partnership with Microsoft, and to connect Microsoft customers with the best solutions that our partner ecosystem offers.| [Introduction to Listing Options](https://learn.microsoft.com/en-us/azure/marketplace/determine-your-listing-type) <br> [Partner-Led Marketing Guidelines](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR9SZm6iKPzNJvudw-PPFJydUNFZOMTJVWlVaOTRHQVQ5RENQMUEwWVdaMC4u)
 
-# Partner Practice Solution Areas
+# Partner Practice Cloud Solution Areas
 
-Partner Playbooks present Strategic Direction, Go-to-Market (GTM) Partner Strategy, Partner Practice Building, and Microsoft Partner Investments
+Partner Playbooks present Strategic Direction, Go-to-Market (GTM) Partner Strategy, Partner Practice Building, and Microsoft Partner Investments.
+
+Login to [Partner Center](https://partner.microsoft.com/) may be required 
 
 Solution Area | Partner Practice Playbook
-------------: | :------------------------
-Modern Work | [Modern Work Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy25-modern-work-partner-playbook.pdf)
-Security| [Security Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy25-security-partner-playbook.pdf)
-Business Applications | [Business Applications Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy25-business-applications-partner-playbook.pdf)
-Digital and App Innovcation | [Digital and App Innovation Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy25-azure-digital-and-app-innovation-partner-playbook.pdf)
-Data and AI | [Data and AI Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy25-azure-data-and-ai-partner-playbook.pdf)
-Infrastructure| [Infrastructure Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy25-cloud-infrastructure-partner-playbook.pdf)
+:------------- | :------------------------
+Cloud and AI Platform  | [FY26 Cloud and AI Platform Partner Playbook](https://assetsprod.microsoft.com/mpn/en-us/fy26-cloud-and-ai-platform-commercial-partner-playbook.pdf)
+AI Business SolutionsBusiness Applications | [FY26 AI Business Solutions Partner Playbook](https://assetsprod.microsoft.com/mpn/en-us/fy26-ai-business-solutions-commercial-partner-playbook.pdf)
+Security| [FY26 Security Partner Playbook](https://assetsprod.microsoft.com/mpn/en-us/fy26-security-commercial-partner-playbook.pdf)
+
+
 
 
 # Partner Practice Incentive Reinvestment
