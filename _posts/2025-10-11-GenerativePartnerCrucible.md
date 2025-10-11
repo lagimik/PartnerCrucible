@@ -9,7 +9,7 @@ thumbnail: /PartnerCrucible/assets/images/2025-10-11-PowerPlatformSolutionArea.m
 
 ![ DataAISolutionArea.md ]( /PartnerCrucible/assets/images/2025-10-11-DataAISolutionArea.md-image.png )
 
-# Workloads
+# Data and AI Workloads
 
 ## What's New
 
@@ -23,7 +23,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DigitalAppsandInnovationSolutionArea.md ]( /PartnerCrucible/assets/images/2025-10-11-DigitalAppsandInnovationSolutionArea.md-image.png )
 
-# Workloads
+# Digital and App Modernization Workloads
 
 ## What's new
 
@@ -43,7 +43,8 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ PowerPlatformSolutionArea.md ]( /PartnerCrucible/assets/images/2025-10-11-PowerPlatformSolutionArea.md-image.png )
 
-# Workloads
+
+# Power Platform Workloads - Copilot Studio
 
 ## What's New
 
@@ -61,8 +62,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ SecuritySolutionArea-Copilot.md ]( /PartnerCrucible/assets/images/2025-10-11-SecuritySolutionArea-Copilot.md-image.png )
 
-# Workloads
-
+# Security Workloads - Copilot for Security
 ## What's new
 
 - 🤖 Security Copilot Agents 
