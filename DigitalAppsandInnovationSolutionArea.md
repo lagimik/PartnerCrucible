@@ -60,6 +60,10 @@ Source | Description | Notes
 [ps-copilot-sandbox Repositories](https://github.com/orgs/ps-copilot-sandbox/repositories) | A collection of sandbox repositories for experimenting with and learning about GitHub Copilot features and integrations. | GitHub
 [GitHub Copilot Hackathon Resources & Instructions](https://github.com/microsoft/CopilotHackathon?tab=readme-ov-file#instructions) | Official resources, instructions, and guidance for participating in GitHub Copilot Hackathons. | GitHub
 [What The Hack: GitHub Copilot](https://microsoft.github.io/WhatTheHack/071-GitHubCopilot/) | A hands-on hackathon experience designed to help you and your team learn GitHub Copilot through real-world challenges and guided labs. | What The Hack
+[GitHub Copilot app modernization](https://learn.microsoft.com/en-us/dotnet/core/porting/github-copilot-app-modernization/overview?toc=%2Fazure%2Fdeveloper%2Fgithub-copilot-app-modernization%2Ftoc.json&bc=%2Fazure%2Fdeveloper%2Fgithub-copilot-app-modernization%2Fbreadcrumb%2Ftoc.json) | GitHub Copilot app modernization is a GitHub Copilot agent that helps upgrade projects to newer versions of .NET and migrate .NET applications to Azure quickly and confidently by guiding you through assessment, solution recommendations, code fixes, and validation| Microsoft Learn
+
+
+
 
 ## Tools and Practices
 
