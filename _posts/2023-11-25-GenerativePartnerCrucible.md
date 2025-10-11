@@ -25,7 +25,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2023-11-25-AzureInfrastructureSolutionArea.md-image.png )
 
 
-## Azure Infrastructure Solution Area
+## Azure Infrastructure Workloads
 
 ## What's new
 
@@ -42,7 +42,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DigitalAppsandInnovationSolutionArea.md ]( /PartnerCrucible/assets/images/2023-11-25-DigitalAppsandInnovationSolutionArea.md-image.png )
 
-# Digital and Application Innovation Solution Area
+# Digital and Application Innovation Workloads
 
 ## What's new
 - Added Open at Microsoft: Dapr

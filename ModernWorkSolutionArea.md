@@ -1,16 +1,16 @@
 ---
-title: "Partner Crucible - Modern Work Solution Area"
+title: "Partner Crucible - Modern Work Workloads"
 layout: "default"
 categories: "Modern Work"
 ---
 
-# Modern Work Solution Area
+# Modern Work Workloads
 
 ## Purpose
 
 ![Microsoft 365](./Library/Microsoft365_logo_horiz_c-gray_rgb.png)
 <br>
-A Collection of resources for Microsoft practice building in the Modern Work solution area. For a view of other solution areas, please see the [Taxonomy](./Taxonomy).
+A Collection of resources for Microsoft practice building in the Modern Work Workloads. For a view of other Workloadss, please see the [Taxonomy](./Taxonomy).
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
@@ -28,12 +28,12 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[FY26 Cloud Solution Area Partner Playbooks](https://partner.microsoft.com/en-us/asset/collection/fy26-cloud-solution-area-partner-playbooks#/) | Explore how to drive revenue growth and profitability by delivering AI-powered services and solutions—supported by our end-to-end engagement model and aligned to our updated, streamlined solution areas. Partner playbooks for AI Business Solutions, Cloud and AI Platforms, and Security help you build your practice and tap into investments with Solution Plays and GTM strategies. | Microsoft Partner
+[FY26 Cloud Workloads Partner Playbooks](https://partner.microsoft.com/en-us/asset/collection/fy26-cloud-solution-area-partner-playbooks#/) | Explore how to drive revenue growth and profitability by delivering AI-powered services and solutions—supported by our end-to-end engagement model and aligned to our updated, streamlined Workloadss. Partner playbooks for AI Business Solutions, Cloud and AI Platforms, and Security help you build your practice and tap into investments with Solution Plays and GTM strategies. | Microsoft Partner
 [Co-Sell with Microsoft Series learning path](https://readiness.transform.microsoft.com/learning-path/334f847e-6590-4ff3-8d43-e2ab99ab71bc) |  FY24 - Go-to-market guidance across all Co-Sell with Microsoft priority sales plays.  | Transform
 [Sell through CSP Kickoff Series learning path](https://readiness.transform.microsoft.com/learning-path/d8b8ec88-3af2-4824-bdb8-abfe1e85e9b6) | FY24 - Go-to-market  guidance across all our Sell through CSP priority sales plays. | Transform
 [Modern Work for CSP](https://cloudpartners.transform.microsoft.com/partner-gtm/csp) | Supercharge your business by leveraging the programs and investments we are making in FY24 to help drive your business – including go-to-market content, fresh assets, readiness content, and incentive programs. Review the following tabs to learn more. | Transform
 [Modern Work partner enablement guide](https://assetsprod.microsoft.com/mpn/en-us/modern-work-partner-enablement.pdf)| Top news, upcoming training, certifications and exams, and additional resources updated ~monthly | Requires Microsoft AI Cloud Partner Program login
-[Modern Work Partner Sales Enablement Program](https://partner.microsoft.com/en-us/training/assets/collection/modern-work-partner-sales-acceleration-program-psap#/) | his program offers best practices and presentation resources that will guide you in shaping a business-first sales model that focuses on the Modern Work solution area and its core sales plays.| Microsoft Partner
+[Modern Work Partner Sales Enablement Program](https://partner.microsoft.com/en-us/training/assets/collection/modern-work-partner-sales-acceleration-program-psap#/) | his program offers best practices and presentation resources that will guide you in shaping a business-first sales model that focuses on the Modern Work Workloads and its core sales plays.| Microsoft Partner
 [Microsoft Content AI Partner Program](https://adoption.microsoft.com/en-us/sharepoint-premium/partner-program/) | To help accelerate customer success with their content management strategy, powered by Microsoft 365, Microsoft SharePoint, and Microsoft SharePoint Premium, we launched the Microsoft Content AI Partner Program to support our partners delivering solutions that make the transformation of your content management approach practical and attainable.| Microsoft Adoption
 [Business Case Builder](https://bcb.transform.microsoft.com/) | The Business Case Builder uses real customer data to show the ROI that organizations can achieve by adopting our solutions across Modern Work, Security, Surface and more! Costs and benefits are calculated based on values from third-party Forrester TEI studies. The tool provides standardized and custom calculations to help you create a business case specific to your customer’s environment and needs. | Transform
 [Advanced Business Case Builder](https://bcb.transform.microsoft.com/help/download) | Excel - The Advanced Business Case Builder tool allows you to conduct detailed ROI analyses for your customer(s). It has been updated to reflect the latest Forrester Total Economic Impact (TEI) data to ensure the most accurate and credible results possible. It is typically employed in sales situations where there is more complexity than can be addressed via the Standard (online) Business Case Builder tool. | Transform

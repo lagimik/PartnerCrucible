@@ -8,7 +8,7 @@ thumbnail: /PartnerCrucible/assets/images/2024-07-18-PowerPlatformSolutionArea.m
 
 ![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2024-07-18-DataAISolutionArea-AzureOpenAI.md-image.png )
 
-# DataAI Solution Area
+# DataAI Workloads
 
 ## What's new
 
@@ -29,7 +29,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2024-07-18-AzureInfrastructureSolutionArea.md-image.png )
 
-# Azure Infrastructure Solution Area
+# Azure Infrastructure Workloads
 
 ## What's new
 

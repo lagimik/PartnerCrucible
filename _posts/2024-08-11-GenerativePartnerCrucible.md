@@ -7,7 +7,7 @@ thumbnail: /PartnerCrucible/assets/images/2024-08-11-PowerPlatformSolutionArea.m
 ---
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2024-08-11-AzureInfrastructureSolutionArea.md-image.png )
 
-# Azure Infrastructure Solution Area
+# Azure Infrastructure Workloads
 
 ## What's new
 
@@ -24,7 +24,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 ![ BusinessApplicationsSolutionArea.md ]( /PartnerCrucible/assets/images/2024-08-11-BusinessApplicationsSolutionArea.md-image.png )
 
 
-# Business Applications Solution Area
+# Business Applications Workloads
 
 ## What's new
 
@@ -38,7 +38,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ SecuritySolutionArea-Copilot.md ]( /PartnerCrucible/assets/images/2024-08-11-SecuritySolutionArea-Copilot.md-image.png )
 
-# Security Solution Area - Copilot for Security
+# Security Workloads - Copilot for Security
 
 ## What's new
 
@@ -52,7 +52,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ SecuritySolutionArea.md ]( /PartnerCrucible/assets/images/2024-08-11-SecuritySolutionArea.md-image.png )
 
-# Security Solution Area
+# Security Workloads
 
 ## What's new
 

@@ -36,7 +36,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/MicrosoftCopilots) for more partner resources.
 
-# Azure Infrastructure Solution Area
+# Azure Infrastructure Workloads
 
 ## What's new
 
@@ -50,7 +50,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2023-11-19-DataAISolutionArea-AzureOpenAI.md-image.png )
 
-# Data AI Solution Area
+# Data AI Workloads
 
 ## What's new
 
@@ -68,7 +68,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ SecuritySolutionArea.md ]( /PartnerCrucible/assets/images/2023-11-19-SecuritySolutionArea.md-image.png )
 
-# Security Solution Area
+# Security Workloads
 
 ## What's new
 

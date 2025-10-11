@@ -8,7 +8,7 @@ categories: "Copilot"
 
 ## Purpose
 
-A Collection of resources for Microsoft practice adopting, extending and building Copilot experiences. For a view of other solution areas, please see the [Taxonomy](./Taxonomy).
+A Collection of resources for Microsoft practice adopting, extending and building Copilot experiences. For a view of other Workloadss, please see the [Taxonomy](./Taxonomy).
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 

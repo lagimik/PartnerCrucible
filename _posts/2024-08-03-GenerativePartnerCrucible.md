@@ -12,7 +12,7 @@ thumbnail: /PartnerCrucible/assets/images/2024-08-03-PracticeBuilding.md-image.p
 
 ## What's new
 
-- Updated Microsoft Partner Solution Area Playbooks 📝
+- Updated Microsoft Partner Workloads Playbooks 📝
 
 ## Deep links
 
@@ -28,7 +28,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2024-08-03-AzureInfrastructureSolutionArea.md-image.png )
 
-# Azure Infrastructure Solution Area
+# Azure Infrastructure Workloads
 
 ## What's new
 
@@ -42,7 +42,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DataAISolutionArea.md ]( /PartnerCrucible/assets/images/2024-08-03-DataAISolutionArea.md-image.png )
 
-# Data and AI Solution Area
+# Data and AI Workloads
 
 ## What's new
 
@@ -60,7 +60,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DataAISolutionArea-Fabric.md ]( /PartnerCrucible/assets/images/2024-08-03-DataAISolutionArea-Fabric.md-image.png )
 
-# Data & AI Solution Area - Fabric
+# Data & AI Workloads - Fabric
 
 ## What's new
 

@@ -18,13 +18,13 @@ thumbnail: /PartnerCrucible/assets/images/2023-11-11-PowerPlatformSolutionArea.m
 
 ## Deep links
 
-- [Partner Enablement Newsletter](https://assetsprod.microsoft.com/mpn/en-ca/partner-enablement-newsletter.pdf): Updated regularly with the partner skilling and enablement live and on-demand events for Microsoft partners. Includes certification preparation and depth enablement sessions across all Microsoft solution areas and Industry Clouds (Partner)
+- [Partner Enablement Newsletter](https://assetsprod.microsoft.com/mpn/en-ca/partner-enablement-newsletter.pdf): Updated regularly with the partner skilling and enablement live and on-demand events for Microsoft partners. Includes certification preparation and depth enablement sessions across all Microsoft Workloadss and Industry Clouds (Partner)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/PracticeBuilding) for more partner resources.
 
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2023-11-12-AzureInfrastructureSolutionArea.md-image.png )
 
-## Azure Infrastructure Solution Area
+## Azure Infrastructure Workloads
 
 ## What's new
 
@@ -39,7 +39,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2023-11-11-DataAISolutionArea-AzureOpenAI.md-image.png )
 
-# Data AI Solution Area
+# Data AI Workloads
 
 ## What's new-
 
@@ -71,7 +71,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ PowerPlatformSolutionArea.md ]( /PartnerCrucible/assets/images/2023-11-11-PowerPlatformSolutionArea.md-image.png )
 
-# Power Platform Solution Area
+# Power Platform Workloads
 
 ## What's new
 
@@ -85,7 +85,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ SecuritySolutionArea.md ]( /PartnerCrucible/assets/images/2023-11-11-SecuritySolutionArea.md-image.png )
 
-# Security Solution Area
+# Security Workloads
 
 ## What's new
 

@@ -22,7 +22,7 @@ thumbnail: /PartnerCrucible/assets/images/2025-01-12-AzureInfrastructureSolution
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/IndustryFinancialServices) for more partner resources.
 
 
-# Azure Infrastructure Solution Area
+# Azure Infrastructure Workloads
 
 ## What's New
 
@@ -36,7 +36,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ BusinessApplicationsSolutionArea.md ]( /PartnerCrucible/assets/images/2025-01-12-BusinessApplicationsSolutionArea.md-image.png )
 
-# Business Applications Solution Area
+# Business Applications Workloads
 
 ## What's New
 
@@ -54,7 +54,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2025-01-12-DataAISolutionArea-AzureOpenAI.md-image.png )
 
-# DataAI Solution Area: Azure OpenAI
+# DataAI Workloads: Azure OpenAI
 
 ## What's new
 

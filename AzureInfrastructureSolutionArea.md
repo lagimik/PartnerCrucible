@@ -1,16 +1,16 @@
 ---
-title: "Partner Crucible - Infrastructure Solution Area"
+title: "Partner Crucible - Infrastructure Workloads"
 layout: "default"
 categories: "Infrastructure"
 ---
 
-# Azure Infrastructure Solution Area
+# Azure Infrastructure Workloads
 
 ## Purpose
 
 ![Azure Infrastructure](./Library/Azure-Logo.png)
 
-A Collection of resources for Microsoft practice building in the Azure infrastructure solution area. For a view of other solution areas, please see the [Taxonomy](./Taxonomy).
+A Collection of resources for Microsoft practice building in the Azure infrastructure Workloads. For a view of other Workloadss, please see the [Taxonomy](./Taxonomy).
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
@@ -48,7 +48,7 @@ Source | Description | Notes
 [Azure Rapid Assessment Estimator](https://usdco.azurewebsites.net/Resources.aspx) | Take advantage of the Azure Rapid Assessment Estimator, a Microsoft Excel workbook that rapidly generates estimates of your existing infrastructure and workloads that are directly mapped to Azure IaaS and/or Azure PaaS services that meet or exceed your current specifications in the Azure region(‘s) you specify. |
 [Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-gb/pricing/tco/calculator/) | Estimate the cost savings you can realise by migrating your workloads to Azure | Azure
 [Azure Pricing Calculator](https://azure.microsoft.com/en-ca/pricing/calculator) | Calculate your estimated hourly or monthly costs for using Azure. Log in to the pricing calculator to create, save, and share cost estimates. Already an Azure customer? Create an estimate with your Azure agreement pricing | Azure
-[Azure Apps & Infrastructure Partner Sales Acceleration Program](https://partner.microsoft.com/en-us/training/assets/collection/azure-apps-and-infrastructure-partner-sales-acceleration-program-psap#/) | Get best practices and presentation resources that will guide you in shaping a business-first sales model that delivers a new insight to your prospect and focuses on the Microsoft Azure Apps & Infrastructure solution area and its core sales plays.| Microsoft Partner
+[Azure Apps & Infrastructure Partner Sales Acceleration Program](https://partner.microsoft.com/en-us/training/assets/collection/azure-apps-and-infrastructure-partner-sales-acceleration-program-psap#/) | Get best practices and presentation resources that will guide you in shaping a business-first sales model that delivers a new insight to your prospect and focuses on the Microsoft Azure Apps & Infrastructure Workloads and its core sales plays.| Microsoft Partner
 [Azure for Partner](https://www.microsoft.com/azure/partners/)|Main page for Azure resources for Partners | Azure
 [Azure for ISV](https://azure.microsoft.com/en-us/partners/isv/) | Build, Get Started , Scale, and Publish| Azure
 [Azure for Services Partners](https://www.microsoft.com/azure/partners/practices/the-opportunity)|Grow your cloud services business with Azure| Azure

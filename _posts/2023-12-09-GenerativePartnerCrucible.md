@@ -22,7 +22,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2023-12-09-DataAISolutionArea-AzureOpenAI.md-image.png )
 
-# Data AI Solution Area Updates
+# Data AI Workloads Updates
 
 ## What's newThis
 
@@ -36,7 +36,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2023-12-09-AzureInfrastructureSolutionArea.md-image.png )
 
-# Azure Infrastructure Solution Area
+# Azure Infrastructure Workloads
 
 ## What's new
 
@@ -50,7 +50,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ ModernWorkSolutionArea.md ]( /PartnerCrucible/assets/images/2023-12-09-ModernWorkSolutionArea.md-image.png )
 
-# Modern Work Solution Area
+# Modern Work Workloads
 
 ## What's new
 
@@ -64,7 +64,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ SecuritySolutionArea.md ]( /PartnerCrucible/assets/images/2023-12-09-SecuritySolutionArea.md-image.png )
 
-# Security Solution Area
+# Security Workloads
 
 ## What's new
 

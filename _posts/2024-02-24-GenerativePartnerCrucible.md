@@ -8,7 +8,7 @@ thumbnail: /PartnerCrucible/assets/images/2024-02-24-PowerPlatformSolutionArea.m
 
 ![ BusinessApplicationsSolutionArea.md ]( /PartnerCrucible/assets/images/2024-02-24-BusinessApplicationsSolutionArea.md-image.png )
 
-# Business Applications Solution Area
+# Business Applications Workloads
 
 ## What's new
 
@@ -51,7 +51,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DigitalAppsandInnovationSolutionArea.md ]( /PartnerCrucible/assets/images/2024-02-24-DigitalAppsandInnovationSolutionArea.md-image.png )
 
-# Digital Apps and Innovation Solution Area
+# Digital Apps and Innovation Workloads
 
 ## What's new
 
@@ -68,7 +68,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2024-02-24-AzureInfrastructureSolutionArea.md-image.png )
 
-# Azure Infrastructure Solution Area
+# Azure Infrastructure Workloads
 
 ## What's new
 

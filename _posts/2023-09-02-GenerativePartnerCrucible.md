@@ -8,7 +8,7 @@ categories: "Generative Crucible"
 ---
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2023-09-02-AzureInfrastructureSolutionArea.md-image.png )
 
-# Azure Infrastructure Solution Area
+# Azure Infrastructure Workloads
 
 ## What's new
 - Added use cases for Azure Virtual Desktop Insights to help partners understand deployments of Azure Virtual Desktop, identify cost-saving opportunities, and address resource limitations or connectivity issues.
@@ -41,7 +41,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DataAISolutionArea.md ]( /PartnerCrucible/assets/images/2023-09-02-DataAISolutionArea.md-image.png )
 
-# Data AI Solution Area
+# Data AI Workloads
 
 ## What's new
 
@@ -54,7 +54,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DigitalAppsandInnovationSolutionArea.md ]( /PartnerCrucible/assets/images/2023-09-02-DigitalAppsandInnovationSolutionArea.md-image.png )
 
-# Digital Apps and Innovation Solution Area
+# Digital Apps and Innovation Workloads
 
 ## What's new
 - Azure Load Testing references and samples
@@ -77,7 +77,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ ModernWorkSolutionArea.md ]( /PartnerCrucible/assets/images/2023-09-02-ModernWorkSolutionArea.md-image.png )
 
-# Modern Work Solution Area
+# Modern Work Workloads
 
 ## What's new
 - Added Modern Collaboration Architecture (MOCA) to enable improved collaboration, communication, and information management using Microsoft Teams, SharePoint, Yammer, and the rest of the Microsoft 365 suite.
@@ -88,7 +88,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ PowerPlatformSolutionArea.md ]( /PartnerCrucible/assets/images/2023-09-02-PowerPlatformSolutionArea.md-image.png )
 
-# Power Platform Solution Area
+# Power Platform Workloads
 
 ## What's new
 
@@ -102,7 +102,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ SecuritySolutionArea.md ]( /PartnerCrucible/assets/images/2023-09-02-SecuritySolutionArea.md-image.png )
 
-# Security Solution Area
+# Security Workloads
 
 ## What's new
 
@@ -119,11 +119,11 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ SecuritySolutionArea-Sentinel.md ]( /PartnerCrucible/assets/images/2023-09-02-SecuritySolutionArea-Sentinel.md-image.png )
 
-# Security - Sentinel Solution Area
+# Security - Sentinel Workloads
 
 ## What's new
 
-The Partner Crucible updates for the Security Solution Area include an updated reference for PAL (Partner Aware Learning) for FY24.
+The Partner Crucible updates for the Security Workloads include an updated reference for PAL (Partner Aware Learning) for FY24.
 
 ## Deep links
 - [The Total Economic Impact Of Microsoft Azure Sentinel](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4IgFh): Microsoft commissioned Forrester Consulting to conduct a study on the potential return on investment (ROI) enterprises may realize by deploying Azure Sentinel. The study provides insights into the economic impact of using Azure Sentinel. (Forrester 2020)

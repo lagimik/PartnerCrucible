@@ -8,7 +8,7 @@ categories: "Generative Crucible"
 ---
 ![ AzureInfrastructureSolutionArea-LandingZones.md ]( /PartnerCrucible/assets/images/2023-08-26-AzureInfrastructureSolutionArea-LandingZones.md-image.png )
 
-# Azure Infrastructure Solution Area - Landing Zones
+# Azure Infrastructure Workloads - Landing Zones
 
 ## What's new
 
@@ -23,7 +23,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2023-08-26-AzureInfrastructureSolutionArea.md-image.png )
 
-# Azure Infrastructure Solution Area
+# Azure Infrastructure Workloads
 
 ## What's new
 - Added WhatTheHack - Infrastructure
@@ -38,7 +38,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ BusinessApplicationsSolutionArea.md ]( /PartnerCrucible/assets/images/2023-08-26-BusinessApplicationsSolutionArea.md-image.png )
 
-# Business Applications Solution Area
+# Business Applications Workloads
 
 ## What's new
 
@@ -53,11 +53,11 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DataAISolutionArea.md ]( /PartnerCrucible/assets/images/2023-08-26-DataAISolutionArea.md-image.png )
 
-# Data and AI Solution Area
+# Data and AI Workloads
 
 ## What's new
 
- - a new resource called "WhatTheHack - Data and AI" has been added to the Solution Area.
+ - a new resource called "WhatTheHack - Data and AI" has been added to the Workloads.
 
  ## Deep links
 
@@ -67,7 +67,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DigitalAppsandInnovationSolutionArea.md ]( /PartnerCrucible/assets/images/2023-08-26-DigitalAppsandInnovationSolutionArea.md-image.png )
 
-## Digital Apps and Innovation Solution Area
+## Digital Apps and Innovation Workloads
 
 ## What's new
 - Microsoft Assessments
@@ -84,7 +84,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 ![ PowerPlatformSolutionArea.md ]( /PartnerCrucible/assets/images/2023-08-26-PowerPlatformSolutionArea.md-image.png )
 
 
-# Power Platform Solution Area
+# Power Platform Workloads
 
 ## What's new
 
@@ -105,18 +105,18 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ SecuritySolutionArea.md ]( /PartnerCrucible/assets/images/2023-08-26-SecuritySolutionArea.md-image.png )
 
-# Security Solution Area
+# Security Workloads
 
 ## What's New
 
-Microsoft Partner has made updates to the Partner Crucible specifically for the Security Solution Area. These updates include:
+Microsoft Partner has made updates to the Partner Crucible specifically for the Security Workloads. These updates include:
 - Added resources for *Microsoft Entra*
 - Added endpoint protection platforms from Gartner
 - Added Security Insider for threat briefs, reports, and insights
 
 ## Deep Links
 
-- [Security Insider](https://www.microsoft.com/en-us/security/business/security-insider/): Access thread briefs, reports, behind the scenes, and threat actor insights on Security Insider.Note: Make sure to visit the provided links to get more detailed information about the changes in the Partner Crucible updates for Microsoft Partners building their technical practice in the Security Solution Area.
+- [Security Insider](https://www.microsoft.com/en-us/security/business/security-insider/): Access thread briefs, reports, behind the scenes, and threat actor insights on Security Insider.Note: Make sure to visit the provided links to get more detailed information about the changes in the Partner Crucible updates for Microsoft Partners building their technical practice in the Security Workloads.
 - [Reimagine secure access with Microsoft Entra](https://info.microsoft.com/ww-reimagine-secure-access-with-microsoft-entra-on-demand.html?lcid=en-us): On-demand resource to learn about securing access for any identity to any resource, from anywhere.
 - [Microsoft Entra Tech Accelerator: Part 1 of 2](https://techcommunity.microsoft.com/t5/tech-community-live/microsoft-entra-tech-accelerator-part-1-of-2/ev-p/3842483): Learn about Entra ID Governance and Entra External ID in this Tech Community session.
 - [Microsoft Entra Tech Accelerator: Part 2 of 2](https://techcommunity.microsoft.com/t5/tech-community-live/microsoft-entra-tech-accelerator-part-2-of-2/ec-p/3851464): Explore Entra Internet Access and Entra Private Access in this Tech Community session.
@@ -128,11 +128,11 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ IndustryTelecom.md ]( /PartnerCrucible/assets/images/2023-08-26-IndustryTelecom.md-image.png )
 
-# IndustryTelecom Solution Area
+# IndustryTelecom Workloads
 
 ## What's new
 
-The Partner Crucible updates for the IndustryTelecom solution area include the addition of AIOps.
+The Partner Crucible updates for the IndustryTelecom Workloads include the addition of AIOps.
 
 ## Deep links
 

@@ -8,7 +8,7 @@ thumbnail: /PartnerCrucible/assets/images/2023-09-23-SecuritySolutionArea.md-ima
 
 ![ ModernWorkSolutionArea.md ]( /PartnerCrucible/assets/images/2023-09-23-ModernWorkSolutionArea.md-image.png )
 
-# Modern Work Solution Area
+# Modern Work Workloads
 
 ## What's new
 
@@ -27,7 +27,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2023-09-23-DataAISolutionArea-AzureOpenAI.md-image.png )
 
-# Data AI Solution Area
+# Data AI Workloads
 
 ## What's new
 
@@ -42,7 +42,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DigitalAppsandInnovationSolutionArea.md ]( /PartnerCrucible/assets/images/2023-09-23-DigitalAppsandInnovationSolutionArea.md-image.png )
 
-# Digital Apps and Innovation Solution Area
+# Digital Apps and Innovation Workloads
 
 ## What's new
 
@@ -54,7 +54,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 - [Build Intelligent Apps On Azure](https://azure.github.io/Cloud-Native/): GitHub page on combining the power of AI, cloud-scale data, and cloud-native app development to create highly differentiated digital experiences.
 - [30 Days of AI](https://azure.github.io/Cloud-Native/30DaysOfIA): GitHub page with a learning journey to build intelligent apps using AI and cloud-native technologies.
-- [30 Days Of Cloud Native](https://azure.github.io/Cloud-Native/cnny-2023): GitHub page with a series of blog posts on Cloud-native technologies.## Intelligent Apps Solution Area
+- [30 Days Of Cloud Native](https://azure.github.io/Cloud-Native/cnny-2023): GitHub page with a series of blog posts on Cloud-native technologies.## Intelligent Apps Workloads
 - [30 Days of Serverless](https://azure.github.io/Cloud-Native/blog/01-kickoff): GitHub page with a month-long learning journey on Serverless technologies on Azure.
 
 
@@ -79,7 +79,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ SecuritySolutionArea.md ]( /PartnerCrucible/assets/images/2023-09-23-SecuritySolutionArea.md-image.png )
 
-# Security Solution Area
+# Security Workloads
 
 ## What's new
 

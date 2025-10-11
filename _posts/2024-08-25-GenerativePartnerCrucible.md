@@ -8,7 +8,7 @@ thumbnail: /PartnerCrucible/assets/images/2024-08-25-PowerPlatformSolutionArea.m
 
 ![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2024-08-25-DataAISolutionArea-AzureOpenAI.md-image.png )
 
-# Data AI Solution Area - Azure AI
+# Data AI Workloads - Azure AI
 
 ## What's new
 
@@ -28,7 +28,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DataAISolutionArea-Fabric.md ]( /PartnerCrucible/assets/images/2024-08-25-DataAISolutionArea-Fabric.md-image.png )
 
-# Data & AI Solution Area - Microsoft Fabric
+# Data & AI Workloads - Microsoft Fabric
 
 ## What's new
 
@@ -42,7 +42,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DataAISolutionArea.md ]( /PartnerCrucible/assets/images/2024-08-25-DataAISolutionArea.md-image.png )
 
-# Data AI Solution Area - Data
+# Data AI Workloads - Data
 
 ## What's new
 
@@ -57,7 +57,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea) for more partner resources.
 
-# Power Platform Solution Area
+# Power Platform Workloads
 
 ## What's new
 

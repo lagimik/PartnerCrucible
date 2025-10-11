@@ -39,7 +39,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ SecuritySolutionArea.md ]( /PartnerCrucible/assets/images/2024-01-13-SecuritySolutionArea.md-image.png )
 
-# Security Solution Area
+# Security Workloads
 
 ## What's new
 
@@ -53,7 +53,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ BusinessApplicationsSolutionArea.md ]( /PartnerCrucible/assets/images/2024-01-13-BusinessApplicationsSolutionArea.md-image.png )
 
-# Business Applications Solution Area
+# Business Applications Workloads
 
 ## What's new
 

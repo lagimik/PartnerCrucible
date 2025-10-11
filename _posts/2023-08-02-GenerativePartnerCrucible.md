@@ -8,7 +8,7 @@ categories: "Generative Crucible"
 ---
 ![ AzureInfrastructureSolutionArea-LandingZones.md ]( /PartnerCrucible/assets/images/2023-08-02-AzureInfrastructureSolutionArea-LandingZones.md-image.png )
 
-# Azure Infrastructure Solution Area - Landing Zones
+# Azure Infrastructure Workloads - Landing Zones
 
 ## What's new
 
@@ -22,34 +22,34 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2023-08-02-AzureInfrastructureSolutionArea.md-image.png )
 
-# Azure Infrastructure Solution Area
+# Azure Infrastructure Workloads
 
 ## What's new
 
-This update includes the FY24 Cloud Infrastructure Partner Playbook, which describes Microsoft's GTM Strategy, Solution Plays, Partner Priorities, and Key Resources to help partners build their technical practice in the Azure Infrastructure Solution Area.
+This update includes the FY24 Cloud Infrastructure Partner Playbook, which describes Microsoft's GTM Strategy, Solution Plays, Partner Priorities, and Key Resources to help partners build their technical practice in the Azure Infrastructure Workloads.
 
 ## Deep links
-- [Cloud Infrastructure Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy24-cloud-infrastructure-partner-playbook.pdf): This playbook provides detailed information on Microsoft's GTM Strategy, Solution Plays, Partner Priorities, and Key Resources for the Azure Infrastructure Solution Area. Partner FY24.
+- [Cloud Infrastructure Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy24-cloud-infrastructure-partner-playbook.pdf): This playbook provides detailed information on Microsoft's GTM Strategy, Solution Plays, Partner Priorities, and Key Resources for the Azure Infrastructure Workloads. Partner FY24.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/AzureInfrastructureSolutionArea) for more partner resources.
 
 ![ BusinessApplicationsSolutionArea.md ]( /PartnerCrucible/assets/images/2023-08-02-BusinessApplicationsSolutionArea.md-image.png )
 
-# Business Applications Solution Area
+# Business Applications Workloads
 
 ## What's new
 
-The Partner Crucible updates for the Business Applications Solution Area include the addition of the Business Applications Playbook and updates to the Microsoft Dynamics 365 Partner portal.
+The Partner Crucible updates for the Business Applications Workloads include the addition of the Business Applications Playbook and updates to the Microsoft Dynamics 365 Partner portal.
 
 ## Deep links
 - [Business Applications Playbook](https://assetsprod.microsoft.com/en-ca/fy24-business-applications-partner-playbook.pdf): Describes Microsoft GTM Strategy, Solution Plays, Partner Priorities, and Key Resources for Partner FY24.
 - [Microsoft Dynamics 365 Partner portal](https://dynamicspartners.transform.microsoft.com): Partner *Transform Portal* for Business Apps, accessible based on Microsoft AI Cloud Partner Program membership and competencies or solution partner standing.
-- [Pre-Commit Business Applications Partner Activities](https://dynamicspartners.transform.microsoft.com/download/protected?assetname=protectedassets/FY24%2520Pre-Commit%2520Bus%2520Apps%2520Partner%2520Activities%2520Program%2520Guide%2520and%2520Overview.pptx&download=1&protected=1): Detailed program guide and overview of Partner-led Business Applications incentives program for Transform FY24.Note: The above links provide more information and resources for Microsoft Partners to build their technical practice in the Business Applications Solution Area.
+- [Pre-Commit Business Applications Partner Activities](https://dynamicspartners.transform.microsoft.com/download/protected?assetname=protectedassets/FY24%2520Pre-Commit%2520Bus%2520Apps%2520Partner%2520Activities%2520Program%2520Guide%2520and%2520Overview.pptx&download=1&protected=1): Detailed program guide and overview of Partner-led Business Applications incentives program for Transform FY24.Note: The above links provide more information and resources for Microsoft Partners to build their technical practice in the Business Applications Workloads.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/BusinessApplicationsSolutionArea) for more partner resources.
 
 ![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2023-08-02-DataAISolutionArea-AzureOpenAI.md-image.png )
-# Data AI Solution Area
+# Data AI Workloads
 
 ## What's new
 
@@ -76,11 +76,11 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DataAISolutionArea-Fabric.md ]( /PartnerCrucible/assets/images/2023-08-02-DataAISolutionArea-Fabric.md-image.png )
 
-# Data AI Solution Area
+# Data AI Workloads
 
 ## What's new
 
-The Partner Crucible updates for the Data AI Solution Area include the following changes:
+The Partner Crucible updates for the Data AI Workloads include the following changes:
 
 
 ## Deep links
@@ -90,18 +90,18 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DataAISolutionArea.md ]( /PartnerCrucible/assets/images/2023-08-02-DataAISolutionArea.md-image.png )
 
-# Data & AI Solution Area
+# Data & AI Workloads
 
 ## What's new
 
-- Updated with FY24 solution area playbooks
+- Updated with FY24 Workloads playbooks
 - Added AI learning and community hub to the list of resources
 - Discover "Tools and Demos"
 - Added "The Full Guide to Packaging and Deploying ML Models to Production Using Azure: Step-by-Step Guide" to the list of Tools and Demos
 
 ## Deep links
 
-- [Data and AI Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy24-azure-data-and-ai-partner-playbook.pdf) – Describes Microsoft's go-to-market strategy, solution plays, partner priorities, and key resources for the Data & AI solution area.
+- [Data and AI Partner Playbook](https://assetsprod.microsoft.com/en-ca/fy24-azure-data-and-ai-partner-playbook.pdf) – Describes Microsoft's go-to-market strategy, solution plays, partner priorities, and key resources for the Data & AI Workloads.
 - [AI Learning and Community Hub](https://learn.microsoft.com/en-ca/ai/) – Microsoft Learn provides AI training and resources, including skill-building, community connections, credentials, expert insights, and upcoming events.
 - [Data & AI Industry DREAM Demos & DREAM Demo in a Box](https://partner.microsoft.com/en-us/asset/collection/industry-dream-demos-and-dream-demo-in-a-box#/): Collection of realistic clickable demos based on customer engagements that cover various industry scenarios, providing step-by-step guidance on how to implement them.
 - [The Full Guide to Packaging and Deploying ML Models to Production Using Azure: Step-by-Step Guide](https://techcommunity.microsoft.com/t5/educator-developer-blog/the-full-guide-to-packaging-and-deploying-ml-models-to/ba-p/3855628) – A step-by-step coding guide to convert ML models to ONNX format and use them in Power Apps applications.
@@ -111,11 +111,11 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DigitalAppsandInnovationSolutionArea.md ]( /PartnerCrucible/assets/images/2023-08-02-DigitalAppsandInnovationSolutionArea.md-image.png )
 
-# Digital Apps and Innovation Solution Area
+# Digital Apps and Innovation Workloads
 
 ## What's new
 
-- Updated with FY24 solution area playbooks: The Digital and App Innovation Playbook provides strategy, solution plays, and key resources for partners in FY24.
+- Updated with FY24 Workloads playbooks: The Digital and App Innovation Playbook provides strategy, solution plays, and key resources for partners in FY24.
 - Added Azure draft: Draft is a tool made for users who are just getting started with Kubernetes, or users who want to simplify their experience with Kubernetes. This readme will give you a quick rundown on Draft’s commands and what they do.
 
 ## Deep links
@@ -140,7 +140,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ ModernWorkSolutionArea.md ]( /PartnerCrucible/assets/images/2023-08-02-ModernWorkSolutionArea.md-image.png )
 
-# Modern Work Solution Area
+# Modern Work Workloads
 
 ## What's new
 
@@ -155,11 +155,11 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ PowerPlatformSolutionArea.md ]( /PartnerCrucible/assets/images/2023-08-02-PowerPlatformSolutionArea.md-image.png )
 
-# Power Platform Solution Area
+# Power Platform Workloads
 
 ## What's new
 
-The Partner Crucible updates for the Power Platform Solution Area include the following changes:
+The Partner Crucible updates for the Power Platform Workloads include the following changes:
 
 - Updated the Low Code Practice Playbook source link.
 - Added the Low Code Partner Opportunity, a PowerPoint deck that showcases the partner opportunity in accelerating innovation with low code.
@@ -185,17 +185,17 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ## What's new
 
- Review [Solution Area Playbooks](https://partner.microsoft.com/explore/solution-areas) that are most relevant to your organization to unlock incentives.
+ Review [Workloads Playbooks](https://partner.microsoft.com/explore/solution-areas) that are most relevant to your organization to unlock incentives.
 
 ## Deep links
-- [Solution Area Playbooks](https://partner.microsoft.com/explore/solution-areas): Review Solution Area Playbooks that are most relevant to your organization to unlock incentives.
+- [Workloads Playbooks](https://partner.microsoft.com/explore/solution-areas): Review Workloads Playbooks that are most relevant to your organization to unlock incentives.
 - [Solutions Partner Benefits Guide](https://aka.ms/Solutionspartner.Benefits): Download the Solutions Partner Benefits Guide.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/PracticeBuilding) for more partner resources.
 
 ![ SecuritySolutionArea.md ]( /PartnerCrucible/assets/images/2023-08-02-SecuritySolutionArea.md-image.png )
 
-# Security Solution Area
+# Security Workloads
 
 ## What's new
 

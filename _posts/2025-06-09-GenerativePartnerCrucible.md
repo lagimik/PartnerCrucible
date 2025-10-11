@@ -8,7 +8,7 @@ thumbnail: /PartnerCrucible/assets/images/2025-06-09-DataAISolutionArea-Fabric.m
 
 ![ DataAISolutionArea-Fabric.md ]( /PartnerCrucible/assets/images/2025-06-09-DataAISolutionArea-Fabric.md-image.png )
 
-# Data & AI Solution Area
+# Data & AI Workloads
 
 ## What's New
 
@@ -24,7 +24,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DataAISolutionArea.md ]( /PartnerCrucible/assets/images/2025-06-09-DataAISolutionArea.md-image.png )
 
-# Data & AI Solution Area## What's new
+# Data & AI Workloads## What's new
 
 - 🚀 **Added "Building a Foundation for AI Success: A Leader’s Guide"** 
 - 💻 **Included "Build AI Agents End-to-End in VS Code"**
@@ -38,7 +38,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ SecuritySolutionArea.md ]( /PartnerCrucible/assets/images/2025-06-09-SecuritySolutionArea.md-image.png )
 
-# Security Solution Area
+# Security Workloads
 
 ## What's new
 

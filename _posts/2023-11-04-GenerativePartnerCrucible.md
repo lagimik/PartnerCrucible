@@ -8,7 +8,7 @@ thumbnail: /PartnerCrucible/assets/images/2023-11-04-ModernWorkSolutionArea.md-i
 
 ![ ModernWorkSolutionArea.md ]( /PartnerCrucible/assets/images/2023-11-04-ModernWorkSolutionArea.md-image.png )
 
-# Modern Work Solution Area
+# Modern Work Workloads
 
 ## What's new
 
@@ -27,7 +27,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ SecuritySolutionArea.md ]( /PartnerCrucible/assets/images/2023-11-04-SecuritySolutionArea.md-image.png )
 
-# Security Solution Area
+# Security Workloads
 
 ## What's new
 
@@ -44,7 +44,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2023-11-04-AzureInfrastructureSolutionArea.md-image.png )
 
-# Azure Infrastructure Solution Area
+# Azure Infrastructure Workloads
 
 ## What's new
 - Updated collection of partner VMWare resources including Azure VMware Solution Hands-on Labs
@@ -61,7 +61,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2023-11-04-DataAISolutionArea-AzureOpenAI.md-image.png )
 
-# Data and AI Solution Area > Azure Open AI
+# Data and AI Workloads > Azure Open AI
 
 ## What's new
 

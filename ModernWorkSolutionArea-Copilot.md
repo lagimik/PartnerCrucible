@@ -1,16 +1,16 @@
 ---
-title: "Partner Crucible - Modern Work Solution Area - Copilot"
+title: "Partner Crucible - Modern Work Workloads - Copilot"
 layout: "default"
 categories: "Modern Work"
 ---
 
-# Modern Work Solution Area - Copilot
+# Modern Work Workloads - Copilot
 
 ## Purpose
 
 ![Microsoft 365](./Library/Microsoft_365_Copilot_Icon.svg.png)
 <br>
-A Collection of resources for Microsoft practice building Copilot capabilities for the Modern Work solution area. For a view of other solution areas, please see the [Taxonomy](./Taxonomy).
+A Collection of resources for Microsoft practice building Copilot capabilities for the Modern Work Workloads. For a view of other Workloadss, please see the [Taxonomy](./Taxonomy).
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 

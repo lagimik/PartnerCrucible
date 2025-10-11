@@ -40,7 +40,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ ModernWorkSolutionArea-Copilot.md ]( /PartnerCrucible/assets/images/2025-07-11-ModernWorkSolutionArea-Copilot.md-image.png )
 
-# Modern Work Solution Area - Copilot Workloads
+# Modern Work Workloads - Copilot Workloads
 
 ## What's new-
 

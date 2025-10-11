@@ -41,7 +41,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2023-07-19-AzureInfrastructureSolutionArea.md-image.png )
 
-# Azure Infrastructure Solution Area
+# Azure Infrastructure Workloads
 
 Azure Innovate, a new specialisation, and ISV Success is GA.
 
@@ -55,7 +55,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DataAISolutionArea.md ]( /PartnerCrucible/assets/images/2023-07-19-DataAISolutionArea.md-image.png )
 
-# Data & AI Solution Area
+# Data & AI Workloads
 
 From AI Platform Insiders, to AI Transformation Partner PLaybook, there are some gems to enable partner AI practice acceleration and growth.
 
@@ -83,7 +83,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ SecuritySolutionArea.md ]( /PartnerCrucible/assets/images/2023-07-19-SecuritySolutionArea.md-image.png )
 
-# Security Solution Area
+# Security Workloads
 
  Microsoft is investing in partners' ability to meet the growing demand for managed extended detection and response (MXDR) services and engages with  Microsoft Security Copilot - Partner Interest Form
 
@@ -96,7 +96,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ ModernWorkSolutionArea.md ]( /PartnerCrucible/assets/images/2023-07-19-ModernWorkSolutionArea.md-image.png )
 
-# Modern Work Solution Area
+# Modern Work Workloads
 
 Some highlights from the Modern-Work pre-day content and overview of Microsoft 365 Copilot to ground your customer conversations.
 
@@ -124,9 +124,9 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ BusinessApplicationsSolutionArea.md ]( /PartnerCrucible/assets/images/2023-07-19-BusinessApplicationsSolutionArea.md-image.png )
 
-# Business Applications Solution Area
+# Business Applications Workloads
 
-Added Intelligent Field Service Solution Accelerators to the Business Applications Solution Area.
+Added Intelligent Field Service Solution Accelerators to the Business Applications Workloads.
 
 ## Quick links:
 

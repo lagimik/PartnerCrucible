@@ -1,16 +1,16 @@
 ---
-title: "Partner Crucible - Security Solution Area - Sentinel"
+title: "Partner Crucible - Security Workloads - Sentinel"
 layout: "default"
 categories: "Security"
 ---
 
-# Security Solution Area - Sentinel
+# Security Workloads - Sentinel
 
 ![Sentinel](./Library/sentinel-logo.png)
 
 # Purpose
 
-A Collection of resources for building Sentinel and SOC demos. For a view of other solution areas, please see the [Taxonomy](./Taxonomy).
+A Collection of resources for building Sentinel and SOC demos. For a view of other Workloadss, please see the [Taxonomy](./Taxonomy).
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 

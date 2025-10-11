@@ -6,7 +6,7 @@ layout: generativepartnercrucible
 thumbnail: /PartnerCrucible/assets/images/2023-12-20-PowerPlatformSolutionArea.md-image.png
 ---
 
-# Data AI Solution Area
+# Data AI Workloads
 
 ## What's new
 
@@ -20,7 +20,7 @@ Deep links
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea) for more partner resources.
 
-# Data AI Solution Area - Fabric
+# Data AI Workloads - Fabric
 
 ## What's new
 
@@ -32,7 +32,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-Fabric) for more partner resources.
 
-# Data AI Solution Area - Azure OpenAI
+# Data AI Workloads - Azure OpenAI
 
 ## What's new
 
@@ -45,7 +45,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-AzureOpenAI) for more partner resources.
 
 
-# Digital Apps and Innovation Solution Area
+# Digital Apps and Innovation Workloads
 
 ## What's new
 
@@ -60,7 +60,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DigitalAppsandInnovationSolutionArea) for more partner resources.
 
 
-# Power Platform Solution Area
+# Power Platform Workloads
 
 ## What's new-
 
@@ -74,7 +74,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/PowerPlatformSolutionArea) for more partner resources.
 
 
-# Security Solution Area
+# Security Workloads
 
 ## What's new
 

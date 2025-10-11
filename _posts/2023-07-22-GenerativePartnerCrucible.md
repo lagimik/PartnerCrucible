@@ -8,7 +8,7 @@ categories: "Generative Crucible"
 ---
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2023-07-22-AzureInfrastructureSolutionArea.md-image.png )
 
-# Azure Infrastructure Solution Area
+# Azure Infrastructure Workloads
 
 ## What's new
 
@@ -27,11 +27,11 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ BusinessApplicationsSolutionArea.md ]( /PartnerCrucible/assets/images/2023-07-22-BusinessApplicationsSolutionArea.md-image.png )
 
-# Business Applications Solution Area
+# Business Applications Workloads
 
 ## What's new
 
-The Microsoft Sales Copilot tool has been introduced to the Business Applications Solution Area. It brings new capabilities to Microsoft Outlook, Teams, and Dynamics 365 Sales, allowing sellers to increase productivity and personalize customer interactions. It is compatible with both Dynamics 365 Sales and Salesforce.
+The Microsoft Sales Copilot tool has been introduced to the Business Applications Workloads. It brings new capabilities to Microsoft Outlook, Teams, and Dynamics 365 Sales, allowing sellers to increase productivity and personalize customer interactions. It is compatible with both Dynamics 365 Sales and Salesforce.
 
 ## Deep links
 
@@ -55,7 +55,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2023-07-22-DataAISolutionArea-AzureOpenAI.md-image.png )
 
-# Data AI Solution Area
+# Data AI Workloads
 
 ## What's new
 - Added "Inside Microsoft's AI supercomputer | Featuring Mark Russinovich" video to provide an inside look at the AI supercomputer infrastructure built to run ChatGPT and other large language models in Azure.
@@ -78,10 +78,10 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DigitalAppsandInnovationSolutionArea.md ]( /PartnerCrucible/assets/images/2023-07-22-DigitalAppsandInnovationSolutionArea.md-image.png )
 
-# Digital Apps and Innovation Solution Area
+# Digital Apps and Innovation Workloads
 
 ## What's new
-- Cosmos DB topic has been moved from Data and AI to Digital Apps and Innovation Solution Area.
+- Cosmos DB topic has been moved from Data and AI to Digital Apps and Innovation Workloads.
 ## Deep links
 - [Azure Cosmos DB Partner Tech Connect](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR9aWEKTdeoxPpcB2ORTA2_1UNlU4NU1PWUJaTzFHRkwxVEdXUTQ2UkNOUi4u): Reserve your spot for Azure Cosmos DB Partner Tech Connect - a community dedicated to partners. (Form)
 - [Azure Cosmos DB Developer](https://developer.azurecosmosdb.com/): Links to architecture, tools, community, blog, conference, and Live TV.## Industry## Tools and Practices## Developers## Hackathons## GitHub## DevOps## API First## Containers## Java## IoT
@@ -90,7 +90,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ FinOps.md ]( /PartnerCrucible/assets/images/2023-07-22-FinOps.md-image.png )
 
-# Solution Area: FinOps
+# Workloads: FinOps
 
 ## What's new
 
@@ -104,7 +104,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ ModernWorkSolutionArea.md ]( /PartnerCrucible/assets/images/2023-07-22-ModernWorkSolutionArea.md-image.png )
 
-# Modern Work Solution Area
+# Modern Work Workloads
 
 ## What's new
 
@@ -132,7 +132,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ PowerPlatformSolutionArea.md ]( /PartnerCrucible/assets/images/2023-07-22-PowerPlatformSolutionArea.md-image.png )
 
-# Power Platform Solution Area
+# Power Platform Workloads
 
 # What's new
 
@@ -157,7 +157,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ SecuritySolutionArea.md ]( /PartnerCrucible/assets/images/2023-07-22-SecuritySolutionArea.md-image.png )
 
-# Security Solution Area
+# Security Workloads
 
 ## What's new
 

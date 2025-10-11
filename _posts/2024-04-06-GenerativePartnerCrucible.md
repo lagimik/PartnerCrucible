@@ -8,7 +8,7 @@ thumbnail: /PartnerCrucible/assets/images/2024-04-06-DataAISolutionArea.md-image
 
 ![ DataAISolutionArea.md ]( /PartnerCrucible/assets/images/2024-04-06-DataAISolutionArea.md-image.png )
 
-# Data AI Solution Area
+# Data AI Workloads
 
 ## What's new
 
@@ -22,7 +22,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ SecuritySolutionArea-Copilot.md ]( /PartnerCrucible/assets/images/2024-04-06-SecuritySolutionArea-Copilot.md-image.png )
 
-# Security Solution Area - Copilot for Security
+# Security Workloads - Copilot for Security
 
 ## What's new
 

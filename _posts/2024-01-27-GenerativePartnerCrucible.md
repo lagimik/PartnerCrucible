@@ -9,7 +9,7 @@ thumbnail: /PartnerCrucible/assets/images/2024-01-27-DataAISolutionArea-AzureOpe
 ![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2024-01-27-DataAISolutionArea-AzureOpenAI.md-image.png )
 
 
-# Data AI Solution Area
+# Data AI Workloads
 
 ## What's new
 
@@ -27,7 +27,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DigitalAppsandInnovationSolutionArea.md ]( /PartnerCrucible/assets/images/2024-01-27-DigitalAppsandInnovationSolutionArea.md-image.png )
 
-# Digital Apps and Innovation Solution Area
+# Digital Apps and Innovation Workloads
 
 ## What's new
 
@@ -37,13 +37,13 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 ## Deep links
 
 - [Strangler Fig pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/strangler-fig): Microsoft Learn article that explains how to incrementally migrate a legacy system using the Strangler Fig pattern. This pattern allows for the gradual replacement of functionality in the legacy system with new applications and services.
-- [Monoliths to microservices using domain-driven design](https://learn.microsoft.com/en-us/azure/architecture/microservices/migrate-monolith): Microsoft Learn article that provides guidance on using domain-driven design (DDD) to migrate a monolithic application to microservices in order to improve scalability, flexibility, and maintainability. This approach enables the decomposition of a large application into smaller, independently deployable services.Please refer to the above links for more detailed information on these strategies for converting monoliths to microservices in the Digital Apps and Innovation Solution Area.
+- [Monoliths to microservices using domain-driven design](https://learn.microsoft.com/en-us/azure/architecture/microservices/migrate-monolith): Microsoft Learn article that provides guidance on using domain-driven design (DDD) to migrate a monolithic application to microservices in order to improve scalability, flexibility, and maintainability. This approach enables the decomposition of a large application into smaller, independently deployable services.Please refer to the above links for more detailed information on these strategies for converting monoliths to microservices in the Digital Apps and Innovation Workloads.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DigitalAppsandInnovationSolutionArea) for more partner resources.
 
 ![ ModernWorkSolutionArea.md ]( /PartnerCrucible/assets/images/2024-01-27-ModernWorkSolutionArea.md-image.png )
 
-# Modern Work Solution Area
+# Modern Work Workloads
 
 ## What's new
 
@@ -58,7 +58,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/ModernWorkSolutionArea) for more partner resources.
 
 ![ PowerPlatformSolutionArea.md ]( /PartnerCrucible/assets/images/2024-01-27-PowerPlatformSolutionArea.md-image.png )
-# Power Platform Solution Area
+# Power Platform Workloads
 
 ## What's new
 

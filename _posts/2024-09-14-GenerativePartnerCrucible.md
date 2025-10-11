@@ -8,7 +8,7 @@ thumbnail: /PartnerCrucible/assets/images/PartnerCrucible/assets/images/2024-09-
 
 ![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2024-09-14-DataAISolutionArea-AzureOpenAI.md-image.png )
 
-# Data AI Solution Area - Azure OpenAI
+# Data AI Workloads - Azure OpenAI
 
 ## What's new
 
@@ -24,7 +24,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ SecuritySolutionArea.md ]( /PartnerCrucible/assets/images/2024-09-14-SecuritySolutionArea.md-image.png )
 
-# Security Solution Area
+# Security Workloads
 
 ## What's new
 

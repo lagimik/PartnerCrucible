@@ -8,7 +8,7 @@ thumbnail: /PartnerCrucible/assets/images/2025-07-26-AzureInfrastructureSolution
 
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2025-07-26-AzureInfrastructureSolutionArea.md-image.png )
 
-# Azure Infrastructure Solution Area
+# Azure Infrastructure Workloads
 
 ## What's New
 
@@ -25,7 +25,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DataAISolutionArea.md ]( /PartnerCrucible/assets/images/2025-07-26-DataAISolutionArea.md-image.png )
 
-# Data & AI Solution Area
+# Data & AI Workloads
 
 ## What's new
 

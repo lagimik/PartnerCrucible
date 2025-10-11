@@ -8,7 +8,7 @@ categories: "Generative Crucible"
 ---
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2023-09-09-AzureInfrastructureSolutionArea.md-image.png )
 
-# Azure Infrastructure Solution Area
+# Azure Infrastructure Workloads
 
 ## What's new
 
@@ -20,7 +20,7 @@ categories: "Generative Crucible"
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/AzureInfrastructureSolutionArea) for more partner resources.
 
-## Data AI Solution Area
+## Data AI Workloads
 
 ## What's new
 
@@ -34,7 +34,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2023-09-09-DataAISolutionArea-AzureOpenAI.md-image.png )
 
-# Data AI Solution Area - OpenAI
+# Data AI Workloads - OpenAI
 
 ## What's new
 
@@ -52,7 +52,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DataAISolutionArea-Fabric.md ]( /PartnerCrucible/assets/images/2023-09-09-DataAISolutionArea-Fabric.md-image.png )
 
-# Data AI Solution Area - Fabric
+# Data AI Workloads - Fabric
 
 ## What's new
 
@@ -72,7 +72,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DigitalAppsandInnovationSolutionArea.md ]( /PartnerCrucible/assets/images/2023-09-09-DigitalAppsandInnovationSolutionArea.md-image.png )
 
-# Digital Apps and Innovation Solution Area
+# Digital Apps and Innovation Workloads
 
 ## What's new
 

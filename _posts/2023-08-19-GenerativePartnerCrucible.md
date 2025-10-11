@@ -43,7 +43,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2023-08-19-AzureInfrastructureSolutionArea.md-image.png )
 
-# Azure Infrastructure Solution Area
+# Azure Infrastructure Workloads
 
 ## What's new
 
@@ -59,11 +59,11 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2023-08-19-DataAISolutionArea-AzureOpenAI.md-image.png )
 
-# Data AI Solution Area - Azure OpenAI
+# Data AI Workloads - Azure OpenAI
 
 ## What's new
 
-- The AI Transformation Partner Playbook has been added to the Data AI Solution Area - Azure OpenAI section.
+- The AI Transformation Partner Playbook has been added to the Data AI Workloads - Azure OpenAI section.
 - The AI Show episode featuring prompt engineering with Azure OpenAI Service has been added.
 - The DevBlogs post on prompt engineering techniques for complex summarization has been added.
 
@@ -77,7 +77,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ IndustrySustainability.md ]( /PartnerCrucible/assets/images/2023-08-19-IndustrySustainability.md-image.png )
 
-# Modern Work Solution Area
+# Modern Work Workloads
 
 ## What's new
 
@@ -96,7 +96,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ PowerPlatformSolutionArea.md ]( /PartnerCrucible/assets/images/2023-08-19-PowerPlatformSolutionArea.md-image.png )
 
-# Power Platform Solution Area
+# Power Platform Workloads
 
 ## What's new
 - Added references to Power CAT, FastTrack Solution Architect, and learning resources.
@@ -112,7 +112,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ SecuritySolutionArea.md ]( /PartnerCrucible/assets/images/2023-08-19-SecuritySolutionArea.md-image.png )
 
-# Security Solution Area
+# Security Workloads
 
 ## What's new
 - Added Entra, EASM, Zero Trust with Purview, M365 Lighthouse, and licensing optimization scenarios

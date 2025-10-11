@@ -8,7 +8,7 @@ thumbnail: /PartnerCrucible/assets/images/2024-11-25-2024-11-25-AzureInfrastruct
 
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2024-11-25-AzureInfrastructureSolutionArea.md-image.png )
 
-# Azure Infrastructure Solution Area
+# Azure Infrastructure Workloads
 
 ## What's new
 - Added key announcements from Microsoft Ignite 2024  🚀
@@ -22,7 +22,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DataAISolutionArea-Fabric.md ]( /PartnerCrucible/assets/images/2024-11-25-DataAISolutionArea-Fabric.md-image.png )
 
-# Data and AI Solution Area - Fabric
+# Data and AI Workloads - Fabric
 
 ## What's new
 
@@ -36,7 +36,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DataAISolutionArea.md ]( /PartnerCrucible/assets/images/2024-11-25-DataAISolutionArea.md-image.png )
 
-# Data & AI Solution Area
+# Data & AI Workloads
 
 ## What's new
 
@@ -52,7 +52,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ ModernWorkSolutionArea-Copilot.md ]( /PartnerCrucible/assets/images/2024-11-25-ModernWorkSolutionArea-Copilot.md-image.png )
 
-# Modern Work Solution Area
+# Modern Work Workloads
 
 ## What's New
 
@@ -70,7 +70,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ PowerPlatformSolutionArea.md ]( /PartnerCrucible/assets/images/2024-11-25-PowerPlatformSolutionArea.md-image.png )
 
-# Power Platform Solution Area
+# Power Platform Workloads
 
 ## What's new
 
@@ -87,7 +87,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ SecuritySolutionArea.md ]( /PartnerCrucible/assets/images/2024-11-25-SecuritySolutionArea.md-image.png )
 
-# Security Solution Area
+# Security Workloads
 
 ## What's new
 

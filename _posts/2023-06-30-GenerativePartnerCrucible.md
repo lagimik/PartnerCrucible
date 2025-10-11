@@ -34,7 +34,7 @@ Visit the [Partner Crucible Business Applications](https://lagimik.github.io/Par
 # Data & AI and Azure OpenAI
 
 - [AI Business School](https://www.microsoft.com/en-us/ai/ai-business-school) is offering an online leadership series where you can learn how to create an effective AI strategy and drive business impact.
-- Explore the [Partner Data and AI Solution Area Landing](https://partner.microsoft.com/en-us/explore/solution-areas#tab-2) to access partner resources and find valuable information for your business
+- Explore the [Partner Data and AI Workloads Landing](https://partner.microsoft.com/en-us/explore/solution-areas#tab-2) to access partner resources and find valuable information for your business
 - Participate in the [Azure AI Bootcamp](https://vshow.on24.com/vshow/Azure_Depth/registration/22504) to learn about Azure AI services and integrate high-quality AI models into your apps and services.
 - Check out the [Data & AI Industry Partner Activation Kit](https://partner.microsoft.com/en-us/asset/collection/data-and-ai-industry-partner-activation-kit#/) for a collection of industry kits containing key Azure Data & AI Use Cases.
 - Experience the [Data & AI Industry DREAM Demos & DREAM Demo in a Box](https://partner.microsoft.com/en-us/asset/collection/industry-dream-demos-and-dream-demo-in-a-box#/) realistic clickable demos based on actual customer engagements. These demos cover a range of industry scenarios in story form.These updates provide valuable resources and opportunities for partners in the areas of business applications, power platform, and modern work. Don't miss out on the chance to enhance your AI capabilities and drive business growth.

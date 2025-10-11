@@ -169,7 +169,7 @@ Date | Change | File
 2023-06-01 | updated index with link to Microsoft Accessibility topic | [See changes here](./index.html)
 2023-06-01 | added accessibility innovation toolkit and teh disability answer desk | [See changes here](./MicrosoftAccessibility)
 2023-06-01 | created topic section for M365 desired state config (DSC) | [See changes here](./ModernWorkSolutionArea)
-2023-06-01 | regrouped the purview compliance training under the security solution area | [See changes here](./SecuritySolutionArea)
+2023-06-01 | regrouped the purview compliance training under the security Workloads | [See changes here](./SecuritySolutionArea)
 2023-05-30 | added Threat Indicator API references | [See changes here](./SecuritySolutionArea-Sentinel)
 2023-05-30 | added the AI Anthology | [See changes here](./DataAISolutionArea-AzureOpenAI)
 2023-05-30 | added AI Learning Companion | [See changes here](./DataAISolutionArea-AzureOpenAI)

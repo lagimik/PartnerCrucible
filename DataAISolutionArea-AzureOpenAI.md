@@ -1,5 +1,5 @@
 ---
-title: "Partner Crucible - Data & AI Solution Area - Azure OpenAI"
+title: "Partner Crucible - Data & AI Workloads - Azure OpenAI"
 layout: "default"
 categories: "Data and AI"
 ---
@@ -10,7 +10,7 @@ categories: "Data and AI"
 
 ![Buying Through CSP](./Library/crucible-azure-openai.png)
 
-A Collection of resources for Microsoft practice building leveraging  Azure OpenAI services. For a view of other solution areas, please see the [Taxonomy](./Taxonomy).
+A Collection of resources for Microsoft practice building leveraging  Azure OpenAI services. For a view of other Workloadss, please see the [Taxonomy](./Taxonomy).
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
@@ -41,7 +41,7 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :-----  | :-----
 [AI Transformation Partner Playbook](https://aka.ms/aipartnerplaybook) | No matter where you are in your AI transformation journey, the AI Transformation Partner Playbook will empower you to accelerate innovation and grow your AI practice. | Partner
-[Partner Data and AI Solution Area Landing](https://partner.microsoft.com/en-us/explore/solution-areas#tab-2) | Landing page for partner resources | Partner
+[Partner Data and AI Workloads Landing](https://partner.microsoft.com/en-us/explore/solution-areas#tab-2) | Landing page for partner resources | Partner
 [Azure OpenAI Sales Acceleration](https://partner.microsoft.com/en-us/asset/collection/azure-openai-service-sales-acceleration-content#/) | Sales Acceleration content| Partner
 [Microsoft Azure OpenAI: Learning guide for partners](https://assetsprod.microsoft.com/mpn/en-ca/azure-openai-learning-guide-for-partners.pdf) | Azure OpenAI - Learning Guide for Partners to understand, get access, and learn about Azure OpenAI| PArtner 
 [Generative AI for Beginners - A Course](https://aka.ms/genai-beginners) | Learn the fundamentals of building Generative AI applications with our 12-lesson comprehensive course by Microsoft Cloud Advocates. Each lesson covers a key aspect of Generative AI principles and application development. Throughout this course, we will be building our own Generative AI startup so you can get an understanding of what it takes to launch your ideas. | GitHub

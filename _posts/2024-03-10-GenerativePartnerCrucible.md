@@ -8,7 +8,7 @@ thumbnail: /PartnerCrucible/assets/images/2024-03-10-AzureInfrastructureSolution
 
 ![ ModernWorkSolutionArea.md ]( /PartnerCrucible/assets/images/2024-03-10-ModernWorkSolutionArea.md-image.png )
 
-## Modern Work Solution Area
+## Modern Work Workloads
 
 ## What's New
 
@@ -22,7 +22,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2024-03-10-DataAISolutionArea-AzureOpenAI.md-image.png )
 
-## Azure OpenAI Solution Area
+## Azure OpenAI Workloads
 
 ## What's new
 

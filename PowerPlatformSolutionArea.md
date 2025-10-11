@@ -1,10 +1,10 @@
 ---
-title: "Partner Crucible - Business Applications Solution Area - Power Platform"
+title: "Partner Crucible - Business Applications Workloads - Power Platform"
 layout: "default"
 categories: "Business Applications"
 ---
 
-# Power Platform Solution Area
+# Power Platform Workloads
 
 ![PowerApps](./Library/PowerApps_256x256.png)
 ![PowerVirtualAgent](./Library/PowerVirtualAgents_256x256.png)
@@ -13,7 +13,7 @@ categories: "Business Applications"
 
 
 ## Purpose
-A Collection of resources for Microsoft practice building in the Power platform solution area. For a view of other solution areas, please see the [Taxonomy](./Taxonomy).
+A Collection of resources for Microsoft practice building in the Power platform Workloads. For a view of other Workloadss, please see the [Taxonomy](./Taxonomy).
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 

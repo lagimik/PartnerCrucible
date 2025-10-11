@@ -23,7 +23,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DataAISolutionArea-Fabric.md ]( /PartnerCrucible/assets/images/2024-04-14-DataAISolutionArea-Fabric.md-image.png )
 
-# Data and AI Solution Area - Microsoft Fabric 
+# Data and AI Workloads - Microsoft Fabric 
 
 ## What's new
 
@@ -39,7 +39,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ SecuritySolutionArea-Copilot.md ]( /PartnerCrucible/assets/images/2024-04-14-SecuritySolutionArea-Copilot.md-image.png )
 
-# Security Solution Area - Copilot
+# Security Workloads - Copilot
 
 ## What's new
 

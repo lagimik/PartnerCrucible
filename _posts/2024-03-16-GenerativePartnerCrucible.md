@@ -8,7 +8,7 @@ thumbnail: /PartnerCrucible/assets/images/2024-03-16-DataAISolutionArea-AzureOpe
 
 ![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2024-03-16-DataAISolutionArea-AzureOpenAI.md-image.png )
 
-# Data and AI - Azure OpenAI Solution Area
+# Data and AI - Azure OpenAI Workloads
 
 ## What's new
 
@@ -30,7 +30,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DigitalAppsandInnovationSolutionArea.md ]( /PartnerCrucible/assets/images/2024-03-16-DigitalAppsandInnovationSolutionArea.md-image.png )
 
-# Digital Apps and Innovation Solution Area
+# Digital Apps and Innovation Workloads
 
 ## What's new
 

@@ -1,5 +1,5 @@
 ---
-title: "Partner Crucible - Data & AI Solution Area - Microsoft Fabric"
+title: "Partner Crucible - Data & AI Workloads - Microsoft Fabric"
 layout: "default"
 categories: "Data and AI"
 ---
@@ -10,7 +10,7 @@ categories: "Data and AI"
 
 ![Microsoft Fabric](./Library/crucible-microsoftfabric-overview.png)
 
-A Collection of resources for Microsoft practice building leveraging Fabric. For a view of other solution areas, please see the [Taxonomy](./Taxonomy).
+A Collection of resources for Microsoft practice building leveraging Fabric. For a view of other Workloadss, please see the [Taxonomy](./Taxonomy).
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 

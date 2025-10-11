@@ -12,12 +12,12 @@ thumbnail: /PartnerCrucible/assets/images/2023-09-16-PowerPlatformSolutionArea.m
 
 ## What's new
 
-- Solution Area Playbooks
+- Workloads Playbooks
 - PArtner Skilling PLaybook
 
 ## Deep links
 
-- [Solution Area Playbooks](https://partner.microsoft.com/explore/solution-areas): Explore solution plays and curated resources to help develop competitive solutions, serve customers, and grow your business.
+- [Workloads Playbooks](https://partner.microsoft.com/explore/solution-areas): Explore solution plays and curated resources to help develop competitive solutions, serve customers, and grow your business.
 - [Partner Skilling Playbook](https://assetsprod.microsoft.com/mpn/en-ca/partner-skilling-playbook.pdf): The Partner Skilling Playbook is a guide for understanding the enablement offerings available to help skill up partner organizations, wherever you are in your learning journey.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/PracticeBuilding) for more partner resources.
@@ -25,7 +25,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2023-09-16-AzureInfrastructureSolutionArea.md-image.png )
 
-# Azure Infrastructure Solution Area
+# Azure Infrastructure Workloads
 
 ## What's new
 
@@ -62,7 +62,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DataAISolutionArea-Fabric.md ]( /PartnerCrucible/assets/images/2023-09-16-DataAISolutionArea-Fabric.md-image.png )
 
-# DataAI Solution Area - Microsoft Fabric
+# DataAI Workloads - Microsoft Fabric
 
 ## What's new
 
@@ -100,7 +100,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ SecuritySolutionArea.md ]( /PartnerCrucible/assets/images/2023-09-16-SecuritySolutionArea.md-image.png )
 
-# Security Solution Area
+# Security Workloads
 
 ## What's new
 

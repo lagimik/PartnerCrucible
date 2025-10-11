@@ -1,5 +1,5 @@
 ---
-title: "Partner Crucible - Infrastructure Solution Area - Landing Zones"
+title: "Partner Crucible - Infrastructure Workloads - Landing Zones"
 layout: "default"
 categories: "Infrastructure"
 ---
@@ -10,7 +10,7 @@ categories: "Infrastructure"
 
 ## Purpose
 
-A Collection of resources for Microsoft practice building in the **Azure Landing Zones**. For a view of other solution areas, please see the [Taxonomy](./Taxonomy).
+A Collection of resources for Microsoft practice building in the **Azure Landing Zones**. For a view of other Workloadss, please see the [Taxonomy](./Taxonomy).
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 

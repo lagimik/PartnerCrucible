@@ -6,7 +6,7 @@ layout: generativepartnercrucible
 thumbnail: /PartnerCrucible/assets/images/2024-04-01-AzureInfrastructureSolutionArea.md-image.png
 ---
 
-# Data AI Solution Area - Azure Open AI
+# Data AI Workloads - Azure Open AI
 
 ## What's new
 
@@ -20,7 +20,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ ModernWorkSolutionArea-Copilot.md ]( /PartnerCrucible/assets/images/2024-04-01-ModernWorkSolutionArea-Copilot.md-image.png )
 
-## Modern Work Solution Area - Copilot
+## Modern Work Workloads - Copilot
 
 # What's new
 
@@ -35,7 +35,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ SecuritySolutionArea-Sentinel.md ]( /PartnerCrucible/assets/images/2024-04-01-SecuritySolutionArea-Sentinel.md-image.png )
 
-# Security Solution Area - Sentinel
+# Security Workloads - Sentinel
 
 ## What's new
 
@@ -51,7 +51,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2024-04-01-AzureInfrastructureSolutionArea.md-image.png )
 
-# Azure Infrastructure Solution Area
+# Azure Infrastructure Workloads
 
 ## What's new
 

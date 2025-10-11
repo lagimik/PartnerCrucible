@@ -8,7 +8,7 @@ categories: "Generative Crucible"
 ---
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2023-08-11-AzureInfrastructureSolutionArea.md-image.png )
 
-# Azure Infrastructure Solution Area
+# Azure Infrastructure Workloads
 
 ## What's new
 
@@ -41,7 +41,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2023-08-11-DataAISolutionArea-AzureOpenAI.md-image.png )
 
-# Azure OpenAI Solution Area
+# Azure OpenAI Workloads
 
 ## What's new
 
@@ -57,7 +57,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DataAISolutionArea-Fabric.md ]( /PartnerCrucible/assets/images/2023-08-11-DataAISolutionArea-Fabric.md-image.png )
 
-# Data AI Solution Area
+# Data AI Workloads
 
 ## What's new
 - Added [Connecting to OneLake](https://blog.fabric.microsoft.com/en-us/blog/connecting-to-onelake): This blog explains how to connect and interact with OneLake, including its compatibility with any tool used over ADLS Gen2.
@@ -71,11 +71,11 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DataAISolutionArea.md ]( /PartnerCrucible/assets/images/2023-08-11-DataAISolutionArea.md-image.png )
 
-# Data AI Solution Area
+# Data AI Workloads
 
 ## What's new
 
-A Microsoft AI, Machine Learning, and Data Science learning curriculum has been added to the Data AI Solution Area.
+A Microsoft AI, Machine Learning, and Data Science learning curriculum has been added to the Data AI Workloads.
 
 ## Deep Links
 - [Artificial Intelligence for Beginners - A Curriculum](https://microsoft.github.io/AI-For-Beginners/?id=artificial-intelligence-for-beginners-a-curriculum): Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about Artificial Intelligence.
@@ -86,7 +86,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ DigitalAppsandInnovationSolutionArea.md ]( /PartnerCrucible/assets/images/2023-08-11-DigitalAppsandInnovationSolutionArea.md-image.png )
 
-# Digital Apps and Innovation Solution Area
+# Digital Apps and Innovation Workloads
 
 ## What's new
 
@@ -114,7 +114,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ ModernWorkSolutionArea.md ]( /PartnerCrucible/assets/images/2023-08-11-ModernWorkSolutionArea.md-image.png )
 
-# Modern Work Solution Area
+# Modern Work Workloads
 
 ## What's new
 
@@ -128,7 +128,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ PowerPlatformSolutionArea.md ]( /PartnerCrucible/assets/images/2023-08-11-PowerPlatformSolutionArea.md-image.png )
 
-# Power Platform Solution Area
+# Power Platform Workloads
 
 ## What's new
 
@@ -143,7 +143,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ SecuritySolutionArea-Sentinel.md ]( /PartnerCrucible/assets/images/2023-08-11-SecuritySolutionArea-Sentinel.md-image.png )
 
-# Security Solution Area
+# Security Workloads
 
 ## What's new
 
@@ -157,7 +157,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ![ SecuritySolutionArea.md ]( /PartnerCrucible/assets/images/2023-08-11-SecuritySolutionArea.md-image.png )
 
-# Security Solution Area
+# Security Workloads
 
 ## What's new
 

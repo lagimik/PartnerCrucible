@@ -1,17 +1,17 @@
 ---
-title: "Partner Crucible - Security Solution Area - Copilot for Security"
+title: "Partner Crucible - Security Workloads - Security Copilot"
 layout: "default"
 categories: "Security"
 ---
 
-# Security Solution Area - Copilot for Security
+# Security Workloads - Copilot for Security
 
 ![Sentinel](./Library/crucible-security-title.png)
 
 
 ## Purpose
 
-A Collection of resources for Microsoft practice building in the Security solution and Copilot for Security area. For a view of other solution areas, please see the [Taxonomy](./Taxonomy).
+A Collection of resources for Microsoft practice building in the Security solution and Copilot for Security area. For a view of other Workloadss, please see the [Taxonomy](./Taxonomy).
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
