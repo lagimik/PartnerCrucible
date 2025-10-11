@@ -72,6 +72,16 @@ Source | Description | Notes
 [Defender XDR in Copilot for Security](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/what-s-new-in-defender-how-copilot-for-security-can-transform/ba-p/4084222) |  Copilot for Security with Microsoft Defender Threat Intelligence and Threat Analytics in the Defender portal to tap into high-fidelity threat intelligence on threat actors, tooling and infrastructure and easily discover and summarize recommendations specific to your environment’s risk profile, all using natural language| Tech Community
 [MDTI in Copilot for Security](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-at-microsoft-secure-2024/ba-p/4083184) | What's New at Microsoft Secure 2024 | Microsoft Community Hub
 
+## Security Copilot Agents
+
+Source | Description | Notes
+:----- | :---------- | :----
+[Automate cybersecurity at scale with Microsoft Security Copilot agents](https://techcommunity.microsoft.com/blog/securitycopilotblog/automate-cybersecurity-at-scale-with-microsoft-security-copilot-agents/4394675) | AI-powered agents represent the natural evolution of Security Copilot, going beyond AI assistant capabilities. They autonomously manage high-volume security and IT tasks, seamlessly integrated with Microsoft Security solutions and partner solutions| Tech Community
+
+
+
+
+
 ## Plugins
 
 Source | Description | Notes
