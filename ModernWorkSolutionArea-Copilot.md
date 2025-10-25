@@ -52,6 +52,7 @@ Source | Description | Notes
 [Copilot for Microsoft 365 User Onboarding Toolkit](https://adoption.microsoft.com/en-us/copilot/user-onboarding-toolkit/) | To help your people quickly realize the full benefit of Copilot for Microsoft 365, we've developed a user onboarding toolkit, including ready-to-send emails and community posts that you can send to your business users as they onboard | Adoption
 [Copilot Success Kit](https://adoption.microsoft.com/en-us/copilot/success-kit/)
 [Microsoft Scenario Library](https://copilotscenarios.microsoft.com/) | Create a custom set of use cases to help your business units and user engagement teams plan your path to value with AI. Beginning from functional success metrics, identify process changes that will create value.| Microsoft
+[Super Usage Analysis Template (Copilot + Viva Insights)](https://github.com/microsoft/decodingsuperusage) | Insights into how super users of Microsoft Copilot emerge—and learn how to scale their success across your organization.| GitHub
 
 
 ## Technical Readiness
