@@ -18,7 +18,7 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[Magic Quadrant for Security Information and Event Management](https://www.gartner.com/doc/reprints?id=1-2FFCXFP9&ct=231025&st=sb) | Updated Gatner Magic Quadrant for Security Information and Event Management (SIEM) | Garter - May 2024
+[Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for SIEM](https://www.microsoft.com/en-us/security/blog/2025/10/16/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-siem/) |  2025 Gartner® Magic Quadrant™ for Security Information and Event Management (SIEM)| Garter
 [The Total Economic Impact Of Microsoft Azure Sentinel](https://www.microsoft.com/en-us/security/blog/2024/03/19/microsoft-sentinel-delivered-234-roi-according-to-new-forrester-study/) | Microsoft commissioned Forrester Consulting to conduct a Total Economic Impact™ (TEI) study. Using the methodology of the TEI framework, Forrester consultants evaluated the cost, benefits, and flexibility of Microsoft Sentinel and developed a framework that organizations can use to evaluate the potential financial impact on their organizations. | Forrester 2024
 
 # Practices and Tools
