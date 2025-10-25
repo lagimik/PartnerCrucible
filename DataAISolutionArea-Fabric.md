@@ -54,6 +54,7 @@ Source | Description | Notes
 [Introducing the New Deployment Pipelines design](https://blog.fabric.microsoft.com/en-US/blog/introducing-the-new-deployment-pipelines-design-a-leap-forward-in-deployment-efficiency/) | Introducing the New Deployment Pipelines design: A leap forward in deployment Efficiency - This update introduces a range of changes, additions, and improvements designed to elevate your deployment process.| Blog
 [Microsoft Fabric Data Gateway Real Time Monitoring](https://github.com/ecotte/rt-gateway-log) | Using Microsoft Fabric, these logs are centralized in an event stream and processed efficiently through the Eventhouse. This centralized data is then available for analysis in Power BI and can support automated response rules via a data activator (pending implementation). | GitHub @ecotte
 [Mirroring in Microsoft Fabric](https://blog.fabric.microsoft.com/en-us/blog/mirroring-in-microsoft-fabric-explained-benefits-use-cases-and-pricing-demystified?ft=Swetha%20Mannepalli:author) | Mirroring in Microsoft Fabric explained: benefits, use cases, and pricing demystified | Microsoft Fabric Blog
+[Fabric Spark best practices overview](https://learn.microsoft.com/en-us/fabric/data-engineering/spark-best-practices-overview) | This series of articles outlines best practices for optimizing the performance, security, and cost of Spark jobs when running Spark Notebooks and Spark Job Definitions (SJDs) on Microsoft Fabric | Microsoft Learn
 
 ## Tools
 
