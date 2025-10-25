@@ -55,6 +55,13 @@ Source | Description | Notes
 [Microsoft Fabric Data Gateway Real Time Monitoring](https://github.com/ecotte/rt-gateway-log) | Using Microsoft Fabric, these logs are centralized in an event stream and processed efficiently through the Eventhouse. This centralized data is then available for analysis in Power BI and can support automated response rules via a data activator (pending implementation). | GitHub @ecotte
 [Mirroring in Microsoft Fabric](https://blog.fabric.microsoft.com/en-us/blog/mirroring-in-microsoft-fabric-explained-benefits-use-cases-and-pricing-demystified?ft=Swetha%20Mannepalli:author) | Mirroring in Microsoft Fabric explained: benefits, use cases, and pricing demystified | Microsoft Fabric Blog
 
+## Tools
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Microsoft Fabric CLI](https://github.com/microsoft/fabric-cli) | The Microsoft Fabric CLI (fab) is a powerful, file-system-inspired command-line interface for Microsoft Fabric. Explore, automate, and script your Fabric environment directly from your terminal with familiar commands like ls, cd, mkdir, cp, and more.| GitHub
+
+
 ## Access Fabric
 
 Source | Description | Notes
