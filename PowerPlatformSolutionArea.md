@@ -104,6 +104,9 @@ Source | Description | Notes
 [Power Platform Generative AI](https://dynamicspartners.transform.microsoft.com/download/protected?assetname=protectedassets%2FPower%20Platform%20generative%20pitch%20deck.pptx&download=1&protected=1&src=https:%2F%2Fdynamicspartners.transform.microsoft.com%2Fcloud-conversations) | Partner Pitch Deck - History, overview, and deep dive into fusing Power Platform with Generative AI | Transform
 [Power Platform is leading a new era of AI-generated low-code app development](https://cloudblogs.microsoft.com/powerplatform/2023/03/16/power-platform-is-leading-a-new-era-of-ai-generated-low-code-app-development/) | Microsoft Power Platform is announcing Copilot in Power Apps, Power Automate, and Power Virtual Agents further democratizing development and enabling even more people to create innovative solutions through natural language. | Blog
 
+## Copilot Studio
+
+This section has been regrouped here: [Power Platform > Copilot Studio](./PowerPlatform-CopilotStudio.md)
 
 ## Asset Lifecyle Management
 
@@ -153,24 +156,7 @@ Source | Description | Notes
 [Power Automate Process Mining : Partner Started Guide](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fpbapstorageprod.blob.core.windows.net%2Fprotectedassets%2FPower%2520Automate%2520Process%2520Mining%2520-%2520Partner%2520Starter%2520Guide.pptx%3Fsv%3D2019-07-07%26sr%3Db%26sig%3DG7TJGDNhAmhtSVw0TmeLLRIuGhCEIfK%252BPOiKzGqzQIw%253D%26se%3D2023-08-05T13%253A54%253A28Z%26sp%3Dr&wdOrigin=BROWSELINK) | This comprehensive Partner Starter Guide is designed to equip you with the resources and tools you need to successfully adopt, sell, and deliver Power Automate Process Mining. | Transform
 [Process Mining in Power Automate](https://www.youtube.com/watch?v=xj8k6fbKw4E) | This video gives a short introduction to how Process Mining works in Power Automate.| YouTube
 
-## Copilot Studio
 
-Source | Description | Notes
-:----- | :---------- | :-----
-[Microsoft Copilot specialization](https://partner.microsoft.com/en-US/partnership/specialization/microsoft-copilot) | The Microsoft Copilot specialization demonstrates your experience and skills related to Microsoft 365 Copilot, including Microsoft 365 Copilot Chat, Microsoft Copilot Studio, and agents | Microsoft Partner
-[Microsoft Copilot Studio Blog](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/) | Official blog for Microsoft Copilot Studio, featuring product updates, best practices, and partner stories. | Microsoft Blog
-[Copilot Studio Agent Academy](https://microsoft.github.io/agent-academy/) | This hands-on training is your entry point into the world of agents: from grounded prompts to Adaptive Cards and agent flows, you'll learn how to build, scale, and deploy intelligent agents using real-world tools and use cases. | Microsoft GitHub
-[Microsoft Copilot Studio - Implementation Guide](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2FCopilotStudioSamples%2Fmaster%2FImplementationGuide%2FMicrosoft%2520Copilot%2520Studio%2520-%2520Implementation%2520Guide.pptx&wdOrigin=BROWSELINK) | a Success by Design approach to implementing copilots by PowerCAT | Download
-[Copilot Studio agent usage estimator](https://microsoft.github.io/copilot-studio-estimator/) | Use this estimator to forecast your agent's message volume. Select from licensing options, agent types, and the features your agent leverages to respond to your end users. See the message consumption impact based on these selections. This provides a monthly message estimate for a single agent and makes no guarantees of final costs. This isn't a pricing calculator, so we can't provide total costs or make any definite forecasts around your monthly expenses. | Microsoft 
-[Power CAT Copilot Studio Kit](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/blob/main/README.md) | The Power CAT Copilot Studio Kit is a comprehensive set of capabilities designed to augment Microsoft Copilot Studio | GitHub
-[Microsoft Copilot Studio Samples](https://github.com/microsoft/CopilotStudioSamples) | This repository contains samples and artifacts for Microsoft Copilot Studio including connecting copilots to bots, canvas apps, and SharePoint | GitHub
-[Copilot Studio](https://github.com/Katerina-Chernevskaya/feature-a-day) | by @Katerina-Chernevskaya| Github
-[Microsoft Copilot Studio](https://powerplatformpartners.transform.microsoft.com/gtm/lowcode/copilot-studio) | Partner Landing Page for Copilot Studio including Microsoft Agent Vision and Partner Opportunity | Power Platform Partners
-[IT Governance Controls for Your Copilot agents](https://www.microsoft.com/en-us/power-platform/blog/power-apps/it-governance-controls-for-your-copilot-agents/) | With tools designed to enforce governance strategies, organizations can confidently deploy and manage their AI initiatives, knowing they have the necessary controls in place.| Power Platform Blog
-[Administering and Governing Agents](https://adoption.microsoft.com/files/copilot-studio/Agent-governance-whitepaper.pdf)| This whitepaper delves into the specifics of Microsoft’s tools and methodologies, offering insights on managing data security and agent integrity. It covers the role of 
-Microsoft 365 agents, Agent Builder agents, and Copilot Studio agents, explaining how each type can be utilized to enhance operational efficiency while maintaining stringent security protocols. | Microsoft Adoption
-[Model Context Protocol in Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/agent-extend-action-mcp) | Model Context Protocol (MCP) allows users to connect with existing knowledge servers and data sources directly within Copilot Studio | Microsoft Learn
-[Strengthen agent security with real-time protection in Microsoft Copilot Studio](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/strengthen-agent-security-with-near-real-time-protection-in-microsoft-copilot-studio/) | This capability enhances security for AI agents by enabling organizations to connect their own monitoring system such as Microsoft Defender as well as security platforms by other providers, or their own custom-built tools. These integrations allow for real-time evaluation and control of agent behavior during runtime. | Microsoft 
 
 ## Copilot for business functions
 
