@@ -26,6 +26,7 @@ Source | Description | Notes
 [Administering and Governing Agents](https://adoption.microsoft.com/files/copilot-studio/Agent-governance-whitepaper.pdf)| This whitepaper delves into the specifics of Microsoft’s tools and methodologies, offering insights on managing data security and agent integrity. It covers the role of 
 Microsoft 365 agents, Agent Builder agents, and Copilot Studio agents, explaining how each type can be utilized to enhance operational efficiency while maintaining stringent security protocols. | Microsoft Adoption
 [Strengthen agent security with real-time protection in Microsoft Copilot Studio](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/strengthen-agent-security-with-near-real-time-protection-in-microsoft-copilot-studio/) | This capability enhances security for AI agents by enabling organizations to connect their own monitoring system such as Microsoft Defender as well as security platforms by other providers, or their own custom-built tools. These integrations allow for real-time evaluation and control of agent behavior during runtime. | Microsoft 
+[Digital Deep Dive: Copilot Control System (CCS)](https://techcommunity.microsoft.com/event/microsoft365copilot-events/digital-deep-dive-copilot-control-system-ccs/4414752) | Learn how to secure, manage, and analyze Microsoft 365 Copilot, Copilot Chat, Microsoft Copilot Studio, and agents across your organization using the Copilot Control System (CCS).| Tech Community
 
 
 
