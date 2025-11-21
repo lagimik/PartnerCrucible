@@ -43,6 +43,7 @@ Source | Description | Notes
 :----- | :---------- | :-----
 [Microsoft Copilot Studio Resources](https://microsoft.github.io/copilot-studio-resources/)| Resources to help you on your Copilot Studio journey, curated by Power CAT and updated regularly| Microsoft GitHub
 [Power CAT Copilot Studio Kit](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/blob/main/README.md) | The Power CAT Copilot Studio Kit is a comprehensive set of capabilities designed to augment Microsoft Copilot Studio | GitHub
+[Copilot Studio and Azure AI Enablement Workshop](https://whowong.github.io/CopilotStudio-AzureAI-Lab-Resources/) | Copilot Studio and Extensibility with Azure AI labs | Maintained by Whowong
 [Microsoft Copilot Studio Samples](https://github.com/microsoft/CopilotStudioSamples) | This repository contains samples and artifacts for Microsoft Copilot Studio including connecting copilots to bots, canvas apps, and SharePoint | GitHub
 [Microsoft Copilot Studio](https://powerplatformpartners.transform.microsoft.com/gtm/lowcode/copilot-studio) | Partner Landing Page for Copilot Studio including Microsoft Agent Vision and Partner Opportunity | Power Platform Partners
 [Model Context Protocol in Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/agent-extend-action-mcp) | Model Context Protocol (MCP) allows users to connect with existing knowledge servers and data sources directly within Copilot Studio | Microsoft Learn
