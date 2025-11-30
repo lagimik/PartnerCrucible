@@ -17,6 +17,10 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 Source | Description | Notes
 :----- | :-----  | :-----
 [2025:The year the Frontier Firm is born](https://www.microsoft.com/en-us/worklab/work-trend-index/2025-the-year-the-frontier-firm-is-born) |  The data and insights point to the emergence of an entirely new organization, a Frontier Firm that looks markedly different from those we know today. Structured around on-demand intelligence and powered by “hybrid” teams of  humans + agents, these companies scale rapidly, operate with agility, and generate value faster. | Microsoft Work Trend Index
+[AI Strategy Roadmap](https://marketingassets.microsoft.com/gdc/gdc9wYvCw/original) | The key to a successful AI transformation is 
+AI readiness—or your organization's ability to effectively integrate AI within business operations and workflows. This readiness is shaped by five 
+essential drivers: business strategy, technology and data strategy, AI strategy and experience, organization and culture, and AI governance| Microsoft
+
 [Measuring AI Diffusion: A Population-Normalized Metric for Tracking Global AI Usage](https://www.microsoft.com/en-us/research/wp-content/uploads/2025/10/AI-Usage-Technical-Report.pdf) | Built from anonymized Microsoft telemetry and  adjusted for device access and mobile scaling, this metric spans 147 economies and provides consistent,  real-time insight into global AI diffusion.| Microsoft AI for Good Lab
 [Seizing the agentic AI advantage](https://www.mckinsey.com/capabilities/quantumblack/our-insights/seizing-the-agentic-ai-advantage) | A CEO playbook to solve the gen AI paradox and unlock scalable impact with AI agents.| McKinsey
 [Building a Foundation for AI Success: A Leader’s Guide](https://info.microsoft.com/ww-landing-building-a-foundation-for-ai-success.html) | Discover insights informed by Microsoft, Microsoft customers and partners, industry analysts, and AI leaders—to help your organization thrive on your path to AI transformation.| Microsoft
