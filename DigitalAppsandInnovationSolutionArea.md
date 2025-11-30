@@ -45,6 +45,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
+[Awesome GitHub Copilot Customizations](https://github.com/github/awesome-copilot/blob/main/README.md) | A community created collection of custom agents, prompts, and instructions to supercharge your GitHub Copilot experience across different domains, languages, and use cases | GitHub
 [GitHub Copilot Persona and Use Cases](https://www.linkedin.com/posts/slecalvez_developerexperience-aitools-productivity-activity-7343729801599381504-c0os/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAuhUABpdpzK9SzuOG85oyUVHBGdeovPXU) | Persona-driven Mapping AI tools like GitHub Copilot to specific use cases to enable faster adoption, seamless integration, and measurable outcomes | Microsoft 
 [Study Guide - GitHub Copilot](https://assets.ctfassets.net/wfutmusr1t3h/3i7ISEUsTLBgOGrWrML07y/dd586e2b2b607988e2679ed8cce36a76/github-copilot-exam-preparation-study-guide.pdf) |  Get exam-ready for the GitHub Copilot Certification with our comprehensive study guide. We’ve curated the essential resources and learning activities to better prepare you for the exam and boost your chances of success | GitHub
 [GitHub Copilot Fundamentals - Understand the AI pair programmer](https://learn.microsoft.com/en-us/training/paths/copilot/) | Explore the fundamentals of GitHub Copilot and its potential to enhance productivity and foster innovation for both individual developers and businesses.  | Microsoft Learn
