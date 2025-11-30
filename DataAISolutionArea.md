@@ -20,6 +20,7 @@ Source | Description | Notes
 [AI Strategy Roadmap](https://marketingassets.microsoft.com/gdc/gdc9wYvCw/original) | The key to a successful AI transformation is 
 AI readiness—or your organization's ability to effectively integrate AI within business operations and workflows. This readiness is shaped by five 
 essential drivers: business strategy, technology and data strategy, AI strategy and experience, organization and culture, and AI governance| Microsoft
+[AI Decision Brief](https://marketingassets.microsoft.com/gdc/gdcGlz47m/original) |  In The AI Decision Brief, our goal is to share insights to help navigate the AI platform shift and show how generative AI is impacting businesses today. We also highlight what’s on the horizon and share key strategies you can implement to maximize your opportunities in embracing these powerful new tools—while avoiding the pitfalls that could limit your success.| Microsoft
 
 [Measuring AI Diffusion: A Population-Normalized Metric for Tracking Global AI Usage](https://www.microsoft.com/en-us/research/wp-content/uploads/2025/10/AI-Usage-Technical-Report.pdf) | Built from anonymized Microsoft telemetry and  adjusted for device access and mobile scaling, this metric spans 147 economies and provides consistent,  real-time insight into global AI diffusion.| Microsoft AI for Good Lab
 [Seizing the agentic AI advantage](https://www.mckinsey.com/capabilities/quantumblack/our-insights/seizing-the-agentic-ai-advantage) | A CEO playbook to solve the gen AI paradox and unlock scalable impact with AI agents.| McKinsey
