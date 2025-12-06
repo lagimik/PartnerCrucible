@@ -142,6 +142,7 @@ Source | Description | Notes
 [Introducing Azure AI Foundry Labs](https://azure.microsoft.com/en-us/blog/introducing-azure-ai-foundry-labs-a-hub-for-the-latest-ai-research-and-experiments-at-microsoft/) | Azure AI Foundry Labs is a hub for the latest AI research and experiments at Microsoft, providing early access to innovative projects and insights. | Azure Blog
 [Basic Azure AI Foundry chat reference architecture](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/basic-azure-ai-foundry-chat) | First article in a series providing a basic architecture to help you learn how to run chat applications by using Azure AI Foundry and Azure OpenAI language models. | Microsoft Learn
 [Azure AI Foundry Agent service chat basic reference implementation](https://github.com/Azure-Samples/openai-end-to-end-basic/) | This reference implementation illustrates an approach running a chat application and an AI orchestration layer in a single region. It uses Azure AI Foundry Agent service as the orchestrator and Azure OpenAI foundation models | Azure Samplesl GitHub
+[Foundry Local](https://www.foundrylocal.ai/) | Run AI models locally on your device. Foundry Local provides on-device inference with complete data privacy, no Azure subscription required. | foundrylocal.ai
 
 
 ## Agentic Frameworks
