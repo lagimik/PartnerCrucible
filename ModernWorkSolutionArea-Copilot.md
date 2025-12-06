@@ -70,6 +70,11 @@ Source | Description | Notes
 [Microsoft 365 Copilot APIs: Unlocking enterprise knowledge for AI with the Retrieval API](https://devblogs.microsoft.com/microsoft365dev/microsoft-365-copilot-apis-unlocking-enterprise-knowledge-for-ai-with-the-retrieval-api/) | The Retrieval API gives developers a secure, compliant and scalable way to integrate enterprise content into their AI workflows.| Dev Blogs
 [Bring your own agents into Microsoft 365 Copilot](https://devblogs.microsoft.com/microsoft365dev/bring-your-own-agents-into-microsoft-365-copilot/) | Custom engine agents expand the capabilities of Microsoft 365 Copilot by allowing organizations to build AI-powered assistants tailored to their specific needs. Unlike standard Copilot experiences, custom engine agents provide full control over orchestration, AI models, and data integrations, enabling businesses to create advanced workflows that align with their unique requirements.| Dev Blogs
 
+## Frontier
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[Introducing Project Opal: A New Way to Get Task-Based Work Done](https://techcommunity.microsoft.com/blog/Microsoft365CopilotBlog/introducing-project-opal-a-new-way-to-get-task-based-work-done/4470999) | Today we’re introducing Project Opal in Microsoft 365 Copilot – a new AI-powered capability that executes task-based work inside a secure, observable environment you control.| Tech Community
 
 ## Scenarios and Accelerators
 
