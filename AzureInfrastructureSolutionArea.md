@@ -27,7 +27,6 @@ Source | Description | Notes
 [Microsoft recognized as a Leader in 2025 Gartner® Magic Quadrant™ for Desktop as a Service](https://www.gartner.com/doc/reprints?id=1-2LNQ8D8H&ct=250812&st=sb&trk=88d45d3f-333e-44f6-95bf-5943c1d425d1&sc_channel=el) | Microsoft is honored to be recognized as a Leader in the 2025 Gartner Magic Quadrant™ for Desktop as a Service (DaaS) | Gartner
 [Microsoft recognized as a Leader in 2023 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-2023-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/?utm_source=dlvr.it&utm_medium=LinkedIn) | Gartner has positioned Microsoft as a Leader in this new category that includes offerings that deliver cloud-native infrastructure attributes, which can be deployed and operated where the customer prefers. | Gartner
 [Gartner® Magic Quadrant™ for Strategic Cloud Platform Services (SCPS)](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2024-gartner-magic-quadrant-for-strategic-cloud-platform-services/)| Microsoft named a Leader in 2024 Gartner® Magic Quadrant™ for Strategic Cloud Platform Services | Gartner
-
 [Gartner® Magic Quadrant™ for Container Management](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2024-gartner-magic-quadrant-for-container-management/) | Microsoft has been named a Leader in the 2024 Gartner Magic Quadrant for Container Management.| 2024 Gartner
 [Microsoft Cloud for Sovereignty now generally available, opening new pathways for government innovation](https://blogs.microsoft.com/blog/2023/12/14/microsoft-cloud-for-sovereignty-now-generally-available-opening-new-pathways-for-government-innovation/) | General availability of Microsoft Cloud for Sovereignty across all Azure regions. Microsoft Cloud for Sovereignty helps governments meet their compliance, security, and policy requirements while utilizing the cloud to provide superior value to their citizens. | Microsoft
 [The Business Value of Azure VMware Solution](https://info.microsoft.com/ww-landing-idc-the-business-value-of-azure-vmware-solution.html?lcid=EN-US) | In this white paper, see the business benefits and ROI that organizations participating in an IDC research study reported from migrating and extending workloads to Azure VMware Solution. | IDC
@@ -115,6 +114,13 @@ Source | Description | Notes
 [AzAdvertizer](https://www.azadvertizer.net/index.html)| AzAdvertizer helps you to keep up with the pace by providing overview and insights on new releases and changes/updates for Azure Governance capabilities such as Azure Policy's policy definitions, initiatives (set definitions), aliases, security & regulatory compliance controls and Azure RBAC's role definitions and resource provider operations. |
 [PSRule for Azure](https://azure.github.io/PSRule.Rules.Azure/) | Ready to go rules for testing Azure Infrastructure as Code (IaC). | GitHub
 [Awesome Azure Architecture](https://github.com/lukemurraynz/awesome-azure-architecture) | by @lukemurraynz - A curated list of AWESOME blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure. | GitHub
+
+## Azure Adaptive Cloud
+
+Source | Description | Notes
+:----- | :---------- | :-----
+[New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/?utm_source=dlvr.it&utm_medium=linkedin) | Azure Local, Azure Arc, M365 Local, NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs, Azure Migrate support for Azure Local, Disconnected operations, Azure Arc site manager, GCP connector (Preview) projects Google Cloud resources into Azure, and more  | Microsoft Azure
+[Foundry Local](https://www.foundrylocal.ai/) | Run AI models locally on your device. Foundry Local provides on-device inference with complete data privacy, no Azure subscription required. | foundrylocal.ai
 
 
 ## Azure Observability
