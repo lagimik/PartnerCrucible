@@ -16,6 +16,7 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[The state of AI in 2025: Agents, innovation, and transformation](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) | he latest McKinsey Global Survey on the state of AI reveals a landscape defined by both wider use—including growing proliferation of agentic AI—and stubborn growing pains, with the transition from pilots to scaled impact remaining a work in progress at most organizations. | McKinsey
 [2025:The year the Frontier Firm is born](https://www.microsoft.com/en-us/worklab/work-trend-index/2025-the-year-the-frontier-firm-is-born) |  The data and insights point to the emergence of an entirely new organization, a Frontier Firm that looks markedly different from those we know today. Structured around on-demand intelligence and powered by “hybrid” teams of  humans + agents, these companies scale rapidly, operate with agility, and generate value faster. | Microsoft Work Trend Index
 [AI Strategy Roadmap](https://marketingassets.microsoft.com/gdc/gdc9wYvCw/original) | The key to a successful AI transformation is 
 AI readiness—or your organization's ability to effectively integrate AI within business operations and workflows. This readiness is shaped by five 
