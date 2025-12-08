@@ -93,6 +93,7 @@ Source | Description | Notes
 [Muse: Our first generative AI model designed for gameplay ideation](https://www.microsoft.com/en-us/research/blog/introducing-muse-our-first-generative-ai-model-designed-for-gameplay-ideation/?msockid=19ae751b64bd680e0f70619c656e695c) | World and Human Action Model (WHAM), named “Muse,” is a generative AI model of a video game that can generate game visuals, controller actions, or both. | Microsoft Research
 
 ## GitHub Spec Kit
+
 Source | Description | Notes
 :----- | :---------- | :----
 [GitHub Spec Kit](https://github.com/github/spec-kit) | Spec-Driven Development changes this: specifications become executable, directly generating working implementations rather than just guiding them | GitHub
