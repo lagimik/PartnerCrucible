@@ -79,7 +79,6 @@ Source | Description | Notes
 [App Service migration tools](https://azure.microsoft.com/en-us/products/app-service/migration-tools/) | Assess your web apps and migrate them to Azure with free, easy-to-use tools. Includes compatibility report. | Azure
 [Migration of multiple ASP.NET web apps at-scale](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/assess-asp-net-web-apps-at-scale-to-accelerate-your-app/ba-p/3718361) | Assess ASP.NET web apps at scale to accelerate your app migration strategy on Azure | Tech Community
 [ASP. NET web app migration to Azure App Service using PowerShell Scripts](https://azure.microsoft.com/en-us/updates/general-availability-asp-net-web-app-migration-to-azure-app-service-using-powershell-scripts/) | General availability of ASP. Net web app Migration to Azure App Service using PowerShell Scripts is now available. | Azure
-[Radius: a new open-source application platform for the cloud](https://www.youtube.com/watch?v=gaG77PiYv5w) | The Microsoft Azure Incubations team is excited to announce Radius, a cloud-native application platform that enables developers and the platform engineers who support them to collaborate on delivering and managing cloud-native applications that follow corporate best practices for cost, operations, and security by default. Radius is an open-source project that supports deploying applications across private cloud, Microsoft Azure, and Amazon Web Services, with more cloud providers to come. | Microsoft Ignite
 [Tutorial: Run a load test to identify performance bottlenecks in a web app](https://learn.microsoft.com/en-us/azure/load-testing/tutorial-identify-bottlenecks-azure-portal) | In this tutorial, you'll learn how to identify performance bottlenecks in a web application by using Azure Load Testing. You'll create a load test for a sample Node.js application.| Microsoft Learn
 [Contoso Traders - Cloud testing tools demo app](https://github.com/microsoft/contosotraders-cloudtesting/) | The Contoso Traders app is a sample application showcasing Playwright, Azure Load Testing, Azure Chaos Studio and more. This repo contains the source code, deployment templates, and demo scripts for exploring these cloud testing tools. | GitHub
 [Azure Load Testing samples](https://github.com/Azure-Samples/azure-load-testing-samples/tree/main) | This repo contains a collection of samples for using Azure Load Testing. Azure Load Testing is a fully managed load-testing service that enables you to generate high-scale load. The service simulates traffic for your applications, regardless of where they're hosted. | GitHub
@@ -96,12 +95,18 @@ Source | Description | Notes
 ## GitHub Spec Kit
 Source | Description | Notes
 :----- | :---------- | :----
-
 [GitHub Spec Kit](https://github.com/github/spec-kit) | Spec-Driven Development changes this: specifications become executable, directly generating working implementations rather than just guiding them | GitHub
 [GitHub Spec Kit - Guide](https://www.youtube.com/watch?v=a9eR1xsfvHg) | by Den Delimarsky - If you're curious about Spec-Driven Development, as well as what GitHub announced with the latest experimental Spec Kit project, this video is for you. It walks you through the process, what specifications are responsible for, and how you can use Spec Kit to build both new projects and evolve existing software that you already maintain | YouTube
 [GitHub Copilot CLI (Public Preview)](https://github.com/github/copilot-cli) | GitHub Copilot CLI brings AI-powered coding assistance directly to your command line, enabling you to build, debug, and understand code through natural language conversations | GitHub
 [GitHub Spec Kit 💖 GitHub Copilot CLI](https://www.youtube.com/watch?v=7tjmA_0pl2c) | by Den Delimarsky -  GitHub just launched the Copilot CLI, and guess what - you can use it together with GitHub Spec Kit to build applications with Spec-Driven Development practices. Boom! | YouTube
 
+## Radius
+
+Source | Description | Notes
+:----- | :---------- | :----
+[Deploy a RAG chatbot app using Radius](https://blog.radapp.io/posts/2025/11/24/deploy-a-rag-chatbot-app-using-radius/) | This demo illustrates how Radius simplifies the deployment and governance enforcement of intelligent applications across multiple environments. Mark Russinovich presented this demo recently at the Microsoft Ignite conference| Radius Blog
+[Radius](https://github.com/radius-project/radius) | Radius is an open-source project that supports deploying applications across private cloud, Microsoft Azure, and Amazon Web Services, with more cloud providers to come. | GitHub
+[Radius: a new open-source application platform for the cloud](https://www.youtube.com/watch?v=gaG77PiYv5w) | The Microsoft Azure Incubations team is excited to announce Radius, a cloud-native application platform that enables developers and the platform engineers who support them to collaborate on delivering and managing cloud-native applications that follow corporate best practices for cost, operations, and security by default. Radius is an open-source project that supports deploying applications across private cloud, Microsoft Azure, and Amazon Web Services, with more cloud providers to come. | Microsoft Ignite
 
 ## Chaos Engineering
 
