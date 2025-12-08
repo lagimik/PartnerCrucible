@@ -99,14 +99,15 @@ jobs:
         with:
           prompt: |
             "Use an professional tone to summarize the changes found below in the Partner Crucible updates to help Microsoft Partners Build their technical practice."
-            "Use the Workloadss as a title heading"
-            "Create a list of all the changes. Be brief. Use emojis for emphasis"
+            "The changes will be grouped by Microsoft workloads such as Power Platform, Azure, Microsoft 365, Security, Dynamics 365, Industry Solutions etc."
+            "Use the Workloads as a title heading". Use the format # <Workload> Workloads
+            "Create a list of the article titles in the changes. Be brief. Use emojis for emphasis"
             "Next, provide a list of URL links and include the description and source.
             "Format the output as MarkDown."
             "Example"
-            "# Heading Workloads"
-            "## What's new"
-            "list of changes"
+            "# <Workload> Workloads"
+            "## What's new?"
+            "emoji: title of change item"
             "## Deep links"
             "- [link title](link url): description (source)"
 
