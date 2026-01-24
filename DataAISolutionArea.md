@@ -52,6 +52,7 @@ that leaders often face when they need to rapidly build teams’ skills—like i
 [The New Future of Work Report 2025](https://www.microsoft.com/en-us/research/wp-content/uploads/2025/12/New-Future-Of-Work-Report-2025.pdf) | Microsoft Research initiative studying how AI can make us collectively better, focusing on AI for communication, teams, and learning. The report summarizes research on the real-world impact of generative AI tools on the workplace and how to build a future of work that is meaningful, productive, and equitable. | Microsoft Research
 [Databricks runs best on Azure](https://azure.microsoft.com/en-us/blog/databricks-runs-best-on-azure/) | PT stated that Azure Databricks, the Microsoft first-party Databricks service, outperformed Databricks on AWS—it was up to 21.1% faster for single query streams and saved over 9 minutes on four concurrent query streams. | Principled Technologies
 
+
 ## Responsible AI
 
 Responsible AI is an approach to assessing, developing, and deploying AI systems in a safe, trustworthy, and ethical manner, and take responsible decisions and actions.
@@ -195,6 +196,12 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [Analytics end-to-end with Azure Synapse](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end?tabs=portal) | This example scenario demonstrates how to use Azure Synapse Analytics with the extensive family of Azure Data Services to build a modern data platform that's capable of handling the most common data challenges in an organization. | Azure Architecture Centre
 [Azure Synapse Influencer program](https://azure.github.io/Synapse/influencers/#:~:text=The%20Azure%20Synapse%20Influencer%20Program%20brings%20together%20like-minded,of%20users%2C%20and%20achieve%20more%20through%20Azure%20Synapse.) | The Azure Synapse Influencer program recognizes Azure Synapse Analytics community members who actively support one another by sharing Synapse-related content, announcements, and product news via social media. | Github
+
+## PostgreSQL
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Scaling PostgreSQL to power 800 million ChatGPT users](https://openai.com/index/scaling-postgresql/) | OpenAI shares how they scaled Azure PostgreSQL flexible server to handle millions of queries per second for 800 million users. The architecture uses a single primary instance with nearly 50 read replicas across multiple regions, with write-heavy workloads migrated to Azure Cosmos DB. Includes lessons on query optimization, connection pooling with PgBouncer, caching strategies, and workload isolation. | OpenAI Engineering
 
 ## Purview
 
