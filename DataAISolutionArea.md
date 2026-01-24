@@ -119,6 +119,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[AI Agents for Beginners - A Curriculum](https://github.com/microsoft/ai-agents-for-beginners) | A 12+ lesson course teaching everything you need to know to start building AI Agents, covering agentic frameworks, design patterns, tool use, RAG, multi-agent systems, metacognition, planning, and production deployment. Includes Python code samples using Azure AI Foundry, Microsoft Agent Framework, Semantic Kernel, and AutoGen. | GitHub
 [Artificial Intelligence for Beginners - A Curriculum](https://microsoft.github.io/AI-For-Beginners/?id=artificial-intelligence-for-beginners-a-curriculum) | Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about Artificial Intelligence. | GitHub
 [Machine Learning for Beginners - A Curriculum](https://microsoft.github.io/ML-For-Beginners/#/) | Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 26-lesson curriculum all about Machine Learning | GitHub
 [Data Science for Beginners - A Curriculum](https://microsoft.github.io/Data-Science-For-Beginners/#/) | Azure Cloud Advocates at Microsoft are pleased to offer a 10-week, 20-lesson curriculum all about Data Science. | GitHub
