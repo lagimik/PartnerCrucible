@@ -36,6 +36,7 @@ Source | Description | Notes
 [Copilot Studio Agent Academy](https://microsoft.github.io/agent-academy/) | This hands-on training is your entry point into the world of agents: from grounded prompts to Adaptive Cards and agent flows, you'll learn how to build, scale, and deploy intelligent agents using real-world tools and use cases. | Microsoft GitHub
 [Copilot Studio](https://github.com/Katerina-Chernevskaya/feature-a-day) | by @Katerina-Chernevskaya| Github
 [Copiot Developer Camp](https://microsoft.github.io/copilot-camp/pages/make/) | In this lab, you will design customised assistants to improve the overall experience of using Microsoft 365 Copilot. The process will begin with the creation of a basic agent using either the Copilot Studio Lite, or the SharePoint agent capability in SharePoint Online, or Copilot Studio. | Microsoft GitHub
+[Architecting agent solutions: Principles and patterns](https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/architecture/) | Guidance for architecting agents using established patterns and best practices. Covers fit for purpose, operability, trust and transparency, and search and tool use architectures. | Microsoft Learn
 
 
 
