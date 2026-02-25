@@ -119,6 +119,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Microsoft Sovereign Cloud adds governance, productivity and support for large AI models securely running even when completely disconnected](https://blogs.microsoft.com/blog/2026/02/24/microsoft-sovereign-cloud-adds-governance-productivity-and-support-for-large-ai-models-securely-running-even-when-completely-disconnected/) | Announces Microsoft Sovereign Cloud updates including Azure Local disconnected operations, Microsoft 365 Local disconnected, and Foundry Local support for larger multimodal models in sovereign private cloud environments. | Microsoft Blog
 [New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/?utm_source=dlvr.it&utm_medium=linkedin) | Azure Local, Azure Arc, M365 Local, NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs, Azure Migrate support for Azure Local, Disconnected operations, Azure Arc site manager, GCP connector (Preview) projects Google Cloud resources into Azure, and more  | Microsoft Azure
 [Foundry Local](https://www.foundrylocal.ai/) | Run AI models locally on your device. Foundry Local provides on-device inference with complete data privacy, no Azure subscription required. | foundrylocal.ai
 
