@@ -102,6 +102,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
+[Microsoft Defender portal implementation guide for MSSPs](https://learn.microsoft.com/en-us/unified-secops/playbook-managed-security) | This guide focuses on implementing tenant management for Managed Security Service Providers (MSSPs). It covers the entire process from initial setup and customer onboarding through advanced operational workflows for MSSPs.| Microsoft Learn
 [Microsoft Defender XDR Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/bg-p/MicrosoftThreatProtectionBlog) |  Includes monthly news summaries and operations insights across the Microsoft Defender Products | Microsoft
 
 ## Zero Trust
