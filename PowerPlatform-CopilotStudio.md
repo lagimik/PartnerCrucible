@@ -45,6 +45,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Architecting agent solutions: Copilot Studio Principles and patterns](https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/architecture/) | Guidance for architecting agents using established patterns and best practices.| Microsoft
 [Microsoft Copilot Studio Resources](https://microsoft.github.io/copilot-studio-resources/)| Resources to help you on your Copilot Studio journey, curated by Power CAT and updated regularly| Microsoft GitHub
 [Power CAT Copilot Studio Kit](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/blob/main/README.md) | The Power CAT Copilot Studio Kit is a comprehensive set of capabilities designed to augment Microsoft Copilot Studio | GitHub
 [Copilot Studio and Azure AI Enablement Workshop](https://whowong.github.io/CopilotStudio-AzureAI-Lab-Resources/) | Copilot Studio and Extensibility with Azure AI labs | Maintained by Whowong
