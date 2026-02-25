@@ -50,3 +50,4 @@ Source | Description | Notes
 [Microsoft Copilot Studio Samples](https://github.com/microsoft/CopilotStudioSamples) | This repository contains samples and artifacts for Microsoft Copilot Studio including connecting copilots to bots, canvas apps, and SharePoint | GitHub
 [Microsoft Copilot Studio](https://powerplatformpartners.transform.microsoft.com/gtm/lowcode/copilot-studio) | Partner Landing Page for Copilot Studio including Microsoft Agent Vision and Partner Opportunity | Power Platform Partners
 [Model Context Protocol in Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/agent-extend-action-mcp) | Model Context Protocol (MCP) allows users to connect with existing knowledge servers and data sources directly within Copilot Studio | Microsoft Learn
+[copilot-alm-starter](https://github.com/microsoft/copilot-alm-starter) | Starter kit repository for Copilot Studio ALM scenarios and automation patterns. | GitHub
