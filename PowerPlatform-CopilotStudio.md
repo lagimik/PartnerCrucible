@@ -38,7 +38,7 @@ Source | Description | Notes
 [Copilot Studio](https://github.com/Katerina-Chernevskaya/feature-a-day) | by @Katerina-Chernevskaya| Github
 [Copiot Developer Camp](https://microsoft.github.io/copilot-camp/pages/make/) | In this lab, you will design customised assistants to improve the overall experience of using Microsoft 365 Copilot. The process will begin with the creation of a basic agent using either the Copilot Studio Lite, or the SharePoint agent capability in SharePoint Online, or Copilot Studio. | Microsoft GitHub
 [Architecting agent solutions: Principles and patterns](https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/architecture/) | Guidance for architecting agents using established patterns and best practices. Covers fit for purpose, operability, trust and transparency, and search and tool use architectures. | Microsoft Learn
-
+[The Custom Engine](https://microsoft.github.io/mcscatblog/) | Technical examples and best practices from the Microsfot Copilot Studio CAT team | The Custom Engine
 
 
 ## Accelerators and Labs
