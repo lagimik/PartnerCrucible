@@ -80,6 +80,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Accelerating Microsoft 365 Copilot Adoption with Automated Readiness Assessment](https://techcommunity.microsoft.com/blog/microsoft365copilotblog/accelerating-microsoft-365-copilot-adoption-with-automated-readiness-assessment/4488879) | This playbook is designed for Microsoft partners operating within the AI Business Solutions commercial solution area to support their customers with the adoption journey of Microsoft 365 Copilot. | Tech Community
 [Copilot for Finance (preview)](https://learn.microsoft.com/en-us/copilot/finance/welcome) | Copilot empowers finance professionals to stay in the flow of work by seamlessly connecting productivity tools such as Excel with existing financial systems to support critical business processes and generate insights and actions in real time.| Microsoft Learn
 [Microsoft Copilot Scenario Library](https://adoption.microsoft.com/en-us/copilot-scenario-library/) |  Use our guidance by department and individual scenario to get inspired, empower your workforce and realize value from your Copilot investment. ​| Microsoft Adoption
 [Extensibility for Microsoft Copilot](https://learn.microsoft.com/en-us/microsoft-cloud/dev/copilot/isv-extensibility-story) | Extensibility  approaches  broken into patterns based on scenarios to help you navigate the most appropriate path for your scenario and requirements. | Microsoft Learn
