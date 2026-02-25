@@ -45,6 +45,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
+[Microsoft Copilot Studio guidance documentation](https://learn.microsoft.com/en-ca/microsoft-copilot-studio/guidance/) | Microsoft Copilot Studio guidance documentation provides best practices, implementation, and architecture guidance information from the team that works with our enterprise customers.| Microsoft
 [Architecting agent solutions: Copilot Studio Principles and patterns](https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/architecture/) | Guidance for architecting agents using established patterns and best practices.| Microsoft
 [Microsoft Copilot Studio Resources](https://microsoft.github.io/copilot-studio-resources/)| Resources to help you on your Copilot Studio journey, curated by Power CAT and updated regularly| Microsoft GitHub
 [Power CAT Copilot Studio Kit](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/blob/main/README.md) | The Power CAT Copilot Studio Kit is a comprehensive set of capabilities designed to augment Microsoft Copilot Studio | GitHub
