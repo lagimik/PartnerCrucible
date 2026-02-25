@@ -97,6 +97,7 @@ Source | Description | Notes
 [DevSecOps](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/devsecops-in-azure?ocid=AID3045641)| From the Azure Architecture Centre > Solution Ideas |
 [Demystifying Service Provider's Access Methods](https://info.microsoft.com/CA-NoGEP-VDEO-FY23-01Jan-19-Demystifying-Service-Providers-Access-Methods-SRDEM133344_LP02-Thank-You---Standard-Hero.html) | Recommended practices for service providers | Webinar
 [Conditional Access gap analyzer workbook](https://learn.microsoft.com/en-us/azure/active-directory/reports-monitoring/workbook-conditional-access-gap-analyzer) | With the Conditional Access gap analyzer workbook, you can detect gaps in your Conditional Access implementation. | Microsoft Learn
+[Accelerating macOS proof of concepts with Microsoft Intune](https://techcommunity.microsoft.com/blog/IntuneCustomerSuccess/intune-my-macs-accelerating-macos-proof-of-concepts-with-microsoft-intune/4488571) | We've developed a starter kit to make it easy to explore and set up macOS configurations in Intune: Intune my Macs. Intune my Macs helps bridge that gap by making it easy to explore some recommended macOS configurations and quickly set up a successful proof of concept using Intune. | Tech Community
 
 ## XDR
 
