@@ -10,7 +10,7 @@ categories: "Data and AI"
 
 ![Microsoft Fabric](./Library/crucible-microsoftfabric-overview.png)
 
-A Collection of resources for Microsoft practice building leveraging Fabric. For a view of other Workloadss, please see the [Taxonomy](./Taxonomy).
+A Collection of resources for Microsoft practice building leveraging Fabric. For a view of other Workloads, please see the [Taxonomy](./Taxonomy).
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 

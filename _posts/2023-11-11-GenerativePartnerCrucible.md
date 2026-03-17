@@ -18,7 +18,7 @@ thumbnail: /PartnerCrucible/assets/images/2023-11-11-PowerPlatformSolutionArea.m
 
 ## Deep links
 
-- [Partner Enablement Newsletter](https://assetsprod.microsoft.com/mpn/en-ca/partner-enablement-newsletter.pdf): Updated regularly with the partner skilling and enablement live and on-demand events for Microsoft partners. Includes certification preparation and depth enablement sessions across all Microsoft Workloadss and Industry Clouds (Partner)
+- [Partner Enablement Newsletter](https://assetsprod.microsoft.com/mpn/en-ca/partner-enablement-newsletter.pdf): Updated regularly with the partner skilling and enablement live and on-demand events for Microsoft partners. Includes certification preparation and depth enablement sessions across all Microsoft Workloads and Industry Clouds (Partner)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/PracticeBuilding) for more partner resources.
 

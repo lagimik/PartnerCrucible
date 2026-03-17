@@ -2,7 +2,7 @@
 
 ## Purpose
 
-A collection of resources for Microsoft practice building in the Digital Apps and Innovation - Mixed Reality Workloads. For a view of other Workloadss, please see the [Taxonomy](./Taxonomy).
+A collection of resources for Microsoft practice building in the Digital Apps and Innovation - Mixed Reality Workloads. For a view of other Workloads, please see the [Taxonomy](./Taxonomy).
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 

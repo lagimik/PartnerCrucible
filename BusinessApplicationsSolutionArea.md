@@ -10,7 +10,7 @@ categories: "Business Applications"
 
 ![Business Applications](./Library/Dynamics365_icon_scalable.svg)
 <br>
-A Collection of resources for Microsoft practice building in the Business Applications Workloads. For a view of other Workloadss, please see the [Taxonomy](./Taxonomy).
+A Collection of resources for Microsoft practice building in the Business Applications Workloads. For a view of other Workloads, please see the [Taxonomy](./Taxonomy).
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
@@ -28,7 +28,7 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :-----  | :-----
 [Customer Service Playbook](https://aka.ms/D365CSPartner)| This playbook is intended for current Microsoft Business Applications Partners, current Microsoft Partners in areas other than Business Apps, and new Microsoft partners that are launching a customer service practice built on Dynamics 365 Customer Service |  Transform
-[Field Service Playbook](https://aka.ms/D365FSPartner)| This playbook is intended for current Microsoft Business Applications Partners, current Microsoft Partners that specialize in Workloadss other than Biz Apps, and new Microsoft partners who are launching a field service practice built on Dynamics 365 Field Service |  Transform
+[Field Service Playbook](https://aka.ms/D365FSPartner)| This playbook is intended for current Microsoft Business Applications Partners, current Microsoft Partners that specialize in Workloads other than Biz Apps, and new Microsoft partners who are launching a field service practice built on Dynamics 365 Field Service |  Transform
 [Customer Experience Platform Playbook](https://aka.ms/MCXPPartner)| The Microsoft Customer Experience Platform is a complete marketing stack that learns from every customer interaction to optimize and deliver meaningful experiences. The stack delivers unparalleled customer insights through the interconnected nature of the tools and services that make it up, which include Microsoft Dynamics 365 and Power Platform, Microsoft 365 and the Teams modern workplace environment, and Azure. |  Transform
 [Sales Category Playbook](https://aka.ms/D365SalesPartnerPlaybook) |This playbook is intended for current Microsoft Business Applications Partners current Microsoft Partners in areas other than Business Apps, and new Microsoft partners that are launching a practice built on Microsoft Dynamics 365 Sales|  Transform
 [Digital Contact Center Platform Playbook](https://aka.ms/DCCPPartnerPlaybook) | This playbook is intended for current Microsoft Business Applications Partners, current Microsoft Partners in areas other than Business Apps, and new Microsoft partners that are launching a digital contact center practice built on Microsoft Dynamics 365 |  Transform
@@ -40,7 +40,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[FY26 Cloud Workloads Partner Playbooks](https://partner.microsoft.com/en-us/asset/collection/fy26-cloud-solution-area-partner-playbooks#/) | Explore how to drive revenue growth and profitability by delivering AI-powered services and solutions—supported by our end-to-end engagement model and aligned to our updated, streamlined Workloadss. Partner playbooks for AI Business Solutions, Cloud and AI Platforms, and Security help you build your practice and tap into investments with Solution Plays and GTM strategies. | Microsoft Partner
+[FY26 Cloud Workloads Partner Playbooks](https://partner.microsoft.com/en-us/asset/collection/fy26-cloud-solution-area-partner-playbooks#/) | Explore how to drive revenue growth and profitability by delivering AI-powered services and solutions—supported by our end-to-end engagement model and aligned to our updated, streamlined Workloads. Partner playbooks for AI Business Solutions, Cloud and AI Platforms, and Security help you build your practice and tap into investments with Solution Plays and GTM strategies. | Microsoft Partner
 [Microsoft Dynamics 365 Partner portal](https://dynamicspartners.transform.microsoft.com)|Partner *Transform Portal* for Business Apps|Accessible based on Microsoft AI Cloud Partner Program membership and competencies or solution partner standing | Transform
 [Pre-Commit Business Applications Partner Activities](https://dynamicspartners.transform.microsoft.com/download/protected?assetname=protectedassets/FY24%20Pre-Commit%20Bus%20Apps%20Partner%20Activities%20Program%20Guide%20and%20Overview.pptx&download=1&protected=1) | Detailed program guide and overview of Partner-led Business Applications incentives program| Transform FY24
 [Business Applications Partner Sales Acceleration Program](https://partner.microsoft.com/en-us/training/assets/collection/business-applications-partner-sales-acceleration-program-psap#/) | Get best practices and presentation resources that will guide you in shaping a business-first sales model that's focused on the Business Applications Workloads and its core sales plays—and resources specially for small business.​| Microsoft Partner

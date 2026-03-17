@@ -3,7 +3,7 @@
 
 ## Purpose
 
-A collection of learning resources that span the Microsoft Workloadss.
+A collection of learning resources that span the Microsoft Workloads.
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
