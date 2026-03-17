@@ -127,6 +127,8 @@ Source | Description | Notes
 :----- | :---------- | :----
 [Everything you need to know about Microsoft Agent 365](https://aka.ms/AiWebinars/Agent365) | Introduce Agent 365, the control plane for agents to manage and secure AI agents at scale, fully integrated with Microsoft 365 admin and security tools.  | Power CAT
 [Agent 365 - Discoverable, governed and secure agents](https://aka.ms/A365/Registry) | Agent 365 agent registry for agent discoverability and governance| Power CAT
+[Agent 365 – Identity, Observability, and Interoperability](https://aka.ms/A365/Interop) | Walkthrough of Agent 365 - Microsoft’s control plane for securely managing AI agents at scale | Power CAT
+
 
 
 
