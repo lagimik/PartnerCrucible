@@ -121,6 +121,17 @@ Source | Description | Notes
 :----- | :---------- | :----
 [Azure Network Security Ninja Training](https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-network-security-ninja-training/ba-p/2356101) | In this blog post, we will walk you through basic to advanced scenarios for Azure network security. Ready to become an Azure NetSec ninja? Dive right in! | Tech Community 2022
 
+## Agent 365
+
+Source | Description | Notes
+:----- | :---------- | :----
+[Everything you need to know about Microsoft Agent 365](https://aka.ms/AiWebinars/Agent365) | Introduce Agent 365, the control plane for agents to manage and secure AI agents at scale, fully integrated with Microsoft 365 admin and security tools.  | Power CAT
+[Agent 365 - Discoverable, governed and secure agents](https://aka.ms/A365/Registry) | Agent 365 agent registry for agent discoverability and governance| Power CAT
+[Agent 365 – Identity, Observability, and Interoperability](https://aka.ms/A365/Interop) | Walkthrough of Agent 365 - Microsoft’s control plane for securely managing AI agents at scale | Power CAT
+[Agent 365 - Security and Governance”](https://aka.ms/A365/Security) | Agent 365 integration with Microsoft Admin Center, ENTRA, Purview, and Defender to provide visibility, lifecycle management, data protection, and real-time threat defense for AI agents | Power CAT
+[Agent 365 – Access Control for Agents](https://aka.ms/A365/Access) | Agent 365 access control capabilities including review, publish, block, and reassign agents, automate governance with rules, apply policy templates for consistent security and compliance. agent tools, integration with MCP servers, and visibility of agent activities, providing practical guidance for scaling and securing AI agents in enterprise environments  | Power CAT
+
+
 ## Security Copilot
 
 * See the [Security Copilot](../PartnerCrucible/SecuritySolutionArea-Copilot)
