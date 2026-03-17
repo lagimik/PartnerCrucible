@@ -129,6 +129,7 @@ Source | Description | Notes
 [Agent 365 - Discoverable, governed and secure agents](https://aka.ms/A365/Registry) | Agent 365 agent registry for agent discoverability and governance| Power CAT
 [Agent 365 – Identity, Observability, and Interoperability](https://aka.ms/A365/Interop) | Walkthrough of Agent 365 - Microsoft’s control plane for securely managing AI agents at scale | Power CAT
 [Agent 365 - Security and Governance”](https://aka.ms/A365/Security) | Agent 365 integration with Microsoft Admin Center, ENTRA, Purview, and Defender to provide visibility, lifecycle management, data protection, and real-time threat defense for AI agents | Power CAT
+[Agent 365 – Access Control for Agents](https://aka.ms/A365/Access) | Agent 365 access control capabilities including review, publish, block, and reassign agents, automate governance with rules, apply policy templates for consistent security and compliance. agent tools, integration with MCP servers, and visibility of agent activities, providing practical guidance for scaling and securing AI agents in enterprise environments  | Power CAT
 
 
 
