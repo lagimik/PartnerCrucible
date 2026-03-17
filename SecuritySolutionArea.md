@@ -121,6 +121,14 @@ Source | Description | Notes
 :----- | :---------- | :----
 [Azure Network Security Ninja Training](https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-network-security-ninja-training/ba-p/2356101) | In this blog post, we will walk you through basic to advanced scenarios for Azure network security. Ready to become an Azure NetSec ninja? Dive right in! | Tech Community 2022
 
+## Agent 365
+
+Source | Description | Notes
+:----- | :---------- | :----
+[Everything you need to know about Microsoft Agent 365](https://aka.ms/AiWebinars/Agent365) | Introduce Agent 365, the control plane for agents to manage and secure AI agents at scale, fully integrated with Microsoft 365 admin and security tools.  | Power CAT
+
+
+
 ## Security Copilot
 
 * See the [Security Copilot](../PartnerCrucible/SecuritySolutionArea-Copilot)
