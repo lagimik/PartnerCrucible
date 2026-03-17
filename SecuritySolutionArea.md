@@ -132,10 +132,6 @@ Source | Description | Notes
 [Agent 365 – Access Control for Agents](https://aka.ms/A365/Access) | Agent 365 access control capabilities including review, publish, block, and reassign agents, automate governance with rules, apply policy templates for consistent security and compliance. agent tools, integration with MCP servers, and visibility of agent activities, providing practical guidance for scaling and securing AI agents in enterprise environments  | Power CAT
 
 
-
-
-
-
 ## Security Copilot
 
 * See the [Security Copilot](../PartnerCrucible/SecuritySolutionArea-Copilot)
