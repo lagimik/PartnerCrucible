@@ -7,7 +7,7 @@ categories: "AI Business Solutions"
 # Power Platform - Copilot Studio Workload
 
 ## Purpose
-A Collection of resources for Microsoft practice building leveraging Copilot Studio. For a view of other Workloadss, please see the [Taxonomy](./Taxonomy).
+A Collection of resources for Microsoft practice building leveraging Copilot Studio. For a view of other Workloads, please see the [Taxonomy](./Taxonomy).
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 

@@ -11,7 +11,7 @@ categories: "Digital and App Innovation"
 
 ## Purpose
 
-A Collection of resources for Microsoft practice building in the Digital App and Innovation area. For a view of other Workloadss, please see the [Taxonomy](./Taxonomy).
+A Collection of resources for Microsoft practice building in the Digital App and Innovation area. For a view of other Workloads, please see the [Taxonomy](./Taxonomy).
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 

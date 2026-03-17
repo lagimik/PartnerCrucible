@@ -11,7 +11,7 @@ categories: "Security"
 
 ## Purpose
 
-A Collection of resources for Microsoft practice building in the Security Workloads. For a view of other Workloadss, please see the [Taxonomy](./Taxonomy).
+A Collection of resources for Microsoft practice building in the Security Workloads. For a view of other Workloads, please see the [Taxonomy](./Taxonomy).
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
@@ -60,7 +60,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
-[FY26 Cloud Workloads Partner Playbooks](https://partner.microsoft.com/en-us/asset/collection/fy26-cloud-solution-area-partner-playbooks#/) | Explore how to drive revenue growth and profitability by delivering AI-powered services and solutions—supported by our end-to-end engagement model and aligned to our updated, streamlined Workloadss. Partner playbooks for AI Business Solutions, Cloud and AI Platforms, and Security help you build your practice and tap into investments with Solution Plays and GTM strategies. | Microsoft Partner
+[FY26 Cloud Workloads Partner Playbooks](https://partner.microsoft.com/en-us/asset/collection/fy26-cloud-solution-area-partner-playbooks#/) | Explore how to drive revenue growth and profitability by delivering AI-powered services and solutions—supported by our end-to-end engagement model and aligned to our updated, streamlined Workloads. Partner playbooks for AI Business Solutions, Cloud and AI Platforms, and Security help you build your practice and tap into investments with Solution Plays and GTM strategies. | Microsoft Partner
 [The Partner Opportunity For Microsoft Security](https://aka.ms/ForresterMSSecurityTEI2023) | Microsoft commissioned Forrester Consulting to conduct a Total Economic Impact™ (TEI) study to examine how partners can benefit from investing in and expanding their Microsoft security practices for both small and medium-sized businesses (SMBs) and enterprise customers. “Microsoft security” is a broad term that encompasses all products and services across six product families: Microsoft Defender, Microsoft Sentinel, Microsoft Entra, Microsoft Intune, Microsoft Purview, and Microsoft Priva. | Foresster 2023
 [ Microsoft Security Community](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) | Join Our Microsoft Security Community  Want to help defend the world against cyber attacks? We want you to influence our designs, plans, and guidance so we can have a global impact together. That's why we need your participation in our security community | Community
 [Investing in MXDR partner success](https://cloudpartners.transform.microsoft.com/mxdrpartners) | Demand for managed extended detection and response (MXDR) services is on a fast growth trajectory. Today, more than 860,000 organizations use Microsoft security products,1 and according to Gartner, more than 60 percent of organizations will be using managed detection and response (MDR) services for threat monitoring, detection, and response functions that offer threat containment and mitigation capabilities by 2025.2 Partners play a critical role in addressing this incredible customer demand, and Microsoft is investing in your ability to meet this coming need. | Transform
