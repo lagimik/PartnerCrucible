@@ -12,6 +12,7 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [Public Sector Center of Expertise](https://wwps.microsoft.com/)| The Microsoft Public Sector Center of Expertise supports the evolution of public sector organizations by sharing insights and best practices, research, and resources on digital innovation.  | ...
 [Public Sector Future Podcast](https://wwps.microsoft.com/episodes) | Our Public Sector Future podcast delves into these topics with global expert interviews. | 
+[Microsoft is named a leader in The Forrester Wave: Industry Cloud Solutions for Public Sector, Q1 2026](https://www.microsoft.com/en-us/industry/blog/government/2026/02/25/microsoft-is-named-a-leader-in-the-forrester-wave-industry-cloud-solutions-for-public-sector-q1-2026/) | Microsoft is named a leader in The Forrester Wave for Industry Cloud Solutions for Public Sector. | Microsoft Industry Blog |
 
 ## Digital Government
 Source | Description | Notes
