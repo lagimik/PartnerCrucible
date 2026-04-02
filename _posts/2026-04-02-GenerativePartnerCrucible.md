@@ -5,7 +5,7 @@ flag: GenerativePartnerCrucible
 layout: generativepartnercrucible
 thumbnail: /PartnerCrucible/assets/images/2026-04-02-PowerPlatformSolutionArea.md-image.png
 ---
-![DataAISolutionArea.md](/PartnerCrucible/assets/images/2026-04-02-DataAISolutionArea.md-image.png)
+![DataAISolutionArea.md](https://lagimik.github.io/PartnerCrucible//assets/images/2026-04-02-DataAISolutionArea.md-image.png)
 
 # Data & AI Workloads
 
@@ -19,7 +19,7 @@ thumbnail: /PartnerCrucible/assets/images/2026-04-02-PowerPlatformSolutionArea.m
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea) for more partner resources.
 
-![DigitalAppsandInnovationSolutionArea.md](/PartnerCrucible/assets/images/2026-04-02-DigitalAppsandInnovationSolutionArea.md-image.png)
+![DigitalAppsandInnovationSolutionArea.md](https://lagimik.github.io/PartnerCrucible/assets/images/2026-04-02-DigitalAppsandInnovationSolutionArea.md-image.png)
 
 # Digital & App Innovation Workloads
 
@@ -36,7 +36,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DigitalAppsandInnovationSolutionArea) for more partner resources.
 
-![PowerPlatformSolutionArea.md](/PartnerCrucible/assets/images/2026-04-02-PowerPlatformSolutionArea.md-image.png)
+![PowerPlatformSolutionArea.md](https://lagimik.github.io/PartnerCrucible/assets/images/2026-04-02-PowerPlatformSolutionArea.md-image.png)
 
 # Power Platform Workloads
 
