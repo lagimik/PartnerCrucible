@@ -1,9 +1,12 @@
+---
+layout: null
+---
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title }} | Partner Crucible</title>
+  <title>Generative Partner Crucible</title>
 
   <!-- Favicon -->
   <link rel="apple-touch-icon" sizes="180x180" href="/PartnerCrucible/Library/apple-touch-icon.png">
@@ -12,8 +15,14 @@
   <link rel="manifest" href="/PartnerCrucible/Library/site.webmanifest">
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/PartnerCrucible/feed.xml">
 
-  {% seo %}
-  {% include head-custom.html %}
+  <!-- Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-RYZGVB8WWM"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-RYZGVB8WWM');
+  </script>
 
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -21,17 +30,17 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 
   <!-- Styles -->
-  <link rel="stylesheet" href="{{ '/styles.css' | relative_url }}">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
   <!-- Navbar -->
   <header class="navbar" id="navbar">
     <div class="navbar-inner">
-      <a href="{{ '/' | relative_url }}" class="navbar-brand">Microsoft Partner Crucible</a>
+      <a href="./" class="navbar-brand">Microsoft Partner Crucible</a>
       <nav class="navbar-menu" id="navbarMenu" role="navigation" aria-label="Main navigation">
-        <a href="{{ '/' | relative_url }}">Home</a>
-        <a href="{{ '/GenerativePartnerCrucible' | relative_url }}">All Posts</a>
+        <a href="./">Home</a>
+        <a href="#posts">Posts</a>
         <a href="/PartnerCrucible/feed.xml" target="_blank" class="nav-rss" aria-label="RSS Feed">RSS</a>
       </nav>
       <button class="navbar-toggle" id="navbarToggle" aria-label="Toggle navigation" aria-expanded="false">
@@ -49,20 +58,34 @@
     <section class="hero hero-short">
       <div class="hero-overlay"></div>
       <div class="hero-content">
-        <h1 class="hero-title">{{ page.title }}</h1>
-        <p class="hero-subtitle">{{ page.date | date: "%B %d, %Y" }}</p>
+        <h1 class="hero-title">Generative Partner Crucible</h1>
+        <p class="hero-subtitle">An experiment in generative AI</p>
+        <p class="hero-description">AI-generated summaries and insights from across the Partner Crucible, delivered weekly.</p>
         <div class="hero-actions">
-          <a href="{{ '/GenerativePartnerCrucible' | relative_url }}" class="btn btn-secondary">← All Posts</a>
+          <a href="./" class="btn btn-secondary">← Back to Crucible</a>
         </div>
       </div>
     </section>
 
-    <!-- Post Content -->
-    <section class="section">
+    <!-- Posts -->
+    <section class="section" id="posts">
       <div class="container">
-        <article class="prose">
-          {{ content }}
-        </article>
+        <h2 class="section-title reveal">Posts</h2>
+        <div class="card-grid">
+          {% for post in site.posts %}
+            {% if post.layout == 'generativepartnercrucible' %}
+          <a href="/PartnerCrucible{{ post.url }}" class="card reveal">
+            {% if post.thumbnail %}
+            <div class="card-thumbnail">
+              <img src="{{ post.thumbnail }}" alt="{{ post.title }}" loading="lazy">
+            </div>
+            {% endif %}
+            <h3 class="card-title">{{ post.title }}</h3>
+            <p class="card-date">{{ post.date | date: "%B %d, %Y" }}</p>
+          </a>
+            {% endif %}
+          {% endfor %}
+        </div>
       </div>
     </section>
 
@@ -75,7 +98,7 @@
       <ul class="footer-links">
         <li><a href="https://github.com/lagimik/PartnerCrucible" target="_blank" rel="noopener">GitHub</a></li>
         <li><a href="/PartnerCrucible/feed.xml" target="_blank" rel="noopener">RSS Feed</a></li>
-        <li><a href="{{ '/Search' | relative_url }}">Search</a></li>
+        <li><a href="./Search">Search</a></li>
       </ul>
     </div>
   </footer>
@@ -113,6 +136,20 @@
     window.addEventListener('scroll', function() {
       navbar.classList.toggle('scrolled', window.scrollY > 50);
     }, { passive: true });
+
+    // Scroll reveal animation
+    var revealObserver = new IntersectionObserver(function(entries) {
+      entries.forEach(function(entry) {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+          revealObserver.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+
+    document.querySelectorAll('.reveal').forEach(function(el) {
+      revealObserver.observe(el);
+    });
   </script>
 
 </body>
