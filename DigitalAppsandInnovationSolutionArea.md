@@ -112,6 +112,13 @@ Source | Description | Notes
 [Radius](https://github.com/radius-project/radius) | Radius is an open-source project that supports deploying applications across private cloud, Microsoft Azure, and Amazon Web Services, with more cloud providers to come. | GitHub
 [Radius: a new open-source application platform for the cloud](https://www.youtube.com/watch?v=gaG77PiYv5w) | The Microsoft Azure Incubations team is excited to announce Radius, a cloud-native application platform that enables developers and the platform engineers who support them to collaborate on delivering and managing cloud-native applications that follow corporate best practices for cost, operations, and security by default. Radius is an open-source project that supports deploying applications across private cloud, Microsoft Azure, and Amazon Web Services, with more cloud providers to come. | Microsoft Ignite
 
+
+## Aspire
+
+Source | Description | Notes
+:----- | :---------- | :----
+[.NET Aspire](https://github.com/microsoft/aspire) | .NET Aspire is a cloud-ready stack for building observable, production-ready, distributed applications. It provides a set of opinionated components and tooling that streamline the development of cloud-native apps with built-in service discovery, telemetry, resilience, and health checks. | GitHub
+
 ## Chaos Engineering
 
 Source | Description | Notes
