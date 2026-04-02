@@ -103,6 +103,7 @@ Source | Description | Notes
 [AI Innovations](https://dynamicspartners.transform.microsoft.com/cloud-conversations?tab=tab-custom3) | Generative AI in Power Platform including Power Apps, Power Virtual Agents, Power Pages| Transform
 [Power Platform Generative AI](https://dynamicspartners.transform.microsoft.com/download/protected?assetname=protectedassets%2FPower%20Platform%20generative%20pitch%20deck.pptx&download=1&protected=1&src=https:%2F%2Fdynamicspartners.transform.microsoft.com%2Fcloud-conversations) | Partner Pitch Deck - History, overview, and deep dive into fusing Power Platform with Generative AI | Transform
 [Power Platform is leading a new era of AI-generated low-code app development](https://cloudblogs.microsoft.com/powerplatform/2023/03/16/power-platform-is-leading-a-new-era-of-ai-generated-low-code-app-development/) | Microsoft Power Platform is announcing Copilot in Power Apps, Power Automate, and Power Virtual Agents further democratizing development and enabling even more people to create innovative solutions through natural language. | Blog
+[Agent Solution Ideas](https://learn.microsoft.com/en-us/power-platform/architecture/solution-ideas/) | A collection of architecture solution ideas for building agents with Microsoft Power Platform, providing patterns and guidance for common agent scenarios. | Microsoft Learn
 
 ## Copilot Studio
 
