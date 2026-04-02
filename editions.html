@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Partner Crucible Editions</title>
+
+  <!-- Favicon -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/PartnerCrucible/Library/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/PartnerCrucible/Library/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/PartnerCrucible/Library/favicon-16x16.png">
+  <link rel="manifest" href="/PartnerCrucible/Library/site.webmanifest">
+
+  <!-- Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-RYZGVB8WWM"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-RYZGVB8WWM');
+  </script>
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Navbar -->
+  <header class="navbar" id="navbar">
+    <div class="navbar-inner">
+      <a href="./editions.html" class="navbar-brand">Partner Crucible</a>
+      <nav class="navbar-menu" id="navbarMenu" role="navigation" aria-label="Main navigation">
+        <a href="#editions">Editions</a>
+        <a href="/PartnerCrucible/feed.xml" target="_blank" class="nav-rss" aria-label="RSS Feed">RSS</a>
+      </nav>
+      <button class="navbar-toggle" id="navbarToggle" aria-label="Toggle navigation" aria-expanded="false">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </header>
+  <div class="mobile-overlay" id="mobileOverlay"></div>
+
+  <main>
+
+    <!-- Hero -->
+    <section class="hero">
+      <div class="hero-overlay"></div>
+      <div class="hero-content">
+        <h1 class="hero-title">Partner Crucible</h1>
+        <p class="hero-subtitle">Choose Your Edition</p>
+        <p class="hero-description">The <strong>Partner Crucible</strong> curates links, models, and insights for Microsoft partners. Select a regional edition below to explore resources tailored to your market.</p>
+      </div>
+    </section>
+
+    <!-- Editions -->
+    <section class="section" id="editions">
+      <div class="container">
+        <h2 class="section-title reveal">Editions</h2>
+        <p class="section-description reveal">Regional editions of the Partner Crucible, each curated for local Microsoft partner ecosystems.</p>
+        <div class="card-grid card-grid-2">
+          <a href="./" class="card card-highlight reveal">
+            <div class="card-icon">
+              <img src="./Library/crucible-search-white.png" width="80" alt="Canada Edition" loading="lazy">
+            </div>
+            <h3 class="card-title">🇨🇦 Canada</h3>
+            <p class="card-description">Resources for Canadian Microsoft partners — innovation, practice building, and workloads across all solution areas.</p>
+          </a>
+          <div class="card reveal" style="opacity: 0.5; pointer-events: none;">
+            <div class="card-icon">
+              <img src="./Library/crucible-search-white.png" width="80" alt="Coming Soon" loading="lazy">
+            </div>
+            <h3 class="card-title">More editions coming soon</h3>
+            <p class="card-description">Additional regional editions are in development. Stay tuned.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <p class="footer-text">&copy; 2026 Microsoft Partner Crucible</p>
+      <ul class="footer-links">
+        <li><a href="https://github.com/lagimik/PartnerCrucible" target="_blank" rel="noopener">GitHub</a></li>
+        <li><a href="/PartnerCrucible/feed.xml" target="_blank" rel="noopener">RSS Feed</a></li>
+      </ul>
+    </div>
+  </footer>
+
+  <script>
+    // Mobile menu toggle
+    const toggle = document.getElementById('navbarToggle');
+    const menu = document.getElementById('navbarMenu');
+    const overlay = document.getElementById('mobileOverlay');
+
+    function closeMenu() {
+      menu.classList.remove('active');
+      toggle.classList.remove('active');
+      overlay.classList.remove('active');
+      toggle.setAttribute('aria-expanded', 'false');
+      document.body.style.overflow = '';
+    }
+
+    toggle.addEventListener('click', function() {
+      var isOpen = menu.classList.toggle('active');
+      toggle.classList.toggle('active');
+      overlay.classList.toggle('active');
+      toggle.setAttribute('aria-expanded', isOpen);
+      document.body.style.overflow = isOpen ? 'hidden' : '';
+    });
+
+    overlay.addEventListener('click', closeMenu);
+
+    menu.querySelectorAll('a').forEach(function(link) {
+      link.addEventListener('click', closeMenu);
+    });
+
+    // Navbar scroll effect
+    var navbar = document.getElementById('navbar');
+    window.addEventListener('scroll', function() {
+      navbar.classList.toggle('scrolled', window.scrollY > 50);
+    }, { passive: true });
+
+    // Scroll reveal animation
+    var revealObserver = new IntersectionObserver(function(entries) {
+      entries.forEach(function(entry) {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+          revealObserver.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+
+    document.querySelectorAll('.reveal').forEach(function(el) {
+      revealObserver.observe(el);
+    });
+  </script>
+
+</body>
+</html>
