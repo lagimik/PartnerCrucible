@@ -148,6 +148,7 @@ Source | Description | Notes
 [Basic Azure AI Foundry chat reference architecture](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/basic-azure-ai-foundry-chat) | First article in a series providing a basic architecture to help you learn how to run chat applications by using Azure AI Foundry and Azure OpenAI language models. | Microsoft Learn
 [Azure AI Foundry Agent service chat basic reference implementation](https://github.com/Azure-Samples/openai-end-to-end-basic/) | This reference implementation illustrates an approach running a chat application and an AI orchestration layer in a single region. It uses Azure AI Foundry Agent service as the orchestrator and Azure OpenAI foundation models | Azure Samplesl GitHub
 [Foundry Local](https://www.foundrylocal.ai/) | Run AI models locally on your device. Foundry Local provides on-device inference with complete data privacy, no Azure subscription required. | foundrylocal.ai
+[Building Your First Local RAG Application with Foundry Local](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/building-your-first-local-rag-application-with-foundry-local/4501968) | A step-by-step guide to building a local RAG application using Foundry Local, enabling developers to run AI models locally for development and prototyping. | Tech Community
 
 
 ## Agentic Frameworks
