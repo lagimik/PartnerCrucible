@@ -3,7 +3,7 @@ title: 'Generative Partner Crucible - for the week ending 2024-01-13'
 date: 2024-01-13
 flag: GenerativePartnerCrucible
 layout: generativepartnercrucible
-thumbnail: /PartnerCrucible/assets/images/2024-01-13-PowerPlatformSolutionArea.md-image.png
+thumbnail: /PartnerCrucible/assets/images/2024-01-13-BusinessApplicationsSolutionArea.md-image.png
 ---
 
 ![ LearningResources.md ]( /PartnerCrucible/assets/images/2024-01-13-Hackathon.md-image.png )

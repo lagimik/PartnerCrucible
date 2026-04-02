@@ -3,7 +3,7 @@ title: 'Generative Partner Crucible - for the week ending 2025-12-08'
 date: 2025-12-08
 flag: GenerativePartnerCrucible
 layout: generativepartnercrucible
-thumbnail: /PartnerCrucible/assets/images/2025-12-08-PowerPlatformSolutionArea.md-image.png
+thumbnail: /PartnerCrucible/assets/images/2025-12-08-AzureInfrastructureSolutionArea.md-image.png
 ---
 
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2025-12-08-AzureInfrastructureSolutionArea.md-image.png )

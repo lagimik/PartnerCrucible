@@ -3,7 +3,7 @@ title: 'Generative Partner Crucible - for the week ending 2023-12-20'
 date: 2023-12-20
 flag: GenerativePartnerCrucible
 layout: generativepartnercrucible
-thumbnail: /PartnerCrucible/assets/images/2023-12-20-PowerPlatformSolutionArea.md-image.png
+thumbnail: /PartnerCrucible/assets/images/2023-12-20-AzureInfrastructureSolutionArea.md-image.png
 ---
 
 # Data AI Workloads

@@ -3,7 +3,7 @@ title: 'Generative Partner Crucible - for the week ending 2025-11-30'
 date: 2025-11-30
 flag: GenerativePartnerCrucible
 layout: generativepartnercrucible
-thumbnail: /PartnerCrucible/assets/images/2025-11-30-PowerPlatformSolutionArea.md-image.png
+thumbnail: /PartnerCrucible/assets/images/2025-11-30-DataAISolutionArea.md-image.png
 ---
 
 # Ignite 2025

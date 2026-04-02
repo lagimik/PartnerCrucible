@@ -3,7 +3,7 @@ title: 'Generative Partner Crucible - for the week ending 2024-05-25'
 date: 2024-05-25
 flag: GenerativePartnerCrucible
 layout: generativepartnercrucible
-thumbnail: /PartnerCrucible/assets/images/AzureInfrastructureSolutionArea.md-image.png
+thumbnail: /PartnerCrucible/assets/images/2024-05-25-AzureInfrastructureSolutionArea.md-image.png
 ---
 
 ![ ModernWorkSolutionArea-Copilot.md ]( /PartnerCrucible/assets/images/2024-05-25-ModernWorkSolutionArea-Copilot.md-image.png )
