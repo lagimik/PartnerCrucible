@@ -12,12 +12,13 @@ A Collection of resources for Microsoft practice building leveraging Copilot Stu
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
 ## Industry
+
 | Source | Description | Notes |
 | :----- | :---------- | :---- |
 | [Microsoft Copilot Studio Blog](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/) | Official blog for Microsoft Copilot Studio, featuring product updates, best practices, and partner stories. | Microsoft Blog |
 
-
 ## Practice Building
+
 | Source | Description | Notes |
 | :----- | :---------- | :---- |
 | [Microsoft Copilot specialization](https://partner.microsoft.com/en-US/partnership/specialization/microsoft-copilot) | The Microsoft Copilot specialization demonstrates your experience and skills related to Microsoft 365 Copilot, including Microsoft 365 Copilot Chat, Microsoft Copilot Studio, and agents | Microsoft Partner |
@@ -30,6 +31,7 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 | [Digital Deep Dive: Copilot Control System (CCS)](https://techcommunity.microsoft.com/event/microsoft365copilot-events/digital-deep-dive-copilot-control-system-ccs/4414752) | Learn how to secure, manage, and analyze Microsoft 365 Copilot, Copilot Chat, Microsoft Copilot Studio, and agents across your organization using the Copilot Control System (CCS). | Tech Community |
 
 ## Copilot Studio Skilling
+
 | Source | Description | Notes |
 | :----- | :---------- | :---- |
 | [Copilot Studio Agent Academy](https://microsoft.github.io/agent-academy/) | This hands-on training is your entry point into the world of agents: from grounded prompts to Adaptive Cards and agent flows, you'll learn how to build, scale, and deploy intelligent agents using real-world tools and use cases. | Microsoft GitHub |
