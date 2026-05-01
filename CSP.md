@@ -27,7 +27,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
-[AIBS CSP](https://microsoftpartners.microsoft.com/csp/) | |
+[AIBS CSP](https://microsoftpartners.microsoft.com/csp/) | Stay informed with the latest updates, events, and opportunities.|
 [Level Up CSP Training](https://microsoftpartners.microsoft.com/csp/level-up/) | Level Up CSP: AI Business Solutions trainings are built to help partners accelerate sales and technical capabilities | LevelUp
 [LevelUp CSP AIBS Bootcamps](https://levelupcspmwba.eventbuilder.com/Bootcamp) | These bootcamps are designed for CSP partners to develop sales and technical capabilities, acquire new customers, and explore upselling and cross-selling strategies. | 
 [AI @ Work CSP Insider](https://www.microsoft.com/en-us/AIatWorkCSPInsider) | Sign up to receive exclusive updates on products, programs, promotions and events tailored specifically for Microsoft Cloud Solution Provider (CSP) partners.
