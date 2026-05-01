@@ -9,6 +9,11 @@
 
 To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuide).
 
+## Communities
+
+Source | Description | Notes
+:----- | :-----  | :-----
+[Cloud Solution Provider (CSP) partners](https://techcommunity.microsoft.com/category/mcpp/discussions/cloudservicesproviderspartners) | This board is the go-to space for Microsoft Cloud Solution Provider (CSP) partners—both direct bill and indirect resellers—to collaborate, troubleshoot, and stay informed on the latest developments in the CSP ecosystem. | Tech Community
 
 ## Getting Started with CSP
 
@@ -37,6 +42,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[]() | | Tech Community
 [CSP security best practices](https://learn.microsoft.com/en-us/partner-center/csp-security-best-practices) | All partners in the Cloud Solution Provider (CSP) program accessing Partner Center and Partner Center APIs should follow the security guidance in this article to protect themselves and customers.| Microsoft Lean
 [GDAP roles by partner types](https://learn.microsoft.com/en-us/partner-center/gdap-least-privileged-roles-by-task#gdap-roles-by-partner-types) | Recommended for indirect providers to transact and manage | Microsoft Learn
 [Admin on behalf of (AOBO)](https://learn.microsoft.com/en-us/shows/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) | AOBO for O365 and Azure | MS Learn
@@ -48,6 +54,8 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Partner Center Technical Training](https://globalpbocomm.eventbuilder.com/CSPTechnicalTraining) | The CSP Technical Training is designed to assist CSP Partners with technical implementation of changes to Partner Center | 
+[CSP integration sandbox](https://learn.microsoft.com/en-gb/partner-center/developer/indirect-provider-sandbox-capabilities#prerequisites) | CSP indirect providers can create a CSP Reseller Sandbox account by way of their own Tier 2 Sandbox account in Partner Center.| Microsoft Learn
 [Partner Center developer documentation](https://learn.microsoft.com/en-us/partner-center/developer/) | Use APIs to work with Partner Center.| PArtner Center
 [Partner Center PowerShell cmdlets](https://www.powershellgallery.com/packages/PartnerCenter/3.0.10) | Microsoft Partner Center - cmdlets for managing Partner Center resources. | PowerShell Gallery
 [Partner Center samples](https://learn.microsoft.com/en-us/previous-versions/partner-center/developer/partner-center-samples) | To help you get up and running quickly with the Partner Center APIs, we provide a sample program, C# managed code snippets, and REST sample requests and responses. This includes the **Store Web Site** sample: This application shows how to build a web store based on the catalog of offers available to Cloud Solution Provider partners. Customers can create a store account and order software subscriptions through your site.| 
