@@ -117,6 +117,7 @@ Source | Description | Notes
 [AzAdvertizer](https://www.azadvertizer.net/index.html)| AzAdvertizer helps you to keep up with the pace by providing overview and insights on new releases and changes/updates for Azure Governance capabilities such as Azure Policy's policy definitions, initiatives (set definitions), aliases, security & regulatory compliance controls and Azure RBAC's role definitions and resource provider operations. |
 [PSRule for Azure](https://azure.github.io/PSRule.Rules.Azure/) | Ready to go rules for testing Azure Infrastructure as Code (IaC). | GitHub
 [Awesome Azure Architecture](https://github.com/lukemurraynz/awesome-azure-architecture) | by @lukemurraynz - A curated list of AWESOME blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure. | GitHub
+[az prototype — Azure CLI Extension](https://github.com/Azure/az-prototype/blob/main/README.md) | Azure CLI extension for rapid Azure prototype generation powered by AI agent teams, with built-in architecture, infra, security, and developer agents. | GitHub (Preview)
 
 ## Azure Adaptive Cloud
 
@@ -191,6 +192,7 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :---------- | :-----
 [Getting Started with Reliability on Azure](https://techcommunity.microsoft.com/t5/azure-architecture-blog/getting-started-with-reliability-on-azure-ensuring-cloud/ba-p/4152905) | Getting Started with Reliability on Azure: Ensuring Cloud Applications Stay Up and Running includes a reference architecture for reliability | Tech Community
+[Modern Azure Resilience with Mark Russinovich](https://techcommunity.microsoft.com/blog/reliability-and-resiliency-in-azure/modern-azure-resilience-with-mark-russinovich/4508967) | Practical guidance for choosing resilience patterns across availability zones, paired regions, and non-paired regions with tradeoff-based architecture decisions. | Tech Community
 
 ## Workload - Azure Quantum
 
