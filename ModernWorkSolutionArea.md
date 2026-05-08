@@ -23,6 +23,7 @@ Source | Description | Notes
 [TEI Of Microsoft Copilot For Microsoft 365](https://bcb.transform.microsoft.com/analyststudies) | The Projected Total Economic Impact™ Of Microsoft Copilot For Microsoft 365 - Cost Savings And Business Benefits Enabled By Copilot For Microsoft 365| Forrester, April 2024
 [Creating learn-it-alls at Microsoft with Viva Learning and LinkedIn Learning Hub](https://www.microsoft.com/insidetrack/blog/creating-learn-it-alls-at-microsoft-with-viva-learning-and-linkedin-learning-hub/?ocid=InsideTrack_Promotion_10440) | Microsoft has deployed Microsoft Viva Learning and LinkedIn Learning Hub internally at the company. | Microsoft Inside Track
 [Work Trend Index](https://www.microsoft.com/en-us/worklab/work-trend-index/) | Research and data on the trends reshaping the world of work | Microsoft Work Index
+[Microsoft named a Leader in the 2026 Gartner Magic Quadrant for Document Management](https://techcommunity.microsoft.com/blog/spblog/microsoft-named-a-leader-in-the-2026-gartner%C2%AE-magic-quadrant%E2%84%A2-for-document-manag/4516252) | SharePoint Blog post highlighting Microsoft recognition in the 2026 Gartner Magic Quadrant for Document Management and related AI-powered content capabilities. | Tech Community / SharePoint
 
 ## Partner Practice Building
 
