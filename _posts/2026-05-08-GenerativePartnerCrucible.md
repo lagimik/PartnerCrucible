@@ -30,7 +30,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 ## Deep links
 - [AI agent adoption](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ai-agents/): Cloud Adoption Framework guidance for planning, governing, building, and operating AI agents, including Microsoft 365 agents and custom agents built with Foundry and Copilot Studio. (Microsoft Learn)
 - [Tracking Every Token: Granular Cost and Usage Metrics for Microsoft Foundry Agents](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/tracking-every-token-granular-cost-and-usage-metrics-for-microsoft-foundry-agent/4503143): Shows how to instrument Foundry agents with APIM and Application Insights to get per-agent, per-request token and cost telemetry with KQL-based reporting. (Azure AI Foundry Blog)
-- - [Microsoft Fabric Capacity Estimator](https://www.microsoft.com/en-us/microsoft-fabric/capacity-estimator): Estimate Fabric capacity requirements to support workload planning and sizing decisions before deployment. (Microsoft - Sign-in required)
+- [Microsoft Fabric Capacity Estimator](https://www.microsoft.com/en-us/microsoft-fabric/capacity-estimator): Estimate Fabric capacity requirements to support workload planning and sizing decisions before deployment. (Microsoft - Sign-in required)
   
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea) for more partner resources.
 
