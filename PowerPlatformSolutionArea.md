@@ -138,6 +138,15 @@ Source | Description | Notes
 [Power BI Project (PBIP) and Azure DevOps build pipelines for continuous integration](https://learn.microsoft.com/en-us/power-bi/developer/projects/projects-build-pipelines) | Integrating the PBIP format with Azure DevOps lets you use Azure Pipelines to automate Continuous Integration/Continuous Deployment (CI/CD) pipelines. These pipelines process the PBIP metadata files and apply a series of quality checks to your development before deploying it to the production system. | Microsoft Learn
 [Deep dive into Power BI Desktop Developer Mode (Preview)](https://powerbi.microsoft.com/en-us/blog/deep-dive-into-power-bi-desktop-developer-mode-preview/) | Power BI Desktop Developer Mode takes advantage of Microsoft’s deep heritage in enterprise BI, and bringing Pro BI developer experiences right into Power BI Desktop. | PowerBI
 
+## Power BI Embedded
+
+Source | Description | Notes
+:----- | :---------- | :----
+[Power BI Embedded Analytics Playground](https://playground.powerbi.com/en-us/) | Learn and explore how you can use embedded analytics in your applications| Power BI
+[Power BI Developer Samples](https://github.com/Microsoft/PowerBI-Developer-Samples)| This repository contains Power BI Embedded solutions in 5 different frameworks to suit different scenarios as per requirements. In addition, it has samples for calling the Power BI REST APIs using PowerShell. | GitHub
+[Embedding Setup](https://app.powerbi.com/embedsetup) | Choose whether you’d like to embed Power BI in an application for your customers or in an application, website, or portal for your organization's internal users | POwerBI
+
+
 ## Power Automate
 
 Source | Description | Notes
