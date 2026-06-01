@@ -142,6 +142,8 @@ This section has been regrouped here: [Data & AI > Azure OpenAI](./DataAISolutio
 
 Source | Description | Notes
 :----- | :-----  | :-----
+[Foundry Agent Lab](https://github.com/microsoft-foundry/Foundry-Agent-Lab) | Progressive hands-on lab for building AI agents with Microsoft Foundry, from basic hello-world scenarios to more advanced agent workflows. | Microsoft Foundry GitHub
+[Building AI Agents with Microsoft Foundry: A Progressive Lab from Hello World to ...](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/building-ai-agents-with-microsoft-foundry-a-progressive-lab-from-hello-world-to-/4521792) | Companion walkthrough article for the Foundry Agent Lab that guides developers through the staged learning path and implementation approach. | Tech Community
 [Claude Foundry Kit](https://github.com/Azure-Samples/claude#readme) | Deploy Anthropic Claude on Microsoft Foundry using azd (Bicep or Terraform), then call it with the official Claude SDKs over Microsoft Entra ID. | Azure Samples GitHub
 [Introducing Azure AI Foundry Labs](https://azure.microsoft.com/en-us/blog/introducing-azure-ai-foundry-labs-a-hub-for-the-latest-ai-research-and-experiments-at-microsoft/) | Azure AI Foundry Labs is a hub for the latest AI research and experiments at Microsoft, providing early access to innovative projects and insights. | Azure Blog
 [Basic Azure AI Foundry chat reference architecture](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/basic-azure-ai-foundry-chat) | First article in a series providing a basic architecture to help you learn how to run chat applications by using Azure AI Foundry and Azure OpenAI language models. | Microsoft Learn
