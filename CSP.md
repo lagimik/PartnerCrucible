@@ -14,6 +14,7 @@ To contribute to the PartnerCrucible, see [Contributor's Guide](ContributorsGuid
 Source | Description | Notes
 :----- | :-----  | :-----
 [Cloud Solution Provider (CSP) partners](https://techcommunity.microsoft.com/category/mcpp/discussions/cloudservicesproviderspartners) | This board is the go-to space for Microsoft Cloud Solution Provider (CSP) partners—both direct bill and indirect resellers—to collaborate, troubleshoot, and stay informed on the latest developments in the CSP ecosystem. | Tech Community
+[CSP Azure News](https://techcommunity.microsoft.com/tag/azure%20news?nodeid=board%3Apartnernews) | Follow Azure news and announcements relevant to CSP partners in the Partner News community stream. | Tech Community
 
 ## Getting Started with CSP
 
@@ -21,6 +22,7 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [Partner Center documentation](https://learn.microsoft.com/en-us/partner-center/) | Partner Center makes it easier for Microsoft partners to manage their relationship with Microsoft and their customers.| Partner Center
 [Partner Readiness Gallery](https://partner.microsoft.com/en-us/resources/cloud-solution-provider-program) | Explore Cloud Solution Provider content, including upcoming changes and new program information | Microsoft Partner
+[CSP Launch enablement guide](https://learn.microsoft.com/en-us/partner-center/announcements/launch-enablement-guide) | Launch enablement guidance and announcement details to help partners prepare for and adopt CSP program updates. | Microsoft Learn
 [CSP Fundamentals](https://globalpbocomm.eventbuilder.com/CSPFundamentals) | On-demand and Live content - Aiming to help you quickly get started and expand your partner opportunity in the Cloud Solution Provider program, the Partner Business Operations team will deliver a CSP Fundamentals session to direct bill partners, to provide a simple step-by-step guidance to quickly enable partners to set up, managed and transact.| Event Builder
 
 ## CSP Sales | AI Business Solutions Solution Areas 
