@@ -76,6 +76,7 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :---------- | :-----
 [Introducing Project Opal: A New Way to Get Task-Based Work Done](https://techcommunity.microsoft.com/blog/Microsoft365CopilotBlog/introducing-project-opal-a-new-way-to-get-task-based-work-done/4470999) | Today we’re introducing Project Opal in Microsoft 365 Copilot – a new AI-powered capability that executes task-based work inside a secure, observable environment you control.| Tech Community
+[Microsoft Scout (Frontier)](https://learn.microsoft.com/en-ca/microsoft-scout/) | Microsoft Scout is an AI desktop application that takes action across your files, shell, browser, and Microsoft 365. It enables users to direct AI to perform tasks in a secure, observable environment. | Microsoft Learn
 
 ## Scenarios and Accelerators
 
