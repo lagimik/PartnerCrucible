@@ -34,7 +34,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ## Deep Links
 
-- [Microsoft Partner Resources](https://microsoft.github.io/PartnerResources/): This repository consists of documents, learning resources, and other assets designed to aid partners in practice development, upskilling, certifications, and bringing their solutions to market. Brought to you by the Microsoft Americas Global Partner Solutions (GPS) team, empowering partners and driving digital transformation.
 - [Oracle Database@Azure FAQ](https://www.oracle.com/cloud/azure/oracle-database-at-azure/faq/): This FAQ provides information about Oracle Database@Azure.
 - [Triage practices for AKS operations](https://learn.microsoft.com/en-us/azure/architecture/operator-guides/aks/aks-triage-practices): This series of articles describes the top-down approaches to addressing cluster health, node/pod health, workload deployments, admission controllers, and container registry connectivity in AKS operations.
 

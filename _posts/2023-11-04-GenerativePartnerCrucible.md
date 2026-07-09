@@ -20,7 +20,6 @@ thumbnail: /PartnerCrucible/assets/images/2023-11-04-ModernWorkSolutionArea.md-i
 - [Modern Work for CSP](https://cloudpartners.transform.microsoft.com/partner-gtm/csp): Supercharge your business by leveraging the programs and investments we are making in FY24 to help drive your business – including go-to-market content, fresh assets, readiness content, and incentive programs. Review the following tabs to learn more. (Transform)
 - [Microsoft365 Copilot Workshop Kit](https://cloudpartners.transform.microsoft.com/download?assetname=assets%252FMicrosoft365-Copilot-Workshop-Kit.zip): Technical and engagement delivery resource(s) with an overview of the tasks and content required to deliver the Microsoft 365 Copilot Workshop. (Transform)
 - [Get AI-ready with Microsoft 365](https://cloudpartners.transform.microsoft.com/partner-gtm/csp?tab=get-ai-ready): CSP - With Microsoft 365, SMBs can safely run their businesses from anywhere with a secure, comprehensive, AI-powered cloud solution that makes hybrid work, work. (Transform)# Advanced Value Calculator## What's newPartners now have access to the Advanced Value Calculator tool, which allows conducting detailed ROI analyses for customers. The tool has been updated to reflect the latest Forrester Total Economic Impact (TEI) data for more accurate and credible results. It is designed for sales situations with higher complexity than the Standard Value Calculator tool can address.## Deep links
-- [Advanced Value Calculator](https://vc.transform.microsoft.com/help/download): Excel - The Advanced Value Calculator tool allows you to conduct detailed ROI analyses for your customer(s). It has been updated to reflect the latest Forrester Total Economic Impact (TEI) data to ensure the most accurate and credible results possible. It is typically employed in sales situations where there is more complexity than can be addressed via the Standard (online) Value Calculator tool. (Transform)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/ModernWorkSolutionArea) for more partner resources.
 
@@ -53,8 +52,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 - [Azure VMware Solution Hands-on Labs](https://aka.ms/AVSHOL): Learn more about Azure VMware Solution by taking a Hands-on Lab (HOL). See the service in action as you go through tasks such as deployment and configuration of an Azure-based SDDC, as well as advanced topics for specific use cases like cloud migration. (Vmware)
 - [AVS Hub](https://www.avshub.io/): A collection of resources for the AVS community. (AVS Hub)
-- [Azure VMware Solution Learning Companion](https://learning-pathways.co.uk/wp-content/uploads/2023/09/Azure-VMware-Solution-Learning-Companion.pdf): Azure VMware Solution Learning Companion. (Learning Pathways)
-- [Learning Plan Resources for Azure VMware Solution (AVS)](https://microsoft.github.io/PartnerResources/azure/infrastructure/azure-vmware-solution): The curated resources for each topic consist of fundamental to expert resources, encompassing a range of materials such as blog links, documentation, hands-on labs, learning paths, tutorials, videos, and more. (Partner Resources)
 - [vmware TechZone - Azure VMware Solution](https://vmc.techzone.vmware.com/azure-vmware-solution): Migrate and run vSphere workloads natively on Microsoft Azure while taking advantage of the speed, scale, and innovation of Azure infrastructure and native services. (VMWare TechZone)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/AzureInfrastructureSolutionArea) for more partner resources.
@@ -89,7 +86,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 - [Microsoft SaaS Day for Startups](https://info.microsoft.com/WE-ISV-CATALOG-FY23-05May-09-Microsoft-SaaS-Academy-for-Startups-SREVM9822_Catalog-Display-Page.html?wt.mc_id=AID3058359_QSG_BLOG_640895): Microsoft SaaS Day for Startups is an on-demand conference that provides valuable insights into the latest trends and technologies in the SaaS industry. 
 - [Microsoft AI & IoT Insider Labs](https://aiotlabs.microsoft.com/p/apply): Startups can apply to the Microsoft AI & IoT Insider Labs for access to resources and support in these areas. 
 
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/ISV) for more partner resources.
 
 ![ SaaS.md ]( /PartnerCrucible/assets/images/2023-11-04-SaaS.md-image.png )
 

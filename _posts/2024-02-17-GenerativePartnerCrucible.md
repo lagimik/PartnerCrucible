@@ -29,7 +29,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ## Deep links
 
-- [Microsoft Fabric End-to-End Real-Time Analytics Workshop](https://github.com/microsoft/fabricrealtimelab): This tutorial helps you accelerate the evaluation process for Data Factory in Microsoft Fabric by providing a step-by-step guidance for a full data integration scenario within one hou (GitHub)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-Fabric) for more partner resources.
 

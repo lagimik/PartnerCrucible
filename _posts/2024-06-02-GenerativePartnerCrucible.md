@@ -29,7 +29,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ## Deep links
 
-- [Responsible AI Transparency Report](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1l5BO): In this report, Microsoft shares how they build generative applications responsibly, make decisions about releasing generative applications, support customers building their own AI applications, and evolve their responsible AI program.
 - [Announcing new tools in Azure AI](https://azure.microsoft.com/en-us/blog/announcing-new-tools-in-azure-ai-to-help-you-build-more-secure-and-trustworthy-generative-ai-applications/): New tools available or coming soon to Azure AI Studio for generative AI app developers.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-AzureOpenAI) for more partner resources.

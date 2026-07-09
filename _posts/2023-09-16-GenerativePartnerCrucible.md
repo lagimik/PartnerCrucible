@@ -56,7 +56,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 - [An Introduction to LLMOps](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/an-introduction-to-llmops-operationalizing-and-managing-large/ba-p/3910996): Operationalizing and Managing Large Language Models using Azure ML - Tech Community
 - [Conversational Azure OpenAI (ChatGPT) Accelerator](https://github.com/MSUSAzureAccelerators/Conversational-Azure-OpenAI-Accelerator): Rapid Custom Demo tailored to customer use case, focused on generating conversation and summarization - GitHub
 - [Information Assistant accelerator](https://forms.microsoft.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6o4NZzd2WJFhMOsgKclOl9UOFVXWEMyVERTVkxZTU9SUk5PVTkyUzdDRiQlQCN0PWcu): Form to set up a discussion about the Information Assistant accelerator, powered by Azure OpenAI
-- [Azure OpenAI Accelerators and Demo Assets](https://github.com/Azure/ai-solution-accelerators-list/blob/main/OpenAIDemos/README.md): List of Repeatable IP and learning resources for building an Azure OpenAI solution - GitHub
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-AzureOpenAI) for more partner resources.
 

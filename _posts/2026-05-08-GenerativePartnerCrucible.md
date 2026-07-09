@@ -71,6 +71,5 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ## Deep links
 
-- [Partner Uplift and Proposal Planning (PUPP)](https://microsoftpartners.microsoft.com/partnerupliftandproposalplanning): Program and readiness resources aimed at enhancing partners' proposal quality and accelerating customer-facing AI business solution opportunities. (Microsoft Partner)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/CSP) for more partner resources.

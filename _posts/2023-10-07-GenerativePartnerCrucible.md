@@ -73,7 +73,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 ## Deep links
 
 - [Blog post - Microsoft Digital Defense Report 2023](https://blogs.microsoft.com/on-the-issues/2023/10/05/microsoft-digital-defense-report-2023-global-cyberattacks/): This link provides access to the Microsoft Digital Defense Report 2023, which offers insights into the evolving digital threat landscape and actions that can be taken to improve ecosystem security.
-- [Microsoft Digital Defense Report 2022](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5bUvv?culture=en-us&country=us): Full report
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/SecuritySolutionArea) for more partner resources.
 

@@ -18,7 +18,6 @@ thumbnail: /PartnerCrucible/assets/images/2023-12-09-MicrosoftCopilots.md-image.
 
 - [Microsoft Copilot Studio - Implementation Guide](https://view.officeapps.live.com/op/view.aspx?src=https%253A%252F%252Fraw.githubusercontent.com%252Fmicrosoft%252FCopilotStudioSamples%252Fmaster%252FImplementationGuide%252FMicrosoft%252520Copilot%252520Studio%252520-%252520Implementation%252520Guide.pptx&wdOrigin=BROWSELINK): A Success by Design approach to implementing copilots by PowerCAT. Download the guide.
 
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/MicrosoftCopilots) for more partner resources.
 
 ![ DataAISolutionArea-AzureOpenAI.md ]( /PartnerCrucible/assets/images/2023-12-09-DataAISolutionArea-AzureOpenAI.md-image.png )
 
@@ -74,7 +73,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 ## Deep links
 
 - [Microsoft named a Leader in 2023 Gartner® Magic Quadrant™ for Access Management](https://www.microsoft.com/en-us/security/blog/2023/11/21/microsoft-named-a-leader-in-2023-gartner-magic-quadrant-for-access-management-for-the-7th-year/?ocid=AIDN%2FA_LINKEDIN_oo_spl100004948049593): Microsoft has been named a Leader in the 2023 Gartner® Magic Quadrant TM for Access Management. We believe Microsoft’s placement in the Leaders quadrant validates our commitment to empowering our customers with a comprehensive solution powered by AI and automation.
-- [Cybersecurity Copilot hub](https://cybersecurity-copilot.com/): By @Sameh Younis - As a seasoned Senior Security Solutions Architect with over 30 years in the field, including 16 years at Microsoft, this website offers a succinct way to access and search my LinkedIn articles and infographics. With a focus on cybersecurity and Azure cloud infrastructure, this platform is your guide to the latest developments and strategies in digital security.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/SecuritySolutionArea) for more partner resources.
 

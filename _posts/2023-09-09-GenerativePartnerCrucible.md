@@ -28,7 +28,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ## Deep links
 
-- [The Total Economic Impact™ Of Microsoft Azure AI](https://tools.totaleconomicimpact.com/go/microsoft/azureai/index.html?lang=en-us): Microsoft commissioned Forrester Consulting to conduct a study on the potential ROI of deploying Azure AI. This link provides access to the study, which offers insights for evaluating the financial impact of Azure AI on organizations. (Forrester, April 2023)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea) for more partner resources.
 
@@ -46,7 +45,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 - [Copilot Copyright Commitment](https://blogs.microsoft.com/on-the-issues/2023/09/07/copilot-copyright-commitment-ai-legal-concerns/) (Blog): Microsoft is providing a straightforward answer to whether customers can use Microsoft's Copilot services and the output they generate without worrying about copyright claims. Microsoft will assume responsibility for any potential legal risks involved.
 - [Conversational Azure OpenAI (ChatGPT) Accelerator](https://github.com/MSUSAzureAccelerators/Conversational-Azure-OpenAI-Accelerator): Rapid Custom Demo tailored to customer use case, focused on top two use cases of generating conversation and summarization. Systems Integrator (SI) partners are welcome. POC is white-labeled. (GitHub)
 - [Information Assistant accelerator](https://forms.microsoft.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6o4NZzd2WJFhMOsgKclOl9UOFVXWEMyVERTVkxZTU9SUk5PVTkyUzdDRiQlQCN0PWcu): Please fill out this form to set up a discussion about the Information Assistant accelerator, powered by Azure OpenAI. (%0A)
-- [Azure OpenAI Accelerators and Demo Assets](https://github.com/Azure/ai-solution-accelerators-list/blob/main/OpenAIDemos/README.md): A list of Repeatable IP and learning resources to quickly build an initial Azure OpenAI solution, developed by different individuals and teams at Microsoft. (GitHub)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-AzureOpenAI) for more partner resources.
 

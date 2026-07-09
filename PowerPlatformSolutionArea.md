@@ -25,7 +25,6 @@ Source | Description | Notes
 [Gartner® Magic Quadrant™ for Analytics and BI Platforms](https://powerbi.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2023-gartner-magic-quadrant-for-analytics-and-bi-platforms/) | 2023 - for the sixteenth consecutive year, Microsoft has been positioned as a Leader in the 2023 Gartner Magic Quadrant for Analytics and Business Intelligence Platforms.| Gartner
 [2023 Forrester Wave Low-Code Platforms for Citizen Developers](https://www.linkedin.com/posts/eugenezozulya_microsoft-lowcode-citizendeveloper-activity-7164248442666438657-lGXu/?utm_source=share&utm_medium=member_ios) | Microsoft approaches the Leaders Segment and is a Strong Performer in the Forrester wave Low-Code Platform for Citizen Developers with having the biggest Market Presence (Q1 2024) | Forrester 
 [The Forrester Wave™: Low-Code Platforms for Professional Developers](https://www.microsoft.com/en-us/power-platform/blog/power-apps/microsoft-is-a-leader-in-2025-forrester-wave-low-code-platforms-for-professional-developers/?ocid=AID3079989+_LINKEDIN_oo_spl100008642260514) | Microsoft has been recognized as a leader in The Forrester Wave™: Low-Code Platforms for Professional Developers, Q2 2025, ranked top for our strength of strategy and current offering| Forrester
-[Microsoft named a Leader and Positioned Furthest for Completeness of Vision in the 2023 Gartner® Magic Quadrant™ for Robotic Process Automation](https://powerautomate.microsoft.com/en-us/blog/microsoft-named-a-leader-and-positioned-furthest-for-completeness-of-vision-in-the-2023-gartner-magic-quadrant-for-robotic-process-automation/) | For the third consecutive year, Microsoft has been named a Leader in the Gartner® Magic Quadrant™ for Robotic Process Automation. This year Microsoft is positioned furthest in Completeness of Vision. | Gartner
 [Magic Quadrant™ for Enterprise Low-Code Application Platforms](https://www.microsoft.com/en-us/power-platform/blog/power-apps/microsoft-named-a-leader-in-2024-gartner-magic-quadrant-for-enterprise-low-code-application-platforms/ |  October 2024 - Microsoft has been named a Leader in the 2024 Gartner® Magic Quadrant™ for Enterprise Low-Code Application Platforms** for the sixth year in a row. | Gartner
 [The Total Economic Impact™ of Microsoft Power Platform Premium Capabilities](https://info.microsoft.com/ww-landing-forrester-tei-of-power-platform-premium-capabilities.html) | a commissioned study conducted by Forrester Consulting, to explore how a composite organization realized substantial financial benefits using Power Platform premium capabilities | Forrester 2022
 [Webinar: Total Economic Impact of Microsoft Power Platform](https://info.microsoft.com/ww-landing-total-economic-impact-of-microsoft-power-platform.html?LCID=CEMA&ocid=AIDN%2FA_TWITTER_oo_spl100004655137456) | Learn about the Total Economic Impact(TM) methodology and findings from guest speaker Molly Firth, a consultant with Forrester, as she explains both the out-of-box and premium capabilities of Microsoft Power Platform highlighted in the commissioned studies conducted by Forrester Consulting in 2022 and 2021.| Forrester
@@ -66,17 +65,12 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
-[Power Platform Certifications](https://aka.ms/BusAppsTrainCertPoster) | Overview Poster | Microsoft
 [Power Platform Training Journey](https://aka.ms/powertrainingjourney) | Complete role-based training and certification journey map| Microsoft
 [PowerPlatform - Online Workshops](https://learn.microsoft.com/en-ca/training/browse/?terms=workshop&products=power-platform) | PowerPlatform Online Workshops| Microsoft Learn
 [PL-200	Labs](https://microsoftlearning.github.io/PL-200-Power-Platform-Functional-Consultant/) | Hands-on labs for Power-Platform-Functional-Consultant  | GitHub
 [PL-400	Labs](https://microsoftlearning.github.io/PL-400_Microsoft-Power-Platform-Developer/ | Hands-on labs for Microsoft-Power-Platform-Developer  | GitHub
-[PL-500	Labs](https://microsoftlearning.github.io/PL-500T00-Microsoft-Power-Automate-RPA-Developer/)| Hands-on labs for Microsoft-Power-Automate-RPA-Developer  | GitHub
-[PL-600	Labs](https://microsoftlearning.github.io/PL-600-Microsoft-Power-Platform-Solution-Architect/) | Hands-on labs for Microsoft-Power-Platform-Solution-Architect  | GitHub
 [PL-300 Labs](https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/) | Hands-on labs for Microsoft-Power-BI-Data-Analyst  | GitHub
-[PL-300 Labs Francais](https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst.fr-fr/) | Hands-on labs for Microsoft-Power-BI-Data-Analyst.fr-fr  | GitHub
 [PL-900 Labs](https://microsoftlearning.github.io/PL-900-Microsoft-Power-Platform-Fundamentals/)| Hands-on labs for Microsoft-Power-Platform-Fundamentals  | GitHub
-[PL-900 Labs Francais](https://microsoftlearning.github.io/PL-900-Microsoft-Power-Platform-Fundamentals.fr-fr/)| Hands-on labs for Microsoft-Power-Platform-Fundamentals  | GitHub
 
 ## Power Platform Skilling
 
@@ -93,7 +87,6 @@ Source | Description | Notes
 [Power Platform Partner webinar series](https://learning.eventbuilder.com/PowerPlatform)| a whole new set of webinars to help you understand the path to profitability|...
 [Power Platform in a Day](https://powerplatform.microsoft.com/en-us/training-workshops/) |Experience how Microsoft Power Platform can meet your business challenges quickly and effectively by attending a virtual, one-day training workshop. |...
 [Fusion development approach to building apps using PowerApps](https://learn.microsoft.com/en-ca/power-apps/guidance/fusion-dev-ebook/) | The purpose of this guide is to summarize the way in which citizen and professional developers can work together, following a fusion development approach. As you progress through this guide, you'll play the role of the different participants in this process to build a complex, fully functional solution that combines Power Apps with Azure services.  | Microsoft
-[Fusion development ebook API](https://github.com/microsoft/fusion-dev-ebook) | This API supports the the fusion development approach to building power apps.| Github
 [WhatTheHack - Power Platform](https://github.com/microsoft/WhatTheHack#power-platform) | What The Hack is designed to be a collaborative learning experience. Attendees "learn from" and "share with" each other. Without step-by-step instructions given for the challenges, attendees have to "figure it out" together as a team. This results in greater knowledge retention for the attendees. | WhattheHack
 
 ## Power Platform Copilot

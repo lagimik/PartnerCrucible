@@ -16,7 +16,6 @@ thumbnail: /PartnerCrucible/assets/images/2025-01-19-AzureInfrastructureSolution
 
 ## Deep links
 
-- [Microsoft's Quantum Ready program](https://smt.microsoft.com/en-US/Quantum-Ready/): Join Microsoft's Quantum Ready program to build a robust strategy for quantum computing. (Source: Quantum Ready)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/AzureInfrastructureSolutionArea) for more partner resources.
 

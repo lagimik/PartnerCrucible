@@ -7,7 +7,6 @@ categories: "Signal:Noise"
 ---
 
 # Microsoft Inspire - July 18 - 29 2023
-The following is a summary of insights from this year's Microsoft Inspire.  See the [curated collections](https://inspire.microsoft.com/en-US/session-collections) for the session recordings.
 
 **"Moving forward, the capabilities of AI and the Cloud will be integrated and inseparable."**
 
@@ -23,7 +22,6 @@ Nicole Dezen, Chief Partner Officer and Corporate Vice President, Global Partner
 ## Quick links:
 
 - [Introducing the Microsoft AI Cloud Partner Program ](https://assetsprod.microsoft.com/microsoft-ai-cloud-partner-program-faq.pdf):  Microsoft AI Cloud Partner Program brings  partners get all the value and benefits of the previous program, plus access to new offerings and benefits specific to AI. *All our existing partners into the new program effective immediately and partners will maintain their existing benefits and designations.*
-- [Digital Marketing Content - On Demand](https://dmc.partner.microsoft.com/onboarding): Offers go-to-market content in fresh weekly campaigns at no cost to Microsoft partners. This resource enables partners to build and optimize their digital marketing strategy, capture and close leads, and drive customer engagement. Connect your social, email, and blog accounts for an improved user experience.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/PartnerPortals) for more partner resources.
 

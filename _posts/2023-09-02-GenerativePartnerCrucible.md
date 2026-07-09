@@ -126,7 +126,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 The Partner Crucible updates for the Security Workloads include an updated reference for PAL (Partner Aware Learning) for FY24.
 
 ## Deep links
-- [The Total Economic Impact Of Microsoft Azure Sentinel](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4IgFh): Microsoft commissioned Forrester Consulting to conduct a study on the potential return on investment (ROI) enterprises may realize by deploying Azure Sentinel. The study provides insights into the economic impact of using Azure Sentinel. (Forrester 2020)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/SecuritySolutionArea-Sentinel) for more partner resources.
 

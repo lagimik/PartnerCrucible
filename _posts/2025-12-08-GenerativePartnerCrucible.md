@@ -34,7 +34,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 ## Deep links
 
 - [Foundry Local](https://www.foundrylocal.ai/): Run AI models on your device with complete data privacy. No Azure subscription required. (foundrylocal.ai)
-- [The state of AI in 2025: Agents, innovation, and transformation](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai): The latest McKinsey Global Survey provides insights on the adoption and challenges of AI, including the rise of agentic AI and the shifting landscape from pilots to production. (McKinsey)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea) for more partner resources.
 

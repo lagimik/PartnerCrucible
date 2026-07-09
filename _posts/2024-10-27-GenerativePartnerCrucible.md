@@ -65,7 +65,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 ## Deep links
 
 - [2024 Gartner® Magic Quadrant™ for Enterprise Low-Code Application Platforms](https://www.microsoft.com/en-us/power-platform/blog/power-apps/microsoft-named-a-leader-in-2024-gartner-magic-quadrant-for-enterprise-low-code-application-platforms/): Microsoft named Leader for 6th year in a row (Gartner)
-- [Power Demos](https://aka.ms/PowerDemos): Portal for low-code demos (Microsoft)- [Power Automate Expert Community](https://aka.ms/PowerAutomate/Expert): Weekly office hours and deep dive content (Power Automate Expert Community)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/PowerPlatformSolutionArea) for more partner resources.
 

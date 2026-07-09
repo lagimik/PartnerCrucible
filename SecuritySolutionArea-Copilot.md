@@ -29,7 +29,6 @@ Source | Description | Notes
 :----- | :---------- | :----
 [Microsoft Cloud Security Public Webinars](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR_0A4IaJRDNBnp8pjCkWnwhUNUNWSjYzOFhDSEFPWDlKTDBUTjFTMTY2MS4u) | Public Webinar Schedule| Form
 [Security Copilot Customer Connection Program (CCP)](https://aka.ms/JoinCCP) | Community Connected Program for Security Copilot| Microsoft Community
-[Cybersecurity Copilot hub](https://cybersecurity-copilot.com/) | By @Sameh Younis - As a seasoned Senior Security Solutions Architect with over 30 years in the field, including 16 years at Microsoft, this website offers a succinct way to access and search my LinkedIn articles and infographics. With a focus on cybersecurity and Azure cloud infrastructure, this platform is your guide to the latest developments and strategies in digital security. | 
 
 ## Partner Practice Building
 
@@ -48,7 +47,6 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :---------- | :----
 [Microsoft Security Copilot Repo](https://github.com/Azure/Copilot-For-Security/tree/main) | GitHub Repo including customer guides, promptbook samples, plugins, and logic apps| GitHub
-[Security Copilot Technical Resources](https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security) | Topic page devoted to Microsfot Security Copilot | MS US Partner Resources 
 [What is Microsoft Security Copilot](https://learn.microsoft.com/en-us/security-copilot/microsoft-security-copilot?view=o365-worldwide) | Microsoft Security Copilot (Security Copilot) is a generative AI-powered security solution that helps increase the efficiency and capabilities of defenders to improve security outcomes at machine speed and scale, while remaining compliant to responsible AI principles. | Microsoft Learn
 [Operationalizing Microsoft Security Copilot to Reinvent SOC Productivity](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/operationalizing-microsoft-security-copilot-to-reinvent-soc/ba-p/3944877) | While our core products detect and respond at machine speed, our ongoing mission is to upskill SOC analysts and empower them to be more efficient where they’re needed to engage. To bridge this gap, we are bringing Security Copilot into our industry-leading XDR platform, Microsoft 365 Defender, which is like adding the ultimate expert SOC analyst to your team, both raising the skill bar and increasing efficiency and autonomy | Tech Community
 [Prompting and promptbooks](https://learn.microsoft.com/en-us/security-copilot/prompting-security-copilot?view=o365-worldwide) | Promptbooks are a collection of prompts that have been put together to accomplish specific security-related tasks. Each promptbook requires a specific input (for example, a code snippet or a threat actor name) and then runs a series of prompts in sequence, with one prompt building on the one before it. | Microsoft Learn

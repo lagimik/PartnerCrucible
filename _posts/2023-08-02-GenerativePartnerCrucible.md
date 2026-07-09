@@ -121,7 +121,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 ## Deep links
 - [Digital and App Innovation Playbook](https://assetsprod.microsoft.com/en-ca/fy24-azure-digital-and-app-innovation-partner-playbook.pdf) | Strategy, Solution Plays, and Key Resources
 - [Azure draft](https://github.com/Azure/draft): Draft is a tool made for users who are just getting started with Kubernetes, or users who want to simplify their experience with Kubernetes. This readme will give you a quick rundown on Draft’s commands and what they do. (GitHub)
-- [6 DevOps tips to help engineering leaders deliver software at scale](https://clouddamcdnprodep.azureedge.net/gdc/gdcHdGj7e/original?utm_medium=email&utm_source=announcement&utm_campaign=forrester-github-practitioner-nurture-emai2-refresh): DevOps is about speed: faster software development, faster updates, and faster shipments, all of.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DigitalAppsandInnovationSolutionArea) for more partner resources.
 
@@ -173,7 +172,6 @@ The Partner Crucible updates for the Power Platform Workloads include the follow
 - [Low Code Practice Playbook](https://powerplatformpartners.transform.microsoft.com/download/protected?assetname=assets/Microsoft%2520Power%2520Platform%2520Partner%2520Practice%2520Low%2520Code%2520Playbook.pdf&download=1&protected=1): This playbook offers insights and best practices for developing low-code solutions with the Power Platform. (Transform)
 - [Partner Association Playbook](https://aka.ms/Solutionspartner.Associationsplaybook): See pages 41-45 for Power Platform. This resource explains how associations play a vital role in acknowledging and calculating customer success, performance, and skilling category points towards achieving solutions partner designations. (Presentation)
 - [Power Platform PAL Association](https://partner.microsoft.com/en-us/training/assets/detail/associate-your-power-apps-customer-deployments-to-your-partner-org-video-mp4): This video helps partners learn how to associate Power Apps customer deployments with their partner organization Microsoft AI Cloud Partner Program ID to work towards attaining the Low Code Application Development Advanced specialization. Questions and Answers start at the 25-minute mark, and association in non-production environments is discussed at the 32-minute mark. (Partner)
-- [PAL and Low Code Application Development advanced specialization FAQ](https://pbapstorageprod.blob.core.windows.net/protectedassets/PAL%2520and%2520Low%2520Code%2520FAQ.pdf?sv=2019-07-07&sr=b&sig=eTzJc3UQ53aDKGXi5Z0%252FyctO5LZr%252B%252F%252Fxc%252FYu3RqEFYQ%253D&se=2023-07-27T12%253A50%253A02Z&sp=r): This FAQ provides guidance for Power Apps partners in fully leveraging and optimizing their Microsoft partnership through the Partner Admin Link (PAL) and advanced specializations. (Transform)
 
 
 

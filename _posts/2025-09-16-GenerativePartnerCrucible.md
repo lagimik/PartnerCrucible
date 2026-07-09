@@ -20,7 +20,6 @@ thumbnail: /PartnerCrucible/assets/images/2025-09-16-PowerPlatformSolutionArea.m
 
 - [AI Dev Gallery (Preview)](https://github.com/microsoft/ai-dev-gallery/): Designed for Windows developers, the AI Dev Gallery supports AI integration into apps and projects. (GitHub)
 - [Azure AI Foundry Developer Community](https://github.com/azure-ai-foundry/discussions): Join peers to share knowledge and collaborate on AI solutions. (GitHub)
-- [Azure AIML Landing Zone (Terraform)](https://github.com/Azure/terraform-azurerm-avm-ptn-aiml-landing-zone): Full-featured Terraform module for AI/ML landing zone deployment. (GitHub)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea) for more partner resources.
 

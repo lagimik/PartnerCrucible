@@ -45,7 +45,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 ## Deep links
 
 - [Prompts for Education: Enhancing Productivity & Learning](https://github.com/microsoft/prompts-for-edu): The Prompts for Education repository's mission is to transform the way students, educators, and staff in K-12 and higher education institutions interact with generative AI technology like ChatGPT and Bing Chat. (GitHub)
-- [ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search](https://github.com/Azure-Samples/azure-search-openai-demo): This sample demonstrates a few approaches for creating ChatGPT-like experiences over your own data using the Retrieval Augmented Generation pattern. It uses Azure OpenAI Service to access the ChatGPT model (gpt-35-turbo), and Azure Cognitive Search for data indexing and retrieval. (GitHub)
 - [Azure OpenAI Embeddings QnA](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna): A simple web application for an OpenAI-enabled document search. This repository uses Azure OpenAI Service for creating embedd
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-AzureOpenAI) for more partner resources.
@@ -78,7 +77,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 - [Power BI Developer Samples](https://github.com/Microsoft/PowerBI-Developer-Samples): This repository contains Power BI Embedded solutions in 5 different frameworks to suit different scenarios as per requirements. In addition, it has samples for calling the Power BI REST APIs using PowerShell. (GitHub) 
 - [Embedding Setup](https://app.powerbi.com/embedsetup): Choose whether you’d like to embed Power BI in an application for your customers or in an application, website, or portal for your organization's internal users. (Power BI)
 
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/ISV) for more partner resources.
 
 
 

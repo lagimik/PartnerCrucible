@@ -32,7 +32,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 ## Deep links
 
 - [Azure Cosmos DB + Azure OpenAI Python Developer Guide](https://github.com/AzureCosmosDB/Azure-OpenAI-Python-Developer-Guide): This guide walks through creating intelligent solutions that combine vCore-based Azure Cosmos DB for MongoDB vector search and document retrieval with Azure OpenAI services to build a chatbot experience (GitHub)
-- [An Introduction to Generative AI and Safety](https://clouddamcdnprodep.azureedge.net/gdc/gdcrITL6V/original): Concepts and definitions to gain a deeper understanding of generative AI challenges, learn strategies to guide your organization in overcoming risks, and harness the true potential of AI (Microsoft)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-AzureOpenAI) for more partner resources.
 

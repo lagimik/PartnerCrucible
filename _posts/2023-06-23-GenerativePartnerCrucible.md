@@ -40,6 +40,5 @@ Integrating Microsoft Sentinel and Power Platform to better monitor and protect 
 - [Secure Identities and Access Workshop](https://partner.microsoft.com/en-CA/partnership/partner-incentives/build-intent-workshops-usage-secure-identities-and-access)
 - [Days of the Defender: Identity & Access Management with Microsoft Entra](https://vshow.on24.com/vshow/Security_Depth/registration/22542)- [Microsoft Entra sessions @ Build 2023](https://build.microsoft.com/en-US/sessions?search=entra&sortBy=relevance)
 - [Microsoft Entra sessions @ Airlift 2022](https://airlift.microsoft.com/sessionscheduler?p1=eyJzcGVha2VyIjpbXSwidGltZXNsb3QiOltdLCJkYXkiOltdLCJyb29tIjpbXSwibG9jYXRpb24iOltdLCJkaWdpdGFsIjpbXSwibWVkaWEiOiIiLCJkaXNwbGF5bW9kZSI6Imxpc3QiLCJncm91cGJ5IjoiIiwiaW5wZXJzb24iOmZhbHNlLCJzY2hlZHVsZWQiOmZhbHNlLCJvbmRlbWFuZCI6ZmFsc2UsInVwY29taW5nIjpmYWxzZSwiaGFzc2xpZGVzIjpmYWxzZSwic3RhcnQiOiIiLCJmaW5pc2giOiIiLCJwYWdlbnVtYmVyIjoxLCJjYXRlZ29yaWVzIjp7fSwia2V5d29yZCI6Im1pY3Jvc29mdCBlbnRyYSJ9)
-- [Microsoft Purview One-Stop-Shop (OSS)](https://microsoft.github.io/ComplianceCxE/)
 
 

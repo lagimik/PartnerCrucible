@@ -12,7 +12,6 @@ categories: "Signal:Noise"
 
 [< Back to Signal:Noise index](/PartnerCrucible/SignaltoNoise)
 
-Previous **Signal:Noise** posts touched on [innovation](https://lagimik.github.io/PartnerCrucible/2022/09/12/signaltonoise-innovation.html) and [partnership](https://lagimik.github.io/PartnerCrucible/2022/09/21/signaltonoise-partnership.html) separately. This post brings both topics together.
 
 ## TL;DR
 

@@ -97,7 +97,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 - [FastTrack Recognized Solution Architects for Power Platform](https://powerplatform.microsoft.com/en-us/fasttrack/recognized-solution-architects/): This link provides information about solution architects recognized by the Power Platform product engineering team for their deep architecture expertise and high-quality solutions.
 - [Power CAT](https://aka.ms/PowerCATLive): Power CAT works on the toughest Power Platform implementations and offers advanced topics and cutting-edge features through their videos.
 - [Microsoft Power Platform: Learning Resources](https://aka.ms/PowerPlatformResources): This set of curated links by the Power CAT teams helps novice, intermediate, and advanced users in their Power Platform journey.
-- [Microsoft named a Leader and Positioned Furthest for Completeness of Vision in the 2023 Gartner® Magic Quadrant™ for Robotic Process Automation](https://powerautomate.microsoft.com/en-us/blog/microsoft-named-a-leader-and-positioned-furthest-for-completeness-of-vision-in-the-2023-gartner-magic-quadrant-for-robotic-process-automation/): Microsoft has been recognized as a Leader in the Gartner Magic Quadrant for Robotic Process Automation for the third consecutive year, positioning furthest in Completeness of Vision.
 - [Microsoft Power Platform Conference](https://powerplatformconf.com/#!/): This conference brings together Microsoft senior thought leaders, product experts, engineers, and MVPs to inspire and provide insights on how the Power Platform and Dynamics 365 can transform businesses.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/PowerPlatformSolutionArea) for more partner resources.
@@ -136,7 +135,6 @@ The Partner Crucible updates for the IndustryTelecom Workloads include the addit
 
 ## Deep links
 
-- [AI's impact on telecom networks](https://smtgis.powerappsportals.com/AIOpsforTelecom/): This whitepaper covers where AI for Operations (AIOps) fits in the future of cloud and the rise of AI, how AIOps is changing the industry with use case examples of importance to Operators, why AIOps is a key element of enabling network modernization, and how to access the benefits of the new AI co-reasoning paradigm.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/IndustryTelecom) for more partner resources.
 

@@ -53,7 +53,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 ## Deep links
 
 - [Consulting reimagined, powered by AI](https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/consulting-ai): Source: IBM
-- [Crash Course in Microsoft Purview](https://clouddamcdnprodep.azureedge.net/gdc/gdcieULMS/original): eBook
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea) for more partner resources.
 
@@ -68,7 +67,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 ## Deep links
 
 - [Creating Endpoint DLP Rules using PowerShell](https://techcommunity.microsoft.com/blog/microsoftsecurityandcompliance/creating-endpoint-dlp-rules-using-powershell---part-1/4286999): This blog is a multi-part series on managing Endpoint DLP Rules using PowerShell - Part 1, Part 2 (Tech Community)
-- [Crash Course in Microsoft Purview](https://clouddamcdnprodep.azureedge.net/gdc/gdcieULMS/original): A guide to securing and managing your data estate (eBook)
 
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/SecuritySolutionArea) for more partner resources.

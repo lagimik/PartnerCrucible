@@ -16,7 +16,6 @@ thumbnail: /PartnerCrucible/assets/images/2024-06-10-AzureInfrastructureSolution
 
 ## Deep links
 
-- [Azure Resource Inventory](https://github.com/microsoft/ARI): Azure Resource inventory (ARI) is a powerful script written in PowerShell that generates an Excel report of any Azure Environment you have read access to. This project is intended to help Cloud Admins and anyone who needs an easy and fast way to build a full Excel Report of an Azure Environment. (GitHub)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/AzureInfrastructureSolutionArea) for more partner resources.
 

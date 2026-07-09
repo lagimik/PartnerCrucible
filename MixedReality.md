@@ -18,9 +18,7 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :----
-[Total Economic Impact of Mixed Reality](https://tools.totaleconomicimpact.com/go/microsoft/HoloLens2/) | Business Benefits And Cost Savings Enabled By Mixed Reality Solutions Running On HoloLens Devices| Forrester
 [The Ultimate Guide to Mixed Reality Deployment](https://www.kognitivspark.com/pilot-guide) | An eBook for Industrial Enterprise| Kognitive Spark
-[Mixed Reality Development Program](https://mixedreality.microsoftcrmportals.com/en-US/signup/#msdynttrid=cCXO0VsfwyyfOdQoHL959egaqQ7tHARxNKSIlXnnxbU) | Complete the developer profile form below to get connected with us. You will receive the latest on our mixed reality developer tools, events, and early access offers. |...
 [Mixed Reality Partner Program](https://www.microsoft.com/en-ca/hololens/mrpp) | The Mixed Reality Partner Program (MRPP) is a Microsoft-sponsored, community-driven program for partners that design, build, deploy, and operate mixed reality solutions. |
 
 ### Development

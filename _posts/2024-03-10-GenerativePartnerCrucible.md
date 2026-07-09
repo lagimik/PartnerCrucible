@@ -63,9 +63,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 ## Deep links
 
 - [Accelerating Telco Transformation in the Era of AI](https://blogs.microsoft.com/blog/2024/02/25/accelerating-telco-transformation-in-the-era-of-ai/): Microsoft Blog offering insights on how operators are using Microsoft's AI and Copilot solutions.
-- [AI-powered Future Cloud for Telecommunications Community](https://smt.microsoft.com/en-US/Accelerate-Telco-Transformation-in-the-Era-of-AI/): Sign up to receive exclusive insights on accelerating telco transformation in the era of AI.
-- [Connect with the Azure private MEC team](https://smt.microsoft.com/en-US/Azure-private-MEC-interest-form/): Sign up to join Microsoft in building the future of telecommunications with Azure for Operators.
-- [Modern Connected Apps Newsletter](https://smt.microsoft.com/en-US/modern-connected-apps-newsletter-signup/): Sign up to learn how Microsoft is helping organizations embrace 5G with modern connected applications.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/IndustryTelecom) for more partner resources.
 

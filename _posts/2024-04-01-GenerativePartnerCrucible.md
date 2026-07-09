@@ -29,7 +29,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
  
 ## Deep links
 
-- [Extensibility for Microsoft Copilot](https://learn.microsoft.com/en-us/microsoft-cloud/dev/copilot/isv-extensibility-story): Extensibility approaches broken into patterns based on scenarios to help you navigate the most appropriate path for your scenario and requirements. - Microsoft Learn
   
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/ModernWorkSolutionArea-Copilot) for more partner resources.
 
@@ -44,7 +43,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
  
 ## Deep links
 
-- [Copilot for Security Technical Resources](https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot) : Topic page devoted to Microsfot Copilot for Security - MS US Partner Resources 
 - [The Total Economic Impact Of Microsoft Azure Sentinel](https://www.microsoft.com/en-us/security/blog/2024/03/19/microsoft-sentinel-delivered-234-roi-according-to-new-forrester-study/): Microsoft commissioned Forrester Consulting to conduct a Total Economic Impact™ (TEI) study. Using the methodology of the TEI framework, Forrester consultants evaluated the cost, benefits, and flexibility of Microsoft Sentinel.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/SecuritySolutionArea-Sentinel) for more partner resources.

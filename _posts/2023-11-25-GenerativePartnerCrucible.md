@@ -19,7 +19,6 @@ thumbnail: /PartnerCrucible/assets/images/2023-11-25-DataAISolutionArea-AzureOpe
 - [Microsoft Copilot Studio](https://aka.ms/MCSBlog): At Microsoft Ignite 2023, we’re excited to announce Microsoft Copilot Studio, a low-code tool to customize Microsoft Copilot for Microsoft 365 and build standalone copilots() Blog)
 
 
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/MicrosoftCopilots) for more partner resources.
 
 
 ![ AzureInfrastructureSolutionArea.md ]( /PartnerCrucible/assets/images/2023-11-25-AzureInfrastructureSolutionArea.md-image.png )

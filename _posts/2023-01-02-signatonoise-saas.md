@@ -30,7 +30,6 @@ Why is the topic of SaaS so difficult to wrangle? Much if that comes down to the
 
 ![Sigmoid business curve](/PartnerCrucible/Library/sigmoid.jpg)
 
-(Ref: [Only Dead Fish - Two More Things About S-Curves](https://www.onlydeadfish.co.uk/only_dead_fish/2016/07/two-more-things-about-s-curves.html)
 
 The cycle of business growth seen in the curve can be broken down as:
 * A - Start
@@ -68,7 +67,6 @@ The following represent a marketplace model. It is a simplified view to encourag
 
 ![Marketplace private offer margin sharing](/PartnerCrucible/Library/marketplaceprivateoffermarginsharing.png)
 
-(Ref: [Activate an ecosystem of partners and unlock new markets](https://ospeventcdn.event.microsoft.com/events/MarketplaceSummit/Decks/Marketplace_Summit_06_Activate%20an%20ecosystem%20of%20partners%20and%20unlock%20new%20markets.pptx?sv=2021-08-06&se=2023-01-03T15%3A46%3A41Z&sr=b&sp=r&sig=c8S0pCQot72puaR8NPjpbE7hzgyFIRVOeUhbTLNBHSE%3D).)
 
 ### Microsoft Commercial Marketplace - More that a *"listing"*
 
@@ -119,7 +117,6 @@ Source | Description | Notes
 Type | Description | Notes
 -----: | :------ | :-------
 [SaaS Academy](https://www.microsoft.com/en-us/saas-academy/main) | Microsoft SaaS Academy brings together best practices and guidance from Microsoft employees, partners and customers to help businesses accelerate their "Software as a Service" journey, addressing both business and technical aspects. | Microsoft SaaS Academy
-[Marketplace Summit](https://marketplacesummit.microsoft.com/)| Session recordings are available for you to watch, learn and enjoy! | November 2022
 [Founder's Hub](https://foundershub.startups.microsoft.com/signup) | Microsoft for Startups Founders Hub is a platform for all founders at any stage to reach their next milestone through personalized technical tools and business resources. Founders can get started on the platform in minutes and gain free access to the technology and support that’s critical to turning dreams into life-changing products. | Microsoft for Startups
 
 ## Way forward - *Insiders* path to SaaS

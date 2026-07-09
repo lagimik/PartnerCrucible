@@ -51,8 +51,6 @@ Source | Description | Notes
 
 Source | Description | Notes
 :----- | :---------- | :-----
-[ Microsoft 365 Certifications](https://aka.ms/M365Certs_Poster) | Overview Poster | Microsoft
-[ Microsoft 365 and certifications guide](https://aka.ms/M365TrainCertDeck) | Summary role-based training and certification guide | Microsoft
 
 
 ## FastTrack
@@ -100,7 +98,6 @@ Source | Description | Notes
 :----- | :-----  | :-----
 [Microsoft365DSC - Your Cloud Configuration](https://microsoft365dsc.com/) | Microsoft365DSC is the most comprehensive and complete solution to have your Microsoft 365 tenant configuration simple and stable. It's an Open-Source initiative hosted on GitHub, led by Microsoft engineers and maintained by the community. | Microsoft DSC Official Website
 [Microsoft365DSC - GitHub](https://github.com/Microsoft/Microsoft365DSC) | This module allows organizations to automate the deployment, configuration, reporting and monitoring of Microsoft 365 Tenants via PowerShell Desired State Configuration. | GitHub
-[Managing Microsoft 365 in true DevOps style with Microsoft365DSC and Azure DevOps](https://office365dsc.azurewebsites.net/Pages/Resources/Whitepapers/Managing%20Microsoft%20365%20with%20Microsoft365Dsc%20and%20Azure%20DevOps.pdf) | Microsoft365DSC is a PowerShell Desired State Configuration (DSC) module which can configure and manage Microsoft 365 in a true DevOps style: “Configuration-as-Code” | M365 DSC
 [Microsoft365DSC](https://www.youtube.com/channel/UCveScabVT6pxzqYgGRu17iw) | Configuration as Code for the Cloud | Youtube
 [Getting Started Part 1]() [https://www.french365connection.co.uk/post/m365dsc-getting-started-part-3-plan-design-and-manage-your-microsoft-365-workloads ](https://www.french365connection.co.uk/post/m365dsc-getting-started-part-1-desired-state-configuration)| Part 1 - Desired State Configuration| French365 Connection
 [Getting Started Part 2]() https://www.french365connection.co.uk/post/m365dsc-getting-started-part-2-installation-authentication-and-export-configuration | Part 2 - Installation, authentication and export configuration | French365 Connection

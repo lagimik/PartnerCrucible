@@ -65,7 +65,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ## Deep links
 
-- [Water replenishment: Our learnings on the journey to water positive](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1eAAY): This document provides insights into Microsoft's global corporate water replenishment program and the lessons learned during its development.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/IndustrySustainability) for more partner resources.
 

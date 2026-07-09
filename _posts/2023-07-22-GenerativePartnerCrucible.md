@@ -126,7 +126,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ## Deep links
 
-- [Digital Marketing Content - On Demand](https://dmc.partner.microsoft.com/onboarding): Digital Marketing Content OnDemand provides go-to-market content in fresh weekly campaigns at no cost to Microsoft partners. It enables partners to build and optimize their digital marketing strategy, capture and close leads through consistent online engagement. Connect your social, email, and blog accounts on the next series of screens to save time and improve user experience.---## Security and Compliance### What's new- No changes found.---## Modern Workplace### What's new- No changes found.---## Business Applications### What's new- No changes found.---## Azure### What's new- No changes found.---## Infrastructure### What's new- No changes found.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/PartnerPortals) for more partner resources.
 
@@ -143,15 +142,9 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 ## Deep links
 - Microsoft Power Platform Conference: Be inspired and connect with professionals. [Link](https://powerplatformconf.com/#!/)
 - Power Platform is leading a new era of AI-generated low-code app development: Learn about the announcement of Copilot in Power Apps, Power Automate, and Power Virtual Agents. [Link](https://cloudblogs.microsoft.com/powerplatform/2023/03/16/power-platform-is-leading-a-new-era-of-ai-generated-low-code-app-development/)- Microsoft Power Automate Community: Connect with peers, share ideas, and learn from experts. [Link](https://powerusers.microsoft.com/t5/Microsoft-Power-Automate/ct-p/MPACommunity )- Overview of process mining: Understand process mining and its benefits for businesses. [Link](https://learn.microsoft.com/en-us/power-automate/process-mining-overview)- Power Platform Online Workshops: Hands-on workshops for Power Platform. [Link](https://learn.microsoft.com/en-ca/training/browse/?terms=workshop&products=power-platform)
-- PL-100 Labs: Hands-on labs for Microsoft Power Platform App Maker. [Link](https://microsoftlearning.github.io/PL-100-Microsoft-Power-Platform-App-Maker/)
 - PL-200 Labs: Hands-on labs for Power Platform Functional Consultant. [Link](https://microsoftlearning.github.io/PL-200-Power-Platform-Functional-Consultant/)
-- PL-400 Labs: Hands-on labs for Microsoft Power Platform Developer. [Link](https://microsoftlearning.github.io/PL-400_Microsoft-Power-Platform-Developer/Instructions/Labs/LAB%255BPL-400%255D_Lab03_Canvas_App.html)
-- PL-500 Labs: Hands-on labs for Microsoft Power Automate RPA Developer. [Link](https://microsoftlearning.github.io/PL-500T00-Microsoft-Power-Automate-RPA-Developer/)
-- PL-600 Labs: Hands-on labs for Microsoft Power Platform Solution Architect. [Link](https://microsoftlearning.github.io/PL-600-Microsoft-Power-Platform-Solution-Architect/)
 - PL-300 Labs: Hands-on labs for Microsoft Power BI Data Analyst. [Link](https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/)
-- PL-300 Labs Français: Hands-on labs for Microsoft Power BI Data Analyst (French). [Link](https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst.fr-fr/)
 - PL-900 Labs: Hands-on labs for Microsoft Power Platform Fundamentals. [Link](https://microsoftlearning.github.io/PL-900-Microsoft-Power-Platform-Fundamentals/)
-- PL-900 Labs Français: Hands-on labs for Microsoft Power Platform Fundamentals (French)s. [Link](https://microsoftlearning.github.io/PL-900-Microsoft-Power-Platform-Fundamentals.fr-fr/)
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/PowerPlatformSolutionArea) for more partner resources.
 

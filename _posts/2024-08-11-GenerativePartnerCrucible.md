@@ -34,7 +34,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 - [Power CAT Copilot Studio Kit](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/blob/main/README.md): The Power CAT Copilot Studio Kit is a comprehensive set of capabilities designed to augment Microsoft Copilot Studio (GitHub)
 
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/MicrosoftCopilots) for more partner resources.
 
 ![ SecuritySolutionArea-Copilot.md ]( /PartnerCrucible/assets/images/2024-08-11-SecuritySolutionArea-Copilot.md-image.png )
 

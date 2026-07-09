@@ -48,7 +48,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 ## Deep links
 
-- [Fabric Workshops](https://github.com/microsoft/Fabric_Workshops): This repository is a guide for Microsoft Fabric Workshops and Readiness.
 
 Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/DataAISolutionArea-Fabric) for more partner resources.
 

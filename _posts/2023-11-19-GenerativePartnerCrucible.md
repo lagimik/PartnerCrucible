@@ -32,9 +32,7 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 ## Deep links
 
 - [Adopt, extend and build Copilot experiences across the Microsoft Cloud](https://learn.microsoft.com/en-ca/microsoft-cloud/dev/copilot/overview): Adopt, extend and build Copilot experiences across the Microsoft Cloud: Copilot is an AI assistant powered by Large Language Models (LLMs) that offer innovative solutions across the Microsoft Cloud. They aim to enhance productivity, creativity, and data accessibility while providing enterprise-grade data security and privacy features. (Microsoft Learn)
-- [Overview of availability and public demos](https://lagimik.github.io/PartnerCrucible/MicrosoftCopilots): See the Demos table at the bottom of the page
 
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/MicrosoftCopilots) for more partner resources.
 
 # Azure Infrastructure Workloads
 

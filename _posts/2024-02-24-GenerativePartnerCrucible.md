@@ -47,7 +47,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 
 - [Microsoft Copilot Studio Samples](https://github.com/microsoft/CopilotStudioSamples): This repository contains samples and artifacts for Microsoft Copilot Studio including connecting copilots to bots, canvas apps, and SharePoint.
 
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/MicrosoftCopilots) for more partner resources.
 
 ![ DigitalAppsandInnovationSolutionArea.md ]( /PartnerCrucible/assets/images/2024-02-24-DigitalAppsandInnovationSolutionArea.md-image.png )
 

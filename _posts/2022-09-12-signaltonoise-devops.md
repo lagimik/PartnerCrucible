@@ -12,7 +12,6 @@ categories: "Signal:Noise"
 
 [< Back to Signal:Noise index](/PartnerCrucible/SignaltoNoise)
 
-This article refreshes a perspective originally published in 2018: [Why your business should care about DevOps](https://cloudblogs.microsoft.com/industry-blog/en-ca/uncategorized/2018/05/24/why-your-business-should-care-about-devops/)
 
 ## TL;DR
 

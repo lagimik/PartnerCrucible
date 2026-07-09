@@ -51,7 +51,6 @@ Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.gi
 - [ISV Channel Readiness and Scale](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR1SFCIzNe21CsbfwhNualy5UMFNaSzJKRkE0VkhVR0wyRk9WUVNWUU5BNS4u): Get Channel Ready and scale your monetized apps with Microsoft Partners. Establishing relationships with Cloud Solution Providers (CSPs) requires investment in compelling offers, marketing materials, and sales and technical support.
 - [ISV to Partner private offers FAQ](https://learn.microsoft.com/en-us/partner-center/marketplace/isv-csp-faq): Frequently asked questions about Independent Software Vendor (ISV) to Partner private offers in Partner Center.
 
-Visit the extended Partner Crucible page on this [Topic Page](https://lagimik.github.io/PartnerCrucible/ISV) for more partner resources.
 
 
 ![ PowerPlatformSolutionArea.md ]( /PartnerCrucible/assets/images/2023-10-28-PowerPlatformSolutionArea.md-image.png )
