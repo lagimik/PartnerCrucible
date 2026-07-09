@@ -63,6 +63,7 @@ Source | Description | Notes
 [Microsoft Fabric CLI](https://github.com/microsoft/fabric-cli) | The Microsoft Fabric CLI (fab) is a powerful, file-system-inspired command-line interface for Microsoft Fabric. Explore, automate, and script your Fabric environment directly from your terminal with familiar commands like ls, cd, mkdir, cp, and more.| GitHub
 [Fabric Toolbox](https://github.com/microsoft/fabric-toolbox/tree/main) | Fabric toolbox is a repository of tools, accelerators, scripts, and samples to help you work with Microsoft Fabric. This repository is brought to you by the Fabric Customer Advisory Team (CAT) and will continue to grow as we develop new tools and accelerators.| GitHub
 [Rayfin](https://github.com/microsoft/rayfin) | A fully managed Backend-as-a-Service (BaaS) platform built on Microsoft Fabric for the agentic era. Define your data model with TypeScript decorators and Rayfin provisions and manages database, authentication, data APIs, storage, and hosting. | GitHub
+[Skills for Fabric](https://github.com/microsoft/skills-for-fabric) | Reusable AI assistant instructions for working with Microsoft Fabric. They help GitHub Copilot CLI and compatible AI coding tools understand Fabric workloads, APIs, query patterns, and operational best practices. Includes bundles for authoring, consumption, operations, and Power BI authoring. | GitHub
 
 
 ## Access Fabric

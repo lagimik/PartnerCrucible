@@ -110,6 +110,7 @@ Source | Description | Notes
 [PSRule for Azure](https://azure.github.io/PSRule.Rules.Azure/) | Ready to go rules for testing Azure Infrastructure as Code (IaC). | GitHub
 [Awesome Azure Architecture](https://github.com/lukemurraynz/awesome-azure-architecture) | by @lukemurraynz - A curated list of AWESOME blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure. | GitHub
 [az prototype — Azure CLI Extension](https://github.com/Azure/az-prototype/blob/main/README.md) | Azure CLI extension for rapid Azure prototype generation powered by AI agent teams, with built-in architecture, infra, security, and developer agents. | GitHub (Preview)
+[From Prompt to Production: Building Azure Architecture Diagrams with AI](https://techcommunity.microsoft.com/blog/AzureArchitectureBlog/from-prompt-to-production-building-azure-architecture-diagrams-with-ai/4520336) | Learn how to use AI to generate Azure architecture diagrams, streamlining the process from initial prompt to production-ready visual documentation. | Tech Community
 
 ## Azure Adaptive Cloud
 
