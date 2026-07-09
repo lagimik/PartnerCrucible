@@ -169,6 +169,7 @@ Source | Description | Notes
 [AI Hackathon Starter Kit](https://github.com/rohit-lakhanpal/ai-hackathon-starter-kit) | Welcome to the AI Hackathon Starter Kit! This project has been created to make AI accessible and easy for everyone. Whether you are a beginner with no prior experience or an experienced developer, this starter kit is designed to help you incorporate AI into your apps quickly and easily. | GitHub
 [Azure OpenAI in-a-day workshop](https://github.com/microsoft/azure-openai-in-a-day-workshop) | In this technical workshop, you will get a comprehensive introduction to Azure OpenAI Service and Azure OpenAI Studio. You will learn how to create and refine prompts for various scenarios using hands-on exercises.| GitHub
 [Azure OpenAI Labs](https://github.com/MicrosoftLearning/mslearn-openai/tree/main/Labfiles) | NLP, Prompt Engineering | GitHub
+[Microsoft Foundry Labs](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/a-guided-tour-of-the-new-microsoft-foundry-labs/4527908) | A guided tour of the new Microsoft Foundry Labs, providing hands-on experimentation environments for exploring Azure AI Foundry capabilities. | Tech Community
 
 ## Azure OpenAI Solution Accelerators
 

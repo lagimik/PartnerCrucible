@@ -188,6 +188,7 @@ Source | Description | Notes
 Source | Description | Notes
 :----- | :-----  | :-----
 [Azure AI Content Understanding YouTube Playlist](https://www.youtube.com/playlist?list=PLlrxD0HtieHiy0w4peKmU-1eyMwFHd8UL) | A curated YouTube playlist featuring demos, tutorials, and deep dives on Azure AI Content Understanding capabilities. | YouTube
+[Choose the right Azure AI tool for document processing](https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/choosing-right-ai-tool) | Learn about Azure Content Understanding in Foundry Tools, Azure Document Intelligence in Foundry Tools, and Azure LLM solutions for document processing workflows and field extractions. | Microsoft Learn
 
 ## Synapse
 
