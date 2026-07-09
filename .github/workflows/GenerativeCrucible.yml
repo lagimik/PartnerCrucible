@@ -160,6 +160,8 @@ jobs:
         with:
           openai-api-key: ${{ secrets.OPENAI_API_KEY }}
           prompt: ${{ steps.create-image-prompt.outputs.prompt }}
+          model: "gpt-image-2"
+
 
       - name: Download Image
         if: ${{ (matrix.changes.change != null) }}
