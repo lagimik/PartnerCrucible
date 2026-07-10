@@ -1,0 +1,37 @@
+Partner Main Blog
+https://partner.microsoft.com/en-ca/blog/
+
+Partner Practice Landing Pages
+https://microsoftpartners.microsoft.com/csp/
+https://microsoftpartners.microsoft.com/Microsoft-Security-Partners/
+https://microsoftpartners.microsoft.com/abs/partner-buzz/
+
+Microsoft Blogs
+https://blogs.microsoft.com/on-the-issues/
+https://www.microsoft.com/insidetrack/blog/
+https://www.microsoft.com/en-us/research/blog
+https://techcommunity.microsoft.com/Blogs
+https://devblogs.microsoft.com/
+
+Microsoft Industry Blogs
+
+https://www.microsoft.com/en-us/microsoft-cloud/blog/
+https://www.microsoft.com/en-us/microsoft-cloud/blog/industry-financial-services/
+https://www.microsoft.com/en-us/microsoft-cloud/blog/industry-energy-and-resources/
+https://www.microsoft.com/en-us/microsoft-cloud/blog/industry-government/
+https://www.microsoft.com/en-us/microsoft-cloud/blog/industry-healthcare/
+https://www.microsoft.com/en-us/microsoft-cloud/blog/industry-manufacturing/
+https://www.microsoft.com/en-us/microsoft-cloud/blog/industry-retail-and-consumer-goods/
+
+Microsoft Product Blogs
+
+https://www.microsoft.com/en-us/microsoft-365/blog/
+https://www.microsoft.com/en-us/microsoft-copilot/blog/
+https://azure.microsoft.com/en-ca/blog/
+https://blog.fabric.microsoft.com/en-US/blog
+https://community.fabric.microsoft.com/
+https://www.microsoft.com/en-us/power-platform/blog/
+https://www.microsoft.com/en-us/dynamics-365/blog/
+https://microsoftcopilotstudio.microsoft.com/en-us/blog/
+https://www.microsoft.com/security/blog
+
